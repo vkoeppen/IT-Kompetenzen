@@ -11,4 +11,5 @@ Bilder, Tabelle, Grafiken, SmartArt
 <li>Layout
 <li>Überprüfung
 <li>Ansicht
-![alt](C:\Users\fdrde\OneDrive\Bilder\Screenshots\word-einfügen.png)
+
+![alt](/bilder/word-einfügen.png)
