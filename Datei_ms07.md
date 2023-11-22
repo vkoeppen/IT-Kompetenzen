@@ -5,7 +5,7 @@ __Richtig recherchieren - Der Ablauf__
 ---
 {{1}}1. Definition des Problems/Fragestellung
 {{2}}2. Recherche von Informationen
-{{3}}3. Sichten der Informationen
+{{3}}3. Dokumentation der Informationen
 {{4}}4. Auswerten der Informationen
 {{5}}5. Nutzung der Informationen
 
@@ -27,7 +27,19 @@ Im zweiten Rechercheschritt geht um das Recherchieren an sich. Suche ich Literat
 [Bibliothek der FHP](https://www.fh-potsdam.de/campus-services/bibliothek)
 
 [Google](https://www.google.de/?hl=de)
-
-## Sichten der Informationen
 ---
-Der dritte Schritt bei der Recherche beinhaltet das Sichten der gefundenen Literatur.
+Recherchestrategien
+---
+
+
+
+## Dokumentation der Informationen
+---
+Der dritte Schritt bei der Recherche beinhaltet das Dokumentieren der gefundenen Literatur. Mit der Ordnung des gesammelten Materials lässt es sich anschließend leichter auswerten und nutzen. **Elektronische** Dokumente kann man sehr gut in Ordnern abspeichern, man sollte aber ein geeigntes Dateimanagementsystem haben. Bei **Gedruckten** Dokumenten ist es ebenfalls möglich, ein Ablagesystem mit realen Ordnern zu erstellen.
+
+## Auswerten der Informationen
+---
+
+
+## Nutzung der Informationen
+---
