@@ -4,17 +4,19 @@
 - sechs Lizenzmodelle
 - vorgefertigte Lizenzverträge 
 
-&rarr; Was darf mit dem Werk passieren?
+--> Was darf mit dem Werk passieren?
 
-&rarr; Was darf nicht mit dem Werk passieren?
+--> Was darf nicht mit dem Werk passieren?
 
 ## Bedingungslose Lizenz
 ![CC0 Bedingungslose Lizenz](https://wiki.llz.uni-halle.de/images/1/12/Cc0.png)
 
-[[LiaScript]]
+## Übung
 
-Anzahl und Ordnung der Optionen ist beliebig.
+Die CC0 Lizenz erlaubt:
 
-[( )] Diese Wahl ist falsch.
-[(X)] <-- __Richtig__
-[( )] Auch falsch.
+[[X]] Vervielfältigung
+[(X)] Verbreitung
+[(X)] Vorführung
+[(X)] Verarbeitung
+[(X)] Kommerzielle Nutzung
