@@ -1,45 +1,52 @@
 # __Recherche__
 ---
 
-__Richtig recherchieren - Der Ablauf__
+__Richtig recherchieren__
 ---
-{{1}}1. Definition des Problems/Fragestellung
-{{2}}2. Recherche von Informationen
-{{3}}3. Dokumentation der Informationen
-{{4}}4. Auswerten der Informationen
-{{5}}5. Nutzung der Informationen
+{{1}}1. Was ist das Ziel meiner Recherche?   
+{{2}}2. Wie recheriere ich?
+{{3}}3. Wie dokumentiere ich meine Ergebnisse?
+{{4}}4. Wie kann ich die gefundenen Quellen bewerten?
+{{5}}5. Quellenangaben
 
-## Definition des Problems/Fragestellung
+## Was ist das Ziel meiner Recherche?
 
-Der erste Rechercheschritt definiert das Ziel der Recherche. Was möchte ich mit meiner Recherche erreichen. Welches Problem soll gelöst oder welche Frage soll beantwortet werden.
+Der erste Rechercheschritt definiert das Ziel der Recherche. Was möchte ich mit meiner Recherche erreichen, welches Problem soll gelöst oder welche Frage soll beantwortet werden.
 ---
-Kreuze an, was man benötigt oder tun muss um, das Rechercheziel zu definieren:
+Kreuze zutreffendes an:
 
 [[x]] Lesen der Aufgabenstellung
 [[x]] Klärung der Anforderungen
 [[x]] Aktivierung des Vorwissens
 [[x]] Bestimmung der erforderlichen Informationen
 
-## Recherche von Informationen
+## Wie recheriere ich?
 ---
-Im zweiten Rechercheschritt geht um das Recherchieren an sich. Suche ich Literatur, beispielsweise für das Schreiben einer Bachelorarbeit, kann ich mich einerseits in die __Bibliothek__ begeben oder andererseits eine __Online-Recherche__ starten.
-
-[Bibliothek der FHP](https://www.fh-potsdam.de/campus-services/bibliothek)
+Im zweiten Rechercheschritt geht um das Recherchieren an sich. Das Sammeln von Informationen wird erleichtert, wenn man die Suche mit [Stich- und Schlagworten](https://www.hochschule-trier.de/hauptcampus/bibliothek/tutorial-informationskompetenz/suche-vorbereiten/suchstrategien/stich-und-schlagwoerter) eingrenzt. Um sich einen ersten Zugang zum Thema zu verschaffen, ist die __Online-Recherche__ hilfreich und kann einfach und schnell über diverse Suchmaschinen erfolgen...
 
 [Google](https://www.google.de/?hl=de)
+
+Hat man sich einen ersten Überblick verschafft oder noch nicht die passende Literatur gefunden, ist ein Gang in die __Bibliothek__ der nächste Schritt.
+
+[Bibliothek](https://www.fh-potsdam.de/campus-services/bibliothek)
 ---
-Recherchestrategien
----
+Weitere Tipps:
 
-
-
-## Dokumentation der Informationen
----
-Der dritte Schritt bei der Recherche beinhaltet das Dokumentieren der gefundenen Literatur. Mit der Ordnung des gesammelten Materials lässt es sich anschließend leichter auswerten und nutzen. **Elektronische** Dokumente kann man sehr gut in Ordnern abspeichern, man sollte aber ein geeigntes Dateimanagementsystem haben. Bei **Gedruckten** Dokumenten ist es ebenfalls möglich, ein Ablagesystem mit realen Ordnern zu erstellen.
-
-## Auswerten der Informationen
+![alt](https://www.th-owl.de/files/webs/skim/doku/img/Suchtipps/Grafik_BooleschenOperatoren_20200424.png)
 ---
 
-
-## Nutzung der Informationen
+## Wie dokumentiere ich meine Ergebnisse?
 ---
+Die gefundene Literatur muss auch dokumentiert werden, damit sie später ausgewertet und genutzt werden kann. Neben der schriftlichen Dokumentation ist die Verwendung eines Dateimanagementssystems auf dem Computer sinnvoll.
+
+!?[alt](https://www.youtube.com/watch?v=FnLswdk_Kq4)
+
+## Wie kann ich die gefundenen Quellen bewerten?
+---
+Zum Schluss prüft man, ob die gesammelte Literatur zum anfangs definierten Rechercheziel passt. Sind die Informationen relevant für meine Recherche? Außerdem sollten die enthaltenen Informationen glaubwürdig und auf einem aktuellem Stand sein.
+
+!?[alt](https://www.youtube.com/watch?v=iLzhv50msH0&list=PLuizG2TMVpRNmJbYfp0-VHQJBrejfwvN-&index=5)
+
+## Quellen
+
+ 
