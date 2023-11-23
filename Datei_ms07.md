@@ -1,6 +1,7 @@
 # __Recherche__
+![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Recherche-PC.jpg/800px-Recherche-PC.jpg?20200902120921)
 ---
-__Richtig recherchieren__
+## __Richtig recherchieren__
 ---
 {{1}}1. Was ist das Ziel meiner Recherche?   
 {{2}}2. Wie recheriere ich?
