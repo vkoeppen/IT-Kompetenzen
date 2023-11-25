@@ -5,9 +5,14 @@
 
 ### Fragen formulieren
 [Online Synonym-Wörterbuch](https://synonyme.woxikon.de/)
-- 
 
-* Suchbegriffe: Stichwort / Schlagwort
+### Suchbegriffe: Stichwort / Schlagwort
+
+| Stichwort | Schlagwort|
+|-|--------|
+|Длинная запись в первом столбце|Запись в столбце 2|
+|Кртк зпс| |Слева нет записи|
+
 - Tabelle mir Bedeutungen und Beispielen (was ist das Stichwort und Schlagwort)
 - Linke Übersetzer [Deeple]( https://www.deepl.com/de/translator)
 - Linke [Bibliotheks Glossar Englisch&Deutsch Birgit Wiegandt](http://www.bibliotheks-glossar.de/)
