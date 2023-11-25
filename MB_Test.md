@@ -31,12 +31,17 @@
 ## Recherche von Information
 
 ### Online-Bibliotheken
+
+
 ### Datenbanken, Repositorien, Zeitschriftendatenbanken
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Schlagwortkatalog.jpg/1024px-Schlagwortkatalog.jpg)
 
 [Kataloge, Datenbanken](https://www.bib-info.de/berufspraxis/fundgrube-internet/recherche/kataloge-datenbanken)
 
-![](https://upload.wikimedia.org/wikipedia/de/7/73/Digizeitschriften_logo.jpg)
 
+![](https://upload.wikimedia.org/wikipedia/de/7/73/Digizeitschriften_logo.jpg)
 
 [Das deutsche digitale Zetschriftenarchiv](https://www.digizeitschriften.de/)
 
