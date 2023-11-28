@@ -119,3 +119,10 @@ Die CC0 Lizenz erlaubt:
 [[X]] Vorführung
 [[X]] Verarbeitung
 [[X]] Kommerzielle Nutzung
+
+## Übung 2
+Was unterscheidet die Attribution-Lizenz von der Bedingungslosen Lizenz?
+
+[( )] Dass das Werk nicht für kommerzielle Zwecke verwenden darf
+[(X)] Dass man den Urheber des ursprünglichen Werks angeben muss.
+[( )] Dass man das Werk nicht verändern darf.
