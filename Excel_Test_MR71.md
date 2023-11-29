@@ -1,3 +1,10 @@
+# Excel-Diagramme
+
+Problem:
+---
+> **Du bist Teil einer Arbeitsgruppe. In der Bibliothek findet ihr eine nützliche Forschungsarbeit mit Dateneinträgen.**
+
+
 # HALLO NEUER STUDIERENDER 
 
 BEANTWORTE DIESE FRAGE:
