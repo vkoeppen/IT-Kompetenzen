@@ -4,7 +4,12 @@
 <ul><u>Was für Funktionen sind vorhanden?</u></ul>
 <li>Formatierung
 <li>Einsetzen
-Bilder, Tabelle, Grafiken, SmartArt
+Bilder
+
+![alt](bilder/word-einfügen.png)
+Bilder werden eingefügt indem in der oberen Leiste auf Bilder 
+<li> Tabelle, Grafiken, SmartArt
+
 <li>Inhaltsverzeichnis
 <li>Zitierung
 <li>Literaturverzeichnis
@@ -12,4 +17,4 @@ Bilder, Tabelle, Grafiken, SmartArt
 <li>Überprüfung
 <li>Ansicht
 
-![alt](/bilder/word-einfügen.png)
+
