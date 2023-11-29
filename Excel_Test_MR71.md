@@ -16,7 +16,4 @@ Trage die folgenden Begriffe in den Lückentext ein!
 
 Excelformeln bestehen aus verschiedenen [[  Elementen  ]]. [[  Funktionen  ]] beginnen immer mit einem Gleichheitszeichen (=). Einträge wie Zahlen, Texte oder Daten verändern sich beim Ziehen einer Formel nicht und werden [[  Konstanten  ]] genannt. Im Gegensatz dazu verändern sich [[  relative  ]] [[  Bezüge  ]], sobald eine Funktion gezogen wird. Mit einem "$" gekennzeichnete [[  absolute  ]] [[  Bezüge  ]] widerum bleiben auch beim Ziehen einer Formel gleich. Mit [[  Operatoren  ]] können die verschiedenen Elemente einer Formel mathematisch oder logisch miteinander in Bezug gesetzt werden.
 
-![](dbb7e92d4dbfbf935919060b3eaad32f18f0857d.gif)
-[https://support.content.office.net/de-de/media/0c0657d7-2951-431d-9e3f-d3dcc074e09b.gif]
-
-
+![Abbildung2](https://support.content.office.net/de-de/media/0c0657d7-2951-431d-9e3f-d3dcc074e09b.gif "2. Abbildung: https://support.microsoft.com")
