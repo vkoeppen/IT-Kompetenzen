@@ -2,19 +2,25 @@
 
 **Was wollen wir zeigen?**
 <ul><u>Was für Funktionen sind vorhanden?</u></ul>
-<li>Formatierung
-<li>Einsetzen
+
+## Gliederung
+
+- Formatierung
+- Einsetzen
+-   Bilder
+-   Tabelle
+-   Grafiken
+-   SmartArt
+- Inhaltsverzeichnis
+- Zitierung
+- Literaturverzeichnis
+- Layout
+- Überprüfung
+- Ansicht
+
+## Einsetzen
 Bilder
 
-![alt](bilder/word-einfügen.png)
+![alt](bilder/word-einfuegen.png)
+
 Bilder werden eingefügt indem in der oberen Leiste auf Bilder 
-<li> Tabelle, Grafiken, SmartArt
-
-<li>Inhaltsverzeichnis
-<li>Zitierung
-<li>Literaturverzeichnis
-<li>Layout
-<li>Überprüfung
-<li>Ansicht
-
-
