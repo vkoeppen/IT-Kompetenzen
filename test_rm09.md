@@ -1,41 +1,45 @@
 # Rechtliches
 
 ## Creative Commons
-- sechs Lizenzmodelle
-- vorgefertigte Lizenzverträge 
-- geben abnehmend viele Rechte
+Creative Commons besteht aus sechs __Lizenzmodellen__, die Lizenzverträge darstellen, aus denen der Urheber eines Werks wählen kann. Der Unterschied zwischen diesen Lizenzmodellen besteht in der __Art und Anzahl der Rechte__, die eine Lizenz einem Nutzer einräumt.
 
---> Was darf mit dem Werk passieren?
+So unterscheidet sich beispielsweise die _"Bedingungslose Lizenz"_ von der _"Attribution NonCommercial ShareAlike"_, insofern, dass sie einem Nutzer mehr Rechte einräumt.
 
---> Was darf nicht mit dem Werk passieren?
+___Die Fragen, die eine Lizenz einem Nutzer beantwortet, sind also folgende:___
+
+1. Was darf mit dem Werk passieren?
+2. Was darf nicht mit dem Werk passieren?
 
 ## Bedingungslose Lizenz
 ![CC0 Bedingungslose Lizenz](https://wiki.llz.uni-halle.de/images/1/12/Cc0.png)
 
-- Verzicht auf jegliche Schutzrechte
-* Werk darf:
+Mit der CC0 oder "Bedingungslose Lizenz" verzichtet ein Urherber weltweit auf alle möglichen Schutzrechte. 
+
+Das Werk darf:
+
 - kopiert
 - verändert
 - verbreitet
 - aufgeführt
 - für kommerzielle Zwecke verwendet werden
-ohne nach Erlaubnis zu fragen
+ohne dass der Nutzer nach Erlaubnis fragen muss.
 
 
 ## Atrribution
 ![Atrribution](https://wiki.llz.uni-halle.de/images/5/53/By.png)
 
-- dieselben Rechte wie CC0
-* Werk darf:
+Die Lizenz "Attribution" (Namensnennung) ähnelt der "Bedingungslosen Lizenz", mit einigen Zusätzen.
+
+Das Werk darf:
+
 - kopiert
 - verändert
 - verbreitet
 - aufgeführt
 - für kommerzielle Zwecke verwendet werden
-ohne nach Erlaubnis zu fragen
-* zusätzlich:
-- Angabe des Urherbers des Werks
-- Anmerkungen von Veränderungen
+ohne dass der Nutzer nach Erlaubnis fragen muss.
+
+Zusätzlich müssen jedoch der __Urheber des ursprünglichen Werks__, sowie __die Anmerkungen von Veränderungen__ an dem Werk hinzugefügt werden.
 
 ## Attribution ShareAlike
 ![Attribution ShareAlike](https://wiki.llz.uni-halle.de/images/3/3c/By_sa.png)
