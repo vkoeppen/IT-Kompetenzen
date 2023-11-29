@@ -1,5 +1,5 @@
 # Soziale und Kommunikative Kompetenzen
-
+![Abbildung](https://i1.wp.com/blog.endurancegroup.org/wp-content/uploads/2018/08/b3.jpg?fit=655%2C430&ssl=1)
 ### Im Studium werden immer wieder Skills, wie zum Beispiel vor anderen Komilitonen das eigene Projekt zu präsentieren, Gruppenarbeiten zu managen oder auch einfach das konstruktive sowie effektive kommunizieren, erwartet. Um dir deinen Start zu vereinfachen, haben wir hier schonmal ein paar Tipps, Tricks und einfache Einführungen vorbereitet. 
 ---
   ### 1. Was sind eigentlich soziale und kommunikative  Kompetenzen?
@@ -7,6 +7,11 @@
       - https://www.kodekonzept.com/wissensressourcen/kompetenzfelder/
 
 Zusammengefasst bedeutet es, ein hohes Engagement in sozialen Situationen zu besitzen und auch kommunikative Fähigkeiten anwenden zu können. Zu kommunikativen Fähigkeiten zählen, dass man Kompromisse schließen kann, Durchsetzungsvermögen besitzt und konstruktiv, effektiv sowie bewusst kommuniziert.
+---
+### 1.1. Quiz
 
-1.1. Kenntnisüberprüfung
+-[(x)] Kompromisse schließen, Durchsetzungsvermögen, effektive Kommunikation
+-[( )] bewusste Kommunikation, Streiten, sich nicht einbringen
+-[( )] Sturrheit, konstruktive Kommunikation, Egoismus
+
 
