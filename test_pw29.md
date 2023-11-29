@@ -9,7 +9,7 @@
 Zusammengefasst bedeutet es, ein hohes Engagement in sozialen Situationen zu besitzen und auch kommunikative Fähigkeiten anwenden zu können. Zu kommunikativen Fähigkeiten zählen, dass man Kompromisse schließen kann, Durchsetzungsvermögen besitzt und konstruktiv, effektiv sowie bewusst kommuniziert.
 ---
 ### 1.1. Quiz
-
+Was sind kommunikative Fähigkeiten?
 -[(x)] Kompromisse schließen, Durchsetzungsvermögen, effektive Kommunikation
 -[( )] bewusste Kommunikation, Streiten, sich nicht einbringen
 -[( )] Sturrheit, konstruktive Kommunikation, Egoismus
