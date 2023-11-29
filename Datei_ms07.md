@@ -1,11 +1,9 @@
 # __Recherche__
 ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Recherche-PC.jpg/800px-Recherche-PC.jpg?20200902120921)
 
-<!-- 
-language: de
+<!-- language: de
 narrator: DE Deutsch male 
 -->
-
 {{|>}} Zu den Kompetenzen, die für das Studium besonders wichtig sind, zählt die Recherchekompetenz. Heutzutage können wir eine breite Maße an Informationen sehr schnell und einfach abrufen, aber beispielsweise beim Schreiben einer Hausarbeit oder bei der Literatursuche für das Erstellen einer Bachelorarbeit, benötigen wir aussagekräftige und belegbare Informationen. Daher werde ich in diesem Vortrag das Thema Recherche etwas näher beleuchten.
 
 ---
