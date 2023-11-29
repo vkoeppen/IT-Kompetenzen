@@ -10,6 +10,7 @@ Zusammengefasst bedeutet es, ein hohes Engagement in sozialen Situationen zu bes
 ---
 ### 1.1. Quiz
 Was sind kommunikative Fähigkeiten?
+
 -[(x)] Kompromisse schließen, Durchsetzungsvermögen, effektive Kommunikation
 -[( )] bewusste Kommunikation, Streiten, sich nicht einbringen
 -[( )] Sturrheit, konstruktive Kommunikation, Egoismus
