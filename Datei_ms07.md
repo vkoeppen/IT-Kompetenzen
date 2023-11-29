@@ -1,6 +1,11 @@
 # __Recherche__
 ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Recherche-PC.jpg/800px-Recherche-PC.jpg?20200902120921)
 
+<!-- 
+language: de
+narrator: DE Deutsch male 
+-->
+
 {{|>}} Zu den Kompetenzen, die für das Studium besonders wichtig sind, zählt die Recherchekompetenz. Heutzutage können wir eine breite Maße an Informationen sehr schnell und einfach abrufen, aber beispielsweise beim Schreiben einer Hausarbeit oder bei der Literatursuche für das Erstellen einer Bachelorarbeit, benötigen wir aussagekräftige und belegbare Informationen. Daher werde ich in diesem Vortrag das Thema Recherche etwas näher beleuchten.
 
 ---
@@ -49,6 +54,8 @@ Die gefundene Literatur muss auch dokumentiert werden, damit sie später ausgewe
 Zum Schluss prüft man, ob die gesammelte Literatur zum anfangs definierten Rechercheziel passt. Sind die Informationen ~~relevant~~ für meine Recherche? Außerdem sollten die enthaltenen Informationen ~~glaubwürdig~~ und auf einem ~~aktuellem~~ Stand sein.
 
 !?[alt](https://www.youtube.com/watch?v=iLzhv50msH0&list=PLuizG2TMVpRNmJbYfp0-VHQJBrejfwvN-&index=5)
+
+> **Tipp für kritische Quellenauswahl im Internet:** [Quellenkritik im Internet](https://niemalsvergessen.systime.dk/?id=206)
 
 ## Quellen 
 
