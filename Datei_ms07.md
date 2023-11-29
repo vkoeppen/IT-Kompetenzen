@@ -1,13 +1,16 @@
 # __Recherche__
 ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Recherche-PC.jpg/800px-Recherche-PC.jpg?20200902120921)
+
+{{|>}} Zu den Kompetenzen, die für das Studium besonders wichtig sind, zählt die Recherchekompetenz. Heutzutage können wir eine breite Maße an Informationen sehr schnell und einfach abrufen, aber beispielsweise beim Schreiben einer Hausarbeit oder bei der Literatursuche für das Erstellen einer Bachelorarbeit, benötigen wir aussagekräftige und belegbare Informationen. Daher werde ich in diesem Vortrag das Thema Recherche etwas näher beleuchten.
+
 ---
 ## __Richtig recherchieren__
 ---
-{{1}}1. Was ist das Ziel meiner Recherche?   
-{{2}}2. Wie recheriere ich?
-{{3}}3. Wie dokumentiere ich meine Ergebnisse?
-{{4}}4. Wie kann ich die gefundenen Quellen bewerten?
-{{5}}5. Quellenangaben
+{{1}} 1. Was ist das Ziel meiner Recherche?   
+{{2}} 2. Wie recheriere ich?
+{{3}} 3. Wie dokumentiere ich meine Ergebnisse?
+{{4}} 4. Wie kann ich die gefundenen Quellen bewerten?
+{{5}} 5. Quellenangaben
 
 ## Was ist das Ziel meiner Recherche?
 
