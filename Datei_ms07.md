@@ -1,13 +1,20 @@
-# __Recherche__
-![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Recherche-PC.jpg/800px-Recherche-PC.jpg?20200902120921)
+<!--
 
-<!-- language: de
-narrator: DE Deutsch male 
+language: de
+
+narrator: deutsch Female 
+
 -->
-{{|>}} Zu den Kompetenzen, die für das Studium besonders wichtig sind, zählt die Recherchekompetenz. Heutzutage können wir eine breite Maße an Informationen sehr schnell und einfach abrufen, aber beispielsweise beim Schreiben einer Hausarbeit oder bei der Literatursuche für das Erstellen einer Bachelorarbeit, benötigen wir aussagekräftige und belegbare Informationen. Daher werde ich in diesem Vortrag das Thema Recherche etwas näher beleuchten.
+
+# __Recherche__
+![alt](https://upload.wikimedia.org/wikipedia/commons/d/d5/Recherche-PC.jpg)
+---
+{{|>}} 
+Zu den Kompetenzen, die für das Studium besonders wichtig sind, zählt die **Recherchekompetenz**. Heutzutage können wir eine breite Maße an Informationen sehr schnell und einfach abrufen, aber beispielsweise beim Schreiben einer Hausarbeit oder bei der Literatursuche für das Erstellen einer Bachelorarbeit, benötigen wir aussagekräftige und belegbare Informationen. Daher werde ich in diesem Vortrag das Thema Recherche etwas näher beleuchten.
 
 ---
 ## __Richtig recherchieren__
+ Der Ablauf
 ---
 {{1}} 1. Was ist das Ziel meiner Recherche?   
 {{2}} 2. Wie recheriere ich?
@@ -19,6 +26,8 @@ narrator: DE Deutsch male
 
 Im ersten Schritt muss das Ziel der Recherche festgelegt werden. Was möchte ich mit meiner Recherche erreichen, welches Problem soll gelöst oder welche Frage soll beantwortet werden.
 ---
+Was sollte man deiner Meinung nach tun, wenn man das Rechercheziel festlegen möchte? 
+
 Kreuze zutreffendes an:
 
 [[x]] Lesen der Aufgabenstellung
@@ -36,7 +45,7 @@ Hat man sich einen ersten Überblick verschafft oder noch nicht die passende Lit
 
 [Bibliothek](https://www.fh-potsdam.de/campus-services/bibliothek)
 ---
-> **Weiterer Tipp:**
+> **Weiterer Tipp: Boolesche Operatoren**
 
 ![alt](https://www.th-owl.de/files/webs/skim/doku/img/Suchtipps/Grafik_BooleschenOperatoren_20200424.png)
 ---
@@ -46,12 +55,27 @@ Hat man sich einen ersten Überblick verschafft oder noch nicht die passende Lit
 Die gefundene Literatur muss auch dokumentiert werden, damit sie später ausgewertet und genutzt werden kann. Neben der *schriftlichen Dokumentation* ist die Verwendung eines *Dateimanagementssystems* auf dem Computer sinnvoll.
 
 !?[alt](https://www.youtube.com/watch?v=FnLswdk_Kq4)
+---
+> **Hier ist die Tabelle für die Dokumentation:**
 
+|Datum|Suchbegriff|Suchort|Ergebnis|Weitere gefundene Suchbegriffe|
+|-----|-----------|-------|--------|------------------------------|
+|     |           |       |        |                              |
+|     |           |       |        |                              |
 ## Wie kann ich die gefundenen Quellen bewerten?
 ---
 Zum Schluss prüft man, ob die gesammelte Literatur zum anfangs definierten Rechercheziel passt. Sind die Informationen ~~relevant~~ für meine Recherche? Außerdem sollten die enthaltenen Informationen ~~glaubwürdig~~ und auf einem ~~aktuellem~~ Stand sein.
 
 !?[alt](https://www.youtube.com/watch?v=iLzhv50msH0&list=PLuizG2TMVpRNmJbYfp0-VHQJBrejfwvN-&index=5)
+
+> **Merke: Kritische Quellenbewertung**
+
+Es gibt bestimmte Kriterien, an denen man "gute" Quellen erkennt:
+---
+- Ort der Auffindbarkeit, z.B. Fachliteratur aus der Bibliothek
+- Aktualität der Quelle (aktueller Forschungsstand)
+- Herkunft der Quelle (Wer ist der Autor und warum hat er das Werk verfasst?)
+- Relevanz der Quelle (Passt der Inhalt zu meinem Thema.)
 
 > **Tipp für kritische Quellenauswahl im Internet:** [Quellenkritik im Internet](https://niemalsvergessen.systime.dk/?id=206)
 
