@@ -21,37 +21,62 @@ comment: **Thema: Notizen in einer Powerpoint**
 
 ![Abbildung1](https://play-lh.googleusercontent.com/6pTX4OILXTxazqad66oiVfG4x2KpYn4kIPgdzOe173tT0oHr2ThwpBhMyzzzxWq_r6M)
 
+### Inhaltsverzeichnis
+{{1}} **1. Einstieg**
 
-### Einstieg
+- **1.1 Festlegung der Kompetenz**
 
+- **1.2 Allgemein**
 
-
-**Ziel des Themas**
-
-- Somit sind keine Karteikarten vonnöten
-
-
-**Zu beachten**
-
-- lesbar, prägnant und kurze Stichpunkte 
+- **1.3 Ziel des Themas**
 
 
-**Allgemein**
+{{2}} **2. Anwendung eines Lernelements**
+
+- **2.1 Referenzansicht**
+
+- **2.2 Aktivierung der Referenzansicht**
+
+- **2.3 Lösung als Videoansicht**
+
+{{3}} **3. Quellen**
+
+
+### 1. Einstieg
+**1.1 Festlegung der Kompetenz**
+
+Für viele Studiumsbereiche sind gängige Programme, wie Microsoft-Programme notwendig, insbesondere um die Ergebnisse einer Arbeitsprobe zu erstellen und zu präsentieren. 
+
+Die Festlegung der Kompetenzen im Bereich Softwareanwendungen, die im Kurs; _"Welche IT-Kompetenzen sind vorhanden oder müssen geschult werden"_, sind unter anderem; **Word**, **Excel** und **Powerpoint**.  
+
+Im folgendem Beitrag habe ich mich mit der Kompetenz **"Powerpoint"** auseinander gesetzt und mich auf ein bestimmtes Thema reduziert.  
+
+---
+
+**1.2 Allgemein**
 
 Präsentationsprogramm von Microsoft 
-_(Microsoft-365-Abonnement)_
 
 - Gehört zum Microsofot-365-Abonnement
 - Desktop-Version: Windows und macOS
 - Mobile-Version: App für Android und iOS 
 **Aktuellste Version**: PowerPoint 2019
 
-
-
-### Anwendung eines Lernelements
 ---
 
-_Einfügen von Sprechernotizen in einer Powerpoint (Lösung)_
+**1.3 Ziel des Themas**
+
+- Durch die Anwendung der Sprechernotizen und der Referenzansicht, während der Präsentation, können Karteikarten vermieden werden.
+
+- Zu beachten; 
+Stichpunkte müssen lesbar, prägnant und kurz den Inhalt wiedergeben 
+
+
+
+### 2. Anwendung eines Lernelements
+---
+
+_Einfügen von Sprechernotizen in einer Powerpoint_
 
 ![Abbildung2](https://support.content.office.net/de-de/media/9a7ee826-15f3-4422-88df-e3c86ed28e76.png)
 
@@ -60,7 +85,7 @@ _Einfügen von Sprechernotizen in einer Powerpoint (Lösung)_
 - Notiz-Symbol neben Anzeigeeinstellungen oder wie in dem Beispiel neben Kommentare
 
 
-##### Während der Bildschirmpräsentation Notizen einsehbar
+##### 2.1 Während der Bildschirmpräsentation Notizen einsehbar
 ---
 
 _**Unter:**_ 
@@ -107,14 +132,14 @@ _**Unter:**_
 
 ---
 
-_Beispiel:_
+**_Beispiel:_**
 ![Abbildung3](https://support.content.office.net/de-de/media/ad074b3d-78e1-45d2-a514-c990d04818fd.png)
 
 [3. Abbildung](https://support.microsoft.com/de-de/office/hinzuf%C3%BCgen-von-sprechernotizen-zu-folien-26985155-35f5-45ba-812b-e1bd3c48928e#:~:text=Klicken%20Sie%20im%20Men%C3%BC%20Ansicht,Sie%20den%20gew%C3%BCnschten%20Notizentext%20ein)
 
 
 
-###### Aktivierung der Referenzansicht
+###### 2.2 Aktivierung der Referenzansicht
 
 Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 ![Abbildung 4](https://support.content.office.net/de-de/media/6a1333b9-e386-4579-b8f0-051aed6e5ab8.png)
@@ -124,7 +149,7 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 
 
 
-**Lösung als Video**
+**2.3 Lösung als Videoansicht**
 
 ??[Tutorial](https://www.microsoft.com/de-de/videoplayer/embed/RWfkz0?pid=ocpVideo1-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&reporting=true&market=de-de " ")
 
