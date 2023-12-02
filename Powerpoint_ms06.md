@@ -26,9 +26,11 @@ comment: **Thema: Notizen in einer Powerpoint**
 
 - **1.1 Festlegung der Kompetenz**
 
-- **1.2 Allgemein**
+- **1.2 Fragestellung**
 
-- **1.3 Ziel des Themas**
+- **1.3 Allgemein**
+
+- **1.4 Ziel des Themas**
 
 
 {{2}} **2. Anwendung eines Lernelements**
@@ -53,7 +55,21 @@ Im folgendem Beitrag habe ich mich mit der Kompetenz **"Powerpoint"** auseinande
 
 ---
 
-**1.2 Allgemein**
+**1.2 Fragestellung an das Plenum**
+
+_Wie sehr beschäftigen Sie sich, in ihrem Berufs- oder Studentenleben, mit einem Powerpoint-Programm?_
+
+<lia-keep>
+<form>
+<p><input type="checkbox" Name="Antwort1" Value="1"> <b>genügend</b></p>
+<p><input type="checkbox" Name="Antwort2" Value="2"> <b>ausreichend</b></p>
+<p><input type="checkbox" Name="Antwort3" Value="3"> <b>gar nicht</b></p>
+</form>
+</lia-keep>
+
+---
+
+**1.3 Allgemein**
 
 Präsentationsprogramm von Microsoft 
 
@@ -64,7 +80,7 @@ Präsentationsprogramm von Microsoft
 
 ---
 
-**1.3 Ziel des Themas**
+**1.4 Ziel des Themas**
 
 - Durch die Anwendung der Sprechernotizen und der Referenzansicht, während der Präsentation, können Karteikarten vermieden werden.
 
