@@ -152,7 +152,20 @@ Was unterscheidet die Attribution-Lizenz von der Bedingungslosen Lizenz?
 ## Übung 3
 Was bedeutet der Ausdruck "ShareAlike" in einer Lizenz?
 
-[( )] 
-[(X)] 
-[( )] 
-[( )]
+[( )] Dass man das ursprüngliche Werk unverändert teilen darf.
+[(X)] Dass man das erstellte Werk unter derselben Lizenz weitergeben muss, wie das Werk, welches man verwendet hat.
+[( )] Dass das erstellte Werk dem ursprünglichen Werk sehr ähnlich sein muss.
+[( )] Dass das erstellte Werk dem ursprünglichen Werk nicht sehr ähnlich sein muss.
+
+## Übung 4
+Eine Studentin würde gerne ein Bild verwenden, indem sie es verändert und in eine Powerpoint-Präsentation einfügt und vor einigen Zuschauern zeigt. Welche Lizenz müssten für das Bild gelten, damit sie es verwenden könnte?
+
+> **Mehrere Optionen möglich!**
+
+[[X]] CC0 Bedingungslose Lizenz
+[[X]] Atrribution
+[[X]] Attribution ShareAlike
+[[]] Atrribution NoDerivatives
+[[X]] Attribution NonCommercial
+[[X]] Attribution NonCommercial ShareAlike
+[[]] Attribution NonCommercial NoDerivatives
