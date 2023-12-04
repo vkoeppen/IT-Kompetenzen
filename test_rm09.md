@@ -1,3 +1,13 @@
+<!--
+
+author:   Ronja C. Müller
+language: de
+narrator: Deutsch Female
+
+import:   https://github.com/liascript/CodeRunner
+
+-->
+
 # Rechtliches
 
 ## Creative Commons
