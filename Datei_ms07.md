@@ -1,7 +1,9 @@
 <!--
 
+author:   Melina Stindt
+email:    melina.stindt@fh-potsdam.de
+version:  0.0.1
 language: de
-
 narrator: deutsch Female 
 
 -->
@@ -16,11 +18,11 @@ Zu den Kompetenzen, die für das Studium besonders wichtig sind, zählt die **Re
 ## __Richtig recherchieren__
  Der Ablauf
 ---
-{{1}} 1. Was ist das Ziel meiner Recherche?   
-{{2}} 2. Wie recheriere ich?
-{{3}} 3. Wie dokumentiere ich meine Ergebnisse?
-{{4}} 4. Wie kann ich die gefundenen Quellen bewerten?
-{{5}} 5. Quellenangaben
+{{1}}  Was ist das Ziel meiner Recherche?   
+{{2}}  Wie recheriere ich?
+{{3}}  Wie dokumentiere ich meine Ergebnisse?
+{{4}}  Wie kann ich die gefundenen Quellen bewerten?
+{{5}}  Quellenangaben
 
 ## Was ist das Ziel meiner Recherche?
 
