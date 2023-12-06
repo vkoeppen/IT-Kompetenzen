@@ -14,5 +14,16 @@ Usb-Sticks formatierenn
 
 # Laptop
 laptop empfehkubge
-#Anschlüsse
 
+
+# Anschlüsse
+USB
+HDMI
+VGA
+AUX
+Mikro
+Kopfhörer
+Mikro-USB
+USBC
+Mini-USB
+LAN
