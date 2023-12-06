@@ -9,7 +9,9 @@ narrator: deutsch Female
 -->
 
 # __Recherche__
-![alt](https://upload.wikimedia.org/wikipedia/commons/d/d5/Recherche-PC.jpg)
+![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Schreiben_digital.png/653px-Schreiben_digital.png?20210824085240)
+Quelle:"Schreiben digital", Julian Kücklich, Lizenz: CC0 1.0, https://api.openverse.engineering/v1/images/e6e14a45-1a41-4b7e-98c8-22aa82293474/thumb/
+
 ---
 {{|>}} 
 Zu den Kompetenzen, die für das Studium besonders wichtig sind, zählt die **Recherchekompetenz**. Heutzutage können wir eine breite Maße an Informationen sehr schnell und einfach abrufen, aber beispielsweise beim Schreiben einer Hausarbeit oder bei der Literatursuche für das Erstellen einer Bachelorarbeit, benötigen wir aussagekräftige und belegbare Informationen. Daher werde ich in diesem Vortrag das Thema Recherche etwas näher beleuchten.
@@ -18,11 +20,11 @@ Zu den Kompetenzen, die für das Studium besonders wichtig sind, zählt die **Re
 ## __Richtig recherchieren__
  Der Ablauf
 ---
-{{1}}  Was ist das Ziel meiner Recherche?   
-{{2}}  Wie recheriere ich?
-{{3}}  Wie dokumentiere ich meine Ergebnisse?
-{{4}}  Wie kann ich die gefundenen Quellen bewerten?
-{{5}}  Quellenangaben
+{{1}} * Was ist das Ziel meiner Recherche?   
+{{2}} * Wie recheriere ich?
+{{3}} * Wie dokumentiere ich meine Ergebnisse?
+{{4}} * Wie kann ich die gefundenen Quellen bewerten?
+{{5}} * Quellenangaben
 
 ## Was ist das Ziel meiner Recherche?
 
@@ -49,7 +51,10 @@ Hat man sich einen ersten Überblick verschafft oder noch nicht die passende Lit
 ---
 > **Weiterer Tipp: Boolesche Operatoren**
 
-![alt](https://www.th-owl.de/files/webs/skim/doku/img/Suchtipps/Grafik_BooleschenOperatoren_20200424.png)
+![alt](https://upload.wikimedia.org/wikipedia/commons/1/17/Boolean_logic.svg)
+Quelle: "Boolean logic", Jakub T. Jankiewicz, Lizenz: CC BY-SA 4.0,
+https://upload.wikimedia.org/wikipedia/commons/1/17/Boolean_logic.svg
+
 ---
 
 ## Wie dokumentiere ich meine Ergebnisse?
@@ -57,6 +62,8 @@ Hat man sich einen ersten Überblick verschafft oder noch nicht die passende Lit
 Die gefundene Literatur muss auch dokumentiert werden, damit sie später ausgewertet und genutzt werden kann. Neben der *schriftlichen Dokumentation* ist die Verwendung eines *Dateimanagementssystems* auf dem Computer sinnvoll.
 
 !?[alt](https://www.youtube.com/watch?v=FnLswdk_Kq4)
+
+Quelle: "Eine Recherche dokumentieren", Heike Baller, Lizenz:  CC BY-SA 3.0, https://www.youtube.com/watch?v=FnLswdk_Kq4
 ---
 > **Hier ist die Tabelle für die Dokumentation:**
 
@@ -69,6 +76,8 @@ Die gefundene Literatur muss auch dokumentiert werden, damit sie später ausgewe
 Zum Schluss prüft man, ob die gesammelte Literatur zum anfangs definierten Rechercheziel passt. Sind die Informationen ~~relevant~~ für meine Recherche? Außerdem sollten die enthaltenen Informationen ~~glaubwürdig~~ und auf einem ~~aktuellem~~ Stand sein.
 
 !?[alt](https://www.youtube.com/watch?v=iLzhv50msH0&list=PLuizG2TMVpRNmJbYfp0-VHQJBrejfwvN-&index=5)
+
+Quelle: "Quellenbewertung in der Literaturrecherche", Universitätsbibliothek Mannheim, https://www.youtube.com/watch?v=iLzhv50msH0
 
 > **Merke: Kritische Quellenbewertung**
 
