@@ -1,10 +1,11 @@
 <!--
 
-author:   Ronja C. Müller
+author:   Veit Köppen
+email:    ronja.mueller@fh-potsdam.de
+version:  0.0.1
 language: de
 narrator: Deutsch Female
 
-import:   https://github.com/liascript/CodeRunner
 
 -->
 
@@ -13,9 +14,9 @@ import:   https://github.com/liascript/CodeRunner
 ## Creative Commons
 Creative Commons besteht aus sechs __Lizenzmodellen__, die Lizenzverträge darstellen, aus denen der Urheber eines Werks wählen kann. Der Unterschied zwischen diesen Lizenzmodellen besteht in der __Art und Anzahl der Rechte__, die eine Lizenz einem Nutzer einräumt.
 
-So unterscheidet sich beispielsweise die _"Bedingungslose Lizenz"_ von der _"Attribution NonCommercial ShareAlike"_, insofern, dass sie einem Nutzer mehr Rechte einräumt.
+So unterscheidet sich beispielsweise die _Bedingungslose Lizenz_ von der _Attribution NonCommercial ShareAlike_, insofern, dass sie einem Nutzer mehr Rechte einräumt.
 
-___Die Fragen, die eine Lizenz einem Nutzer beantwortet, sind also folgende:___
+__Die Fragen, die eine Lizenz einem Nutzer beantwortet, sind also folgende:__
 
 1. Was darf mit dem Werk passieren?
 2. Was darf nicht mit dem Werk passieren?
@@ -32,12 +33,12 @@ Das Werk darf:
 - verändert
 - verbreitet
 - aufgeführt
-- für kommerzielle Zwecke verwendet werden
+- für kommerzielle Zwecke verwendet werden,
 ohne dass der Nutzer nach Erlaubnis fragen muss.
 
 
 ## Atribution
-![Atrribution](https://wiki.llz.uni-halle.de/images/5/53/By.png)
+![Atribution](https://wiki.llz.uni-halle.de/images/5/53/By.png)
 
 Die Lizenz "Attribution" (Namensnennung) ähnelt der "Bedingungslosen Lizenz", mit einigen Zusätzen.
 
@@ -47,15 +48,15 @@ Das Werk darf:
 - verändert
 - verbreitet
 - aufgeführt
-- für kommerzielle Zwecke verwendet werden
+- für kommerzielle Zwecke verwendet werden,
 ohne dass der Nutzer nach Erlaubnis fragen muss.
 
-Zusätzlich müssen jedoch der __Urheber des ursprünglichen Werks__, sowie __die Anmerkungen von Veränderungen__ an dem Werk hinzugefügt werden.
+Zusätzlich müssen jedoch der __Urheber des ursprünglichen Werks__, sowie die __Anmerkungen von Veränderungen__ an dem Werk hinzugefügt werden.
 
 ## Attribution ShareAlike
 ![Attribution ShareAlike](https://wiki.llz.uni-halle.de/images/3/3c/By_sa.png)
 
-Die Lizenz "Attribution ShareAlike" (Namensnennung und Weitergabe unter gleichen Bedigungen) ähnelt der "Attribution". Jedoch muss das Werk, welches durch Veränderung die Veränderung des Ursprungswerks entstanden ist, unter __derselben Lizenz__ weitergeführt werden, wie das Ursprungswerk.
+Die Lizenz "Attribution ShareAlike" (Namensnennung und Weitergabe unter gleichen Bedigungen) ähnelt der "Attribution". Jedoch muss das Werk, welches durch Veränderung des Ursprungswerks entstanden ist, unter __derselben Lizenz__ weitergeführt werden, wie das Ursprungswerk.
 
 Das Werk darf:
 
@@ -63,13 +64,13 @@ Das Werk darf:
 - verändert
 - verbreitet
 - aufgeführt
-- für kommerzielle Zwecke verwendet werden
+- für kommerzielle Zwecke verwendet werden,
 ohne dass der Nutzer nach Erlaubnis fragen muss.
 
-Zusätzlich müssen jedoch der __Urheber des ursprünglichen Werks__, sowie __die Anmerkungen von Veränderungen__ an dem Werk angegeben werden. Zudem muss das neu entstandene Werk unter derselben Lizenz wie das urpsprüngliche Werk veröffentlicht werden.
+Zusätzlich müssen jedoch der __Urheber des ursprünglichen Werks__, sowie die __Anmerkungen von Veränderungen__ an dem Werk angegeben werden. Zudem muss das neu entstandene Werk unter derselben Lizenz wie das urpsprüngliche Werk veröffentlicht werden.
 
 ## Atribution NoDerivatives
-![Atrribution NoDerivatives](https://wiki.llz.uni-halle.de/images/e/eb/By_nd.png)
+![Atribution NoDerivatives](https://wiki.llz.uni-halle.de/images/e/eb/By_nd.png)
 
 Die Lizenz "Atrribution NoDerivatives" (Namensnennung, keine Bearbeitung) gibt Zugang zu vielen Rechten, schließt jedoch das Recht auf Veränderung aus.
 
@@ -78,9 +79,10 @@ Das Werk darf:
 - kopiert
 - verbreitet
 - aufgeführt
-- für kommerzielle Zwecke verwendet werden
+- für kommerzielle Zwecke verwendet werden,
+ohne dass der Nutzer nach Erlaubnis fragen muss.
 
-Werk darf __nicht__:
+Das Werk darf __nicht__:
 
 - verändert werden
 
@@ -102,12 +104,12 @@ Das Werk darf __nicht__:
 
 - für kommerzielle Zwecke verwendet werden
 
-Zusätzlich müssen jedoch der __Urheber des ursprünglichen Werks__, sowie __die Anmerkungen von Veränderungen__ an dem Werk angegeben werden.
+Zusätzlich müssen jedoch der __Urheber des ursprünglichen Werks__, sowie die __Anmerkungen von Veränderungen__ an dem Werk angegeben werden.
 
 ## Attribution NonCommercial ShareAlike
 ![Attribution NonCommercial ShareAlike](https://wiki.llz.uni-halle.de/images/2/27/By_nc_sa.png)
 
-Die Lizenz "Attribution NonCommercial ShareAlike" (Namensnennung, nicht kommerziell, Weitergabe unter gleichen Bedingungen) ähnelt der Lizenz "Attribution NonCommercial". Jedoch muss das Werk, welches durch Veränderung die Veränderung des Ursprungswerks entstanden ist, unter __derselben Lizenz__ weitergeführt werden, wie das Ursprungswerk.
+Die Lizenz "Attribution NonCommercial ShareAlike" (Namensnennung, nicht kommerziell, Weitergabe unter gleichen Bedingungen) ähnelt der Lizenz "Attribution NonCommercial". Jedoch muss das Werk, welches durch Veränderung des Ursprungswerks entstanden ist, unter __derselben Lizenz__ weitergeführt werden, wie das Ursprungswerk.
 
 Das Werk darf:
 
@@ -120,12 +122,12 @@ Werk darf __nicht__:
 
 - für kommerzielle Zwecke verwendet werden
 
-Zusätzlich müssen jedoch der __Urheber des ursprünglichen Werks__, sowie __die Anmerkungen von Veränderungen__ an dem Werk angegeben werden. Zudem muss das neu entstandene Werk unter derselben Lizenz wie das urpsprüngliche Werk veröffentlicht werden.
+Zusätzlich müssen jedoch der __Urheber des ursprünglichen Werks__, sowie die __Anmerkungen von Veränderungen__ an dem Werk angegeben werden. Zudem muss das neu entstandene Werk unter derselben Lizenz wie das urpsprüngliche Werk veröffentlicht werden.
 
 ## Attribution NonCommercial NoDerivatives
 ![Attribution NonCommercial NoDerivatives](https://wiki.llz.uni-halle.de/images/9/99/By_nc_nd.png)
 
-Die Lizenz "Attribution NonCommercial NoDerivatives" (Namensnennung, nicht kommerziell, keine Bearbeitung) gibt Zugang zu einigen Rechten, schließt jedoch die Rechte, das Werk zu verändern, sowie es für kommerzielle Zwecke zu verwenden, aus.
+Die Lizenz "Attribution NonCommercial NoDerivatives" (Namensnennung, nicht kommerziell, keine Bearbeitung) gibt Zugang zu einigen Rechten, schließt jedoch das Recht, das Werk zu verändern, sowie es für kommerzielle Zwecke zu verwenden, aus.
 
 Das Werk darf:
 
