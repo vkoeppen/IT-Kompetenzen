@@ -13,3 +13,6 @@ Keinen fremden USb trauen
 Usb-Sticks formatierenn
 
 # Laptop
+laptop empfehkubge
+#Anschlüsse
+
