@@ -36,7 +36,7 @@ Das Werk darf:
 ohne dass der Nutzer nach Erlaubnis fragen muss.
 
 
-## Atrribution
+## Atribution
 ![Atrribution](https://wiki.llz.uni-halle.de/images/5/53/By.png)
 
 Die Lizenz "Attribution" (Namensnennung) ähnelt der "Bedingungslosen Lizenz", mit einigen Zusätzen.
@@ -68,7 +68,7 @@ ohne dass der Nutzer nach Erlaubnis fragen muss.
 
 Zusätzlich müssen jedoch der __Urheber des ursprünglichen Werks__, sowie __die Anmerkungen von Veränderungen__ an dem Werk angegeben werden. Zudem muss das neu entstandene Werk unter derselben Lizenz wie das urpsprüngliche Werk veröffentlicht werden.
 
-## Atrribution NoDerivatives
+## Atribution NoDerivatives
 ![Atrribution NoDerivatives](https://wiki.llz.uni-halle.de/images/e/eb/By_nd.png)
 
 Die Lizenz "Atrribution NoDerivatives" (Namensnennung, keine Bearbeitung) gibt Zugang zu vielen Rechten, schließt jedoch das Recht auf Veränderung aus.
@@ -175,7 +175,7 @@ Eine Studentin würde gerne ein Bild verwenden, indem sie es verändert und in e
 [[X]] CC0 Bedingungslose Lizenz
 [[X]] Atrribution
 [[X]] Attribution ShareAlike
-[[]] Atrribution NoDerivatives
+[[ ]] Atrribution NoDerivatives
 [[X]] Attribution NonCommercial
 [[X]] Attribution NonCommercial ShareAlike
-[[]] Attribution NonCommercial NoDerivatives
+[[ ]] Attribution NonCommercial NoDerivatives
