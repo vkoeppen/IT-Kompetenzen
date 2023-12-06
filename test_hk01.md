@@ -1,3 +1,15 @@
+<!--
+
+author:   Helin Kisa
+email:    helin.kisa@fh-potsdam.de
+version:  0.0.1
+language: de
+narrator: Deutsch Female
+
+import:   https://github.com/liascript/CodeRunner
+
+-->
+
 # soziale und kommunikative Kompetenzen
 
  ---------------------------------------------
