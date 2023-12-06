@@ -10,8 +10,11 @@ import:   https://github.com/liascript/CodeRunner
 
 -->
 # Soziale und Kommunikative Kompetenzen
+
 ![Abbildung](https://i1.wp.com/blog.endurancegroup.org/wp-content/uploads/2018/08/b3.jpg?fit=655%2C430&ssl=1)
-### Im Studium werden immer wieder Skills, wie zum Beispiel vor anderen Komilitonen das eigene Projekt zu präsentieren, Gruppenarbeiten zu managen oder auch einfach das konstruktive sowie effektive kommunizieren, erwartet. Um dir deinen Start zu vereinfachen, haben wir hier schonmal ein paar Tipps, Tricks und einfache Einführungen vorbereitet. 
+
+ Im Studium werden immer wieder Skills, wie zum Beispiel vor anderen Komilitonen das eigene Projekt zu präsentieren, Gruppenarbeiten zu managen oder auch einfach das konstruktive sowie effektive kommunizieren, erwartet. Um dir deinen Start zu vereinfachen, haben wir hier schonmal ein paar Tipps, Tricks und einfache Einführungen vorbereitet. 
+
 ---
 #### 1. Was sind eigentlich soziale und kommunikative  Kompetenzen?
 "Sozial-kommunikative Kompetenz ist die Fähigkeit, sich aus eigenem Antrieb mit anderen zusammen- und auseinanderzusetzen sowie kreativ zu kooperieren und zu kommunizieren. Menschen mit hoher sozial-kommunikativer Kompetenz verstehen andere Menschen und können sich selbst verständlich machen."
