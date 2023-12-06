@@ -26,9 +26,11 @@ comment: **Thema: Notizen in einer Powerpoint**
 
 - **1.1 Festlegung der Kompetenz**
 
-- **1.2 Allgemein**
+- **1.2 Fragestellung**
 
-- **1.3 Ziel des Themas**
+- **1.3 Allgemein**
+
+- **1.4 Ziel des Themas**
 
 
 {{2}} **2. Anwendung eines Lernelements**
@@ -53,7 +55,22 @@ Im folgendem Beitrag habe ich mich mit der Kompetenz **"Powerpoint"** auseinande
 
 ---
 
-**1.2 Allgemein**
+**1.2 Fragestellung**
+
+Wie sehr beschäftigen Sie sich in Ihrem Berufs- oder Alltagsleben mit dem Programm Powerpoint?
+
+
+[(genügend)(ausreichend)(gar nicht)]
+[                                  ] 
+
+
+**Begründen Sie**
+
+[[______   ___   ___   ______]]
+
+---
+
+**1.3 Allgemein**
 
 Präsentationsprogramm von Microsoft 
 
@@ -62,9 +79,10 @@ Präsentationsprogramm von Microsoft
 - Mobile-Version: App für Android und iOS 
 **Aktuellste Version**: PowerPoint 2019
 
+
 ---
 
-**1.3 Ziel des Themas**
+**1.4 Ziel des Themas**
 
 - Durch die Anwendung der Sprechernotizen und der Referenzansicht, während der Präsentation, können Karteikarten vermieden werden.
 
@@ -158,8 +176,14 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 
 # Quellen
 ---
-[1. Abbildung](https://play.google.com/store/apps/details?id=com.microsoft.office.powerpoint&hl=de)
+**1. Abbildung**
 
-[1.Quelle](https://support.microsoft.com/de-de/office/hinzufügen-von-sprechernotizen-zu-folien-26985155-35f5-45ba-812b-e1bd3c48928e#:~:text=Klicken%20Sie%20im%20Menü%20Ansicht,Sie%20den%20gewünschten%20Notizentext%20ein)
+- https://play.google.com/store/apps/details?id=com.microsoft.office.powerpoint&hl=de
 
-[2. Quelle](https://de.wikipedia.org/wiki/Microsoft_PowerPoint)
+**1.Quelle** 
+
+- https://support.microsoft.com/de-de/office/hinzufügen-von-sprechernotizen-zu-folien-26985155-35f5-45ba-812b-e1bd3c48928e#:~:text=Klicken%20Sie%20im%20Menü%20Ansicht,Sie%20den%20gewünschten%20Notizentext%20ein
+
+**2. Quelle**
+
+- https://de.wikipedia.org/wiki/Microsoft_PowerPoint
