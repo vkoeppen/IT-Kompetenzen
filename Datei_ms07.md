@@ -64,7 +64,7 @@ Die gefundene Literatur muss auch dokumentiert werden, damit sie später ausgewe
 !?[alt](https://www.youtube.com/watch?v=FnLswdk_Kq4)
 
 Quelle: "Eine Recherche dokumentieren", Heike Baller, Lizenz:  CC BY-SA 3.0, https://www.youtube.com/watch?v=FnLswdk_Kq4
----
+
 > **Hier ist die Tabelle für die Dokumentation:**
 
 |Datum|Suchbegriff|Suchort|Ergebnis|Weitere gefundene Suchbegriffe|
@@ -77,7 +77,7 @@ Zum Schluss prüft man, ob die gesammelte Literatur zum anfangs definierten Rech
 
 !?[alt](https://www.youtube.com/watch?v=iLzhv50msH0&list=PLuizG2TMVpRNmJbYfp0-VHQJBrejfwvN-&index=5)
 
-Quelle: "Quellenbewertung in der Literaturrecherche", Universitätsbibliothek Mannheim, https://www.youtube.com/watch?v=iLzhv50msH0
+Quelle: "Quellenbewertung in der Literaturrecherche", Universitätsbibliothek Mannheim, CC-Lizenz mit Quellenangabe (Wiederverwendung erlaubt) https://www.youtube.com/watch?v=iLzhv50msH0
 
 > **Merke: Kritische Quellenbewertung**
 
