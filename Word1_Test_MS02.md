@@ -3,7 +3,7 @@
 **Was musst du fürs Studium in Word können?**
 <ul><u>Einleitung</u></ul>
 
-Ob ein Inhaltsverzeichnis erstellen oder die Formatierung ändern. Bei Word werden Texte nicht nur runtergeschrieben sondern...
+Ob ein Inhaltsverzeichnis erstellen oder die Formatierung ändern. Bei Word werden Texte nicht nur runtergeschrieben, sondern ...
 
 Auf den nächsten Seiten findet ihr einen kurzen Einblick wie ihr mit Word umgehen könnt. 
 
@@ -40,4 +40,11 @@ Zuerst öffnet sich der Dateiordner. Dort wird die Datei mit dem gewünschten Bi
 Tabellen werden eingefügt, indem auf die oberen Leiste auf Tabellen klickst. Dauraufhin öffnet sich ein Tab, bei welchem du die Anzahl deiner Spalten und Zeilen auswählen musst.
 Danach besteht die Möglichkeit durch Klick auf die Tabelle weitere Spalten und Zeilen hinzuzufügen. Zudem öffnet eine neue Option in der Leiste *Format*, dort können Farbe der Tabelle angepasst werden.
 
+**Grafiken**
+
+...
+
+**SmartArt**
+
+SmartArt ermöglicht eine visuelle Darstellung von Informationen und Bildern. Um eine SmartArt-Grafik zu verwenden, muss man in der Leiste "Einfügen" auf SmartArt klicken. Tat man diees, so öffnet sich ein weiteres Fenster mit vielen verschieden Möglichkeiten, um seine Informationen perfekt für sich darstellen zu können. 
 
