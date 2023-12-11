@@ -48,9 +48,9 @@ Danach besteht die Möglichkeit durch Klick auf die Tabelle weitere Spalten und 
 
 SmartArt ermöglicht eine visuelle Darstellung von Informationen und Bildern. Um eine SmartArt-Grafik zu erstellen und zu verwenden, muss man in der Leiste "Einfügen" auf SmartArt klicken. Tut man dies, so öffnet sich ein Fenster mit vielen verschiedenen Möglichkeiten, um seine Informationen perfekt für sich darstellen zu lassen.
 
-![alt](bilder/SmartArt.png)
+![alt](bilder/SmartArt.PNG)
 
 Als weiteren Schritt, kann manmseine Grafik ganz nach seinen Wünschen anpassen. 
 Sei es durch Farbe, eine andere Formatvorlage oder zusätzliche Formen. 
 
-![alt](bilder/SmartArt-Desgin.png)
+![alt](bilder/SmartArt-Desgin.PNG)
