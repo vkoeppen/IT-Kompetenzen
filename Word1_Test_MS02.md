@@ -65,6 +65,12 @@ Wechselt in der oberen Leiste zu **Referenzen** dort habt Ihr ganz links die Fun
 
 ## Zitierung
 
+Das zitieren von Zitaten oder Textabschnitten ist für viele Studenten eine der Königsdisziplin beim erstellen ihrer wissenschaftlichen Texte. Wenn man bei Word jedoch in der oberen Zeile auf **Referenzen** geht, findet man die Funktion *Zitat einfügen*. Mit den zusätzlichen Funktion *Formatvorlage*, kann man sich einfach und übersichtlich ein Zitat mit einer direkten Verlinkung zum Inhaltsverzeichnis erstellen.
+
+![alt](Zitieren1.PNG)
+> [!TIP]
+> Eine Empfelung für eine Formatvorage beim zitieren, wäre Chicago.
+
 ## Literaturverzeichnis
 
 ## Layout
