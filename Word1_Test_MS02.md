@@ -53,4 +53,4 @@ SmartArt ermöglicht eine visuelle Darstellung von Informationen und Bildern. Um
 Als weiteren Schritt, kann manmseine Grafik ganz nach seinen Wünschen anpassen. 
 Sei es durch Farbe, eine andere Formatvorlage oder zusätzliche Formen. 
 
-![alt](bilder/SmartArt-Desgin.PNG)
+![alt](bilder/SmartArt-Design.PNG)
