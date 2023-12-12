@@ -3,9 +3,9 @@
 **Was musst du fürs Studium in Word können?**
 <ul><u>Einleitung</u></ul>
 
-Als Student wird das wissenschaftliche schreiben ein großer Bestandteil ihres Studiums sein. Eins der bekanntesten Programme ist hierbei Microsoft Word. Ob Texte, Inhaltsverzeichnisse oder die Formatierung. Bei Word werden Texte nicht nur umständlich runtergeschrieben, sondern bietet nützliche Funktionen für Ihre zukünftigen Arbeiten.
+Als Student wird das wissenschaftliche arbeiten ein großer Bestandteil ihres Studiums sein. Eines der wichtigsten Programme ist hierbei Microsoft Word. Ob Texte, Inhaltsverzeichnisse oder Formatierungen, bei Word kann man so einiges professionel und individuell erstellen und bearbeiten. Um nicht alles umständlich runterzuschreiben, bietet das MS-Office Programm nützliche Funktionen für Ihre zukünftigen Arbeiten.
 
-Auf den nächsten Seiten wollen wir Ihnen daher einen kurzen Einblick über einige dieser Funktionen bieten, die unserer Meinung nach Eure wissenschaftliche Arbeit in Word erleichtern könnte. Villeicht kanntet Ihr sie noch nicht und wir können Ihnen helfen, ein kleines Stück besser mit Word umzugehen. 
+Auf den nächsten Seiten (In unserem Dokument) wollen wir Ihnen daher einen kurzen Einblick über einige dieser Funktionen bieten, die unserer Meinung nach Eure wissenschaftliche Arbeit in Word erleichtern könnte. Villeicht kanntet Ihr sie noch nicht und wir können Ihnen helfen, ein kleines Stück besser mit Word umzugehen. 
 
 *Zu jedem unserer Themen wird nur ein Beispiel gezeigt. Es gibt auch andere Möglichkeiten, die verschiedenen Funktionen zu benutzen. Werden Sie kreativ und probieren sie alles mal aus.*
 
