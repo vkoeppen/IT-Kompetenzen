@@ -54,4 +54,26 @@ Was ist das „analoge“ Quellen?
 -	Physische Bibliothek
 -	Gedruckte Quellen, die im Internet vervielfältigt werden
 
+## Verarbeiten der Information 
+
+Bibliographische Liste herstellen mit Hilfe der Literaturverwaltungsprogramm
+
+[Citavi](https://www.citavi.com/de)   
+
+[![Wie man Citavi verwenden kann? Video](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2F6yjIl7Y5TF8%3Flist%3DTLGGBdsc6N2C2RoxMjEyMjAyMw)](https://youtu.be/6yjIl7Y5TF8?list=TLGGBdsc6N2C2RoxMjEyMjAyMw)
+
+[Zotero](https://www.zotero.org/download/)
+
+* Ergebnisse darstellen
+- das Resultat bewerten: eine Multiple-Chois, ob das Ziel erreicht oder nicht erreicht ist. 
+Z.B.
+1. Alle erforderliche Quellen durchgearbeitet sind?
+2.  
+ - Markdown 
+Logo interaktive 
+[Link zum Tutorium](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+https://www.markdownguide.org/
+Vlt Video 
+Beispiel des Codes 
+
 
