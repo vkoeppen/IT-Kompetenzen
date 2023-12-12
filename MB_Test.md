@@ -56,7 +56,7 @@ Was ist das „analoge“ Quellen?
 
 ## Verarbeiten der Information 
 
-Bibliographische Liste herstellen mit Hilfe der Literaturverwaltungsprogramm
+### Bibliographische Liste herstellen mit Hilfe der Literaturverwaltungsprogramm
 
 [Citavi](https://www.citavi.com/de)   
 
@@ -64,16 +64,16 @@ Bibliographische Liste herstellen mit Hilfe der Literaturverwaltungsprogramm
 
 [Zotero](https://www.zotero.org/download/)
 
-* Ergebnisse darstellen
-- das Resultat bewerten: eine Multiple-Chois, ob das Ziel erreicht oder nicht erreicht ist. 
-Z.B.
-1. Alle erforderliche Quellen durchgearbeitet sind?
-2.  
- - Markdown 
-Logo interaktive 
+### Ergebnisse darstellen
+
+Du kannst das Resultat zum Beispiel mit [Markdown](https://www.markdownguide.org/) 
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png)
+
+
 [Link zum Tutorium](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-https://www.markdownguide.org/
-Vlt Video 
-Beispiel des Codes 
+
+
+
 
 
