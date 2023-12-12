@@ -2,6 +2,8 @@
 
 ![](https://i10.fotocdn.net/s124/8262823067b29034/public_pin_l/2827169398.jpg)
 
+Nationalbibliothek der Tschechischen Republik
+
 ## Definition des zu lösenden Problem
 
 ### 1. Fragen formulieren
