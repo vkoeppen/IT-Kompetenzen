@@ -1,7 +1,7 @@
 <!--
 language: de
 date: **24/11/23**
-author: **Maria Schendel**
+author: **Maria Schendel, Tom Hornemann**
 narrator: Deutsch Female
 comment: **Thema: Notizen in einer Powerpoint**
 
@@ -42,7 +42,9 @@ comment: **Thema: Notizen in einer Powerpoint**
 - **2.3 Lösung als Videoansicht**
 
 {{3}} **3. Erstellen von Animationen**
+
    - **3.1 Animation von Bildern und Textfeldern**
+     
    - **3.2 Animation von Übergängen zwischen Folien**
 
 {{3}} **3. Quellen**
@@ -177,13 +179,27 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 
 1.Video: [Link zum Tutorial](https://www.microsoft.com/de-de/videoplayer/embed/RWfkz0?pid=ocpVideo1-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&reporting=true&market=de-de)
 
-### 3. Erstellen von Animationen
+## 3. Erstellen von Animationen
 
-##### 3.1 Animation von Bildern und Textfeldern
+#### 3.1 Animation von Bildern und Textfeldern
 
-1. Headline Punkt "Animationen" anklicken
+   - Headline Punkt "Animationen" anklicken
+   
    - links sind vorgeschlagene Animationen angezeigt
-   - 
+  
+   - Textfeld oder Bild anklicken un gewünschte Animation auswählen
+  
+   - optional Reihenfolge der Animation hinzufügen
+
+  ![ppt.jpg](https://cdn1.participoll.com/wp-content/uploads/2021/01/03123303/Leanne-screenshot-5.jpg)
+
+
+#### 3.2 Animation/Übergänge zwischen Folien
+
+
+
+
+ ![ppt.jpg](https://www.wirliebenoffice.de/images/content/tutorials/powerpoint/008-folienubergang-einfugen.png)
 
 
 # Quellen
