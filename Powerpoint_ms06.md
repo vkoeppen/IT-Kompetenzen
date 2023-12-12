@@ -41,6 +41,10 @@ comment: **Thema: Notizen in einer Powerpoint**
 
 - **2.3 Lösung als Videoansicht**
 
+{{3}} **3. Erstellen von Animationen**
+   - **3.1 Animation von Bildern und Textfeldern**
+   - **3.2 Animation von Übergängen zwischen Folien**
+
 {{3}} **3. Quellen**
 
 
@@ -172,6 +176,14 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 ??[Tutorial](https://www.microsoft.com/de-de/videoplayer/embed/RWfkz0?pid=ocpVideo1-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&reporting=true&market=de-de " ")
 
 1.Video: [Link zum Tutorial](https://www.microsoft.com/de-de/videoplayer/embed/RWfkz0?pid=ocpVideo1-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&reporting=true&market=de-de)
+
+### 3. Erstellen von Animationen
+
+##### 3.1 Animation von Bildern und Textfeldern
+
+1. Headline Punkt "Animationen" anklicken
+   - links sind vorgeschlagene Animationen angezeigt
+   - 
 
 
 # Quellen
