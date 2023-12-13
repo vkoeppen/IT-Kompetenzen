@@ -19,7 +19,7 @@ import:   https://github.com/liascript/CodeRunner
 ---
 #### 1. Was sind eigentlich soziale und kommunikative  Kompetenzen?
 "Sozial-kommunikative Kompetenz ist die Fähigkeit, sich aus eigenem Antrieb mit anderen zusammen- und auseinanderzusetzen sowie kreativ zu kooperieren und zu kommunizieren. Menschen mit hoher sozial-kommunikativer Kompetenz verstehen andere Menschen und können sich selbst verständlich machen."
-      - https://www.kodekonzept.com/wissensressourcen/kompetenzfelder/
+      https://www.kodekonzept.com/wissensressourcen/kompetenzfelder/
 
 ---
  #### Was gibt es für sozial-kommunikative Kompetenzen ?
@@ -43,10 +43,18 @@ import:   https://github.com/liascript/CodeRunner
 Zusammengefasst bedeutet es, ein hohes Engagement in sozialen Situationen zu besitzen und auch kommunikative Fähigkeiten anwenden zu können. Zu kommunikativen Fähigkeiten zählen, dass man Kompromisse schließen kann, Durchsetzungsvermögen besitzt und konstruktiv, effektiv sowie bewusst kommuniziert.
 ---
 ### 1.1. Quiz
-Was sind kommunikative Fähigkeiten?
+Was sind soziale und kommunikative Fähigkeiten?
 
--[(x)] Kompromisse schließen, Durchsetzungsvermögen, effektive Kommunikation
--[( )] bewusste Kommunikation, Streiten, sich nicht einbringen
--[( )] Sturrheit, konstruktive Kommunikation, Egoismus
+-[(x)] Konfliktlösung, Teamfähigkeit, Pflichtbewusstsein
+-[( )] Programmierung, Analyse, Pessimismus
+-[( )] Problemlösungsfähigkeit, Irrationalität, Sturheit 
 
+Warum sind soziale und kommunikative Fähigkeiten wichtig?
+-[( )] Für private Gespräche 
+-[(x)] Um effektiv zu kommunizieren und zu delegieren 
+-[(x)] Für Gruppenarbeiten und um Konflikte zu lösen 
 
+Was vermutest du, ist für eine effektive Gruppenarbeit wichtig?
+-[( )] Ignoranz gegenüber Teammitglieder
+-[( )] Kritik ohne Lösungsvorschläge
+-[(x)] offene Kommunikation und Zusammenarbeit 
