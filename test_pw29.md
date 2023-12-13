@@ -49,12 +49,16 @@ Was sind soziale und kommunikative Fähigkeiten?
 -[( )] Programmierung, Analyse, Pessimismus
 -[( )] Problemlösungsfähigkeit, Irrationalität, Sturheit 
 
+---
 Warum sind soziale und kommunikative Fähigkeiten wichtig?
+
 -[( )] Für private Gespräche 
 -[(x)] Um effektiv zu kommunizieren und zu delegieren 
 -[(x)] Für Gruppenarbeiten und um Konflikte zu lösen 
 
+---
 Was vermutest du, ist für eine effektive Gruppenarbeit wichtig?
+
 -[( )] Ignoranz gegenüber Teammitglieder
 -[( )] Kritik ohne Lösungsvorschläge
 -[(x)] offene Kommunikation und Zusammenarbeit 
