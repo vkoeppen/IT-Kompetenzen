@@ -11,18 +11,18 @@ Auf den nächsten Seiten wollen wir dir daher einen kurzen Einblick über einige
 
 ## Gliederung
 
-- **Formatierung**
-- **Einsetzen**
+- [**Formatierung**](#formatierung)
+- [**Einfügen**](#einfügen)
     -   *Bilder*
     -   *Tabelle*
     -   *Diagramme*
     -   *SmartArt*
-- **Inhaltsverzeichnis**
-- **Zitierung**
-- **Literaturverzeichnis**
-- **Layout**
-- **Überprüfung**
-- **Ansicht**
+- [**Inhaltsverzeichnis**](#inhaltsverzeichnis)
+- [**Zitierung**](#zitierung)
+- [**Literaturverzeichnis**](#literaturverzeichnis)
+- [**Layout**](#layout)
+- [**Überprüfung**](#überprüfung)
+- [**Ansicht**](#ansicht)
 
 ## Formatierung
 
@@ -34,8 +34,8 @@ Einer der ersten Schritte zum erstellen deines Dokuments, wird die Formatierung 
 
 ![alt](bilder/Formatierung_Formatvorlage.png)
 
-## Einsetzen
-###Bilder###
+## Einfügen
+### Bilder
 
 ![alt](bilder/word-einfuegen.png)
 
