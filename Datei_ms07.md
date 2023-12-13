@@ -9,6 +9,7 @@ narrator: deutsch Female
 -->
 
 # __Recherche__
+
 ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Schreiben_digital.png/653px-Schreiben_digital.png?20210824085240)
 Quelle:"Schreiben digital", Julian Kücklich, Lizenz: CC0 1.0, https://api.openverse.engineering/v1/images/e6e14a45-1a41-4b7e-98c8-22aa82293474/thumb/
 
@@ -41,11 +42,11 @@ Kreuze zutreffendes an:
 
 ## Wie recheriere ich?
 ---
-Im zweiten Schritt geht um das Recherchieren an sich. Das Sammeln von Informationen wird erleichtert, wenn man die Suche mit [Stich- und Schlagworten](https://www.hochschule-trier.de/hauptcampus/bibliothek/tutorial-informationskompetenz/suche-vorbereiten/suchstrategien/stich-und-schlagwoerter) eingrenzt. Um sich einen ersten Zugang zum Thema zu verschaffen, ist die __Online-Recherche__ hilfreich und kann einfach und schnell über diverse Suchmaschinen erfolgen...
+Im zweiten Schritt geht um das Recherchieren an sich. Das Sammeln von Informationen wird erleichtert, wenn man die Suche mit [Stich- und Schlagworten](https://www.hochschule-trier.de/hauptcampus/bibliothek/tutorial-informationskompetenz/suche-vorbereiten/suchstrategien/stich-und-schlagwoerter) eingrenzt. Um sich einen ersten Zugang zum Thema zu verschaffen, ist die __Online-Recherche__ hilfreich und kann einfach und schnell über diverse Suchmaschinen stattfinden...
 
 [Google](https://www.google.de/?hl=de)
 
-Hat man sich einen ersten Überblick verschafft oder noch nicht die passende Literatur gefunden, ist ein Gang in die __Bibliothek__ der nächste Schritt.
+Hat man sich einen ersten Überblick verschafft oder noch nicht die passende Literatur gefunden, kann die weitere Suche in der __Bibliothek__ erfolgen. Ein Besuch der örtlichen Bibliothek ist ebenso möglich wie die Nutzung der umfangreichen Online-Angebote. 
 
 [Bibliothek](https://www.fh-potsdam.de/campus-services/bibliothek)
 ---
