@@ -24,6 +24,10 @@ Auf den nächsten Seiten (In unserem Dokument) wollen wir Ihnen daher einen kurz
 - **Überprüfung**
 - **Ansicht**
 
+## Formatierung
+
+Einer der ersten Schritte zum erstellen ihres Dokuments, wird die Formatierung sein. Bei **Start** finden sie alle nötigen Funktionen um die Grundlagen für ihre Arbeit festzulegen. Dazu gehören unteranderem Absätze, Formatvorlagen und die Schrift selbst.
+
 ## Einsetzen
 **Bilder**
 
