@@ -31,7 +31,7 @@ import:   https://github.com/liascript/CodeRunner
  * Pflichtbewusstsein
  * Problemlösungsfähigkeit
  * Teamfähigkeit
- * Verständnisfähigkei
+ * Verständnisfähigkeit
 
 ##### Fülle die Tabelle aus und trage ein, welche Kompetenzen dir liegen und welche nicht!
 

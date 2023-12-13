@@ -21,6 +21,25 @@ import:   https://github.com/liascript/CodeRunner
 "Sozial-kommunikative Kompetenz ist die Fähigkeit, sich aus eigenem Antrieb mit anderen zusammen- und auseinanderzusetzen sowie kreativ zu kooperieren und zu kommunizieren. Menschen mit hoher sozial-kommunikativer Kompetenz verstehen andere Menschen und können sich selbst verständlich machen."
       - https://www.kodekonzept.com/wissensressourcen/kompetenzfelder/
 
+
+ #### Was gibt es für sozial-kommunikative Kompetenzen ?
+ * Anpassungsfähigkeit 
+ * Beratungsfähigkeit
+ * Beziehungsmanagement
+ * Dialogfähigkeit
+ * Experimentierfähigkeit
+ * Gewissenhaftigkeit
+ * Integrationsfähigkeit
+ * Kommunikationsfähigkeit
+ * Konfliktlösungsfähigkeit
+ * Kooperationsfähigkeit
+ * Pflichtbewusstsein
+ * Problemlösungsfähigkeit
+ * Teamfähigkeit
+ * Verständnisfähigkeit
+
+
+
 Zusammengefasst bedeutet es, ein hohes Engagement in sozialen Situationen zu besitzen und auch kommunikative Fähigkeiten anwenden zu können. Zu kommunikativen Fähigkeiten zählen, dass man Kompromisse schließen kann, Durchsetzungsvermögen besitzt und konstruktiv, effektiv sowie bewusst kommuniziert.
 ---
 ### 1.1. Quiz
