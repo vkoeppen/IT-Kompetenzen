@@ -58,6 +58,8 @@ Den dazugehörigen Punkt findest Du in der oberen Leiste bei **Einfügen** > **D
 
 ![alt](bilder/Diagramme_Word.png)
 
+Hat man sich für ein Diagramm entschieden, öffnet sich eine zusätzliche Excel Tabelle. In der du deine Forschungsdaten eintragen kannst. Diese werden dann im Diagramm veranschaulicht.
+
 ![alt](bilder/DiagrammmitExel.png)
 
 **SmartArt**
