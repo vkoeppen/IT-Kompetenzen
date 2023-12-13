@@ -1,6 +1,12 @@
 # Recherche 
 
-![](https://i10.fotocdn.net/s124/8262823067b29034/public_pin_l/2827169398.jpg)
+
+![image](https://i10.fotocdn.net/s124/8262823067b29034/public_pin_l/2827169398.jpg)<!--
+style="width: 20%; max-width: 200px"
+title="ein beliebiges Bild"
+onclick="alert('It started with a click!');"
+-->
+
 
 Nationalbibliothek der Tschechischen Republik
 
