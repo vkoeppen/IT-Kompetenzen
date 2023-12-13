@@ -17,9 +17,8 @@ Zu den Kompetenzen, die für das Studium besonders wichtig sind, zählt die **Re
 {{4}} * Wie kann ich die gefundenen Quellen bewerten?
 {{5}} * Quellenangaben
 
----
 
-> **Um überhaupt recherchieren zu können, sollte man natürlich auch die Sprache verstehen. Falls deutsch nicht deine Muttersprache ist, hier ein Tipp: [Übersetzer Deeple](https://www.deepl.com/de/translator)**
+{{6}}> **Um überhaupt recherchieren zu können, sollte man natürlich auch die Sprache verstehen. Falls deutsch nicht deine Muttersprache ist, hier ein Tipp: [Übersetzer Deeple](https://www.deepl.com/de/translator)**
 
 
 ## Was ist das Ziel meiner Recherche?
@@ -35,20 +34,22 @@ Kreuze zutreffendes an:
 [[x]] Aktivierung des Vorwissens
 [[x]] Bestimmung der erforderlichen Informationen
 
-> **Tipp: Fragen formulieren** 
+> **Tipp: Fragen formulieren mithilfe von** 
 [Online Synonym-Wörterbuch](https://synonyme.woxikon.de/)
 
 [ChatGPT](https://chat.openai.com/auth/login) oder [Phind](phind.com)
 
 ## Wie recheriere ich?
 ---
-Im zweiten Schritt geht um das Recherchieren an sich. Das Sammeln von Informationen wird erleichtert, wenn man die Suche mit [Stich- und Schlagworten](https://www.hochschule-trier.de/hauptcampus/bibliothek/tutorial-informationskompetenz/suche-vorbereiten/suchstrategien/stich-und-schlagwoerter) eingrenzt. Um sich einen ersten Zugang zum Thema zu verschaffen, ist die __Online-Recherche__ hilfreich und kann einfach und schnell über diverse Suchmaschinen stattfinden...
+Im zweiten Schritt geht um das Recherchieren an sich. Das Sammeln von Informationen wird erleichtert, wenn man die Suche mit [Stich- und Schlagworten](https://www.hochschule-trier.de/hauptcampus/bibliothek/tutorial-informationskompetenz/suche-vorbereiten/suchstrategien/stich-und-schlagwoerter) eingrenzt.
 
 | Stichwort | Schlagwort|
 |--------|--------|
 |charakteristisches, sinntragendes Wort aus dem Sachtitel oder aus dem Zusatz zum Sachtitel | möglichst kurzer, genauer und vollständiger Ausdruck für den Inhalt eines Werkes |
-|  kann, aber muss nicht mit Schlagwort übereinstimmen | - aus Buchtitel - häufig unabhängig vom Titel gebildet - genormter Fachbegriff |
-|  Suche im Feld „Titel“ oder auch “Freie Suche“ „Alle Wörter“ o.ä. |  Suche im Feld „Schlagwort“ |
+| kann, aber muss nicht mit Schlagwort übereinstimmen | - aus Buchtitel - häufig unabhängig vom Titel gebildet - genormter Fachbegriff |
+|  Suche im Feld „Titel“ oder auch “Freie Suche“ „Alle Wörter“ o.ä. | Suche im Feld „Schlagwort“ |
+
+ Um sich einen ersten Zugang zum Thema zu verschaffen, ist die __Online-Recherche__ hilfreich und kann einfach und schnell über diverse Suchmaschinen stattfinden...
 
 
 [Google](https://www.google.de/?hl=de)
