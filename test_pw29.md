@@ -62,3 +62,5 @@ Was vermutest du, ist für eine effektive Gruppenarbeit wichtig?
 -[( )] Ignoranz gegenüber Teammitglieder
 -[( )] Kritik ohne Lösungsvorschläge
 -[(x)] offene Kommunikation und Zusammenarbeit 
+
+### Wichtige soziale und kommunikative Kompetenzen für das Studium anhand einer Gruppenarbeit 
