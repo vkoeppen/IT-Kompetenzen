@@ -15,6 +15,7 @@ narrator: Deutsch Female
  {{|>}}
 Creative Commons besteht aus sechs __Lizenzmodellen__, die Lizenzverträge darstellen, aus denen der Urheber eines Werks wählen kann. Der Unterschied zwischen diesen Lizenzmodellen besteht in der __Art und Anzahl der Rechte__, die eine Lizenz einem Nutzer einräumt.
 
+{{|>}}
 So unterscheidet sich beispielsweise die _Bedingungslose Lizenz_ von der _Attribution NonCommercial ShareAlike_, insofern, dass sie einem Nutzer mehr Rechte einräumt.
 
 __Die Fragen, die eine Lizenz einem Nutzer beantwortet, sind also folgende:__
