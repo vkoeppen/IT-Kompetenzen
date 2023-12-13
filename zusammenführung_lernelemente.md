@@ -20,9 +20,9 @@ and here
 ## Test
 
 <!---
-Konventionen fuer das Hinzufuegen von neuen Lernelementen StrCStrV
-vorher zu den Ueberschriften ein weiteres  hinzufuegen
-bitte nur Lernelemente an die Orte setzen die wir mit Kommentaren markiert haben
+Konventionen fuer das Hinzufuegen von neuen Lernelementen StrCStrV:
+vorher zu den Ueberschriften ein weiteres Hashtag hinzufuegen
+bitte nur Lernelemente unter die Kommentare setzte, die die richtigen Orte markieren
 -->
 
 <!---
