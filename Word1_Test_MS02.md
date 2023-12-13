@@ -95,6 +95,7 @@ Das zitieren von Zitaten oder Textabschnitten ist für viele Studenten eine der 
 
 ## Layout
 
+
 ![alt](bilder/Layout.png)
 
 ## Überprüfung
