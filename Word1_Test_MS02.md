@@ -29,7 +29,9 @@ Auf den nächsten Seiten wollen wir Ihnen daher einen kurzen Einblick über eini
 Einer der ersten Schritte zum erstellen ihres Dokuments, wird die Formatierung sein. Bei **Start** finden sie alle nötigen Funktionen um die Grundlagen für ihre Arbeit festzulegen. Dazu gehören unteranderem Absätze, Formatvorlagen und die Schrift selbst.
 
 ![alt](bilder/Formatierung_Schriftart.png)
+
 ![alt](bilder/Formatierung_Absatz.png)
+
 ![alt](bilder/Formatierung_Formatvorlage.png)
 
 ## Einsetzen
