@@ -33,7 +33,7 @@ Nationalbibliothek der Tschechischen Republik
 | Stichwort | Schlagwort|
 |--------|--------|
 |charakteristisches, sinntragendes Wort aus dem Sachtitel oder aus dem Zusatz zum Sachtitel | möglichst kurzer, genauer und vollständiger Ausdruck für den Inhalt eines Werkes |
-|  kann, aber muss nicht mit Schlagwort übereinstimmen |  aus Buchtitel  häufig unabhängig vom Titel gebildet  genormter Fachbegriff |
+|  kann, aber muss nicht mit Schlagwort übereinstimmen | - aus Buchtitel - häufig unabhängig vom Titel gebildet - genormter Fachbegriff |
 |  Suche im Feld „Titel“ oder auch “Freie Suche“ „Alle Wörter“ o.ä. |  Suche im Feld „Schlagwort“ |
 
 **Nützliche Linke**
