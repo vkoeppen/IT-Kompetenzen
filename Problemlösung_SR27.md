@@ -1,9 +1,33 @@
 # Problemlösung
-(Einleitung)
 
-(Gliederung?)
+Während des Studiums wird es gelegentlich zu Problemen kommen, die es lösen gelten wird. Ein paar Hilfestellungen dazu findet man hier. 
 
-Vorgang:
+## Inhaltangabe
+
+1. Kompetenzen 
+
+2. Vorgehensweise 
+
+3. Problemlösungsstrategien 
+
+4. Stolperfallen 
+
+Vorgang, Kompetenzen, Problemlösungsstrategien, Stolperfallen, Hilfesuche?/nur Fh?/ oft vorkommende Problemme am Anfang des Studiums 
+
+### 1.benötigte Kompetenzen 
+
+- analytisches Denken
+
+- Kreativität
+
+- Teamwork
+
+- Erfahrung
+
+- Lernwilligkeit
+
+
+### 2.Vorgehensweise 
 
 1. Identifizierung des Problems
 
@@ -13,23 +37,30 @@ Vorgang:
 
 4. Umsetzung des Plans 
 
-(Problemlösungsstrategien)           
+### 3.Problemlösungsstrategien           
 
-1. **try-and-error**: Probieren und scheitern, aus den Fehlern lernen, neue Lösungswege probieren
+**try-and-error**: Probieren und scheitern, aus den Fehlern lernen, neue Lösungswege probieren
 
-2. **Brainstorming**: schnelles Sammeln von möglichst vielen Vorschlägen, in der Hoffnung, dass einer der Vorschläge sinnvoll ist
+**Brainstorming**: schnelles Sammeln von möglichst vielen Vorschlägen, in der Hoffnung, dass einer der Vorschläge sinnvoll ist
 
-3. **Ursachenanalyse**: Problem analysieren und Ursache finden, dann gezielt Wurzel behandeln
+**Ursachenanalyse**: Problem analysieren und Ursache finden, dann gezielt Wurzel behandeln
 
-4. **Entscheidungsanalyse**: unterschiedliche Lösungswege gegeneinander abwägen 
+**Entscheidungsanalyse**: unterschiedliche Lösungswege gegeneinander abwägen 
 
-5. **Unterschiedsreduktion/Bergsteigermethode**: langsames, stufenweises hinarbeiten zum Erzebniss
+**Unterschiedsreduktion/Bergsteigermethode**: langsames, stufenweises hinarbeiten zum Ergebnis
 
-6. **Mittel-Ziel-Analyse**
+### 4.Stoperfallen 
 
-7. **Analogiebildung**
+Während der Lösung eines Problems kann es natürlich auch zu Schwierigkeiten kommen (dass man ein Problem zu lösen hat ist ja auch schon eine Schwierigkeit). Teilweise sind diese extern, so wenn ein bestimmter Schritt im Lösungsprozzes von einer anderen Person gemacht werden muss, unund teilweise intern. 
+
+Notfallreaktion, in Sackgasse gearbeitet, Angst um Hilfestellung zu fragen 
 
 (Hilfe zur Internetrecherche)
+
+(oft vorkommende Fragen in der ersten Zeit)
+
+Prüfungen
+Campuskarte
 
 (wichtige Kontakte der fhp)
 IT
