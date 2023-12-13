@@ -24,7 +24,7 @@ Auf den nächsten Seiten wollen wir dir daher einen kurzen Einblick über einige
 - [**Überprüfung**](#überprüfung)
 - [**Ansicht**](#ansicht)
 
-## Formatierung
+### Formatierung
 
 Einer der ersten Schritte zum erstellen deines Dokuments, wird die Formatierung sein. Bei **Start** findest du alle nötigen Funktionen um die Grundlagen für ihre Arbeit festzulegen. Dazu gehören unteranderem Absätze, Formatvorlagen und die Schrift selbst.
 
@@ -34,8 +34,11 @@ Einer der ersten Schritte zum erstellen deines Dokuments, wird die Formatierung 
 
 ![alt](bilder/Formatierung_Formatvorlage.png)
 
-## Einfügen
-### Bilder
+### Einfügen
+
+Auf den nachfolgenden Seiten findst Du Informationen wie man einzelne Elemente in dein Word-Dokument einfügen kann. 
+
+## Bilder
 
 ![alt](bilder/word-einfuegen.png)
 
@@ -45,12 +48,12 @@ Bilder werden eingefügt, indem in der oberen Leiste auf Bilder klickst. Daraufh
 
 Zuerst öffnet sich der Dateiordner. Dort wird die Datei mit dem gewünschten Bild ausgewählt und geöffnet. 
 
-**Tabelle**
+## Tabelle
 
 Tabellen werden eingefügt, indem auf die oberen Leiste bei **Einfügen** auf die **Tabellen** geklickt wid. Dauraufhin öffnet sich ein Tab, bei welchem du die Anzahl deiner Spalten und Zeilen auswählen musst.
 Danach besteht die Möglichkeit durch Klick auf die Tabelle weitere Spalten und Zeilen hinzuzufügen. Zudem öffnet eine neue Option in der Leiste *Format*, dort können Farbe der Tabelle angepasst werden.
 
-**Diagramme**
+## Diagramme
 
 Die grafische Darstellung von Daten oder Informationen, kann unter Umständen in deiner wissenschaftlichen Arbeit den Sachverhalt besser veranschaulichen. 
 **Achte jedoch auf eine simple Gestaltung**
@@ -62,7 +65,7 @@ Hat man sich für ein Diagramm entschieden, öffnet sich eine zusätzliche Excel
 
 ![alt](bilder/DiagrammmitExel.png)
 
-**SmartArt**
+## SmartArt
 
 SmartArt ermöglicht eine visuelle Darstellung von Informationen und Bildern. Um sich eine SmartArt-Grafik zu erstellen und anschließend zu verwenden, muss man in der oberen Leiste bei **Einfügen** > **SmartArt** klicken. Tut man dies, so öffnet sich ein Fenster mit vielen verschiedenen Auswahlmöglichkeiten, um seine Informationen perfekt für sich darstellen zu lassen.
 
@@ -74,14 +77,14 @@ Sei es durch Farbe, eine andere Formatvorlage oder zusätzliche Formen.
 ![alt](bilder/SmartArt-Design.PNG)
 
 
-## Inhaltsverzeichnis
+### Inhaltsverzeichnis
 
 Um sich das erstellen oder anpassen eines Inhaltsverzeichnis zu erleichtern, hat Word eine nützliche Funktion für dich.
 Wechselt in der oberen Leiste zu **Referenzen** dort findest du ganz links die Funktion ein Inhaltsverzeichnis zu erstellen oder bei Bedarf zu aktualisieren. Damit spart man sich Zeit und vermeidet eventuelle Fehlern beim Schreiben eines Inhaltsverzeichnis. Um seinen Text dem Inhalstverzeichnis hinzuzufügen, muss man auf *Text einfügen* klicken. 
 
 ![alt](bilder/Inhaltsverzeichnis1.PNG)
 
-## Zitierung
+### Zitierung
 
 Das zitieren von Zitaten oder Textabschnitten ist für viele Studenten eine der Königsdisziplinen beim erstellen ihrer wissenschaftlichen Arbeiten. Wenn man bei Word jedoch in der oberen Zeile auf **Referenzen** geht, findet man die Funktion *Zitat einfügen*. Mit den zusätzlichen Funktion *Formatvorlage*, kann man sich einfach und übersichtlich ein Zitat mit einer direkten Verlinkung zum Inhaltsverzeichnis erstellen.
 
@@ -90,18 +93,18 @@ Das zitieren von Zitaten oder Textabschnitten ist für viele Studenten eine der 
 > [!TIP]
 > Eine Empfehlung für eine Formatvorlage beim zitieren, wäre Chicago.
 
-## Literaturverzeichnis
+### Literaturverzeichnis
 
 
-## Layout
+### Layout
 
 
 ![alt](bilder/Layout.png)
 
-## Überprüfung
+### Überprüfung
 
 ![alt](bilder/Ueberpruefen.png)
 
-## Ansicht
+### Ansicht
 
 ![alt](bilder/Ansicht.png)
