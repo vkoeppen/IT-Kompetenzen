@@ -15,7 +15,7 @@ Auf den nächsten Seiten wollen wir Ihnen daher einen kurzen Einblick über eini
 - **Einsetzen**
     -   *Bilder*
     -   *Tabelle*
-    -   *Grafiken*
+    -   *Diagramme*
     -   *SmartArt*
 - **Inhaltsverzeichnis**
 - **Zitierung**
@@ -50,9 +50,11 @@ Zuerst öffnet sich der Dateiordner. Dort wird die Datei mit dem gewünschten Bi
 Tabellen werden eingefügt, indem auf die oberen Leiste bei **Einfügen** auf die **Tabellen** geklickt wid. Dauraufhin öffnet sich ein Tab, bei welchem du die Anzahl deiner Spalten und Zeilen auswählen musst.
 Danach besteht die Möglichkeit durch Klick auf die Tabelle weitere Spalten und Zeilen hinzuzufügen. Zudem öffnet eine neue Option in der Leiste *Format*, dort können Farbe der Tabelle angepasst werden.
 
-**Grafiken**
+**Diagramme**
 
-...
+Die grafische Darstellung von Daten oder Informationen, kann unter Umständen in deiner wissenschaftlichen Arbeit den Sachverhalt besser veranschaulichen. 
+**Achte jedoch auf eine simple Gestaltung**
+Den dazugehörigen Punkt findest Du in der oberen Leiste bei **Einfügen** > **Diagramme**. Damit sollte sich ein neues Fenster mit den unterchiedlichsten Diagrammen öffen. 
 
 **SmartArt**
 
