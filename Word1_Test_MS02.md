@@ -35,7 +35,7 @@ Einer der ersten Schritte zum erstellen deines Dokuments, wird die Formatierung 
 ![alt](bilder/Formatierung_Formatvorlage.png)
 
 ## Einsetzen
-**Bilder**
+###Bilder###
 
 ![alt](bilder/word-einfuegen.png)
 
