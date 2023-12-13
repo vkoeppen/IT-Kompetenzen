@@ -56,6 +56,10 @@ Die grafische Darstellung von Daten oder Informationen, kann unter Umständen in
 **Achte jedoch auf eine simple Gestaltung**
 Den dazugehörigen Punkt findest Du in der oberen Leiste bei **Einfügen** > **Diagramme**. Damit sollte sich ein neues Fenster mit den unterchiedlichsten Diagrammen öffen. 
 
+![alt](bilder/Diagramme_Word.png)
+
+![alt](bilder/DiagrammmitExel.png)
+
 **SmartArt**
 
 SmartArt ermöglicht eine visuelle Darstellung von Informationen und Bildern. Um sich eine SmartArt-Grafik zu erstellen und anschließend zu verwenden, muss man in der oberen Leiste bei **Einfügen** > **SmartArt** klicken. Tut man dies, so öffnet sich ein Fenster mit vielen verschiedenen Auswahlmöglichkeiten, um seine Informationen perfekt für sich darstellen zu lassen.
@@ -88,6 +92,12 @@ Das zitieren von Zitaten oder Textabschnitten ist für viele Studenten eine der 
 
 ## Layout
 
+![alt](bilder/Layout.png)
+
 ## Überprüfung
 
+![alt](bilder/Ueberpruefen.png)
+
 ## Ansicht
+
+![alt](bilder/Ansicht.png)
