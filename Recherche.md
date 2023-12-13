@@ -1,3 +1,13 @@
+
+<!--
+
+author:   Maria Bogdanovich, Melina Stindt
+version:  0.0.1
+language: de
+narrator: deutsch Female 
+
+-->
+
 # __Recherche__
 
 ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Schreiben_digital.png/653px-Schreiben_digital.png?20210824085240)
@@ -9,7 +19,7 @@ Zu den Kompetenzen, die für das Studium besonders wichtig sind, zählt die **Re
 
 ---
 ## __Richtig recherchieren__
- Der Ablauf
+ Der Ablauf einer Recherche
 ---
 {{1}} * Was ist das Ziel meiner Recherche?   
 {{2}} * Wie recheriere ich?
