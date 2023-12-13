@@ -1,8 +1,19 @@
+<!--
+
+author:   Veit Köppen
+email:    veit.koeppen@fh-potsdam.de
+version:  0.0.1
+language: de
+narrator: Deutsch Female
+
+import:   https://github.com/liascript/CodeRunner
+
+-->
 # Recherche 
 
 
 ![image](https://i10.fotocdn.net/s124/8262823067b29034/public_pin_l/2827169398.jpg)<!--
-style="width: 20%; max-width: 200px"
+style="width: 50%; max-width: 200px"
 title="ein beliebiges Bild"
 onclick="alert('It started with a click!');"
 -->
