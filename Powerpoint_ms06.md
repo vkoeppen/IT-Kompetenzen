@@ -183,6 +183,9 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 
 
 
+[IMG_3004.jpg]([IMG_3004.jpg](https://embed-ssl.wistia.com/deliveries/495e6ff8a0d973e9c08066e811bbeb25.jpg))
+
+
 ## 3. Erstellen von Animationen
 
 #### 3.1 Animation von Bildern und Textfeldern
@@ -197,7 +200,7 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 
    - Tipp: benutzt die Reihenfolge von Animationen um bestimmte Texte oder Bilder beim Präsentieren stück für stück einfliegen zu       lassen
 
-  ![ppt.jpg](https://cdn1.participoll.com/wp-content/uploads/2021/01/03123303/Leanne-screenshot-5.jpg)
+  ![ppt.jpg](CSS-Animationen-CAMAO-TEC)
 
   [5. Abbildung](https://cdn1.participoll.com/wp-content/uploads/2021/01/03123303/Leanne-screenshot-5.jpg)
 
