@@ -67,6 +67,18 @@ Im zweiten Schritt geht um das Recherchieren an sich. Das Sammeln von Informatio
 Hat man sich einen ersten Überblick verschafft oder noch nicht die passende Literatur gefunden, kann die weitere Suche in der __Bibliothek__ erfolgen. Ein Besuch der örtlichen Bibliothek ist ebenso möglich wie die Nutzung der umfangreichen Online-Angebote. 
 
 [Bibliothek](https://www.fh-potsdam.de/campus-services/bibliothek)
+
+ Datenbanken, Repositorien, Zeitschriftendatenbanken
+
+
+
+[Kataloge, Datenbanken](https://www.bib-info.de/berufspraxis/fundgrube-internet/recherche/kataloge-datenbanken)
+
+
+![](https://upload.wikimedia.org/wikipedia/de/7/73/Digizeitschriften_logo.jpg)
+
+[Das deutsche digitale Zetschriftenarchiv](https://www.digizeitschriften.de/)
+
 ---
 > **Weiterer Tipp: Boolesche Operatoren**
 
