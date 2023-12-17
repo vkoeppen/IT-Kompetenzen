@@ -1,13 +1,13 @@
 <!--
 language: de
-date: **24/11/23**
-author: **Maria Schendel, Tom Hornemann**
+date: **Erstellung:** 24/11/23
+author: **Von:** Maria Schendel, Tom Hornemann
 narrator: Deutsch Female
-comment: **Thema: Notizen in einer Powerpoint und Erstellen von Animationen**
+comment: **Thema:** Notizen und Erstellen von Animationen in einer Powerpoint 
 
 -->
 
-# Powerpoint
+### <center>Powerpoint</center>
 @date
 
 
@@ -23,7 +23,7 @@ comment: **Thema: Notizen in einer Powerpoint und Erstellen von Animationen**
 
 [1. Abbildung](https://play.google.com/store/apps/details?id=com.microsoft.office.powerpoint&hl=de)
 
-### Inhaltsverzeichnis
+### <center>Inhaltsverzeichnis</center>
 {{1}} **1. Einstieg**
 
 - **1.1 Festlegung der Kompetenz**
@@ -43,7 +43,7 @@ comment: **Thema: Notizen in einer Powerpoint und Erstellen von Animationen**
 
 - **2.3 Lösung als Videoansicht**
 
-{{3}} **3. Erstellen von Animationen**
+{{3}} **3. Anwendung eines zweiten Lernelements**
 
 - **3.1 Animation von Bildern und Textfeldern**
    
@@ -59,7 +59,7 @@ Für viele Studiumsbereiche sind gängige Programme, wie Microsoft-Programme not
 
 Die Festlegung der Kompetenzen im Bereich Softwareanwendungen, die im Kurs; _"Welche IT-Kompetenzen sind vorhanden oder müssen geschult werden"_, sind unter anderem; **Word**, **Excel** und **Powerpoint**.  
 
-Im folgendem Beitrag habe ich mich mit der Kompetenz **"Powerpoint"** auseinander gesetzt und mich auf ein bestimmtes Thema reduziert.  
+Im folgendem Beitrag haben wir uns mit der Kompetenz **"Powerpoint"** auseinander gesetzt und uns jeweils auf ein bestimmtes Thema reduziert.  
 
 ---
 
@@ -95,26 +95,31 @@ Präsentationsprogramm von Microsoft
 - Durch die Anwendung der Sprechernotizen und der Referenzansicht, während der Präsentation, können Karteikarten vermieden werden.
 
 - Zu beachten; 
-Stichpunkte müssen lesbar, prägnant und kurz den Inhalt wiedergeben 
+
+  - Stichpunkte müssen lesbar, prägnant und kurz den Inhalt wiedergeben 
 
 
 
-### 2. Anwendung eines Lernelements
+### <center> 2. Anwendung eines Lernelements </center>
+<center> **Einfügen von Sprechernotizen in einer Powerpoint** </center>
+
 ---
 
-_Einfügen von Sprechernotizen in einer Powerpoint_
 
-![Abbildung2](https://support.content.office.net/de-de/media/9a7ee826-15f3-4422-88df-e3c86ed28e76.png)
+![Abbildung 2](https://support.content.office.net/de-de/media/9a7ee826-15f3-4422-88df-e3c86ed28e76.png)
 
 [2. Abbildung](https://support.microsoft.com/de-de/office/hinzuf%C3%BCgen-von-sprechernotizen-zu-folien-26985155-35f5-45ba-812b-e1bd3c48928e#:~:text=Klicken%20Sie%20im%20Men%C3%BC%20Ansicht,Sie%20den%20gew%C3%BCnschten%20Notizentext%20ein)
 
-- Notiz-Symbol neben Anzeigeeinstellungen oder wie in dem Beispiel neben Kommentare
+- Notiz-Symbol neben Anzeigeeinstellungen, oder wie in dem Beispiel vorgezeigt; neben Kommentare
 
 
-##### 2.1 Während der Bildschirmpräsentation Notizen einsehbar
+##### 2.1 Referenzansicht
+
+**Während der Bildschirmpräsentation Notizen einsehbar**
+
 ---
 
-_**Unter:**_ 
+**Unter:**
 <lia-keep>
 <!DOCTYPE html>
 <html>
@@ -158,8 +163,8 @@ _**Unter:**_
 
 ---
 
-**_Beispiel:_**
-![Abbildung3](https://support.content.office.net/de-de/media/ad074b3d-78e1-45d2-a514-c990d04818fd.png)
+**Beispiel:**
+![Abbildung 3](https://support.content.office.net/de-de/media/ad074b3d-78e1-45d2-a514-c990d04818fd.png)
 
 [3. Abbildung](https://support.microsoft.com/de-de/office/hinzuf%C3%BCgen-von-sprechernotizen-zu-folien-26985155-35f5-45ba-812b-e1bd3c48928e#:~:text=Klicken%20Sie%20im%20Men%C3%BC%20Ansicht,Sie%20den%20gew%C3%BCnschten%20Notizentext%20ein)
 
@@ -172,8 +177,7 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 
 [4. Abbildung](https://support.microsoft.com/de-de/office/hinzuf%C3%BCgen-von-sprechernotizen-zu-folien-26985155-35f5-45ba-812b-e1bd3c48928e#:~:text=Klicken%20Sie%20im%20Men%C3%BC%20Ansicht,Sie%20den%20gew%C3%BCnschten%20Notizentext%20ein)
 
-
-
+---
 
 **2.3 Lösung als Videoansicht**
 
@@ -182,34 +186,39 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 1.Video: [Link zum Tutorial](https://www.microsoft.com/de-de/videoplayer/embed/RWfkz0?pid=ocpVideo1-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&reporting=true&market=de-de)
 
 
+### <center> 3. Anwendung eines zweiten Lernelements </center>
 
-[icon Animationen](https://embed-ssl.wistia.com/deliveries/495e6ff8a0d973e9c08066e811bbeb25.jpg)
+<center>**Erstellen von Animationen**</center>
 
+---
 
-## 3. Erstellen von Animationen
+![Abbildung 5](https://embed-ssl.wistia.com/deliveries/495e6ff8a0d973e9c08066e811bbeb25.jpg)
+
+[5. Abbildung](https://embed-ssl.wistia.com/deliveries/495e6ff8a0d973e9c08066e811bbeb25.jpg)
 
 #### 3.1 Animation von Bildern und Textfeldern
 
-   - Headline Punkt "Animationen" anklicken
+- Headline Punkt "Animationen" anklicken
    
-   - Zu animierendes Objekt auswählen
+- Zu animierendes Objekt auswählen
   
-   - unter "Animation hinzufügen" gewünschte Animation auswählen
+  - Unter "Animation hinzufügen" gewünschte Animation auswählen
   
-   - optional Reihenfolge der Animation hinzufügen
+  - Optional, Reihenfolge der Animation hinzufügen
 
-   - Tipp: benutzt die Reihenfolge von Animationen um bestimmte Texte oder Bilder beim Präsentieren stück für stück einfliegen zu       lassen
+  - Tipp: benutzt die Reihenfolge von Animationen um bestimmte Texte oder Bilder beim Präsentieren Stück für Stück einfliegen zu      lassen
 
-  ![ppt.jpg](CSS-Animationen-CAMAO-TEC)
 
-  [5. Abbildung](https://cdn1.participoll.com/wp-content/uploads/2021/01/03123303/Leanne-screenshot-5.jpg)
+![Abbildung 6](https://cdn1.participoll.com/wp-content/uploads/2021/01/03123303/Leanne-screenshot-5.jpg)
+
+[6. Abbildung](https://cdn1.participoll.com/wp-content/uploads/2021/01/03123303/Leanne-screenshot-5.jpg)
 
 
 #### 3.2 Animation/Übergänge zwischen Folien
 
    - Headline Punkt Übergänge auswählen
 
-   - empfohlene/beliebte Übergänge werden oben vorgeschlagen
+   - Empfohlene/beliebte Übergänge werden oben vorgeschlagen
 
    - Übergang auswählen
 
@@ -220,12 +229,12 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 
 
 
- ![ppt.jpg](https://www.wirliebenoffice.de/images/content/tutorials/powerpoint/008-folienubergang-einfugen.png)
+ ![Abbildung 7](https://www.wirliebenoffice.de/images/content/tutorials/powerpoint/008-folienubergang-einfugen.png)
 
- [6. Abbildung](https://www.wirliebenoffice.de/images/content/tutorials/powerpoint/008-folienubergang-einfugen.png)
+ [7. Abbildung](https://www.wirliebenoffice.de/images/content/tutorials/powerpoint/008-folienubergang-einfugen.png)
 
 
-# Quellen
+### <center>Quellen</center>
 ---
 **1.Quelle** 
 
