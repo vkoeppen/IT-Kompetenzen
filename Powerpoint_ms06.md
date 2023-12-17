@@ -183,7 +183,7 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 
 
 
-[IMG_3004.jpg]([IMG_3004.jpg](https://embed-ssl.wistia.com/deliveries/495e6ff8a0d973e9c08066e811bbeb25.jpg))
+[icon Animationen](https://embed-ssl.wistia.com/deliveries/495e6ff8a0d973e9c08066e811bbeb25.jpg)
 
 
 ## 3. Erstellen von Animationen
