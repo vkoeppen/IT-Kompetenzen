@@ -185,16 +185,28 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 
    - Headline Punkt "Animationen" anklicken
    
-   - links sind vorgeschlagene Animationen angezeigt
+   - Zu animierendes Objekt auswählen
   
-   - Textfeld oder Bild anklicken un gewünschte Animation auswählen
+   - unter "Animation hinzufügen" gewünschte Animation auswählen
   
    - optional Reihenfolge der Animation hinzufügen
+
+   - Tipp: benutzt die Reihenfolge von Animationen um bestimmte Texte oder Bilder beim Präsentieren stück für stück einfliegen zu       lassen
 
   ![ppt.jpg](https://cdn1.participoll.com/wp-content/uploads/2021/01/03123303/Leanne-screenshot-5.jpg)
 
 
 #### 3.2 Animation/Übergänge zwischen Folien
+
+   - Headline Punkt Übergänge auswählen
+
+   - empfohlene/beliebte Übergänge werden oben vorgeschlagen
+
+   - Übergang auswählen
+
+   - Übergäng wird im Präsentationsmodus beim start der Folie benutzt
+
+   - Tipp: Versuch nicht zu viele verschiedene Übergänge zu benutzen sondern sich auf 2/3 festzulegen
 
 
 
