@@ -3,7 +3,7 @@ language: de
 date: **24/11/23**
 author: **Maria Schendel, Tom Hornemann**
 narrator: Deutsch Female
-comment: **Thema: Notizen in einer Powerpoint**
+comment: **Thema: Notizen in einer Powerpoint und Erstellen von Animationen**
 
 -->
 
@@ -20,6 +20,8 @@ comment: **Thema: Notizen in einer Powerpoint**
 
 
 ![Abbildung1](https://play-lh.googleusercontent.com/6pTX4OILXTxazqad66oiVfG4x2KpYn4kIPgdzOe173tT0oHr2ThwpBhMyzzzxWq_r6M)
+
+[1. Abbildung](https://play.google.com/store/apps/details?id=com.microsoft.office.powerpoint&hl=de)
 
 ### Inhaltsverzeichnis
 {{1}} **1. Einstieg**
@@ -43,9 +45,9 @@ comment: **Thema: Notizen in einer Powerpoint**
 
 {{3}} **3. Erstellen von Animationen**
 
-   - **3.1 Animation von Bildern und Textfeldern**
-     
-   - **3.2 Animation von Übergängen zwischen Folien**
+- **3.1 Animation von Bildern und Textfeldern**
+   
+- **3.2 Animation von Übergängen zwischen Folien**
 
 {{3}} **3. Quellen**
 
@@ -63,14 +65,14 @@ Im folgendem Beitrag habe ich mich mit der Kompetenz **"Powerpoint"** auseinande
 
 **1.2 Fragestellung**
 
-Wie sehr beschäftigen Sie sich in Ihrem Berufs- oder Alltagsleben mit dem Programm Powerpoint?
+Wie sehr beschäftigst Du dich in Deinem Berufs- oder Alltagsleben mit dem Programm Powerpoint?
 
 
 [(genügend)(ausreichend)(gar nicht)]
 [                                  ] 
 
 
-**Begründen Sie**
+**Begründung**
 
 [[______   ___   ___   ______]]
 
@@ -179,6 +181,8 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 
 1.Video: [Link zum Tutorial](https://www.microsoft.com/de-de/videoplayer/embed/RWfkz0?pid=ocpVideo1-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&reporting=true&market=de-de)
 
+
+
 ## 3. Erstellen von Animationen
 
 #### 3.1 Animation von Bildern und Textfeldern
@@ -194,6 +198,8 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
    - Tipp: benutzt die Reihenfolge von Animationen um bestimmte Texte oder Bilder beim Präsentieren stück für stück einfliegen zu       lassen
 
   ![ppt.jpg](https://cdn1.participoll.com/wp-content/uploads/2021/01/03123303/Leanne-screenshot-5.jpg)
+
+  [5. Abbildung](https://cdn1.participoll.com/wp-content/uploads/2021/01/03123303/Leanne-screenshot-5.jpg)
 
 
 #### 3.2 Animation/Übergänge zwischen Folien
@@ -213,13 +219,11 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 
  ![ppt.jpg](https://www.wirliebenoffice.de/images/content/tutorials/powerpoint/008-folienubergang-einfugen.png)
 
+ [6. Abbildung](https://www.wirliebenoffice.de/images/content/tutorials/powerpoint/008-folienubergang-einfugen.png)
+
 
 # Quellen
 ---
-**1. Abbildung**
-
-- https://play.google.com/store/apps/details?id=com.microsoft.office.powerpoint&hl=de
-
 **1.Quelle** 
 
 - https://support.microsoft.com/de-de/office/hinzufügen-von-sprechernotizen-zu-folien-26985155-35f5-45ba-812b-e1bd3c48928e#:~:text=Klicken%20Sie%20im%20Menü%20Ansicht,Sie%20den%20gewünschten%20Notizentext%20ein
