@@ -2,11 +2,13 @@
 
 [...]
 
-### Wie erstellt man eine kompromierte ZIP-Datei?
+### Wie erstellt man eine kompromierte Datei?
 
-Im Studium begegnet einem immer wieder die Herausforderung, Dateien mit dem Lehrpersonal oder den eigenen Kommilitonen zu teilen. Um die Weiterleitung von mehreren Dateien zu erleichtern, besteht die Möglichkeit, eine ZIP-Datei zu erstellen. Eine ZIP-Datei umfasst mehrere Dateien in einem kompromierten Ordner, der ganz einfach mit anderen geteilt werden kann.
+{{|>}}
 
-Um eine ZIP-Datei oder ein ZIP-Archiv zu erstellen, gibt es verschiedene Möglichkeiten, die im Folgenden anhand von Windows und Mac OS behandelt werden sollen.
+Im Studium begegnet einem immer wieder die Herausforderung, Dateien mit dem Lehrpersonal oder anderen Studierenden zu teilen. Um die Weiterleitung von mehreren Dateien zu erleichtern, besteht die Möglichkeit, ein kompromiertes Archiv zu erstellen. Dieses Archiv kann mehrere Dateien ohne Qualitätsverlust in einem kompromierten Ordner umfassen, der ganz einfach mit anderen geteilt werden kann.
+
+Dateien können in verschiedenen Formaten komprimiert werden. Ein gängiges Format ist ZIP (aus dem Englischen "zipper" für Reißverschluss). Um ein ZIP-Archiv zu erstellen, gibt es verschiedene Möglichkeiten, die im Folgenden anhand von Windows und Mac OS behandelt werden sollen.
 
 #### Windows
 
