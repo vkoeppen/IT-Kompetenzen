@@ -76,13 +76,64 @@ Was vermutest du, ist für eine effektive Gruppenarbeit wichtig?
 ### Wichtige soziale und kommunikative Kompetenzen für das Studium anhand einer Gruppenarbeit 
 ![Abbildung](https://game-icons.net/icons/000000/ffffff/1x1/delapouite/discussion.png)
 
-#### Kleines Quiz- Was benötigt ein Team?
+#### Was versteht man unter einem Team?
+Ein Team besteht aus Menschen, die gemeinsam arbeiten, kooperieren und die Verantwortung teilen, um ein gemeinsames Ziel zu erreichen. 
+![Abbildung](https://gamepedia.cursecdn.com/halo_esports_gamepedia_en/3/3f/Unknown_Infobox_Image_-_Team.png)
+---
+#### Aufbau und Pflege des Teamgeists
+Für eine erfolgreiche Gruppenarbeit ist es wichtig, dass sich alle Teammitglieder als eine Einheit wahrnehmen und auch so agieren.
+
+Wichtige Elemente dafür sind:
+
+- Zielorientierung und Aufgabenverteilung
+- Teamrollen und Verantwortlichkeiten 
+- Zusammenhalt
+
+---
+Vorteile von Gruppenarbeiten im Studium
+
+- Erlernen von Teamfähigkeit und Kommunikation
+- vielfältige Blickwinkel auf Themen durch die Gruppenmitglieder
+- Stärkung der Gemeinschaft 
+
+---
+Welche Rollen gibt es in einer Gruppe?
+
+1. Funktionsrollen 
+      übernehmen Verantwortung für Aufgaben, wie z.B.Leitung, Protokollführung, Forschung 
+2. Fachliche Rollen 
+      Personen mit vielfältigen fachlichen Hintergünden 
+3. Sozialpsychologische Rollen
+      die Art wie sich ein Teammitglied einbringt (z.B. aktiv oder passiv)
+4. Soziale Rollen 
+      dient dazu Verhalten und Erwartungen in bestimmten sozialen Situationen zu definieren und zu beeinflussen 
+
+#### Was benötigt ein Team?
 
 [[x]] gemeinsames Ziel
-[[x]] mindestens eine Person die nicht arbeitet
+[[ ]] mindestens eine Person die nicht arbeitet
 [[x]] Klare Rollen und Aufgabenverteilung
-[[x]] 
-#### Welche Rollen gibt es in einer Gruppe?
+[[x]] Kommunikation
+
+---
+Übung zu Verhalten und Rollen innerhalb einer Gruppe
+
+Szenario 1
+
+Du bist Teil einer Gruppenarbeit in der Uni. Einer deiner Teamkollegen übernimmt die Leitung und teilt die Aufgaben gerecht auf. Wie reagierst du?
+
+[(x)] Du akzeptierst die Aufgabenverteilung und arbeitest engagiert an deiner zugewiesenen Aufgabe. 
+[( )] Du protestierst gegen die Aufgabenverteilung. 
+[( )] Du ignorierst die Aufgabenanweisung und erledigst sie nach deinem eigenen Wille. 
+
+Szenario 2 
+
+Deine Gruppe arbeitet an einem Projekt und es gibt unterschiedliche Meinungen darüber, welchen Ansatz ihr wählen sollt.
+Was tust du?
+
+[( )] Du ziehst dich zurück und überlässt die Entscheidung den anderen Gruppenmitgliedern.
+[( )] Du drängst darauf, deinen eigenen Ansatz durchzusetzen, da du ihn für den besten hältst.
+[(x)] Du versuchst, die verschiedenen Perspektiven zu verstehen, bevor eine gemeinsame Entscheidung getroffen wird.
 
 #### Checkliste für eine erfolgreiche Gruppenarbeit:
 
