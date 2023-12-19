@@ -60,13 +60,3 @@ Das Gute an den vielen Verschieden Anschlüssen ist, dass sie alle sehr untersch
 
 
 
-USB
-HDMi
-VGA
-AUX
-Mikro
-Kopfhörer
-Mikro-USB
-USBC
-Mini-USB
-LAN
