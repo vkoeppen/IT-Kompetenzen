@@ -52,12 +52,17 @@ Zuerst öffnet sich der Dateiordner. Dort wird die Datei mit dem gewünschten Bi
 
 Hierbei öffnet sich ein weiteres Fenster. In diesem kannst Du in der Suchleiste oder aus vorgefertigten Suchbegriffen ein passendes Bild für Dein Dokument raussuchen. Dabei kannst Du bei der Suche angeben, ob das Bild *Creative Common* sein soll oder nicht.
 
-![alt](bilder/word-Online-Bild.png)
+![alt](bilder/Word-Online-Bild.png)
 
 ## Tabelle
 
 Tabellen werden eingefügt, indem auf die obere Leiste bei **Einfügen** auf die **Tabelle** geklickt wird. Daraufhin öffnet sich ein Tab, bei welchem Du die Anzahl Deiner Spalten und Zeilen auswählen musst.
+
+![alt](bilder/Tabelle-erstellen.png)
+
 Danach besteht die Möglichkeit durch Rechts-Klick auf die Tabelle weitere Spalten und Zeilen unter *Einfügen* hinzuzufügen. Zudem öffnet eine neue Option in der Leiste *Format*, dort können Farbe, Rahmen oder Schattierung eines oder aller Spalten der Tabelle angepasst werden.
+
+![alt](bilder/Tabellen-entwurf.png)
 
 ## Diagramme
 
@@ -117,8 +122,10 @@ Neben den Standardfunktionen zur Überprüfung von Rechtschreibung und Grammatik
 
 Des Weiteren wollen wir Dir die mögliche Angst vor Fremdsprachen nehmen. In der Leiste unter dem Punkt **Sprache** hast Du die Funktionen **Übersetzen** und **Sprache** zur Verfügung. Gerade der zweite Punkt **Sprache** ist interessant. Denn mit diesem kannst DU ganz einfach Deine Rechtschreib- und Grammatikprüfung in eine andere Sprache umstellen.
 
-
+![alt](bilder/Uberpruefen.png)
 Anschließend gibt es noch die Kommentar- und Änderungssektion die wir Dir zeigen wollen. Unter diesen kannst Du allein oder mit anderen an einem Dokument arbeiten, ohne Euch gegenseitig beim Arbeiten im Weg zu stehen. 
+
+![alt](bilder/Überprüfen 1.png) ![alt](bilder/Überprüfen 2.png)
 
 1. Die Kommentare bieten sich besonders dann an, wenn man sich kleine Anmerkungen für später oder Notizen für andere hinterlegen möchte. Zum Hinzufügen, gehe in der Leiste zum Punkt *Kommentare* und füge eins am Zeilenrand hinzu. Achte darauf mit der Maus in der richtigen Zeile zu sein. Anschließend wird der von Dir markierte Teil eingefärbt. So verliert niemand den Überblick.   Natürlich kannst Du Deine Anmerkungen verändern, löschen oder bei Bedarf auf andere Kommentare reagieren.
    
@@ -126,8 +133,6 @@ Anschließend gibt es noch die Kommentar- und Änderungssektion die wir Dir zeig
 
 > [!TIP]
 > Um ein Dokument einer anderen Person freizugeben, klicke hierbei über dem Menüband auf **Freigeben** > **Freigabe**. Stelle dabei sicher, das Dein Dokument auf OneDrive gespeichert ist. Die betreffende Person, der Du Dein Dokument freigibst, sollte, nachdem teilen, eine Email erhalten.
-
-![alt](bilder/Ueberpruefen.png)
 
 ### Ansicht
 
@@ -137,3 +142,5 @@ Im **Lesemodus** kannst Du dich wie es der Name schon verrät, ganz aufs lesen D
 ![alt](bilder/Ansicht.png)
 
 Der **Plastische Reader** bietet Dir neben der internen Veränderung der Seitenfarbe, dem Text- oder Spaltenabstand oder der Silbentrennung. Kannst Du auch den *Zeilenfokus* aktivieren. Dieser erlaubt Dir, Dich Zeile für Zeile in Deiner Arbeit vorzuarbeiten. 
+
+![alt](bilder/Plastische Reader.png)
