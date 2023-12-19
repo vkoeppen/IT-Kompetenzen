@@ -50,6 +50,10 @@ Zuerst öffnet sich der Dateiordner. Dort wird die Datei mit dem gewünschten Bi
 
 **Online Bilder**
 
+Hierbei öffnet sich ein weiteres Fenster. In diesem kannst Du in der Suchleiste oder aus vorgefertigten Suchbegriffen ein passendes Bild für Dein Dokument raussuchen. Dabei kannst Du bei der Suche angeben, ob das Bild *Creative Common* sein soll oder nicht.
+
+![alt](bilder/word-Online-Bild.png)
+
 ## Tabelle
 
 Tabellen werden eingefügt, indem auf die obere Leiste bei **Einfügen** auf die **Tabelle** geklickt wird. Daraufhin öffnet sich ein Tab, bei welchem Du die Anzahl Deiner Spalten und Zeilen auswählen musst.
