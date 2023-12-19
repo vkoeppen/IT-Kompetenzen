@@ -106,6 +106,21 @@ Eins rechts weitere findest Du den Absatzblock. Dabei kannst Du bestimmen, wie w
 
 ### Überprüfung
 
+Unter dem Punkt *Überprüfungen* befinden sich eine Vielzahl von Funktionen, die Dir eine optimale Unterstützung beim Schreiben Deines Dokuments zu bieten.
+Neben den Standardfunktionen zur Überprüfung von Rechtschreibung und Grammatik oder dem Wörterzählen kann Word Dir Deine geschriebenen Sätze laut vorlesen. Es hilft ungemein dies laut zu hören. So können Dir Fehler auffallen, die Du vielleicht noch nicht entdeckt hast. Diese Funktion findest Du, wenn man bei **Überprüfungen** > **Sprache** > **laut vorlesen** anklickt.
+
+Des Weiteren wollen wir Dir die mögliche Angst vor Fremdsprachen nehmen. In der Leiste unter dem Punkt **Sprache** hast Du die Funktionen **Übersetzen** und **Sprache** zur Verfügung. Gerade der zweite Punkt **Sprache** ist interessant. Denn mit diesem kannst DU ganz einfach Deine Rechtschreib- und Grammatikprüfung in eine andere Sprache umstellen.
+
+
+Anschließend gibt es noch die Kommentar- und Änderungssektion die wir Dir zeigen wollen. Unter diesen kannst Du allein oder mit anderen an einem Dokument arbeiten, ohne Euch gegenseitig beim Arbeiten im Weg zu stehen. 
+
+1. Die Kommentare bieten sich besonders dann an, wenn man sich kleine Anmerkungen für später oder Notizen für andere hinterlegen möchte. Zum Hinzufügen, gehe in der Leiste zum Punkt *Kommentare* und füge eins am Zeilenrand hinzu. Achte darauf mit der Maus in der richtigen Zeile zu sein. Anschließend wird der von Dir markierte Teil eingefärbt. So verliert niemand den Überblick.   Natürlich kannst Du Deine Anmerkungen verändern, löschen oder bei Bedarf auf andere Kommentare reagieren.
+   
+2. Die Änderungssektion ist vor allem dann wichtig, wenn Du Veränderungen nicht sofort im Text umgesetzt haben willst. Sei es in Einzel oder Gruppenarbeit. Die vorläufigen Änderungen können alle auf einmal angenommen oder abgelehnt werden.
+
+[!TIP]
+Um ein Dokument einer anderen Person freizugeben, klicke hierbei über dem Menüband auf **Freigeben** > **Freigabe**. Stelle dabei sicher, das Dein Dokument auf OneDrive gespeichert ist. Die betreffende Person, der Du Dein Dokument freigibst, sollte, nachdem teilen, eine Email erhalten.
+
 ![alt](bilder/Ueberpruefen.png)
 
 ### Ansicht
