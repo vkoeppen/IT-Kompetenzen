@@ -76,7 +76,16 @@ Was vermutest du, ist für eine effektive Gruppenarbeit wichtig?
 ### Wichtige soziale und kommunikative Kompetenzen für das Studium anhand einer Gruppenarbeit 
 ![Abbildung](https://game-icons.net/icons/000000/ffffff/1x1/delapouite/discussion.png)
 
-Checkliste für eine erfolgreiche Gruppenarbeit:
+#### Kleines Quiz- Was benötigt ein Team?
+
+[[x]] gemeinsames Ziel
+[[x]] mindestens eine Person die nicht arbeitet
+[[x]] Klare Rollen und Aufgabenverteilung
+[[x]] 
+#### Welche Rollen gibt es in einer Gruppe?
+
+#### Checkliste für eine erfolgreiche Gruppenarbeit:
+
 [[x]] Arbeitsziel definieren
 [[x]] Rollen innerhalb der Gruppen definieren
 [[x]] Regelmäßigkeit der Treffen festlegen
