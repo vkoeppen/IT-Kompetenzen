@@ -11,24 +11,27 @@ GB Daten zu speichern. USB-Speichersticks sind dazu in der Lage große Mengen an
 
 ### USB-Sticks Formatieren
 
-Einen USB-Stick zu Formatieren ist keine schwere Aufgabe aber vorher sollte sichergestellt werden, dass keine wichtigen Daten auf dem Stick vorhanden sind, da beim Formatieren alle Daten verloren gehen
+Einen USB-Stick zu Formatieren ist keine schwere Aufgabe aber vorher sollte sichergestellt werden, dass keine wichtigen Daten auf dem Stick vorhanden sind, da beim Formatieren alle Daten verloren gehen.
 
+1. Gehe im Datei-Explorer mit Rechtsklick auf den USB-Stick
+2. Wähle Formatieren aus
+3. im letzten Schritt muss ein Dateisystem ausgewählt werden. Hierbei empfiehlt sich FAT32, da es von vielen verschiedenen Systemen gelesen werden kann.
 
 ## Anschlüsse
 
+Hinter welchem der folgenden Kürzel versteckt sich kein Computeranschluss?
 
-Was sollte man deiner Meinung nach tun, wenn man das Rechercheziel festlegen möchte? 
+[[x]] VGA 
+[[x]] HDMI
+[[x]] AUX
+[[x]] LAN
+[[x]] MDMA
+[[x]] DVI-D
+[[x]] RAM
+[[x]] BLuetooth
 
-Kreuze zutreffendes an:
-
-[[x]] Lesen der Aufgabenstellung
-[[x]] Klärung der Anforderungen
-[[x]] Aktivierung des Vorwissens
-[[x]] Bestimmung der erforderlichen Informationen
 USB
-
-
-HDMI
+HDMi
 VGA
 AUX
 Mikro
