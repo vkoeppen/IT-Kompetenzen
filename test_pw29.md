@@ -63,4 +63,14 @@ Was vermutest du, ist für eine effektive Gruppenarbeit wichtig?
 -[( )] Kritik ohne Lösungsvorschläge
 -[(x)] offene Kommunikation und Zusammenarbeit 
 
+##### Fülle die Tabelle aus und trage ein, welche Kompetenzen dir liegen und welche nicht!
+
+|liegt mir sehr ||liegt mir gar nicht|liegt mir mittelmäßig
+| ---:| ---:| ---:| ---
+|     |     |     |  
+|     |     |     |  
+|     |     |     | 
+|     |     |     | 
+|     |     |     | 
+
 ### Wichtige soziale und kommunikative Kompetenzen für das Studium anhand einer Gruppenarbeit 
