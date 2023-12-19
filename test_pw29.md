@@ -63,14 +63,25 @@ Was vermutest du, ist für eine effektive Gruppenarbeit wichtig?
 -[( )] Kritik ohne Lösungsvorschläge
 -[(x)] offene Kommunikation und Zusammenarbeit 
 
-##### Fülle die Tabelle aus und trage ein, welche Kompetenzen dir liegen und welche nicht!
+#### Wähle nun die Fähigkeiten aus, die dir bereits liegen, um einen Überblick zu bekommen!
 
-|liegt mir sehr ||liegt mir gar nicht|liegt mir mittelmäßig
-| ---:| ---:| ---:| ---
-|     |     |     |  
-|     |     |     |  
-|     |     |     | 
-|     |     |     | 
-|     |     |     | 
+[[ ]] Durchsetzungsvermögen
+[[ ]] Teamfähigkeit
+[[ ]] Konfliktlösung
+[[ ]] Verständnis
+[[ ]] Anpassungsfähigkeit
+[[ ]] Kommunikationsfähigkeit
+
 
 ### Wichtige soziale und kommunikative Kompetenzen für das Studium anhand einer Gruppenarbeit 
+![Abbildung](https://game-icons.net/icons/000000/ffffff/1x1/delapouite/discussion.png)
+
+Checkliste für eine erfolgreiche Gruppenarbeit:
+[[x]] Arbeitsziel definieren
+[[x]] Rollen innerhalb der Gruppen definieren
+[[x]] Regelmäßigkeit der Treffen festlegen
+[[x]] Länge der Treffen bestimmen
+[[x]] Treffpunkte ausmachen
+[[x]] effektive Arbeitsweise entwickeln
+[[x]] Vorbereitung auf die Treffen?
+[[x]] Soll ein Protokoll geschrieben werden? 
