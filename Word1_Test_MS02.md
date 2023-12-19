@@ -123,6 +123,7 @@ Neben den Standardfunktionen zur Überprüfung von Rechtschreibung und Grammatik
 Des Weiteren wollen wir Dir die mögliche Angst vor Fremdsprachen nehmen. In der Leiste unter dem Punkt **Sprache** hast Du die Funktionen **Übersetzen** und **Sprache** zur Verfügung. Gerade der zweite Punkt **Sprache** ist interessant. Denn mit diesem kannst DU ganz einfach Deine Rechtschreib- und Grammatikprüfung in eine andere Sprache umstellen.
 
 ![alt](bilder/Uberpruefen.png)
+
 Anschließend gibt es noch die Kommentar- und Änderungssektion die wir Dir zeigen wollen. Unter diesen kannst Du allein oder mit anderen an einem Dokument arbeiten, ohne Euch gegenseitig beim Arbeiten im Weg zu stehen. 
 
 ![alt](bilder/Überprüfen 1.png) ![alt](bilder/Überprüfen 2.png)
