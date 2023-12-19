@@ -19,7 +19,7 @@ Auf den nächsten Seiten wollen wir Dir daher einen kurzen Einblick über einige
     -   *SmartArt*
 - [**Inhaltsverzeichnis**](#inhaltsverzeichnis)
 - [**Zitierung**](#zitierung)
-- [**Literaturverzeichnis**](#literaturverzeichnis)
+- [**Literaturverzeichnis & Abbildungsverzeichnis**](#literaturverzeichnis)
 - [**Layout**](#layout)
 - [**Überprüfung**](#überprüfung)
 - [**Ansicht**](#ansicht)
@@ -97,15 +97,22 @@ Wechselt in der oberen Leiste zu **Referenzen** dort findest Du ganz links die F
 
 ### Zitierung
 
-Das Zitieren von Zitaten oder Textabschnitten ist für viele Studenten eine der Königsdisziplinen beim Erstellen ihrer wissenschaftlichen Arbeiten. Wenn man bei Word jedoch in der oberen Zeile auf **Referenzen** geht, findet man die Funktion *Zitat einfügen*. Mit der zusätzlichen Funktion *Formatvorlage*, kann man sich einfach und übersichtlich ein Zitat mit einer direkten Verlinkung zum Inhaltsverzeichnis erstellen.
+Das Zitieren von Zitaten oder Textabschnitten ist für viele Studenten eine der Königsdisziplinen beim Erstellen ihrer wissenschaftlichen Arbeiten. Wenn man bei Word jedoch in der oberen Zeile auf **Referenzen** geht, findet man die Funktion *Zitat einfügen*. Unter *neue Quelle* hinzufügen, kannst Du alle wichtigen Informationen bezüglich Deines Zitates hinzufügen. 
+Mit der zusätzlichen Funktion *Formatvorlage*, kann man sich einfach und übersichtlich ein Zitat mit einer direkten Verlinkung zum Inhaltsverzeichnis erstellen.
 
 ![alt](bilder/Zitieren1.PNG)
 
 > [!TIP]
 > Eine Empfehlung für eine Formatvorlage beim zitieren, wäre Chicago.
 
-### Literaturverzeichnis
+### Literaturverzeichnis & Abbildungsverzeichnis
 
+![alt](bilder/Literaturverzeichnis1.PNG)
+
+Im Literaturverzeichnis kannst Du natürlich nicht nur Deine Zitate hinterlegen, sondern alle Literaturquellen die Du verwendest. Dafür kannst Du Dir auch erstmal ein leeres Literaturverzeichnis erstellen. Dafür klickt man auf den Punkt **Literaturverzeichnis** und such erstmal eine Vorlage aus.
+Deine Quellen kannst Du nämlich bei Bedarf jederzeit aktualisieren. Um eine neue Quelle hinzuzufügen oder eine bereits vorhandene Quelle zu bearbeiten, klickt man auf **Zitate und Literaturverzeichnis** > **Quellen verwalten**. Im neuen Tab kannst Du dann beliebig Deine Quellen verwalten.
+
+Auch das erstellen eines Abbildungsverzeichnis wird über die obere Zeile **Referenzen** > **Beschriftung** gemacht. Dabei kann man entscheiden, wie das Abbildungverzeichnis aussehen soll und ob es Verlinkungen zum jeweiligen Bild geben soll.
 
 ### Layout
 
@@ -126,11 +133,13 @@ Des Weiteren wollen wir Dir die mögliche Angst vor Fremdsprachen nehmen. In der
 
 Anschließend gibt es noch die Kommentar- und Änderungssektion die wir Dir zeigen wollen. Unter diesen kannst Du allein oder mit anderen an einem Dokument arbeiten, ohne Euch gegenseitig beim Arbeiten im Weg zu stehen. 
 
-![alt](bilder/Ueberpruefen1.png)  ![alt](bilder/Uberfruefen2.png)
-
 1. Die Kommentare bieten sich besonders dann an, wenn man sich kleine Anmerkungen für später oder Notizen für andere hinterlegen möchte. Zum Hinzufügen, gehe in der Leiste zum Punkt *Kommentare* und füge eins am Zeilenrand hinzu. Achte darauf mit der Maus in der richtigen Zeile zu sein. Anschließend wird der von Dir markierte Teil eingefärbt. So verliert niemand den Überblick.   Natürlich kannst Du Deine Anmerkungen verändern, löschen oder bei Bedarf auf andere Kommentare reagieren.
-   
+
+![alt](bilder/Ueberpruefen1.png)  
+
 2. Die Änderungssektion ist vor allem dann wichtig, wenn Du Veränderungen nicht sofort im Text umgesetzt haben willst. Sei es in Einzel oder Gruppenarbeit. Die vorläufigen Änderungen können alle auf einmal angenommen oder abgelehnt werden.
+   
+![alt](bilder/Uberfruefen2.png)
 
 > [!TIP]
 > Um ein Dokument einer anderen Person freizugeben, klicke hierbei über dem Menüband auf **Freigeben** > **Freigabe**. Stelle dabei sicher, das Dein Dokument auf OneDrive gespeichert ist. Die betreffende Person, der Du Dein Dokument freigibst, sollte, nachdem teilen, eine Email erhalten.
