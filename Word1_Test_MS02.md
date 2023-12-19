@@ -122,11 +122,11 @@ Neben den Standardfunktionen zur Überprüfung von Rechtschreibung und Grammatik
 
 Des Weiteren wollen wir Dir die mögliche Angst vor Fremdsprachen nehmen. In der Leiste unter dem Punkt **Sprache** hast Du die Funktionen **Übersetzen** und **Sprache** zur Verfügung. Gerade der zweite Punkt **Sprache** ist interessant. Denn mit diesem kannst DU ganz einfach Deine Rechtschreib- und Grammatikprüfung in eine andere Sprache umstellen.
 
-![alt](bilder/Uberpruefen.png)
+![alt](bilder/Ueberpruefen.png)
 
 Anschließend gibt es noch die Kommentar- und Änderungssektion die wir Dir zeigen wollen. Unter diesen kannst Du allein oder mit anderen an einem Dokument arbeiten, ohne Euch gegenseitig beim Arbeiten im Weg zu stehen. 
 
-![alt](bilder/Uberpruefen1.png) 
+![alt](bilder/Ueberpruefen1.png) 
 ![alt](bilder/Uberfruefen2.png)
 
 1. Die Kommentare bieten sich besonders dann an, wenn man sich kleine Anmerkungen für später oder Notizen für andere hinterlegen möchte. Zum Hinzufügen, gehe in der Leiste zum Punkt *Kommentare* und füge eins am Zeilenrand hinzu. Achte darauf mit der Maus in der richtigen Zeile zu sein. Anschließend wird der von Dir markierte Teil eingefärbt. So verliert niemand den Überblick.   Natürlich kannst Du Deine Anmerkungen verändern, löschen oder bei Bedarf auf andere Kommentare reagieren.
