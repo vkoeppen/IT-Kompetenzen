@@ -48,6 +48,8 @@ Bilder werden eingefügt, indem in der oberen Leiste auf Bilder klickst. Daraufh
 
 Zuerst öffnet sich der Dateiordner. Dort wird die Datei mit dem gewünschten Bild ausgewählt und geöffnet. 
 
+**Online Bilder**
+
 ## Tabelle
 
 Tabellen werden eingefügt, indem auf die obere Leiste bei **Einfügen** auf die **Tabelle** geklickt wird. Daraufhin öffnet sich ein Tab, bei welchem Du die Anzahl Deiner Spalten und Zeilen auswählen musst.
@@ -79,7 +81,7 @@ Sei es durch Farbe, eine andere Formatvorlage oder zusätzliche Formen.
 
 ### Inhaltsverzeichnis
 
-Um sich das erstellen oder anpassen eines Inhaltsverzeichnis zu erleichtern, hat Word eine nützliche Funktion für Dich.
+Um sich das erstellen oder das anpassen eines Inhaltsverzeichnis zu erleichtern, hat Word eine nützliche Funktion für Dich.
 Wechselt in der oberen Leiste zu **Referenzen** dort findest Du ganz links die Funktion ein Inhaltsverzeichnis zu erstellen oder bei Bedarf zu aktualisieren. Damit spart man sich Zeit und vermeidet eventuelle Fehlern beim Schreiben eines Inhaltsverzeichnisses. Um seinen Text dem Inhaltssverzeichnis hinzuzufügen, muss man auf *Text einfügen* klicken. 
 
 ![alt](bilder/Inhaltsverzeichnis1.PNG)
@@ -118,11 +120,16 @@ Anschließend gibt es noch die Kommentar- und Änderungssektion die wir Dir zeig
    
 2. Die Änderungssektion ist vor allem dann wichtig, wenn Du Veränderungen nicht sofort im Text umgesetzt haben willst. Sei es in Einzel oder Gruppenarbeit. Die vorläufigen Änderungen können alle auf einmal angenommen oder abgelehnt werden.
 
-[!TIP]
-Um ein Dokument einer anderen Person freizugeben, klicke hierbei über dem Menüband auf **Freigeben** > **Freigabe**. Stelle dabei sicher, das Dein Dokument auf OneDrive gespeichert ist. Die betreffende Person, der Du Dein Dokument freigibst, sollte, nachdem teilen, eine Email erhalten.
+> [!TIP]
+> Um ein Dokument einer anderen Person freizugeben, klicke hierbei über dem Menüband auf **Freigeben** > **Freigabe**. Stelle dabei sicher, das Dein Dokument auf OneDrive gespeichert ist. Die betreffende Person, der Du Dein Dokument freigibst, sollte, nachdem teilen, eine Email erhalten.
 
 ![alt](bilder/Ueberpruefen.png)
 
 ### Ansicht
 
+Unter Ansicht kannst Du das Dokument Dir so anzeigen lassen, wie Deine Präferenzen sind. Unter dem Punkt **Seitenbewegung** kannst Du festlegen, ob Deine Seiten im Dokument Vertikal oder Horizontal, wie bei einem Buch angezeigt werden soll. 
+Im **Lesemodus** kannst Du dich wie es der Name schon verrät, ganz aufs lesen Deiner Arbeit konzentrieren. 
+
 ![alt](bilder/Ansicht.png)
+
+Der **Plastische Reader** bietet Dir neben der internen Veränderung der Seitenfarbe, dem Text- oder Spaltenabstand oder der Silbentrennung. Kannst Du auch den *Zeilenfokus* aktivieren. Dieser erlaubt Dir, Dich Zeile für Zeile in Deiner Arbeit vorzuarbeiten. 
