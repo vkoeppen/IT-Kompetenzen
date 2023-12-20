@@ -1,8 +1,11 @@
 <!--
+author: Von: Maria Schendel, Tom Hornemann
 link: css/callouts.css
 -->
 
 ## <center>Powerpoint</center>
+
+---
 
 ![Abbildung1](https://play-lh.googleusercontent.com/6pTX4OILXTxazqad66oiVfG4x2KpYn4kIPgdzOe173tT0oHr2ThwpBhMyzzzxWq_r6M)
 
@@ -20,7 +23,7 @@ link: css/callouts.css
 - **1.4 Ziel des Themas**
 
 
-{{2}} **Einfügen von Sprechernotizen in einer Powerpoint**
+{{2}} **Einfügen von Sprechernotizen**
 
 - **2.1 Referenzansicht**
 
@@ -34,7 +37,7 @@ link: css/callouts.css
    
 - **3.2 Animation von Übergängen zwischen Folien**
 
-{{3}} **Quellen**
+{{4}} **Quellen**
 
 
 ## 1. Einstieg
@@ -67,7 +70,7 @@ Wie sehr beschäftigst Du dich in Deinem Berufs- oder Alltagsleben mit dem Progr
 
 Das Präsentationsprogramm von Microsoft:
 
-- gehört zum Microsofot-365-Abonnement
+- Gehört zum Microsofot-365-Abonnement
 - Desktop-Version: Windows und macOS
 - Mobile-Version: App für Android und iOS 
 **Aktuellste Version**: PowerPoint 2019
@@ -77,13 +80,13 @@ Das Präsentationsprogramm von Microsoft:
 
 **1.4 Ziel des Themas**
 
-- Durch die Anwendung der Sprechernotizen und der Referenzansicht, während der Präsentation, können Karteikarten vermieden werden.
+- Durch die Anwendung der Sprechernotizen in einer Powerpoint;
 
-- Zu beachten; 
+  - Karteikarten können vermieden werden
 
-  - Stichpunkte müssen lesbar, prägnant und kurz den Inhalt wiedergeben 
-
-<!-- class = "callout warning" -->
+<!-- class = "callout info with-title" -->
+> Zu beachten;
+>
 > Stichpunkte müssen lesbar, prägnant und kurz den Inhalt wiedergeben 
 
 
@@ -97,7 +100,7 @@ Das Präsentationsprogramm von Microsoft:
 
 [2. Abbildung](https://support.microsoft.com/de-de/office/hinzuf%C3%BCgen-von-sprechernotizen-zu-folien-26985155-35f5-45ba-812b-e1bd3c48928e#:~:text=Klicken%20Sie%20im%20Men%C3%BC%20Ansicht,Sie%20den%20gew%C3%BCnschten%20Notizentext%20ein)
 
-- Notiz-Symbol neben Anzeigeeinstellungen, oder wie in dem Beispiel vorgezeigt; neben Kommentare
+- Notiz-Symbol neben **Kommentare** oder je nach Version neben **Anzeigeeinstellungen**
 
 
 ## 2.1 Referenzansicht
@@ -189,9 +192,10 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
   
   - Unter "Animation hinzufügen" gewünschte Animation auswählen
   
-  - Optional, Reihenfolge der Animation hinzufügen
+  - Optional; Reihenfolge der Animation hinzufügen
 
-  - Tipp: benutzt die Reihenfolge von Animationen um bestimmte Texte oder Bilder beim Präsentieren Stück für Stück einfliegen zu      lassen
+<!-- class = "callout tip" -->
+> Benutzt die Reihenfolge von Animationen, um bestimmte Texte oder Bilder beim Präsentieren Stück für Stück einfliegen zu lassen
 
 
 ![Abbildung 6](https://cdn1.participoll.com/wp-content/uploads/2021/01/03123303/Leanne-screenshot-5.jpg)
@@ -201,13 +205,13 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 
 ## 3.2 Animation/Übergänge zwischen Folien
 
-   - Headline Punkt Übergänge auswählen
+   - Headline Punkt; Übergänge auswählen
 
-   - empfohlene/beliebte Übergänge werden oben vorgeschlagen
+   - Empfohlene/beliebte Übergänge werden oben vorgeschlagen
 
    - Übergang auswählen
 
-   - Übergäng wird im Präsentationsmodus beim start der Folie benutzt
+   - Übergang wird im Präsentationsmodus beim Start der Folie benutzt
 
  
 
@@ -221,7 +225,7 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
  [7. Abbildung](https://www.wirliebenoffice.de/images/content/tutorials/powerpoint/008-folienubergang-einfugen.png)
 
 
-## <center>Quellen</center>
+## <center>4. Quellen</center>
 ---
 **1.Quelle** 
 
