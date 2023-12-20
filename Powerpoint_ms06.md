@@ -1,3 +1,7 @@
+<!--
+link: css/callouts.css
+-->
+
 ## <center>Powerpoint</center>
 
 ![Abbildung1](https://play-lh.googleusercontent.com/6pTX4OILXTxazqad66oiVfG4x2KpYn4kIPgdzOe173tT0oHr2ThwpBhMyzzzxWq_r6M)
@@ -5,18 +9,18 @@
 [1. Abbildung](https://play.google.com/store/apps/details?id=com.microsoft.office.powerpoint&hl=de)
 
 ## <center>Inhaltsverzeichnis</center>
-{{1}} **1. Einstieg**
+{{1}} **Einstieg**
 
-- **1.1 Festlegung der Kompetenz**
+- **1.1Festlegung der Kompetenz**
 
 - **1.2 Fragestellung**
 
-- **1.3 Allgemein**
+- **1.3 Allgemeines**
 
 - **1.4 Ziel des Themas**
 
 
-{{2}} **2. Anwendung eines Lernelements**
+{{2}} **Einfügen von Sprechernotizen in einer Powerpoint**
 
 - **2.1 Referenzansicht**
 
@@ -24,13 +28,13 @@
 
 - **2.3 Lösung als Videoansicht**
 
-{{3}} **3. Anwendung eines zweiten Lernelements**
+{{3}} **Erstellen von Animationen**
 
 - **3.1 Animation von Bildern und Textfeldern**
    
 - **3.2 Animation von Übergängen zwischen Folien**
 
-{{3}} **3. Quellen**
+{{3}} **Quellen**
 
 
 ## 1. Einstieg
@@ -40,7 +44,7 @@ Für viele Studiumsbereiche sind gängige Programme, wie Microsoft-Programme not
 
 Die Festlegung der Kompetenzen im Bereich Softwareanwendungen, die im Kurs; _"Welche IT-Kompetenzen sind vorhanden oder müssen geschult werden"_, sind unter anderem; **Word**, **Excel** und **Powerpoint**.  
 
-Im folgendem Beitrag haben wir uns mit der Kompetenz **"Powerpoint"** auseinander gesetzt und uns jeweils auf ein bestimmtes Thema reduziert.  
+Im folgendem Beitrag haben wir uns mit der Kompetenz **"Powerpoint"** auseinander- gesetzt und uns jeweils auf ein bestimmtes Thema reduziert.  
 
 ---
 
@@ -59,11 +63,11 @@ Wie sehr beschäftigst Du dich in Deinem Berufs- oder Alltagsleben mit dem Progr
 
 ---
 
-**1.3 Allgemein**
+**1.3 Allgemeines**
 
-Präsentationsprogramm von Microsoft 
+Das Präsentationsprogramm von Microsoft:
 
-- Gehört zum Microsofot-365-Abonnement
+- gehört zum Microsofot-365-Abonnement
 - Desktop-Version: Windows und macOS
 - Mobile-Version: App für Android und iOS 
 **Aktuellste Version**: PowerPoint 2019
@@ -79,10 +83,12 @@ Präsentationsprogramm von Microsoft
 
   - Stichpunkte müssen lesbar, prägnant und kurz den Inhalt wiedergeben 
 
+<!-- class = "callout warning" -->
+> Stichpunkte müssen lesbar, prägnant und kurz den Inhalt wiedergeben 
 
 
-## <center> 2. Anwendung eines Lernelements </center>
-<center> **Einfügen von Sprechernotizen in einer Powerpoint** </center>
+
+## <center> 2. Einfügen von Sprechernotizen </center>
 
 ---
 
@@ -167,9 +173,7 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 1.Video: [Link zum Tutorial](https://www.microsoft.com/de-de/videoplayer/embed/RWfkz0?pid=ocpVideo1-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&reporting=true&market=de-de)
 
 
-## <center> 3. Anwendung eines zweiten Lernelements </center>
-
-<center>**Erstellen von Animationen**</center>
+## <center> 3. Erstellen von Animationen </center>
 
 ---
 
@@ -199,14 +203,16 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 
    - Headline Punkt Übergänge auswählen
 
-   - Empfohlene/beliebte Übergänge werden oben vorgeschlagen
+   - empfohlene/beliebte Übergänge werden oben vorgeschlagen
 
    - Übergang auswählen
 
    - Übergäng wird im Präsentationsmodus beim start der Folie benutzt
 
-   - Tipp: Versuch nicht zu viele verschiedene Übergänge zu benutzen sondern sich auf 2/3 festzulegen
+ 
 
+<!-- class = "callout tip" -->
+> Versuche nicht zu viele verschiedene Übergänge zu benutzen sondern sich auf 2/3 festzulegen.
 
 
 
