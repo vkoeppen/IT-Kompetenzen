@@ -1,17 +1,6 @@
-<!--
+## Rechtliches
 
-author:   Ronja Müller
-email:    ronja.mueller@fh-potsdam.de
-version:  0.0.1
-language: de
-narrator: Deutsch Female
-
-
--->
-
-# Rechtliches
-
-## Creative Commons
+### Creative Commons
  {{|>}}
 Creative Commons besteht aus sechs __Lizenzmodellen__, die Lizenzverträge darstellen, aus denen der Urheber eines Werks wählen kann. Der Unterschied zwischen diesen Lizenzmodellen besteht in der __Art und Anzahl der Rechte__, die eine Lizenz einem Nutzer einräumt.
 
@@ -24,7 +13,7 @@ __Die Fragen, die eine Lizenz einem Nutzer beantwortet, sind also folgende:__
 2. Was darf nicht mit dem Werk passieren?
 3. Was muss angegeben werden, wenn das veränderte Werk veröffentlicht wird?
 
-## Bedingungslose Lizenz
+### Bedingungslose Lizenz
 ![CC0 Bedingungslose Lizenz](https://wiki.llz.uni-halle.de/images/1/12/Cc0.png)
 
  {{|>}}
@@ -40,7 +29,7 @@ Das Werk darf:
 ohne dass der Nutzer nach Erlaubnis fragen muss.
 
 
-## Atribution
+### Atribution
 ![Atribution](https://wiki.llz.uni-halle.de/images/5/53/By.png)
 
  {{|>}}
@@ -57,7 +46,7 @@ ohne dass der Nutzer nach Erlaubnis fragen muss.
 
 Zusätzlich müssen jedoch der __Urheber des ursprünglichen Werks__, sowie die __Anmerkungen von Veränderungen__ an dem Werk hinzugefügt werden.
 
-## Attribution ShareAlike
+### Attribution ShareAlike
 ![Attribution ShareAlike](https://wiki.llz.uni-halle.de/images/3/3c/By_sa.png)
 
  {{|>}}
@@ -74,7 +63,7 @@ ohne dass der Nutzer nach Erlaubnis fragen muss.
 
 Zusätzlich müssen jedoch der __Urheber des ursprünglichen Werks__, sowie die __Anmerkungen von Veränderungen__ an dem Werk angegeben werden. Zudem muss das neu entstandene Werk unter derselben Lizenz wie das urpsprüngliche Werk veröffentlicht werden.
 
-## Atribution NoDerivatives
+### Atribution NoDerivatives
 ![Atribution NoDerivatives](https://wiki.llz.uni-halle.de/images/e/eb/By_nd.png)
 
  {{|>}}
@@ -94,7 +83,7 @@ Das Werk darf __nicht__:
 
 Zusätzlich muss jedoch der __Urheber des ursprünglichen Werks__ angeben werden.
 
-## Attribution NonCommercial
+### Attribution NonCommercial
 ![Attribution NonCommercial](https://wiki.llz.uni-halle.de/images/3/32/By_nc.png)
 
  {{|>}}
@@ -113,7 +102,7 @@ Das Werk darf __nicht__:
 
 Zusätzlich müssen jedoch der __Urheber des ursprünglichen Werks__, sowie die __Anmerkungen von Veränderungen__ an dem Werk angegeben werden.
 
-## Attribution NonCommercial ShareAlike
+### Attribution NonCommercial ShareAlike
 ![Attribution NonCommercial ShareAlike](https://wiki.llz.uni-halle.de/images/2/27/By_nc_sa.png)
 
  {{|>}}
@@ -132,7 +121,7 @@ Werk darf __nicht__:
 
 Zusätzlich müssen jedoch der __Urheber des ursprünglichen Werks__, sowie die __Anmerkungen von Veränderungen__ an dem Werk angegeben werden. Zudem muss das neu entstandene Werk unter derselben Lizenz wie das urpsprüngliche Werk veröffentlicht werden.
 
-## Attribution NonCommercial NoDerivatives
+### Attribution NonCommercial NoDerivatives
 ![Attribution NonCommercial NoDerivatives](https://wiki.llz.uni-halle.de/images/9/99/By_nc_nd.png)
 
  {{|>}}
@@ -151,7 +140,7 @@ Das Werk darf __nicht__:
 
 Zusätzlich muss jedoch der __Urheber des ursprünglichen Werks__ angeben werden.
 
-## Übung
+### Übung
 
 Welche Rechte ermöglicht die CC0 Lizenz?
 
@@ -163,14 +152,14 @@ Welche Rechte ermöglicht die CC0 Lizenz?
 [[X]] Verarbeitung
 [[X]] Kommerzielle Nutzung
 
-## Übung 2
+### Übung 2
 Was unterscheidet die Attribution-Lizenz von der Bedingungslosen Lizenz?
 
 [( )] Dass das Werk nicht für kommerzielle Zwecke verwenden darf.
 [(X)] Dass man den Urheber des ursprünglichen Werks angeben muss.
 [( )] Dass man das Werk nicht verändern darf.
 
-## Übung 3
+### Übung 3
 Was bedeutet der Ausdruck "ShareAlike" in einer Lizenz?
 
 [( )] Dass man das ursprüngliche Werk unverändert teilen darf.
@@ -178,7 +167,7 @@ Was bedeutet der Ausdruck "ShareAlike" in einer Lizenz?
 [( )] Dass das erstellte Werk dem ursprünglichen Werk sehr ähnlich sein muss.
 [( )] Dass das erstellte Werk dem ursprünglichen Werk nicht sehr ähnlich sein muss.
 
-## Übung 4
+### Übung 4
 Eine Studentin würde gerne ein Bild verwenden, indem sie es verändert und in eine Powerpoint-Präsentation einfügt und vor einigen Zuschauern zeigt. Welche Lizenz müssten für das Bild gelten, damit sie es verwenden könnte?
 
 > **Mehrere Optionen möglich!**
