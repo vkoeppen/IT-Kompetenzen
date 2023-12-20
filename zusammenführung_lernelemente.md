@@ -22,18 +22,6 @@ import:   https://github.com/liascript/CodeRunner
 - Soziale Kommunikative Kompetenzen
 - Problemlösung
 
-<!---
-your comment goes here
-and here
--->
-
-
-<!---
-Konventionen fuer das Hinzufuegen von neuen Lernelementen StrCStrV:
-vorher zu den Ueberschriften ein weiteres Hashtag hinzufuegen
-bitte nur Lernelemente unter die Kommentare setzten, die die richtigen Orte markieren
-bitte nehmt eure Metadaten aus dem Code und aendert stattdessen die Metadaten oben
--->
 
 <!---
 Unter diesem Kommentar bitte Word einfuegen
