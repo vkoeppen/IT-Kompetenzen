@@ -22,7 +22,8 @@ and here
 <!---
 Konventionen fuer das Hinzufuegen von neuen Lernelementen StrCStrV:
 vorher zu den Ueberschriften ein weiteres Hashtag hinzufuegen
-bitte nur Lernelemente unter die Kommentare setzte, die die richtigen Orte markieren
+bitte nur Lernelemente unter die Kommentare setzten, die die richtigen Orte markieren
+bitte nehmt eure Metadaten aus dem Code und ändert stattdessen die Metadaten oben
 -->
 
 <!---
