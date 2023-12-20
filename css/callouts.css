@@ -58,7 +58,7 @@ See test_callouts_nb31.md for examples and instructions.
 }
 
 .callout.tip::before {
-	content: 'Tip';
+	content: 'Tipp';
 }
 
 /* Erfolg */
