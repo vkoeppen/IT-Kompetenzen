@@ -31,10 +31,6 @@ Zu den Kompetenzen, die für das Studium besonders wichtig sind, zählt die **Re
 
 {{5}}  Quellenangaben
 
-
-> **Um überhaupt recherchieren zu können, sollte man natürlich auch die Sprache verstehen. Falls deutsch nicht deine Muttersprache ist, hier ein Tipp: [Übersetzer Deeple](https://www.deepl.com/de/translator)**
-
-
 ### Was ist das Ziel meiner Recherche?
 
 Im ersten Schritt muss das Ziel der Recherche festgelegt werden. Was möchte ich mit meiner Recherche erreichen, welches Problem soll gelöst oder welche Frage soll beantwortet werden.
@@ -89,8 +85,6 @@ Hat man sich einen ersten Überblick verschafft oder noch nicht die passende Lit
 ![alt](https://upload.wikimedia.org/wikipedia/commons/1/17/Boolean_logic.svg)
 Quelle: "Boolean logic", Jakub T. Jankiewicz, Lizenz: CC BY-SA 4.0,
 https://upload.wikimedia.org/wikipedia/commons/1/17/Boolean_logic.svg
-
-Empfehlung für 
 
 ---
 
