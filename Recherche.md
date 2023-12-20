@@ -22,7 +22,7 @@ Zu den Kompetenzen, die für das Studium besonders wichtig sind, zählt die **Re
  Der Ablauf einer Recherche
 ---
 {{1}} * Was ist das Ziel meiner Recherche?   
-{{2}} * Wie recheriere ich?
+{{2}} * Wie recherchiere ich?
 {{3}} * Wie dokumentiere ich meine Ergebnisse?
 {{4}} * Wie kann ich die gefundenen Quellen bewerten?
 {{5}} * Quellenangaben
@@ -49,7 +49,7 @@ Kreuze zutreffendes an:
 
 [ChatGPT](https://chat.openai.com/auth/login) oder [Phind](phind.com)
 
-### Wie recheriere ich?
+### Wie recherchiere ich?
 ---
 Im zweiten Schritt geht um das Recherchieren an sich. Das Sammeln von Informationen wird erleichtert, wenn man die Suche mit [Stich- und Schlagworten](https://www.hochschule-trier.de/hauptcampus/bibliothek/tutorial-informationskompetenz/suche-vorbereiten/suchstrategien/stich-und-schlagwoerter) eingrenzt.
 
@@ -77,7 +77,7 @@ Hat man sich einen ersten Überblick verschafft oder noch nicht die passende Lit
 
 ![](https://upload.wikimedia.org/wikipedia/de/7/73/Digizeitschriften_logo.jpg)
 
-[Das deutsche digitale Zetschriftenarchiv](https://www.digizeitschriften.de/)
+[Das deutsche digitale Zeitschriftenarchiv](https://www.digizeitschriften.de/)
 
 ---
 > **Weiterer Tipp: Boolesche Operatoren**
@@ -92,7 +92,7 @@ Empfehlung für
 
 ### Wie dokumentiere ich meine Ergebnisse?
 ---
-Die gefundene Literatur muss auch dokumentiert werden, damit sie später ausgewertet und genutzt werden kann. Neben der *schriftlichen Dokumentation* ist die Verwendung eines *Dateimanagementssystems* auf dem Computer sinnvoll.
+Die gefundene Literatur muss auch dokumentiert werden, damit sie später ausgewertet und genutzt werden kann. Neben der *schriftlichen Dokumentation* ist die Verwendung eines *Dateimanagementsystems* auf dem Computer sinnvoll.
 
 !?[alt](https://www.youtube.com/watch?v=FnLswdk_Kq4)
 
@@ -137,7 +137,7 @@ Es gibt bestimmte Kriterien, an denen man "gute" Quellen erkennt:
 
 ### Quellen 
 
-* Niedermair, Klaus (2010): Recherieren und Dokumentieren. Der richtige Umgang mit Literatur im Studium. UVK Verlagsgesellschaft mbH, Konstanz
+* Niedermair, Klaus (2010): Recherchieren und Dokumentieren. Der richtige Umgang mit Literatur im Studium. UVK Verlagsgesellschaft mbH, Konstanz
 * Kopsieker, Stephan; Kronfeldner, Maria: Handreichungen für Studierende der Philosophie. Wie recherieren? Hinweise zur Recherche in der Bibliothek und online
 * Becker, Sebastian, Meßinger-Koppelt, Jenny, Thyssen, Christoph (Hrsg.) (2020): Digitale Basiskompetenzen. Orientierungshilfe und Praxisbeispiele für die universitäre Lehramtsausbildung in den Naturwissenschaften. Joachim Herz Stiftung, Hamburg
 
