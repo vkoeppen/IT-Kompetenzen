@@ -189,16 +189,6 @@ Unter diesem Kommentar bitte Powerpoint einfuegen
 -->
 
 ## <center>Powerpoint</center>
-@date
-
-
-@author
-
-@comment
-
-
----
-
 
 ![Abbildung1](https://play-lh.googleusercontent.com/6pTX4OILXTxazqad66oiVfG4x2KpYn4kIPgdzOe173tT0oHr2ThwpBhMyzzzxWq_r6M)
 
