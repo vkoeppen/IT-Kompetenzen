@@ -21,14 +21,18 @@ Zu den Kompetenzen, die für das Studium besonders wichtig sind, zählt die **Re
 ### __Richtig recherchieren__
  Der Ablauf einer Recherche
 ---
-{{1}} * Was ist das Ziel meiner Recherche?   
-{{2}} * Wie recherchiere ich?
-{{3}} * Wie dokumentiere ich meine Ergebnisse?
-{{4}} * Wie kann ich die gefundenen Quellen bewerten?
-{{5}} * Quellenangaben
+{{1}}  Was ist das Ziel meiner Recherche? 
+
+{{2}}  Wie recherchiere ich?
+
+{{3}}  Wie dokumentiere ich meine Ergebnisse?
+
+{{4}}  Wie kann ich die gefundenen Quellen bewerten?
+
+{{5}}  Quellenangaben
 
 
-{{6}}> **Um überhaupt recherchieren zu können, sollte man natürlich auch die Sprache verstehen. Falls deutsch nicht deine Muttersprache ist, hier ein Tipp: [Übersetzer Deeple](https://www.deepl.com/de/translator)**
+> **Um überhaupt recherchieren zu können, sollte man natürlich auch die Sprache verstehen. Falls deutsch nicht deine Muttersprache ist, hier ein Tipp: [Übersetzer Deeple](https://www.deepl.com/de/translator)**
 
 
 ### Was ist das Ziel meiner Recherche?
