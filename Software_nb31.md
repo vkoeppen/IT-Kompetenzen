@@ -17,7 +17,7 @@ comment:  Teil-Modul zum Bereich “Software” im Kurs “IT-Kompetenzen“
 					kommt es dabei zu Überschenidungen mit (fast) allen anderen
 					Themen-Gebieten. …
 
-link: /css/callouts.css
+link: css/callouts.css
 
 -->
 
