@@ -42,7 +42,7 @@ import:   https://github.com/liascript/CodeRunner
 
 Zusammengefasst bedeutet es, ein hohes Engagement in sozialen Situationen zu besitzen und auch kommunikative Fähigkeiten anwenden zu können. Zu kommunikativen Fähigkeiten zählen, dass man Kompromisse schließen kann, Durchsetzungsvermögen besitzt und konstruktiv, effektiv sowie bewusst kommuniziert.
 ---
-### 1.1. Quiz
+#### 1.1. Quiz
 Was sind soziale und kommunikative Fähigkeiten?
 
 -[(x)] Konfliktlösung, Teamfähigkeit, Pflichtbewusstsein
@@ -73,14 +73,25 @@ Was vermutest du, ist für eine effektive Gruppenarbeit wichtig?
 [[ ]] Kommunikationsfähigkeit
 
 
-### Wichtige soziale und kommunikative Kompetenzen für das Studium anhand einer Gruppenarbeit 
+#### Wichtige soziale und kommunikative Kompetenzen für das Studium anhand einer Gruppenarbeit 
+---
 ![Abbildung](https://game-icons.net/icons/000000/ffffff/1x1/delapouite/discussion.png)
+---
 
 #### Was versteht man unter einem Team?
-Ein Team besteht aus Menschen, die gemeinsam arbeiten, kooperieren und die Verantwortung teilen, um ein gemeinsames Ziel zu erreichen. 
-![Abbildung](https://gamepedia.cursecdn.com/halo_esports_gamepedia_en/3/3f/Unknown_Infobox_Image_-_Team.png)
+Ein Team besteht aus Menschen, die gemeinsam arbeiten, kooperieren und die Verantwortung teilen, um ein gemeinsames Ziel zu erreichen.
+
 ---
-#### Aufbau und Pflege des Teamgeists
+
+![Abbildung](https://gamepedia.cursecdn.com/halo_esports_gamepedia_en/3/3f/Unknown_Infobox_Image_-_Team.png)
+
+---
+
+#### Teamgeist, Vorteile und Rollen einer Gruppe
+---
+
+__Aufbau und Pflege des Teamgeists__
+
 Für eine erfolgreiche Gruppenarbeit ist es wichtig, dass sich alle Teammitglieder als eine Einheit wahrnehmen und auch so agieren.
 
 Wichtige Elemente dafür sind:
@@ -90,14 +101,14 @@ Wichtige Elemente dafür sind:
 - Zusammenhalt
 
 ---
-Vorteile von Gruppenarbeiten im Studium
+__Vorteile von Gruppenarbeiten im Studium__
 
 - Erlernen von Teamfähigkeit und Kommunikation
 - vielfältige Blickwinkel auf Themen durch die Gruppenmitglieder
 - Stärkung der Gemeinschaft 
 
 ---
-Welche Rollen gibt es in einer Gruppe?
+__Welche Rollen gibt es in einer Gruppe?__
 
 1. Funktionsrollen 
       übernehmen Verantwortung für Aufgaben, wie z.B.Leitung, Protokollführung, Forschung 
@@ -116,7 +127,7 @@ Welche Rollen gibt es in einer Gruppe?
 [[x]] Kommunikation
 
 ---
-Übung zu Verhalten und Rollen innerhalb einer Gruppe
+__Übung zu Verhalten und Rollen innerhalb einer Gruppe__
 
 Szenario 1
 
