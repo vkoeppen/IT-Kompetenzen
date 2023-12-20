@@ -7,7 +7,7 @@ comment: **Thema:** Notizen und Erstellen von Animationen in einer Powerpoint
 
 -->
 
-### <center>Powerpoint</center>
+## <center>Powerpoint</center>
 @date
 
 
@@ -23,7 +23,7 @@ comment: **Thema:** Notizen und Erstellen von Animationen in einer Powerpoint
 
 [1. Abbildung](https://play.google.com/store/apps/details?id=com.microsoft.office.powerpoint&hl=de)
 
-### <center>Inhaltsverzeichnis</center>
+## <center>Inhaltsverzeichnis</center>
 {{1}} **1. Einstieg**
 
 - **1.1 Festlegung der Kompetenz**
@@ -52,7 +52,7 @@ comment: **Thema:** Notizen und Erstellen von Animationen in einer Powerpoint
 {{3}} **3. Quellen**
 
 
-### 1. Einstieg
+## 1. Einstieg
 **1.1 Festlegung der Kompetenz**
 
 Für viele Studiumsbereiche sind gängige Programme, wie Microsoft-Programme notwendig, insbesondere um die Ergebnisse einer Arbeitsprobe zu erstellen und zu präsentieren. 
@@ -100,7 +100,7 @@ Präsentationsprogramm von Microsoft
 
 
 
-### <center> 2. Anwendung eines Lernelements </center>
+## <center> 2. Anwendung eines Lernelements </center>
 <center> **Einfügen von Sprechernotizen in einer Powerpoint** </center>
 
 ---
@@ -113,7 +113,7 @@ Präsentationsprogramm von Microsoft
 - Notiz-Symbol neben Anzeigeeinstellungen, oder wie in dem Beispiel vorgezeigt; neben Kommentare
 
 
-##### 2.1 Referenzansicht
+## 2.1 Referenzansicht
 
 **Während der Bildschirmpräsentation Notizen einsehbar**
 
@@ -170,7 +170,7 @@ Präsentationsprogramm von Microsoft
 
 
 
-###### 2.2 Aktivierung der Referenzansicht
+## 2.2 Aktivierung der Referenzansicht
 
 Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 ![Abbildung 4](https://support.content.office.net/de-de/media/6a1333b9-e386-4579-b8f0-051aed6e5ab8.png)
@@ -186,7 +186,7 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 1.Video: [Link zum Tutorial](https://www.microsoft.com/de-de/videoplayer/embed/RWfkz0?pid=ocpVideo1-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&reporting=true&market=de-de)
 
 
-### <center> 3. Anwendung eines zweiten Lernelements </center>
+## <center> 3. Anwendung eines zweiten Lernelements </center>
 
 <center>**Erstellen von Animationen**</center>
 
@@ -196,7 +196,7 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 
 [5. Abbildung](https://embed-ssl.wistia.com/deliveries/495e6ff8a0d973e9c08066e811bbeb25.jpg)
 
-#### 3.1 Animation von Bildern und Textfeldern
+## 3.1 Animation von Bildern und Textfeldern
 
 - Headline Punkt "Animationen" anklicken
    
@@ -214,7 +214,7 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 [6. Abbildung](https://cdn1.participoll.com/wp-content/uploads/2021/01/03123303/Leanne-screenshot-5.jpg)
 
 
-#### 3.2 Animation/Übergänge zwischen Folien
+## 3.2 Animation/Übergänge zwischen Folien
 
    - Headline Punkt Übergänge auswählen
 
@@ -234,7 +234,7 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
  [7. Abbildung](https://www.wirliebenoffice.de/images/content/tutorials/powerpoint/008-folienubergang-einfugen.png)
 
 
-### <center>Quellen</center>
+## <center>Quellen</center>
 ---
 **1.Quelle** 
 
