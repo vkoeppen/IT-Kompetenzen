@@ -8,7 +8,7 @@ narrator: deutsch Female
 
 -->
 
-# __Recherche__
+## __Recherche__
 
 ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Schreiben_digital.png/653px-Schreiben_digital.png?20210824085240)
 Quelle:"Schreiben digital", Julian Kücklich, Lizenz: CC0 1.0, https://api.openverse.engineering/v1/images/e6e14a45-1a41-4b7e-98c8-22aa82293474/thumb/
@@ -18,7 +18,7 @@ Quelle:"Schreiben digital", Julian Kücklich, Lizenz: CC0 1.0, https://api.openv
 Zu den Kompetenzen, die für das Studium besonders wichtig sind, zählt die **Recherchekompetenz**. Heutzutage können wir eine breite Masse an Informationen sehr schnell und einfach abrufen, aber beispielsweise beim Schreiben einer Hausarbeit oder bei der Literatursuche für das Erstellen einer Bachelorarbeit, benötigen wir aussagekräftige und belegbare Informationen. Daher werde ich in diesem Vortrag das Thema Recherche etwas näher beleuchten.
 
 ---
-## __Richtig recherchieren__
+### __Richtig recherchieren__
  Der Ablauf einer Recherche
 ---
 {{1}} * Was ist das Ziel meiner Recherche?   
@@ -31,7 +31,7 @@ Zu den Kompetenzen, die für das Studium besonders wichtig sind, zählt die **Re
 {{6}}> **Um überhaupt recherchieren zu können, sollte man natürlich auch die Sprache verstehen. Falls deutsch nicht deine Muttersprache ist, hier ein Tipp: [Übersetzer Deeple](https://www.deepl.com/de/translator)**
 
 
-## Was ist das Ziel meiner Recherche?
+### Was ist das Ziel meiner Recherche?
 
 Im ersten Schritt muss das Ziel der Recherche festgelegt werden. Was möchte ich mit meiner Recherche erreichen, welches Problem soll gelöst oder welche Frage soll beantwortet werden.
 ---
@@ -49,7 +49,7 @@ Kreuze zutreffendes an:
 
 [ChatGPT](https://chat.openai.com/auth/login) oder [Phind](phind.com)
 
-## Wie recheriere ich?
+### Wie recheriere ich?
 ---
 Im zweiten Schritt geht um das Recherchieren an sich. Das Sammeln von Informationen wird erleichtert, wenn man die Suche mit [Stich- und Schlagworten](https://www.hochschule-trier.de/hauptcampus/bibliothek/tutorial-informationskompetenz/suche-vorbereiten/suchstrategien/stich-und-schlagwoerter) eingrenzt.
 
@@ -86,9 +86,11 @@ Hat man sich einen ersten Überblick verschafft oder noch nicht die passende Lit
 Quelle: "Boolean logic", Jakub T. Jankiewicz, Lizenz: CC BY-SA 4.0,
 https://upload.wikimedia.org/wikipedia/commons/1/17/Boolean_logic.svg
 
+Empfehlung für 
+
 ---
 
-## Wie dokumentiere ich meine Ergebnisse?
+### Wie dokumentiere ich meine Ergebnisse?
 ---
 Die gefundene Literatur muss auch dokumentiert werden, damit sie später ausgewertet und genutzt werden kann. Neben der *schriftlichen Dokumentation* ist die Verwendung eines *Dateimanagementssystems* auf dem Computer sinnvoll.
 
@@ -114,7 +116,7 @@ Quelle: "Eine Recherche dokumentieren", Heike Baller, Lizenz:  CC BY-SA 3.0, htt
 [Zotero](https://www.zotero.org/download/)
 
 
-## Wie kann ich die gefundenen Quellen bewerten?
+### Wie kann ich die gefundenen Quellen bewerten?
 ---
 Zum Schluss prüft man, ob die gesammelte Literatur zum anfangs definierten Rechercheziel passt. Sind die Informationen ~~relevant~~ für meine Recherche? Außerdem sollten die enthaltenen Informationen ~~glaubwürdig~~ und auf einem ~~aktuellem~~ Stand sein.
 
@@ -133,7 +135,7 @@ Es gibt bestimmte Kriterien, an denen man "gute" Quellen erkennt:
 
 > **Tipp für kritische Quellenauswahl im Internet:** [Quellenkritik im Internet](https://niemalsvergessen.systime.dk/?id=206)
 
-## Quellen 
+### Quellen 
 
 * Niedermair, Klaus (2010): Recherieren und Dokumentieren. Der richtige Umgang mit Literatur im Studium. UVK Verlagsgesellschaft mbH, Konstanz
 * Kopsieker, Stephan; Kronfeldner, Maria: Handreichungen für Studierende der Philosophie. Wie recherieren? Hinweise zur Recherche in der Bibliothek und online
