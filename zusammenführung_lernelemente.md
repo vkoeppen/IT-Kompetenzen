@@ -7,6 +7,7 @@ narrator: Deutsch Female
 
 import:   https://github.com/liascript/CodeRunner
 
+link: css/callouts.css
 -->
 # Zusammenführung der Lernelemente
 ## Gliederung
@@ -31,9 +32,9 @@ Unter diesem Kommentar bitte Word einfuegen
 
 **Was musst Du fürs Studium in Word können?**
 
-Als Student wird das wissenschaftliche Arbeiten ein großer Bestandteil Deines Studiums sein. Eines der wichtigsten Programme kann hierbei Microsoft Word sein. Ob Texte, Inhaltsverzeichnisse oder Formatierungen, mit Word kann man so einiges professionell und individuell erstellen und bearbeiten. Um nicht alles umständlich herunterzuschreiben, bietet das MS-Office Programm nützliche Funktionen für Ihre zukünftigen Arbeiten.
+Als Student wird das wissenschaftliche Arbeiten ein großer Bestandteil Deines Studiums sein. Eines der wichtigsten Programme kann hierbei Microsoft Word sein. Ob Texte, Inhaltsverzeichnisse oder Formatierungen, mit Word kann man so einiges professionell und individuell erstellen und bearbeiten. Um nicht alles umständlich herunterzuschreiben, bietet das MS-Office-Programm nützliche Funktionen für Deine zukünftigen Arbeiten.
 
-Auf den nächsten Seiten wollen wir Dir daher einen kurzen Einblick über einige dieser Funktionen bieten, die unserer Meinung nach Deine wissenschaftliche Arbeit in Word erleichtern könnte. Vielleicht kanntest Du sie noch nicht und wir können Dir helfen, ein kleines Stück besser mit Word umzugehen. 
+Auf den nächsten Seiten wollen wir Dir daher einen kurzen Einblick über einige dieser Funktionen bieten, die Dir beim Verfassen einer wissenschaftlichen Arbeit helfen können. Vielleicht kanntest Du sie noch nicht und wir können Dir helfen, ein kleines Stück besser mit Word umzugehen. 
 
 *Zu jedem unserer Themen wird nur ein Beispiel gezeigt. Es gibt auch andere Möglichkeiten, die verschiedenen Funktionen zu benutzen. Werde kreativ und probiere sie einfach alle einmal aus!*
 
@@ -41,10 +42,15 @@ Auf den nächsten Seiten wollen wir Dir daher einen kurzen Einblick über einige
 
 - [**Formatierung**](#formatierung)
 - [**Einfügen**](#einfügen)
+
     -   *Bilder*
+
     -   *Tabelle*
+
     -   *Diagramme*
+
     -   *SmartArt*
+
 - [**Inhaltsverzeichnis**](#inhaltsverzeichnis)
 - [**Zitierung**](#zitierung)
 - [**Literaturverzeichnis & Abbildungsverzeichnis**](#literaturverzeichnis)
@@ -64,13 +70,13 @@ Einer der ersten Schritte zum Erstellen Deines Dokumentes, wird die Formatierung
 
 #### Einfügen
 
-Auf den nachfolgenden Seiten findest Du Informationen wie man einzelne Elemente in Dein Word-Dokument einfügen kann. 
+Auf den nachfolgenden Seiten findest Du Informationen wie Du einzelne Elemente in Dein Word-Dokument einfügen kannst. 
 
 ### Bilder
 
 ![alt](bilder/word-einfuegen.png)
 
-Bilder werden eingefügt, indem Du in der oberen Leiste auf **Bilder** klickst. Daraufhin öffnet sich ein Tab, bei dem Du auswählst: *dieses Gerät* oder *Onlinebilder*. 
+Bilder werden eingefügt, im Reiter *Einfügen* auf *Bilder* klickst. Daraufhin öffnet sich ein Tab, bei dem Du auswählst: *dieses Gerät* oder *Onlinebilder*. 
 
 **Dieses Gerät**
 
@@ -78,7 +84,7 @@ Zuerst öffnet sich der Dateiordner. Dort wird die Datei mit dem gewünschten Bi
 
 **Online Bilder**
 
-Hierbei öffnet sich ein weiteres Fenster. In diesem kannst Du in der Suchleiste oder aus vorgefertigten Suchbegriffen ein passendes Bild für Dein Dokument raussuchen. Dabei kannst Du bei der Suche angeben, ob das Bild *Creative Common* sein soll oder nicht.
+Hierbei öffnet sich ein weiteres Fenster. In diesem kannst Du in der Suchleiste oder aus vorgefertigten Suchbegriffen ein passendes Bild für Dein Dokument raussuchen. Dabei kannst Du bei der Suche angeben, ob das Bild über *Creative Common* verfügen soll oder nicht.
 
 ![alt](bilder/Word-Online-Bild.png)
 
@@ -752,14 +758,18 @@ Zu den Kompetenzen, die für das Studium besonders wichtig sind, zählt die **Re
 ### __Richtig recherchieren__
  Der Ablauf einer Recherche
 ---
-{{1}} * Was ist das Ziel meiner Recherche?   
-{{2}} * Wie recheriere ich?
-{{3}} * Wie dokumentiere ich meine Ergebnisse?
-{{4}} * Wie kann ich die gefundenen Quellen bewerten?
-{{5}} * Quellenangaben
+{{1}} Was ist das Ziel meiner Recherche?   
+
+{{2}} Wie recheriere ich?
+
+{{3}} Wie dokumentiere ich meine Ergebnisse?
+
+{{4}} Wie kann ich die gefundenen Quellen bewerten?
+
+{{5}} Quellenangaben
 
 
-{{6}}> **Um überhaupt recherchieren zu können, sollte man natürlich auch die Sprache verstehen. Falls deutsch nicht deine Muttersprache ist, hier ein Tipp: [Übersetzer Deeple](https://www.deepl.com/de/translator)**
+> **Um überhaupt recherchieren zu können, sollte man natürlich auch die Sprache verstehen. Falls deutsch nicht deine Muttersprache ist, hier ein Tipp: [Übersetzer Deeple](https://www.deepl.com/de/translator)**
 
 
 ### Was ist das Ziel meiner Recherche?
