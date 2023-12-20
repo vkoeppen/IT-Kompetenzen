@@ -11,13 +11,14 @@ import:   https://github.com/liascript/CodeRunner
 -->
 
 # soziale und kommunikative Kompetenzen
-
  ---------------------------------------------
-### Was versteht man überhaupt unter sozial-kommunikative Kompetenzen ?
+ Bild
+
+### Was versteht man überhaupt unter sozialen und kommunikativen Kompetenzen ?
  --------------------------------------------- 
  Sozial-kommunikative Kompetenz ist die Fähigkeit, sich aus eigenem Antrieb mit anderen zusammen- und auseinanderzusetzen sowie kreativ zu kooperieren und zu kommunizieren. Es ist die Fähigkeit, mit einem feinen Gespür für Meinungen, Bedürfnisse und Gefühle anderer flexibel die Zusammenarbeit zu organisieren, bei Konflikten zu vermitteln und Probleme zu lösen.
 
- #### Was gibt es für sozial-kommunikative Kompetenzen ?
+ #### Was gibt es für soziale und kommunikative Kompetenzen ?
  * Anpassungsfähigkeit 
  * Beratungsfähigkeit
  * Beziehungsmanagement
@@ -33,13 +34,13 @@ import:   https://github.com/liascript/CodeRunner
  * Teamfähigkeit
  * Verständnisfähigkeit
 
-##### Fülle die Tabelle aus und trage ein, welche Kompetenzen dir liegen und welche nicht!
+#### Wähle nun die Fähigkeiten aus, die dir bereits liegen, um einen Überblick zu bekommen!
 
-|liegt mir sehr ||liegt mir gar nicht|liegt mir mittelmäßig
-| ---:| ---:| ---:| ---
-|     |     |     |  
-|     |     |     |  
-|     |     |     | 
-|     |     |     | 
-|     |     |     | 
+[[ ]] Durchsetzungsvermögen
+[[ ]] Teamfähigkeit
+[[ ]] Konfliktlösung
+[[ ]] Verständnis
+[[ ]] Anpassungsfähigkeit
+[[ ]] Kommunikationsfähigkeit
+
 
