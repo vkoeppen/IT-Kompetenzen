@@ -4,7 +4,7 @@ author:   Nicolai Bach
 
 email:    nicolai.bach@fh-potsdam.de
 
-version:  0.0.1
+version:  0.0.2
 
 language: de
 

@@ -1,18 +1,8 @@
 /* 
 callouts.css
+
 Adds styles for different “Callout” blocks.
-
-1.	Import this stylesheet
-		In the head of your document add this:
-		link: /css/callouts.css
-
-2.1	Assign the styles to an element:
-		Before a Markdown blockqute add this:
-		<!-- class = "callout <STYLE>" -->
-
-2.2 Replace <STYLE> with one of the supported
-		styles (CSS class), a “Warning” in this example:
-		<!-- class = "callout warning" -->
+See test_callouts_nb31.md for examples and instructions.
 */
 
 /* Colors */
