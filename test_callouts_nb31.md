@@ -14,7 +14,7 @@ dark: false
 
 comment:  Demo-Seite für `css/callouts.css`.
 
-link: /css/callouts.css
+link: css/callouts.css
 
 -->
 
@@ -30,7 +30,7 @@ In den Metadaten von deinem Dokument muss das Stylesheet (die CSS-Datei) eingebu
 ```markdown
 <!--
 
-link: /css/callouts.css
+link: css/callouts.css
 
 -->
 ```
