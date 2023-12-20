@@ -1,0 +1,103 @@
+/* 
+callouts.css
+Adds styles for different “Callout” blocks.
+
+1.	Import this stylesheet
+		In the head of your document add this:
+		link: /css/callouts.css
+
+2.1	Assign the styles to an element:
+		Before a Markdown blockqute add this:
+		<!-- class = "callout <STYLE>" -->
+
+2.2 Replace <STYLE> with one of the supported
+		styles (CSS class), a “Warning” in this example:
+		<!-- class = "callout warning" -->
+*/
+
+/* Colors */
+
+:root {
+	/* text */
+	--c-text-light: rgb(255, 255, 255);
+
+	/* background */
+	--c-info: rgb(55, 221, 251);
+	--c-tip: rgb(59, 252, 251);
+	--c-success: rgb(139, 233, 186);
+	--c-warning: rgb(229, 191, 60);
+	--c-danger: rgb(248, 72, 81);
+}
+
+/* Base — Styles shared by all callouts */
+
+.callout {
+	border-radius: .5em;
+	margin-block: 2em;
+}
+
+.callout::before {
+	display: block;
+}
+
+.callout.with-title::before {
+	display: none;
+}
+
+.callout::before,
+.callout.with-title p:first-child {
+	font-size: 1.2em;
+	font-weight: 900;
+	margin-block-end: 1em;
+}
+
+/* Info */
+
+.callout.info {
+	background-color: var(--c-info);
+}
+
+.callout.info::before {
+	content: 'Info';
+}
+
+/* Tipp */
+
+.callout.tip {
+	background-color: var(--c-tip);
+}
+
+.callout.tip::before {
+	content: 'Tip';
+}
+
+/* Erfolg */
+
+.callout.success {
+	background-color: var(--c-success);
+}
+
+.callout.success::before {
+	content: 'Yay';
+}
+
+/* Warnung */
+
+.callout.warning {
+	background-color: var(--c-warning);
+}
+
+.callout.warning::before {
+	content: 'Warnung';
+}
+
+/* Gefahr */
+
+.callout.danger {
+	background-color: var(--c-danger);
+	color: var(--c-text-light);
+}
+
+.callout.danger::before {
+	content: 'Gefahr';
+}
