@@ -9,20 +9,20 @@ narrator: Deutsch Female
 import:   https://github.com/liascript/CodeRunner
 
 -->
-# Soziale und Kommunikative Kompetenzen
+# Soziale und kommunikative Kompetenzen
 
 ![Abbildung](https://i1.wp.com/blog.endurancegroup.org/wp-content/uploads/2018/08/b3.jpg?fit=655%2C430&ssl=1)
 
 {{|>}} 
- Im Studium werden immer wieder Skills, wie zum Beispiel vor anderen Komilitonen das eigene Projekt zu präsentieren, Gruppenarbeiten zu managen oder auch einfach das konstruktive sowie effektive kommunizieren, erwartet. Um dir deinen Start zu vereinfachen, haben wir hier schonmal ein paar Tipps, Tricks und einfache Einführungen vorbereitet. 
+ Im Studium werden immer wieder Skills erwartet, wie zum Beispiel die Präsentation des eigenen Projekts, das Managen von Gruppenarbeiten oder auch die konstruktive sowie effektive Kommunikation. Um Dir deinen Start zu vereinfachen, haben wir hier ein paar Tipps, Tricks und eine einfache Einführung vorbereitet. 
 
 ---
-#### 1. Was sind eigentlich soziale und kommunikative  Kompetenzen?
+#### 1. Was sind eigentlich soziale und kommunikative Kompetenzen?
 "Sozial-kommunikative Kompetenz ist die Fähigkeit, sich aus eigenem Antrieb mit anderen zusammen- und auseinanderzusetzen sowie kreativ zu kooperieren und zu kommunizieren. Menschen mit hoher sozial-kommunikativer Kompetenz verstehen andere Menschen und können sich selbst verständlich machen."
       https://www.kodekonzept.com/wissensressourcen/kompetenzfelder/
 
 ---
- #### Was gibt es für sozial-kommunikative Kompetenzen ?
+ #### Was gibt es für sozial-kommunikative Kompetenzen?
  * Anpassungsfähigkeit 
  * Beratungsfähigkeit
  * Beziehungsmanagement
@@ -40,7 +40,7 @@ import:   https://github.com/liascript/CodeRunner
 
 ---
 
-Zusammengefasst bedeutet es, ein hohes Engagement in sozialen Situationen zu besitzen und auch kommunikative Fähigkeiten anwenden zu können. Zu kommunikativen Fähigkeiten zählen, dass man Kompromisse schließen kann, Durchsetzungsvermögen besitzt und konstruktiv, effektiv sowie bewusst kommuniziert.
+Zusammengefasst bedeutet dies, ein hohes Engagement in sozialen Situationen zu zeigen und auch kommunikative Fähigkeiten anwenden zu können. Zu kommunikativen Fähigkeiten zählen, dass man Kompromisse eingeht, Durchsetzungsvermögen besitzt und konstruktiv, effektiv sowie bewusst kommuniziert.
 ---
 #### 1.1. Quiz
 Was sind soziale und kommunikative Fähigkeiten?
@@ -57,20 +57,21 @@ Warum sind soziale und kommunikative Fähigkeiten wichtig?
 -[(x)] Für Gruppenarbeiten und um Konflikte zu lösen 
 
 ---
-Was vermutest du, ist für eine effektive Gruppenarbeit wichtig?
+Was vermutest Du, ist für eine effektive Gruppenarbeit wichtig?
 
--[( )] Ignoranz gegenüber Teammitglieder
+-[( )] Ignoranz gegenüber Teammitgliedern
 -[( )] Kritik ohne Lösungsvorschläge
--[(x)] offene Kommunikation und Zusammenarbeit 
+-[(x)] Offene Kommunikation und Zusammenarbeit 
 
-#### Wähle nun die Fähigkeiten aus, die dir bereits liegen, um einen Überblick zu bekommen!
+#### Wähle nun die Fähigkeiten aus, die Du bereits besitzt!
 
-[[ ]] Durchsetzungsvermögen
-[[ ]] Teamfähigkeit
-[[ ]] Konfliktlösung
-[[ ]] Verständnis
-[[ ]] Anpassungsfähigkeit
-[[ ]] Kommunikationsfähigkeit
+[[Durchsetzungsvermögen ]] Durchsetzungsvermögen
+[[Teamfähigkeit ]] Teamfähigkeit
+[[Konfliktlösung ]] Konfliktlösung
+[[Verständnis ]] Verständnis
+[[Anpassungsfähigkeit ]] Anpassungsfähigkeit
+[[Kommunikationsfähigkeit ]] Kommunikationsfähigkeit
+
 
 
 #### Wichtige soziale und kommunikative Kompetenzen für das Studium anhand einer Gruppenarbeit 
@@ -85,12 +86,7 @@ Ein Team besteht aus Menschen, die gemeinsam arbeiten, kooperieren und die Veran
 
 ![Abbildung](https://gamepedia.cursecdn.com/halo_esports_gamepedia_en/3/3f/Unknown_Infobox_Image_-_Team.png)
 
----
-
-#### Teamgeist, Vorteile und Rollen einer Gruppe
----
-
-__Aufbau und Pflege des Teamgeists__
+{{1}} __Aufbau und Pflege des Teamgeists__
 
 Für eine erfolgreiche Gruppenarbeit ist es wichtig, dass sich alle Teammitglieder als eine Einheit wahrnehmen und auch so agieren.
 
@@ -101,14 +97,14 @@ Wichtige Elemente dafür sind:
 - Zusammenhalt
 
 ---
-__Vorteile von Gruppenarbeiten im Studium__
+{{2}}__Vorteile von Gruppenarbeiten im Studium__
 
 - Erlernen von Teamfähigkeit und Kommunikation
 - vielfältige Blickwinkel auf Themen durch die Gruppenmitglieder
 - Stärkung der Gemeinschaft 
 
 ---
-__Welche Rollen gibt es in einer Gruppe?__
+{{3}} __Welche Rollen gibt es in einer Gruppe?__
 
 1. Funktionsrollen 
       übernehmen Verantwortung für Aufgaben, wie z.B.Leitung, Protokollführung, Forschung 
