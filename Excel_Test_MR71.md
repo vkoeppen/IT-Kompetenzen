@@ -1,37 +1,8 @@
-# Excel-Diagramme
-
-Problem:
----
-> **Für eine Präsentation möchtest du verschiedene Daten darstellen. Zum Einen weißt du, wie viele **
-
-# Excel-Diagramme
-
-+ Erklärung der verschiedenen Diagramm-Typen (Säulendiagramm, Tortendiagramm)
-+ Beispielbilder
-
-# Excel-Diagramme
-
-+ Einbindung von Scripten, welche verschiedene Beispieldaten als verschiedene Diagramme erscheinen lassen
-
-# Excel Quiz 
-
-Kreuze die zutreffenden Aussagen an:
-
-
-[[X]] EXCEL GEHÖRT ZU MICROSOFT OFFICE
-[[ ]] EXCEL WURDE IM JAHR 1908 EINGEFÜHRT
-[[X]] EXCEL WIRD ALS E_SPORT BETRIEBEN
-[[X]] EINE OPEN SOURCE ALTERNATIVE ZU ESCEL BIETET LibreOffice Calc
-
-# Excel-Formeln
+## Excel-Formeln
 ---
 > **Für eine Hausaufgabe musst du mehrere komplizierte Werte ausrechnen. Deine Dozentin gibt dir mathematische Formeln vor, welche du im Grunde nicht verstehen, sondern nur anwenden musst. So weit, so gut. Du versuchst die Aufgabe mit Stift, Papier und Handy-Taschenrechner zu lösen, doch bald verlierst du den Überblick. Schlimmer noch: die Ergebnisse deiner Rechnungen scheinen aufeinander aufzubauen und sobald du an einer Stelle einen Fehler vermutest musst du einen ganzen Rattenschwanz an Rechnungen noch einmal lösen. Geht das nicht einfacher?**
 
-# Excel-Formeln
-+ Hier kommt ein Text hin in welchem erklärt wird, aus welchen Bestandteilen Formeln bestehen
-+  Außerdem könnten Beispielbilder besonders wichtige Formeln zeigen, eventuell als bewegende .gif?
-
-# Excel-Formeln
+## Excel-Formeln
 Trage die folgenden Begriffe in den Lückentext ein!
 
 <kbd>Operatoren</kbd><kbd>Konstanten</kbd><kbd>Bezüge</kbd><kbd>Funktionen</kbd><kbd>Elementen</kbd><kbd>relative</kbd><kbd>absolute</kbd>
