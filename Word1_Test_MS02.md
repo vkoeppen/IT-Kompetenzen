@@ -1,4 +1,4 @@
-# Word
+## Word
 
 **Was musst Du fürs Studium in Word können?**
 <ul><u>Einleitung</u></ul>
@@ -9,7 +9,7 @@ Auf den nächsten Seiten wollen wir Dir daher einen kurzen Einblick über einige
 
 *Zu jedem unserer Themen wird nur ein Beispiel gezeigt. Es gibt auch andere Möglichkeiten, die verschiedenen Funktionen zu benutzen. Werde kreativ und probiere sie einfach alle einmal aus.*
 
-## Gliederung
+### Gliederung
 
 - [**Formatierung**](#formatierung)
 - [**Einfügen**](#einfügen)
@@ -24,7 +24,7 @@ Auf den nächsten Seiten wollen wir Dir daher einen kurzen Einblick über einige
 - [**Überprüfung**](#überprüfung)
 - [**Ansicht**](#ansicht)
 
-### Formatierung
+#### Formatierung
 
 Einer der ersten Schritte zum Erstellen Deines Dokumentes, wird die Formatierung sein. Bei **Start** findest Du alle nötigen Funktionen, um die Grundlagen für Deine Arbeit festlegen zu können. Dazu gehören unter anderem Absätze, Formatvorlagen und die Schrift selbst.
 
@@ -34,11 +34,11 @@ Einer der ersten Schritte zum Erstellen Deines Dokumentes, wird die Formatierung
 
 ![alt](bilder/Formatierung_Formatvorlage.png)
 
-### Einfügen
+#### Einfügen
 
 Auf den nachfolgenden Seiten findest Du Informationen wie man einzelne Elemente in Dein Word-Dokument einfügen kann. 
 
-## Bilder
+### Bilder
 
 ![alt](bilder/word-einfuegen.png)
 
@@ -54,7 +54,7 @@ Hierbei öffnet sich ein weiteres Fenster. In diesem kannst Du in der Suchleiste
 
 ![alt](bilder/Word-Online-Bild.png)
 
-## Tabelle
+### Tabelle
 
 Tabellen werden eingefügt, indem auf die obere Leiste bei **Einfügen** auf die **Tabelle** geklickt wird. Daraufhin öffnet sich ein Tab, bei welchem Du die Anzahl Deiner Spalten und Zeilen auswählen musst.
 
@@ -64,7 +64,7 @@ Danach besteht die Möglichkeit durch Rechts-Klick auf die Tabelle weitere Spalt
 
 ![alt](bilder/Tabellen-entwurf.png)
 
-## Diagramme
+### Diagramme
 
 Die grafische Darstellung von Daten oder Informationen kann unter Umständen in Deiner wissenschaftlichen Arbeit den Sachverhalt besser veranschaulichen. 
 **Achte jedoch auf eine simple Gestaltung**
@@ -76,7 +76,7 @@ Hat man sich für ein Diagramm entschieden, öffnet sich eine zusätzliche Excel
 
 ![alt](bilder/DiagrammmitExel.png)
 
-## SmartArt
+### SmartArt
 
 SmartArt ermöglicht eine visuelle Darstellung von Informationen und Bildern. Um sich eine SmartArt-Grafik zu erstellen und anschließend zu verwenden, muss man in der oberen Leiste bei **Einfügen** > **SmartArt** klicken. Tut man dies, so öffnet sich ein Fenster mit vielen verschiedenen Auswahlmöglichkeiten, um seine Informationen perfekt für sich darstellen zu lassen.
 
@@ -87,14 +87,14 @@ Als weiteren Schritt kann man gegebenenfalls seine Grafik nach seinen Vorstellun
 ![alt](bilder/SmartArt-Design.PNG)
 
 
-### Inhaltsverzeichnis
+#### Inhaltsverzeichnis
 
 Um sich das erstellen oder das anpassen eines Inhaltsverzeichnis zu erleichtern, hat Word eine nützliche Funktion für Dich.
 Wechsel in der oberen Leiste zu **Referenzen**, dort findest Du ganz links die Funktion ein Inhaltsverzeichnis zu erstellen oder bei Bedarf zu aktualisieren. Damit spart man sich Zeit und vermeidet eventuelle Fehler beim Schreiben eines Inhaltsverzeichnisses. Um seinen Text dem Inhaltssverzeichnis hinzuzufügen, muss man auf *Text einfügen* klicken. 
 
 ![alt](bilder/Inhaltsverzeichnis1.PNG)
 
-### Zitierung
+#### Zitierung
 
 Das Zitieren von Zitaten oder Textabschnitten ist für viele Studenten eine der Königsdisziplinen beim Erstellen ihrer wissenschaftlichen Arbeiten. Wenn man bei Word jedoch in der oberen Zeile auf **Referenzen** geht, findet man die Funktion *Zitat einfügen*. Unter *neue Quelle* kannst Du alle wichtigen Informationen bezüglich Deines Zitates hinzufügen. 
 Mit der zusätzlichen Funktion *Formatvorlage*, kann man sich einfach und übersichtlich ein Zitat mit einer direkten Verlinkung zum Inhaltsverzeichnis erstellen.
@@ -104,7 +104,7 @@ Mit der zusätzlichen Funktion *Formatvorlage*, kann man sich einfach und übers
 > [!TIP]
 > Eine Empfehlung für eine Formatvorlage beim zitieren, wäre Chicago.
 
-### Literaturverzeichnis & Abbildungsverzeichnis
+#### Literaturverzeichnis & Abbildungsverzeichnis
 
 ![alt](bilder/Literaturverzeichnis1.PNG)
 
@@ -113,7 +113,7 @@ Deine Quellen kannst Du nämlich bei Bedarf jederzeit aktualisieren. Um eine neu
 
 Auch das Erstellen eines Abbildungsverzeichnis wird über die obere Zeile **Referenzen** > **Beschriftung** durchgeführt. Dabei kann man entscheiden, wie das Abbildungsverzeichnis aussehen und ob es Verlinkungen zum jeweiligen Bild geben soll.
 
-### Layout
+#### Layout
 
 Solltest Du mal für eine Deiner wissenschaftlichen Arbeiten einen benutzerdefinierten Seitenrand, ein horizontales Blatt oder vielleicht eine zwei Spaltenansicht brauchen, dann bist Du hier beim Layout genau richtig. 
 Ganz links findest Du alles was mit Seitenrändern oder Absätzen zu tun hat. Dir wird eine vielfältige Auswahl an vorgefertigten Einstellungen geboten. Solltest Du aber andere Vorstellungen oder Angaben haben, dann kannst sie ganz einfach unter *Weitere* oder *Mehr* selbst konfigurieren. 
@@ -121,7 +121,7 @@ Gleich daneben findest Du den Absatzblock. Dabei kannst Du bestimmen, wie weit D
 
 ![alt](bilder/Layout.png)
 
-### Überprüfung
+#### Überprüfung
 
 Unter dem Punkt *Überprüfungen* befinden sich eine Vielzahl von Funktionen, die Dir eine optimale Unterstützung beim Schreiben Deines Dokumentes bieten können.
 Neben den Standardfunktionen wie Rechtschreibung und Grammatik oder dem Wörterzählen, kann Word Dir Deine geschriebenen Sätze laut vorlesen. Es hilft ungemein dies laut zu hören, da Dir so Fehler leichter auffallen können, die Du vielleicht noch nicht entdeckt hast. Diese Funktion findest Du, wenn man bei **Überprüfungen** > **Sprache** > **laut vorlesen** anklickt.
@@ -143,7 +143,7 @@ Anschließend gibt es noch die Kommentar- und Änderungssektion, die wir Dir zei
 > [!TIP]
 > Um ein Dokument einer anderen Person freizugeben, klicke hierbei über dem Menüband auf **Freigeben** > **Freigabe**. Stelle dabei sicher, das Dein Dokument auf OneDrive gespeichert ist. Die betreffende Person, der Du Dein Dokument freigibst, sollte nachdem teilen eine Email erhalten.
 
-### Ansicht
+#### Ansicht
 
 Unter Ansicht kannst Du das Dokument Dir so anzeigen lassen, wie Deine Präferenzen sind. Unter dem Punkt **Seitenbewegung** kannst Du festlegen, ob Deine Seiten im Dokument Vertikal oder Horizontal, wie bei einem Buch angezeigt werden soll. 
 Im **Lesemodus** kannst Du Dich wie es der Name schon verrät, ganz auf's lesen Deiner Arbeit konzentrieren. 
