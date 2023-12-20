@@ -1,5 +1,7 @@
 # Software
 
+- link zu [Lists](#mögliche-themen)
+
 ## Mögliche Themen
 
 - Software & Sicherheit
@@ -10,13 +12,20 @@
 - Alternative Anwendungen finden
   - Open Source (Bezug *Lizenzen*)
 
-<!-- ## Ein Quiz
+## Table Test
 
-Wie viele unterschiedliche Apps benutzt du jeden Tag?
+| Header 1                                 | <!-- style="background: rgb(12,12,111)"--> Header 2 |
+| :--------------------------------------- | :-------------------------------------------------- |
+| <!-- style="background: coral"--> Item 1 | Item 2                                              |
+| <!-- style="background: cyan" --> Item 3 | Item 4                                              |
 
-[[ ]] Nur ein
-[[ ]] Mehr als eine aber weniger als fünf
-[[ ]] Mehr als fünf aber weniger als 10
-[[ ]] Unzählige
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem veritatis assumenda aspernatur quo porro quasi saepe commodi architecto animi reiciendis debitis corporis quidem quod id maxime, beatae doloremque ipsum recusandae. -->
+## Lists
+
+- gamma
+  and delta
+
+  - and another
+  - important list
+
+- epsilon
