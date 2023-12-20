@@ -30,13 +30,12 @@ Unter diesem Kommentar bitte Word einfuegen
 ## Word
 
 **Was musst Du fürs Studium in Word können?**
-<ul><u>Einleitung</u></ul>
 
-Als Student wird das wissenschaftliche Arbeiten ein großer Bestandteil Deines Studiums sein. Eines der wichtigsten Programme kann hierbei Microsoft Word sein. Ob Texte, Inhaltsverzeichnisse oder Formatierungen, bei Word kann man so einiges professionell und individuell erstellen und bearbeiten. Um nicht alles umständlich herunterzuschreiben, bietet das MS-Office Programm nützliche Funktionen für Ihre zukünftigen Arbeiten.
+Als Student wird das wissenschaftliche Arbeiten ein großer Bestandteil Deines Studiums sein. Eines der wichtigsten Programme kann hierbei Microsoft Word sein. Ob Texte, Inhaltsverzeichnisse oder Formatierungen, mit Word kann man so einiges professionell und individuell erstellen und bearbeiten. Um nicht alles umständlich herunterzuschreiben, bietet das MS-Office Programm nützliche Funktionen für Ihre zukünftigen Arbeiten.
 
 Auf den nächsten Seiten wollen wir Dir daher einen kurzen Einblick über einige dieser Funktionen bieten, die unserer Meinung nach Deine wissenschaftliche Arbeit in Word erleichtern könnte. Vielleicht kanntest Du sie noch nicht und wir können Dir helfen, ein kleines Stück besser mit Word umzugehen. 
 
-*Zu jedem unserer Themen wird nur ein Beispiel gezeigt. Es gibt auch andere Möglichkeiten, die verschiedenen Funktionen zu benutzen. Werde kreativ und probiere sie einfach alle einmal aus.*
+*Zu jedem unserer Themen wird nur ein Beispiel gezeigt. Es gibt auch andere Möglichkeiten, die verschiedenen Funktionen zu benutzen. Werde kreativ und probiere sie einfach alle einmal aus!*
 
 ### Gliederung
 
@@ -1071,7 +1070,7 @@ Vorgang, Kompetenzen, Problemlösungsstrategien, Stolperfallen, Hilfesuche?/nur 
 
 **Unterschiedsreduktion/Bergsteigermethode**: langsames, stufenweises hinarbeiten zum Ergebnis
 
-### 4.Stoperfallen 
+### 4.Stolperfallen 
 
 Während der Lösung eines Problems kann es natürlich auch zu Schwierigkeiten kommen (dass man ein Problem zu lösen hat ist ja auch schon eine Schwierigkeit). Teilweise sind diese extern, so wenn ein bestimmter Schritt im Lösungsprozzes von einer anderen Person gemacht werden muss, unund teilweise intern. 
 
