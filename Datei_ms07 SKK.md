@@ -125,6 +125,9 @@ Da reine Kritik nur die Schwächen einer Person beanstandet, ist das Geben von *
 
 5. Hat Dir dieses Lernelement gefallen?
 
+[[ja]] ja
+[[nein]] nein
+[[vielleicht]] vielleicht
 
 ## Quellen
 
