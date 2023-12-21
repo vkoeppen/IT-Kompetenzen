@@ -44,12 +44,12 @@ Ob in der **Schule**, **im Studium** oder **im Beruf**, wir stehen mit unseren M
 [[x]] wahr
 [[ ]] falsch
 
-## Kommunikationsprobleme lösen
+## Kommunikationsprobleme lösen - Empathie
 
 ![alt](https://live.staticflickr.com/8453/8043877054_883963cf80_b.jpg) 
 Quelle: "Practice empathy" by quinn.anya is licensed under CC BY-SA 2.0.
 
-Damit keine Probleme in der Kommunikation entstehen oder ein bereits entstandenes Problem gelöst werden kann, gibt es eine sehr wichtige sozial-kommunikative Kompetenz. **Empathie** ist ein Schlüssel für gelingende Kommunikation und wird auch übersetzt mit **Einfühlungsvermögen**. Dabei geht es nicht um Mitleid, sondern um die Fähigkeit sich in andere Personen hineinzuversetzen. 
+Damit keine Probleme in der Kommunikation entstehen oder ein bereits entstandenes Problem gelöst werden kann, gibt es eine  wichtige sozial-kommunikative Kompetenz. **Empathie** ist ein Schlüssel für gelingende Kommunikation und wird auch übersetzt mit **Einfühlungsvermögen**. Dabei geht es nicht um Mitleid, sondern um die Fähigkeit sich in andere Personen hineinzuversetzen. 
 
 > **Empathie bedeutet:**
 
@@ -65,7 +65,46 @@ Damit keine Probleme in der Kommunikation entstehen oder ein bereits entstandene
 
 {{6}} Bewusstsein darüber, welchen Eindruck man selbst vermittelt.
 
+##  Kommunikationsprobleme lösen 
 
+ Kritikfähigkeit
+---
+Vor allem wenn um das Thema Teamfähigkeit geht, ist der richtige Umgang mit **Kritik** eine wichtige Eigenschaft. Nicht jeder kann mit Kritik umgehen, aber die Fähigkeit Kritik entgegenzunehmen und auch angemessen zu geben, lässt sich erlernen. 
+
+> **Hier vier Punkte, die man beachten sollte:**
+
+|         |                             |
+| Punkt 1 | Den Anderen ausreden lassen.|
+| Punkt 2 | Kritik nicht persönlich nehmen. (Sachlich bleiben!)|
+| Punkt 3 | Erst zuhören und verstehen.|
+| Punkt 4 | Berechtigte Kritik zur Selbstverbesserung anwenden.|
+---
+**Feedback**
+
+![alt](https://live.staticflickr.com/2918/14279306964_f661d8df0b_b.jpg) 
+Quelle: "Got Feedback?" by cogdogblog is licensed under CC BY 2.0.
+
+---
+Da reine Kritik nur die Schwächen einer Person beanstandet, ist das Geben von Feedback eine bessere Möglichkeit, eine Verhaltensänderung bei einer Person zu erzielen. Neben den Schwächen werden nämlich auch die Stärken einer Person aufgezeigt.
+
+Feedback geben:
+
+1. Konkrete Aussagen machen.
+2. Verbesserungsvorschläge anbieten.
+3. Nicht bewerten oder interpretieren.
+4. Die eigene Meinung (nicht die der Anderen) wiedergeben (z.B. "Mir gefällt...".)
+5. Positives und negatives erwähnen.
+6. Kritik sachlich äußern.
+
+## Lernkontrolle
+
+
+
+## Quellen
+
+* https://link.springer.com/chapter/10.1007/978-3-662-54925-4_7 
+
+* https://lehrbuch-psychologie.springer.com/sites/default/files/atoms/files/roehner-schuetz_probekapitel_2.pdf
 
 
 
