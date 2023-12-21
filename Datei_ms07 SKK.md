@@ -9,7 +9,7 @@ narrator: deutsch Female
 -->
 
 ## Sozial-kommunikative Kompetenzen
-Ob in der **Schule**, **im Studium** oder **im Beruf**, wir stehen mit unseren Mitmenschen im ständigen Kontakt. Sei es die Planung der nächsten Geburtstagsfeier mit unseren Freunden oder das Vorstellungsgespräch für unseren Traumjob, wir interagieren auf *sozialer* und *kommunikativer* Ebene. Eine sehr wichtige Grundkompetenz im sozial-kommunikativen Bereich ist unter anderem die **Teamfähigkeit**, die bereits weiter oben beleuchtet wurde. In diesem Lernelement werde ich daher näher auf ausgewählte Aspekte der **Kommunikation** eingehen.
+Ob in der **Schule**, im **Studium** oder im **Beruf**, wir stehen mit unseren Mitmenschen im ständigen Kontakt. Sei es die Planung der nächsten Geburtstagsfeier mit unseren Freunden oder das Vorstellungsgespräch für unseren Traumjob, wir interagieren auf *sozialer* und *kommunikativer* Ebene. Eine sehr wichtige Grundkompetenz im sozial-kommunikativen Bereich ist unter anderem die **Teamfähigkeit**, die bereits weiter oben beleuchtet wurde. In diesem Lernelement werde ich daher näher auf ausgewählte Aspekte der **Kommunikation** eingehen.
 
 ![alt](https://live.staticflickr.com/4081/4773103417_f85fc4bfa8.jpg) Quelle: "One to One (or a defined many) communication" by Wesley Fryer is licensed under CC BY-SA 2.0.
 
@@ -17,10 +17,10 @@ Ob in der **Schule**, **im Studium** oder **im Beruf**, wir stehen mit unseren M
 
 ![alt](https://upload.wikimedia.org/wikipedia/commons/f/f8/ThunOhr.svg) Quelle: "File:ThunOhr.svg" by derivative work: User:Leif Czerny, ↑ User:Mouagip ↑ User:Mussklprozz is licensed under CC BY-SA 4.0.
 
-> **Nach dem Kommunikationsmodell (Vier-Ohren-Modell) von Schulz von Thun besteht eine Nachricht aus ~~vier Intentionen~~. Der Sender vermittelt eine Nachricht und der Empfänger nimmt diese Nachricht wahr.**
+> **Nach dem Kommunikationsmodell (Vier-Ohren-Modell) von Schulz von Thun kann eine Nachricht eine von ~~vier Intentionen~~ ausdrücken. Ebenso kann eine Nachricht auf vier Arten wahrgenommen werden. Ein Sender vermittelt eine Nachricht und ein Empfänger nimmt diese Nachricht wahr.**
 |Senderseite|Empfängerseite|Erklärung|
 |-----------|--------------|---------|
-|Sachinhalt |Sachohr       |Vermittlung & Verstehen von Sachinformation|
+|Sachinhalt |Sachohr       |Vermittlung & Verstehen von Sachinformationen|
 |Selbstoffenbarung |Selbstoffenbarungsohr|Gewollte Selbstdarstellung & unbeabsichtigte Selbstenthüllung vs. Wahrnehmen des Senders|
 |Beziehungsaussage|Beziehungsohr|Wie sieht die Beziehung zwischen Sender und Empfänger aus?|
 |Appell|Appellohr|Sender will Empfänger zu einer Handlung bewegen|
@@ -100,7 +100,7 @@ Da reine Kritik nur die Schwächen einer Person beanstandet, ist das Geben von *
 
 
 
-1. Empathie bedeutet so viel wie Kritikfähigkeit. 
+1. Empathie bedeutet so viel wie "Kritikfähigkeit". 
 
 [[ ]] wahr
 [[x]] falsch
