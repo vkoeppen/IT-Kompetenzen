@@ -63,7 +63,11 @@ Was vermutest Du, ist für eine effektive Gruppenarbeit wichtig?
 -[( )] Kritik ohne Lösungsvorschläge
 -[(x)] Offene Kommunikation und Zusammenarbeit 
 
+<<<<<<< HEAD
+#### Wähle nun die Fähigkeiten aus, die Dir bereits liegen, um einen Überblick zu bekommen!
+=======
 #### Wähle nun die Fähigkeiten aus, die Du bereits besitzt!
+>>>>>>> a0066ea42cf3fd2cc3e5213afa09afd18175c3c2
 
 [[Durchsetzungsvermögen ]] Durchsetzungsvermögen
 [[Teamfähigkeit ]] Teamfähigkeit
@@ -80,7 +84,7 @@ Was vermutest Du, ist für eine effektive Gruppenarbeit wichtig?
 ---
 
 #### Was versteht man unter einem Team?
-Ein Team besteht aus Menschen, die gemeinsam arbeiten, kooperieren und die Verantwortung teilen, um ein gemeinsames Ziel zu erreichen.
+Ein Team besteht aus Menschen, die gemeinsam arbeiten, kooperieren und die Verantwortung für das Projekt teilen, um ein gemeinsames Ziel zu erreichen.
 
 ---
 
@@ -127,19 +131,19 @@ __Übung zu Verhalten und Rollen innerhalb einer Gruppe__
 
 Szenario 1
 
-Du bist Teil einer Gruppenarbeit in der Uni. Einer deiner Teamkollegen übernimmt die Leitung und teilt die Aufgaben gerecht auf. Wie reagierst du?
+Du bist Teil einer Gruppenarbeit in der Uni. Einer Deiner Teamkollegen übernimmt die Leitung und teilt die Aufgaben gerecht auf. Wie reagierst Du?
 
-[(x)] Du akzeptierst die Aufgabenverteilung und arbeitest engagiert an deiner zugewiesenen Aufgabe. 
+[(x)] Du akzeptierst die Aufgabenverteilung und arbeitest engagiert an Deiner zugewiesenen Aufgabe. 
 [( )] Du protestierst gegen die Aufgabenverteilung. 
-[( )] Du ignorierst die Aufgabenanweisung und erledigst sie nach deinem eigenen Wille. 
+[( )] Du ignorierst die Aufgabenanweisung und erledigst sie nach Deinem eigenen Wille. 
 
 Szenario 2 
 
 Deine Gruppe arbeitet an einem Projekt und es gibt unterschiedliche Meinungen darüber, welchen Ansatz ihr wählen sollt.
-Was tust du?
+Was tust Du?
 
 [( )] Du ziehst dich zurück und überlässt die Entscheidung den anderen Gruppenmitgliedern.
-[( )] Du drängst darauf, deinen eigenen Ansatz durchzusetzen, da du ihn für den besten hältst.
+[( )] Du drängst darauf, Deinen eigenen Ansatz durchzusetzen, da Du ihn für den besten hältst.
 [(x)] Du versuchst, die verschiedenen Perspektiven zu verstehen, bevor eine gemeinsame Entscheidung getroffen wird.
 
 #### Checkliste für eine erfolgreiche Gruppenarbeit:
@@ -149,6 +153,6 @@ Was tust du?
 [[x]] Regelmäßigkeit der Treffen festlegen
 [[x]] Länge der Treffen bestimmen
 [[x]] Treffpunkte ausmachen
-[[x]] effektive Arbeitsweise entwickeln
-[[x]] Vorbereitung auf die Treffen?
+[[x]] Effektive Arbeitsweise entwickeln
+[[x]] Vorbereitung auf die Treffen
 [[x]] Soll ein Protokoll geschrieben werden? 
