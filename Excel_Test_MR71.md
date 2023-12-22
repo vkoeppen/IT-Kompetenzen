@@ -28,6 +28,28 @@ https://de.libreoffice.org/download/download/
 
 ## Excel-Formeln
 
+Sobald du Excel öffnest siehst du eine große Tabelle. Die senkrecht verlaufenden Spalten sind mit Großbuchstaben gekennzeichnet. Die Zeilen werden mit Zahlen benannt. Eine einzelne Zelle ist ein Bereich, in welchem Spalte und Zeile sich schneiden. Entsprechend hat jede Zelle sozusagen eine Koordinate, welche aus dem Buchstaben der Spalte und der Zahl der Zeile besteht (nicht umgekehrt!).
+
+![Basics der Excel Tabelle](bilder/Excel_MR_03.png "Rot= Spalte; Orange=Zeile; Lila=Zelle")
+
+Um zu prüfen, ob du diese Benennungskonvetionen verstanden hast, ergänze den folgenden Text, welcher sich auf dieses Bild bezieht!
+
+In rot gezeigt wird die Spalte [[  A  ]]. Orange ist die Zeile [[  3  ]]. Die lilane Zelle wird mit [[  A1  ]] gekennzeichnet.
+
+<!-- class = "callout Info with-title" -->
+> Dimsensionen der Excel Tabelle
+> 
+>Auf einem Tabellenblatt in Excel kannst du mit 1.048.576 Zeilen und 16.384 Spalten arbeiten. Das bedeutet, die Zelle, welche am weitesten unten rechts auf dem Tabellenblatt liegen kann heißt: **"XFD1048576"**!
+
+## Excel-Formeln
+
+Gehen wir ans Eingemachte! In unserem Beispiel sollen wir mit dem Satz des Pythagoras arbeiten welcher besagt:
+
+a²+b²=c²
+
+Mit dieser Formel werden die Längenverhältnisse der drei Seiten eines gleichschenkligen Dreiecks beschrieben. "a" und "b" sind die Längen der Seiten, welche den rechten Winkel bilden, die sogenannten Katheten. "c" beschreibt die Länge der gegenüberliegenden dritten Seite, der Hypotenuse.
+
+![Veranschaulichung des Satz des Phytagoras.](https://https://imagedelivery.net/4mFOuafp2vpnV1akkESCaQ/4e28f83f-7ebb-4c5f-72cc-9fccbbf5c300/desktopLarge "Veranschaulichung des Satz des Phytagoras.")
 
 
 ## Excel-Formeln
@@ -48,6 +70,14 @@ https://www.fh-potsdam.de/campus-services/it-service/softwarelizenzen/microsoft-
 Download Libre Office:
 
 https://de.libreoffice.org/download/download/ (Stand 22.12.2023; 13:40 Uhr)
+
+Zu den Maßen einer Excel-Tabelle:
+
+https://support.microsoft.com/de-de/office/spezifikationen-und-beschr%C3%A4nkungen-in-excel-1672b34d-7043-467e-8e27-269d656771c3
+
+Zu der am weitesten unten rechts liegenden Zelle in Excel:
+
+http://www.blaschke1.at/stammtisch/?p=518
 
 (https://support.content.office.net/de-de/media/0c0657d7-2951-431d-9e3f-d3dcc074e09b.gif (Stand 22.12.2023; 13:40 Uhr)
 
