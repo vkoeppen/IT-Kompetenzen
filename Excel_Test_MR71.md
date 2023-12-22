@@ -28,7 +28,7 @@ https://de.libreoffice.org/download/download/
 
 ## Excel-Formeln
 
-Sobald du Excel öffnest siehst du eine große Tabelle. Die senkrecht verlaufenden Spalten sind mit Großbuchstaben gekennzeichnet. Die Zeilen werden mit Zahlen benannt. Eine einzelne Zelle ist ein Bereich, in welchem Spalte und Zeile sich schneiden. Entsprechend hat jede Zelle sozusagen eine Koordinate, welche aus dem Buchstaben der Spalte und der Zahl der Zeile besteht (nicht umgekehrt!).
+Sobald du Excel öffnest siehst du eine große Tabelle. Die senkrecht verlaufenden Spalten sind mit Großbuchstaben gekennzeichnet. Die Zeilen werden mit Zahlen benannt. Eine einzelne Zelle ist ein Bereich, in welchem Spalte und Zeile sich schneiden. Entsprechend hat jede Zelle sozusagen eine Koordinate, welche aus dem Buchstaben der Spalte und der Zahl der Zeile besteht (nicht umgekehrt!). Diese Namen der Zellen nennt man **Bezüge**, weil man sich innerhalb von Formeln so auf Zellen beziehen kann.
 
 ![Basics der Excel Tabelle](bilder/Excel_MR_03.png "Rot= Spalte; Orange=Zeile; Lila=Zelle")
 
@@ -100,9 +100,24 @@ So haben wir endlich unsere Formel in Excel eingegeben!
 <!-- class = "callout danger with-title" -->
 > Ist es mit Excel so viel einfacher?
 > 
->Für eine Hausaufgabe musst du mehrere mathematische Aufgaben lösen. Deine Dozentin gibt dir dafür eine Formel vor, welche du anwenden musst: "a²+b²=c²". So weit, so gut. Du versuchst die Aufgaben mit Stift, Papier und solarbetriebenem Taschenrechner zu lösen, doch bald verlierst du den Überblick. Schlimmer noch: die Ergebnisse deiner Rechnungen scheinen aufeinander aufzubauen und sobald sich an einer Stelle ein Fehler einschleicht musst du einen ganzen Rattenschwanz an Rechnungen noch einmal lösen! Außerdem musst du bei jeder neuen Aufgabe komplett von vorne anfangen. Na toll; jetzt geht die Sonne unter und der Taschenrechner funktioniert nicht mehr richtig. Der Stift ist auch abgebrochen. Geht das nicht mit dem Computer einfacher?
+> Nun hast du einiges über Excel gelernt. Taschenrechner, Stift und Papier hast du gegen den PC getauscht. Aber war es vorher nicht einfacher? Der Taschenrechner hatte ein eigenes Wurzelzeichen und wenn die Sonne draufschien ist er einfach angegangen. Für Stift und Papier brauchtest du keine Kabel und Schaltkreise. Mit ihnen hättest du im tiefsten Wald oder auf dem höchsten Berg deine Aufgaben lösen können, kilometerweit von der nächsten Steckdose entfernt. Die Geheimnisse der Mathematik hätten sich dir mit Stift und Papier genauso erschlossen, wie einst Phytagoras vor tausenden von Jahren. Nun bist du abhängig von Strom, welcher lange nicht nachhaltig gewonnen werden kann. Dein Anspruch auf einen Computer macht dich mitverantwortlich dafür, dass irgendwo auf der Welt Menschen in gefährlichen Minen Kupfer und andere seltene Mineralien der Erde entreißen. Und du hast dich der Omnipräsenz von Microsoft unterworfen, einem gesichtslosen, monopolistischen Riesen-Unternehmen, welches mehr Einfluss auf die globale Arbeitskultur hat, als die meisten Staaten. Zudem ist es auch gar nicht so leicht Excel zu lernen. Ist es das überhaupt wert?
 
 ![Verzweiflung bei Excel](bilder/Excel_MR_09.png "Auch Excel treibt viele Studierende zur Verzweiflung.")
+
+## Excel-Formeln
+
+Aber Existenzkrise beiseite. Wir haben auf "Enter" gedrückt und in Zelle "C2" wird endlich unser Ergebnis angezeigt!
+
+![Endlich ein Ergebnis.](bilder/Excel_MR_10.png "So sollte die gelöste Aufgabe aussehen.")
+
+Wenn wir eine Zelle angewählt haben, wird diese grün umrandet. In der unteren, rechten Ecke der Zelle befindet sich dann ein kleines dunkelgrünes Quadrat. Unsere Maus wird zu einem kleinen schwarzen Kreuz, wenn wir sie über dieses Quadrat bewegen. Nun klicken wir mit der linken Maustaste auf das grüne Quadrat, ziehen den grünen Kasten die Spalte hinunter...
+
+![Die Spannung steigt](bilder/Excel_MR_11.png "Mithilfe der Maus können wir den grünen Kasten erweitern.")
+
+... et voila! 
+
+![Der Zauber von Excel!](bilder/Excel_MR_11.png "Wir haben die Formel auf weitere Zeilen ergänzt, ohne sie neu schreiben zu müssen.")
+
 ## Excel-Formeln
 Trage die folgenden Begriffe in den Lückentext ein!
 
