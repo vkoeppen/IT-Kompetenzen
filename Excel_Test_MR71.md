@@ -177,7 +177,7 @@ Excel-Formeln bestehen aus verschiedenen [[  Elementen  ]]. [[  Funktionen  ]] b
 <!-- class = "callout Info with-title" -->
 > Glückwunsch!
 > 
-> Nun hast du die **Elemente der Excel-Formeln** gemeistert!
+> Du die **Elemente der Excel-Formeln** gemeistert!
 
 ![Meisterin der Excel-Formeln.](bilder/Excel_MR_15.png "Nun kann dich niemand mehr aufhalten!")
 
