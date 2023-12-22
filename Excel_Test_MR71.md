@@ -97,6 +97,13 @@ So haben wir endlich unsere Formel in Excel eingegeben!
 ![Der Satz des Phytagoras!](bilder/Excel_MR_08.png "Nun können wir den Satz des Phytagoras anwenden.")
 
 ## Excel-Formeln
+<!-- class = "callout danger with-title" -->
+> Ist es mit Excel so viel einfacher?
+> 
+>Für eine Hausaufgabe musst du mehrere mathematische Aufgaben lösen. Deine Dozentin gibt dir dafür eine Formel vor, welche du anwenden musst: "a²+b²=c²". So weit, so gut. Du versuchst die Aufgaben mit Stift, Papier und solarbetriebenem Taschenrechner zu lösen, doch bald verlierst du den Überblick. Schlimmer noch: die Ergebnisse deiner Rechnungen scheinen aufeinander aufzubauen und sobald sich an einer Stelle ein Fehler einschleicht musst du einen ganzen Rattenschwanz an Rechnungen noch einmal lösen! Außerdem musst du bei jeder neuen Aufgabe komplett von vorne anfangen. Na toll; jetzt geht die Sonne unter und der Taschenrechner funktioniert nicht mehr richtig. Der Stift ist auch abgebrochen. Geht das nicht mit dem Computer einfacher?
+
+![Verzweiflung bei Excel](bilder/Excel_MR_09.png "Auch Excel treibt viele Studierende zur Verzweiflung.")
+## Excel-Formeln
 Trage die folgenden Begriffe in den Lückentext ein!
 
 <kbd>Operatoren</kbd><kbd>Konstanten</kbd><kbd>Bezüge</kbd><kbd>Funktionen</kbd><kbd>Elementen</kbd><kbd>relative</kbd><kbd>absolute</kbd>
