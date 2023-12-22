@@ -45,7 +45,7 @@ In rot gezeigt wird die Spalte [[  A  ]]. Orange ist die Zeile [[  3  ]]. Die li
 
 Gehen wir ans Eingemachte! In unserem Beispiel sollen wir mit dem Satz des Pythagoras arbeiten. Dieser besagt:
 
-a²+b²=c²
+`a²+b²=c²`
 
 Mit dieser Formel werden die Längenverhältnisse der drei Seiten eines gleichschenkligen Dreiecks beschrieben. "a" und "b" sind die Längen der Seiten, welche den rechten Winkel bilden, die sogenannten Katheten. "c" beschreibt die Länge der gegenüberliegenden dritten Seite, der Hypotenuse. Der Zauber dieser Formel liegt darin, dass sie uns ermöglicht die unbekannte Länge einer Seite eines gleichschenkligen Dreiecks zu bestimmen, vorausgesetzt, dass die Längen der beiden anderen Seiten bekannt sind.
 
@@ -85,11 +85,13 @@ In unserem Fall benötigen wir noch den Operator "^", damit wir unsere Werte "ho
 ![Die Formel nimmt Gestalt an.](bilder/Excel_MR_06.png "In der Formel werden verschiedene Zellen mit Operatoren verbunden.")
 
 ## Excel-Formeln
-Doch gefragt ist nicht nach "c²"! Wir müssen noch eine Wurzel ziehen! Dafür müssen wir nicht nach einem Wurzel-Zeichen auf dem Keyboard suchen. Stattdessen klicken wir auf das Formelzeichen (fx) neben der Eingabezeile. Es erscheint ein Fenster, Welches uns erlaubt aus allen Funktionen auszuwählen, welche Excel zu bieten hat.
+Doch gefragt ist nicht nach "c²"! Wir müssen noch eine Wurzel ziehen! Dafür müssen wir nicht nach einem Wurzel-Zeichen auf dem Keyboard suchen. Stattdessen klicken wir auf das Formelzeichen (fx) neben der Eingabezeile. Es erscheint ein Fenster, Welches uns erlaubt aus allen **Funktionen** auszuwählen, welche Excel zu bieten hat.
 
-Wir benötigen die Funktion
+Wir benötigen die **Funktion**
 
-=WURZEL()
+`=WURZEL()`
+
+**Funktionen** beginnen immer mit einem Gleichheitszeichen und werden oft von Klammern gefolgt. 
 
 ![So sucht man eine Funktion.](bilder/Excel_MR_07.png "In diesem Fenster finden sic alle möglichen Excel-Funktionen.")
 
@@ -155,15 +157,30 @@ und in "C4" steht:
 
 `=WURZEL($A$2^2+B4^2)`
 
+Die **relativen Bezüge** auf die Werte in der Spalte "B" haben sich verändert, doch die **absoluten Bezüge** auf die Werte in Zelle "A2" sind gleich geblieben.
 
-![Ergebnis mit absoluten Bezügen.](bilder/Excel_MR_14.png "Wenn der Wert in "A2" nun verändert würde, würden sich alle Ergebnisse entsprechend verändern.")
+
+![Ergebnis mit absoluten Bezügen.](bilder/Excel_MR_14.png "Wenn der Wert in A2 nun verändert würde, würden sich alle Ergebnisse entsprechend verändern.")
 
 ## Excel-Formeln
-Trage die folgenden Begriffe in den Lückentext ein!
+
+<!-- class = "callout danger with-title" -->
+> Fast geschafft!
+> 
+> Du magst die Hausaufgaben deiner Dozentin erledigt haben. Doch um zu sehen, ob du die **Elemente der Excel-Formeln** erfolgreich gemeistert hast, trage die folgenden Begriffe fehlerfrei in den Lückentext ein! (Mit "Copy and Paste" geht es einfacher!)
+
 
 <kbd>Operatoren</kbd><kbd>Konstanten</kbd><kbd>Bezüge</kbd><kbd>Funktionen</kbd><kbd>Elementen</kbd><kbd>relative</kbd><kbd>absolute</kbd>
 
 Excel-Formeln bestehen aus verschiedenen [[  Elementen  ]]. [[  Funktionen  ]] beginnen immer mit einem Gleichheitszeichen (=). Einträge wie Zahlen, Texte oder Daten verändern sich beim Ziehen einer Formel nicht und werden [[  Konstanten  ]] genannt. Im Gegensatz dazu verändern sich [[  relative  ]] [[  Bezüge  ]], sobald eine Funktion gezogen wird. Mit einem "$" gekennzeichnete [[  absolute  ]] [[  Bezüge  ]] widerum bleiben auch beim Ziehen einer Formel gleich. Mit [[  Operatoren  ]] können die verschiedenen Elemente einer Formel mathematisch oder logisch miteinander in Bezug gesetzt werden.
+## Excel-Formeln
+<!-- class = "callout Info with-title" -->
+> Glückwunsch!
+> 
+> Nun hast du die **Elemente der Excel-Formeln** gemeistert!
+
+![Meisterin der Excel-Formeln.](bilder/Excel_MR_15.png "Nun kann dich niemand mehr aufhalten!")
+
 
 ## Quellen
 
@@ -181,8 +198,8 @@ https://support.microsoft.com/de-de/office/spezifikationen-und-beschr%C3%A4nkung
 
 Zu der am weitesten unten rechts liegenden Zelle in Excel:
 
-http://www.blaschke1.at/stammtisch/?p=518
+http://www.blaschke1.at/stammtisch/?p=518 (Stand 22.12.2023; 13:40 Uhr)
 
-(https://support.content.office.net/de-de/media/0c0657d7-2951-431d-9e3f-d3dcc074e09b.gif (Stand 22.12.2023; 13:40 Uhr)
+Die Microsoft-Support-Seite:
 
 https://support.microsoft.com/de-de/office/%C3%BCbersicht-%C3%BCber-formeln-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173 (Stand 22.12.2023; 13:40 Uhr)
