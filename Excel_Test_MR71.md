@@ -118,10 +118,12 @@ Wenn wir eine Zelle angewählt haben, wird diese grün umrandet. In der unteren,
 ... et voila! Ohne viel Aufwand haben wir die Ergebnisse für die anderen Dreiecke ausgerechnet.
 
 Nun steht in "C3"
-=WURZEL(A3^2+B3^2)
+
+`=WURZEL(A3^2+B3^2)`
 
 und entsprechend in "C4"
-=WURZEL(A4^2+B4^2)
+
+`=WURZEL(A4^2+B4^2)`
 
 ![Der Zauber von Excel!](bilder/Excel_MR_12.png "Wir haben die Formel auf weitere Zeilen ergänzt, ohne sie neu schreiben zu müssen.")
 
@@ -134,15 +136,27 @@ Ganz fertig sind wir allerdings noch nicht. Deine Dozentin will, dass du ausrech
 Um die **Elemente** der Excel-Formeln abschließend zu meistern, müssen wir noch den Unterschied zwischen **absoluten Bezügen** und **relativen Bezügen** verstehen.
 
 
-| | relative Spalte  | absolute Spalte |
+| | **relative Spalte**  | **absolute Spalte** |
 | ----:| ----:| ----:|
-| relative Zeile | `A1` | `$A1` |
-| absolute Zeile | `A$1` | `$A$1`|
+| **relative Zeile** | `A1` | `$A1` |
+| **absolute Zeile** | `A$1` | `$A$1`|
 
-Wie gehabt ergibt sich der Bezug auf eine Zelle aus einem (oder mehren) Großbuchstaben, welcher die Spalte kennzeichnet, gefolgt von einer Zahl für die Zeile.
+Wie gehabt ergibt sich der Bezug auf eine Zelle aus einem (oder mehren) Großbuchstaben, welcher die Spalte kennzeichnet, gefolgt von einer Zahl für die Zeile. Bisher haben wir ausschließlich **relative Bezüge** verwendet. Schreiben wir jedoch ein Dollarzeichen ($) vor den Bezug zu der Spalte oder der Zeile, dann funktionieren diese Bezüge beim Ziehen einer Formel im Grunde wie Konstanten und bleiben gleich. Deswegen werden sie **absolute Bezüge** genannt. Ein Bezug kann beispielsweise eine relative Spalte und eine absolute Zeile aufweisen. Vier verschiedene Konfigurationen sind möglich wie in der oben angegebenen Tabelle.
+
+Für unsere Aufgabe brauchen wir einen absoluten Bezug in der Spalte und der Zeile:
+
+!["a" erscheint nun als absoluter Bezug](bilder/Excel_MR_13.png "Zwei Dollarzeichen verwandeln den Bezug zu einem absoluten hinsichtlich Spalte und Zeile.")
+
+Wie gehabt ziehen wir die Formel, doch dieses Mal ist etwas anders. In "C3" steht nun:
+
+`=WURZEL($A$2^2+B3^2)`
+
+und in "C4" steht:
+
+`=WURZEL($A$2^2+B4^2)`
 
 
-
+![Ergebnis mit absoluten Bezügen.](bilder/Excel_MR_14.png "Wenn der Wert in "A2" nun verändert würde, würden sich alle Ergebnisse entsprechend verändern.")
 
 ## Excel-Formeln
 Trage die folgenden Begriffe in den Lückentext ein!
