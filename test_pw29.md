@@ -63,11 +63,8 @@ Was vermutest Du, ist für eine effektive Gruppenarbeit wichtig?
 -[( )] Kritik ohne Lösungsvorschläge
 -[(x)] Offene Kommunikation und Zusammenarbeit 
 
-<<<<<<< HEAD
-#### Wähle nun die Fähigkeiten aus, die Dir bereits liegen, um einen Überblick zu bekommen!
 =======
 #### Wähle nun die Fähigkeiten aus, die Du bereits besitzt!
->>>>>>> a0066ea42cf3fd2cc3e5213afa09afd18175c3c2
 
 [[Durchsetzungsvermögen ]] Durchsetzungsvermögen
 [[Teamfähigkeit ]] Teamfähigkeit
