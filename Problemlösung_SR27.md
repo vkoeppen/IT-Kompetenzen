@@ -39,29 +39,34 @@ Vorgang, Kompetenzen, Problemlösungsstrategien, Stolperfallen, Hilfesuche?/nur 
 
 ### 3.Problemlösungsstrategien           
 
-**try-and-error**: Probieren und scheitern, aus den Fehlern lernen, neue Lösungswege probieren
+Wenn man vor einem Problem steht, kann man verschiedene Strategien verwenden, um zu einer Lösung zu kommen. Du bist natürlich nicht verpflichtet sie zu nutzen, sie können jedoch hilfreich sein, wenn man noch nicht weiß, wie man vorgehen soll. 
 
-**Brainstorming**: schnelles Sammeln von möglichst vielen Vorschlägen, in der Hoffnung, dass einer der Vorschläge sinnvoll ist
+**try-and-error**: Dierekt übersetzt: Probieren und scheitern. Die Idee dahinter ist, einfach verschiedene Lösungswege auszuprobieren und aus den daraus resultierenden Problemen zu lernen und neue Lösungswege probieren bis man das Ziel, also eine Lösung, erreicht hat. 
 
-**Ursachenanalyse**: Problem analysieren und Ursache finden, dann gezielt Wurzel behandeln
+**Brainstorming**: Das Sammeln von möglichst vielen Ideen in einem Rutsch. Dabei ist es egal wie absurd oder unrealistisch didiese Ideen sind, da diese im nachhinein auf eine mögliche Ümsetzung überprüft werden und man sich erst im nachhinein entscheidet welche von den Ideen man nutzt. Brainstorming ist dabei lediglich zum sammeln von Ideen notwendig, für darauf folgende Vorgänge können dann wieder andere konkretere Problemlösungsstrategien eingesetzt werden. 
 
-**Entscheidungsanalyse**: unterschiedliche Lösungswege gegeneinander abwägen 
+**Ursachenanalyse**: Hierbei wird das Problem analysiert um die Ursache des Problems zu finden. Sobald man es gefunden hat, wird die Ursache gezielt behandelt um das Problem zu Lösen.
 
-**Unterschiedsreduktion/Bergsteigermethode**: langsames, stufenweises hinarbeiten zum Ergebnis
+**Entscheidungsanalyse**: Bei der Entscheidungsanalyse werden unterschiedliche Lösungswege analysiert und gegeneinander abgewägt. Ziel ist es, den besten Lösungsweg zu finden. 
+
+**Unterschiedsreduktion/Bergsteigermethode**: Stufenweises hinarbeiten zum Ergebnis. Es kann zwar länger dauern, hilft aber den Prozess in kleinere Abschnitte einzuteilen und seinen eigenen Vortschritt im Auge zu behalten. 
 
 ### 4.Stoperfallen 
 
-Während der Lösung eines Problems kann es natürlich auch zu Schwierigkeiten kommen (dass man ein Problem zu lösen hat ist ja auch schon eine Schwierigkeit). Teilweise sind diese extern, so wenn ein bestimmter Schritt im Lösungsprozzes von einer anderen Person gemacht werden muss, unund teilweise intern. 
+Während der Lösung eines Problems kann es natürlich auch zu Schwierigkeiten kommen (dass man ein Problem zu lösen hat ist ja auch schon eine Schwierigkeit). Teilweise sind diese extern, so wenn ein bestimmter Schritt im Lösungsprozzes von einer anderen Person abhängt, und teilweise intern, bei einem selbst. Solange es extern ist, kann es, von einem selbst, zu Problemen in der Kommunikation führen. 
 
-Notfallreaktion, in Sackgasse gearbeitet, Angst um Hilfestellung zu fragen 
+Notfallreaktion, in Sackgasse gearbeitet, Angst um Hilfestellung zu fragen, kommunikation 
 
 (Hilfe zur Internetrecherche)
+### ?.Oft vorkommende Probleme am Anfang des ersten Semesters
 
 (oft vorkommende Fragen in der ersten Zeit)
 
 Prüfungen
 Campuskarte
+Raum geschlossen 
 
+### ?.hilfreiche Kontakte/Links
 (wichtige Kontakte der fhp)
 IT
 Bib?
