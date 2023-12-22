@@ -59,7 +59,7 @@ Unsere Dozentin gibt uns verschiedene Werte für "a" und "b" vor, aus welchen wi
 | 4,6 | 22,4 | ? |
 | 34,2 | 52,6 | ? |
 
-In einer zweiten Aufgabe sollen wir errechnen, welche Werte sich ergeben, wenn für "a" ein konstanter Wert von "10" angenommen wird.
+In einer zweiten Aufgabe sollen wir errechnen, welche Werte sich ergeben, wenn der Wert von "a" bleibt wie bei dem ersten Dreieck (14,8).
 
 ## Excel-Formeln
 
@@ -78,8 +78,23 @@ Verschiedene **Operatoren** stehen uns in einer Formel zur Verfügung. Das sind 
 | < | Kleiner als |
 | > | Größer als |
 
+In unserem Fall benötigen wir noch den Operator "^", damit wir unsere Werte "hoch 2" rechnen können. Nun haben wir in Zeile C2 schon etwas, was nach dem Satz des Phytagoras aussieht. In Zelle "A2" steht unser Wert für "a", in "B2" steht unser Wert für "b". "C2" Enthält unsere Formel und das Ergebnis von "a²+b²".
 
 
+![Die Formel nimmt Gestalt an.](bilder/Excel_MR_06.png "In der Formel werden verschiedene Zellen mit Operatoren verbunden.")
+
+## Excel-Formeln
+Doch gefragt ist nicht nach "c²"! Wir müssen noch eine Wurzel ziehen! Dafür müssen wir nicht nach einem Wurzel-Zeichen auf dem Keyboard suchen. Stattdessen klicken wir auf das Formelzeichen (fx) neben der Eingabezeile. Es erscheint ein Fenster, Welches uns erlaubt aus allen Funktionen auszuwählen, welche Excel zu bieten hat.
+
+Wir benötigen die Funktion
+
+=WURZEL()
+
+![So sucht man eine Funktion.](bilder/Excel_MR_07.png "In diesem Fenster finden sic alle möglichen Excel-Funktionen.")
+
+So haben wir endlich unsere Formel in Excel eingegeben!
+
+![Der Satz des Phytagoras!](bilder/Excel_MR_08.png "Nun können wir den Satz des Phytagoras anwenden.")
 
 ## Excel-Formeln
 Trage die folgenden Begriffe in den Lückentext ein!
