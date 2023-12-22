@@ -6,7 +6,7 @@ link: css/callouts.css
 <!-- class = "callout danger with-title" -->
 > Mathehausaufgaben im Studium?
 > 
->Für eine Hausaufgabe musst du mehrere mathematische Aufgaben lösen. Deine Dozentin gibt dir dafür eine Formel vor, welche du nicht verstehen, sondern nur anwenden musst: "a²+b²=c²". So weit, so gut. Du versuchst die Aufgaben mit Stift, Papier und solarbetriebenem Taschenrechner zu lösen, doch bald verlierst du den Überblick. Schlimmer noch: die Ergebnisse deiner Rechnungen scheinen aufeinander aufzubauen und sobald sich an einer Stelle ein Fehler einschleicht musst du einen ganzen Rattenschwanz an Rechnungen noch einmal lösen! Außerdem musst du bei jeder neuen Aufgabe komplett von vorne anfangen. Na toll; jetzt geht die Sonne unter und der Taschenrechner funktioniert nicht mehr richtig. Der Stift ist auch abgebrochen. Geht das nicht mit dem Computer einfacher?
+>Für eine Hausaufgabe musst du mehrere mathematische Aufgaben lösen. Deine Dozentin gibt dir dafür eine Formel vor, welche du anwenden musst: "a²+b²=c²". So weit, so gut. Du versuchst die Aufgaben mit Stift, Papier und solarbetriebenem Taschenrechner zu lösen, doch bald verlierst du den Überblick. Schlimmer noch: die Ergebnisse deiner Rechnungen scheinen aufeinander aufzubauen und sobald sich an einer Stelle ein Fehler einschleicht musst du einen ganzen Rattenschwanz an Rechnungen noch einmal lösen! Außerdem musst du bei jeder neuen Aufgabe komplett von vorne anfangen. Na toll; jetzt geht die Sonne unter und der Taschenrechner funktioniert nicht mehr richtig. Der Stift ist auch abgebrochen. Geht das nicht mit dem Computer einfacher?
 
 ![Verzweiflung bei Matheaufgaben](bilder/Excel_MR_02.png "Matheaufgaben treiben viele Studierende zur Verzweiflung.")
 
@@ -43,14 +43,27 @@ In rot gezeigt wird die Spalte [[  A  ]]. Orange ist die Zeile [[  3  ]]. Die li
 
 ## Excel-Formeln
 
-Gehen wir ans Eingemachte! In unserem Beispiel sollen wir mit dem Satz des Pythagoras arbeiten welcher besagt:
+Gehen wir ans Eingemachte! In unserem Beispiel sollen wir mit dem Satz des Pythagoras arbeiten. Dieser besagt:
 
 a²+b²=c²
 
-Mit dieser Formel werden die Längenverhältnisse der drei Seiten eines gleichschenkligen Dreiecks beschrieben. "a" und "b" sind die Längen der Seiten, welche den rechten Winkel bilden, die sogenannten Katheten. "c" beschreibt die Länge der gegenüberliegenden dritten Seite, der Hypotenuse.
+Mit dieser Formel werden die Längenverhältnisse der drei Seiten eines gleichschenkligen Dreiecks beschrieben. "a" und "b" sind die Längen der Seiten, welche den rechten Winkel bilden, die sogenannten Katheten. "c" beschreibt die Länge der gegenüberliegenden dritten Seite, der Hypotenuse. Der Zauber dieser Formel liegt darin, dass sie uns ermöglicht die unbekannte Länge einer Seite eines gleichschenkligen Dreiecks zu bestimmen, vorausgesetzt, dass die Längen der beiden anderen Seiten bekannt sind.
 
-![Veranschaulichung des Satz des Phytagoras.](https://https://imagedelivery.net/4mFOuafp2vpnV1akkESCaQ/4e28f83f-7ebb-4c5f-72cc-9fccbbf5c300/desktopLarge "Veranschaulichung des Satz des Phytagoras.")
+![Veranschaulichung des Satz des Phytagoras.](bilder/Excel_MR_04.png "Veranschaulichung des Satz des Phytagoras.")
 
+Unsere Dozentin gibt uns verschiedene Werte für "a" und "b" vor, aus welchen wir jeweils die Länge von "c" deduzieren sollen.
+
+| a | b | c |
+| ----:| ----:| ----:|
+| 14,8 | 9,7 | ? |
+| 4,6 | 22,4 | ? |
+| 34,2 | 52,6 | ? |
+
+In einer zweiten Aufgabe sollen wir errechnen, welche Werte sich ergeben, wenn für "a" ein konstanter Wert von "10" angenommen wird.
+
+## Excel-Formeln
+
+![Erster Schritt für das Erstellen einer Formel.](bilder/Excel_MR_05.png "Mit dem Gleichzeichen (=) wird der Beginn einer Formel in einer Zelle markiert.")
 
 ## Excel-Formeln
 Trage die folgenden Begriffe in den Lückentext ein!
