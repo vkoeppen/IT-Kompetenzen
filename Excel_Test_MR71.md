@@ -59,7 +59,7 @@ Unsere Dozentin gibt uns verschiedene Werte für "a" und "b" vor, aus welchen wi
 | 4,6 | 22,4 | ? |
 | 34,2 | 52,6 | ? |
 
-In einer zweiten Aufgabe sollen wir errechnen, welche Werte sich ergeben, wenn der Wert von "a" bleibt wie bei dem ersten Dreieck (14,8).
+In einer zweiten Aufgabe sollen wir errechnen, welche Werte sich ergeben, wenn der Wert von "a" bleibt wie bei dem ersten Dreieck.
 
 ## Excel-Formeln
 
@@ -71,12 +71,13 @@ Verschiedene **Operatoren** stehen uns in einer Formel zur Verfügung. Das sind 
 
 | Operator | Allgemeine Bezeichnung |
 | ----:| ----:|
-| + | Plus |
-| - | Minus |
-| * | Mal |
-| / | Geteilt |
-| < | Kleiner als |
-| > | Größer als |
+| `+` | `Plus` |
+| `-` | `Minus` |
+| `*` | `Mal` |
+| `/` | `Geteilt` |
+| `<` | `Kleiner als` |
+| `>` | `Größer als` |
+| `^` | `hoch` |
 
 In unserem Fall benötigen wir noch den Operator "^", damit wir unsere Werte "hoch 2" rechnen können. Nun haben wir in Zeile C2 schon etwas, was nach dem Satz des Phytagoras aussieht. In Zelle "A2" steht unser Wert für "a", in "B2" steht unser Wert für "b". "C2" Enthält unsere Formel und das Ergebnis von "a²+b²".
 
@@ -114,9 +115,34 @@ Wenn wir eine Zelle angewählt haben, wird diese grün umrandet. In der unteren,
 
 ![Die Spannung steigt](bilder/Excel_MR_11.png "Mithilfe der Maus können wir den grünen Kasten erweitern.")
 
-... et voila! 
+... et voila! Ohne viel Aufwand haben wir die Ergebnisse für die anderen Dreiecke ausgerechnet.
 
-![Der Zauber von Excel!](bilder/Excel_MR_11.png "Wir haben die Formel auf weitere Zeilen ergänzt, ohne sie neu schreiben zu müssen.")
+Nun steht in "C3"
+=WURZEL(A3^2+B3^2)
+
+und entsprechend in "C4"
+=WURZEL(A4^2+B4^2)
+
+![Der Zauber von Excel!](bilder/Excel_MR_12.png "Wir haben die Formel auf weitere Zeilen ergänzt, ohne sie neu schreiben zu müssen.")
+
+Die Formel hat beim Ziehen ihre **Bezüge** geändert. Die anderen **Elemente** der Formel sind gleich geblieben: Die **Funktion** "=Wurzel()" ist geblieben, genauso wie die Operatoren "+" und "^". Die "2" wird, wie alle anderen Zahlen, Daten und Schriftzeichen in einer Formel, **Konstante** genannt und verändert sich ebenfalls nicht beim Ziehen der Funktion. Nur die **Bezüge** auf andere Zellen. Diese Funktion ist einer der Gründe, warum es so praktisch ist, Excel zu lernen. Deine Dozentin kann dir hunderte Aufgaben mit der selben Formel stellen. Solange es nicht mehr als 1.048.576 sind, bedeutet das für dich mit Excel-Formeln kaum mehr Aufwand als eine einzige Aufgabe zu rechnen!
+
+## Excel-Formeln
+
+Ganz fertig sind wir allerdings noch nicht. Deine Dozentin will, dass du ausrechnest, welche Werte herauskämen, wenn der Wert "a" bliebe wie beim ersten Dreieck. Wir könnten alles noch einmal machen wie gehabt, nur dass wir statt "A2^2" in die Formel einen konstanten Wert schreiben, wie "14,8". Aber was, wenn in einem weiteren Schritt dieser Wert verändert werden soll und es eben auf den Bezug auf die Seite "a" des ersten Dreiecks ankommt?
+
+Um die **Elemente** der Excel-Formeln abschließend zu meistern, müssen wir noch den Unterschied zwischen **absoluten Bezügen** und **relativen Bezügen** verstehen.
+
+
+| | relative Spalte  | absolute Spalte |
+| ----:| ----:| ----:|
+| relative Zeile | `A1` | `$A1` |
+| absolute Zeile | `A$1` | `$A$1`|
+
+Wie gehabt ergibt sich der Bezug auf eine Zelle aus einem (oder mehren) Großbuchstaben, welcher die Spalte kennzeichnet, gefolgt von einer Zahl für die Zeile.
+
+
+
 
 ## Excel-Formeln
 Trage die folgenden Begriffe in den Lückentext ein!
@@ -124,8 +150,6 @@ Trage die folgenden Begriffe in den Lückentext ein!
 <kbd>Operatoren</kbd><kbd>Konstanten</kbd><kbd>Bezüge</kbd><kbd>Funktionen</kbd><kbd>Elementen</kbd><kbd>relative</kbd><kbd>absolute</kbd>
 
 Excel-Formeln bestehen aus verschiedenen [[  Elementen  ]]. [[  Funktionen  ]] beginnen immer mit einem Gleichheitszeichen (=). Einträge wie Zahlen, Texte oder Daten verändern sich beim Ziehen einer Formel nicht und werden [[  Konstanten  ]] genannt. Im Gegensatz dazu verändern sich [[  relative  ]] [[  Bezüge  ]], sobald eine Funktion gezogen wird. Mit einem "$" gekennzeichnete [[  absolute  ]] [[  Bezüge  ]] widerum bleiben auch beim Ziehen einer Formel gleich. Mit [[  Operatoren  ]] können die verschiedenen Elemente einer Formel mathematisch oder logisch miteinander in Bezug gesetzt werden.
-
-![Abbildung2](https://support.content.office.net/de-de/media/0c0657d7-2951-431d-9e3f-d3dcc074e09b.gif " Abbildung: https://support.microsoft.com")
 
 ## Quellen
 
