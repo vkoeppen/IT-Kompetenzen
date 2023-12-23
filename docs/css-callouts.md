@@ -14,7 +14,7 @@ dark: false
 
 comment:  Demo-Seite für `css/callouts.css`.
 
-link: css/callouts.css
+link: ../css/callouts.css
 
 -->
 
