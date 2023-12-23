@@ -1,16 +1,28 @@
-# Medienbearbeitung
+# <center>Medienbearbeitung</center>
 
-[...]
+[später hinzufügen: Einführung der Lernelemente]
 
-### Wie erstellt man eine kompromierte Datei?
+## <center>Dateien kompromieren</center>
 
 {{|>}}
 
-Im Studium begegnet einem immer wieder die Herausforderung, Dateien mit dem Lehrpersonal oder anderen Studierenden zu teilen. Um die Weiterleitung von mehreren Dateien zu erleichtern, besteht die Möglichkeit, ein kompromiertes Archiv zu erstellen. Dieses Archiv kann mehrere Dateien ohne Qualitätsverlust in einem kompromierten Ordner umfassen, der ganz einfach mit anderen geteilt werden kann.
+_Warum sind kompromierte Dateien sinnvoll?_
 
-Dateien können in verschiedenen Formaten komprimiert werden. Ein gängiges Format ist ZIP (aus dem Englischen "zipper" für Reißverschluss). Um ein ZIP-Archiv zu erstellen, gibt es verschiedene Möglichkeiten, die im Folgenden anhand von Windows und Mac OS behandelt werden sollen.
+Im Studium begegnet einem immer wieder die Herausforderung, Dateien mit dem Lehrpersonal oder anderen Studierenden zu teilen. Um die Weiterleitung von mehreren Dateien zu erleichtern, besteht die Möglichkeit, ein kompromiertes Archiv zu erstellen. Dieses Archiv dient als eine Art Container und kann mehrere Dateien ohne Qualitätsverlust in einem Ordner umfassen, der ressourcensparend mit anderen geteilt werden kann.
 
-#### Windows
+{{|>}}
+
+_Dateiformate_
+
+Dateien können in verschiedenen Formaten komprimiert werden. Ein gängiges Format ist ZIP (aus dem Englischen "zipper" für Reißverschluss), dessen Handhabung wir uns im Folgenden genauer anschauen. Weitere gängige Formate sind RAR und TAR.
+
+{{|>}}
+
+_Programme_
+
+Die Funktion, ein Archiv zu erstellen, ist durch Dein Betriebsystems gewährleistet. Weitere Funktionen, wie z.B. die Verschlüsselung von Archiven mit Passwörtern, werden durch herunterladbare Programme unterstützt. Freie Programme sind z.B. Info-ZIP, PeaZip, Xarchiver und 7-Zip, kommerzielle Programme z.B. WinRAR und WinZIP.
+
+#### <center>Windows</center>
 
 {{|>}}
 
@@ -23,11 +35,11 @@ _Anleitung_
 
 {{|>}}
 
-_Programme_
+_Hinweis_
 
-Unter Windows gibt es einige Programme, die das Zippen und Entzippen von Dateien erleichtern, wie z.B. WinRAR oder 7ZIP.
+Solltest Du eine Datei vergessen haben, kannst Du sie ganz einfach über Drag & Drop in den komprimierten Ordner ziehen und so nachträglich zum Archiv hinzufügen.
 
-#### Mac OS
+#### <center>Mac OS</center>
 
 {{|>}}
 
@@ -40,5 +52,15 @@ _Anleitung_
 
 {{|>}}
 
-_Programme_
+_Entzippen_
+
+1. Um ein ZIP-Archiv wieder zu entpacken, drücke mit der rechten Maustaste auf den betreffenden Ordner.
+2. Wähle im Kontextmenü "Öffnen mit" und schließlich die Option "Archivierungsprogramm (Standard)" aus.
+3. Die Dateien aus dem ZIP-Archiv werden wird im selben Pfad entpackt.
+
+#### <center>Übung</center>
+
+{{|>}}
+
+Um das Zippen und Entzippen einer Containerdatei zu üben, wähle zwei oder mehrere beliebige Testdateien aus und führe sie nach den obigen Anleitungen zusammen. Vergleiche die Dateigrößen mit der letztendlichen Größe des ZIP-Archivs.
 
