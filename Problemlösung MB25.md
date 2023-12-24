@@ -11,6 +11,7 @@ import:   https://github.com/liascript/CodeRunner
 -->
 
 # Inhaltsverzeichnis 
+
 ## 1 Definition des Problems
 ## 2 Analyse der Ursachen
 ## 3 Vorschläge zur Lösung
@@ -24,3 +25,9 @@ import:   https://github.com/liascript/CodeRunner
 ### •	Prozessanalyse
 
 ### •	Mindmap
+
+## 1 Definition des Problems
+
+Der erste Schritt muss immer darin bestehen, das eigentliche _Problem zu definieren_.
+Antworten auf die Frage: Was ist schiefgelaufen, was entspricht nicht dem erhofften Ergebnis? 
+Je konkreter hier das _Problem definiert_ wird, desto besser kann später eine **passende Lösung** gefunden werden.
