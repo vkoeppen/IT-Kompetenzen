@@ -104,6 +104,8 @@ Eine Mindmap verdeutlicht die Zusammenhänge zwischen verschiedenen Faktoren und
 
 [Link zu anderen Problemlösungsmethoden](https://www.tercero.de/infocenter/qm-methoden-problemloesung/#:~:text=Es%20gibt%20eine%20sehr%20gro%C3%9Fe,um%20nur%20einige%20zu%20nennen.)
 
+Problemlösungstechniken einfach erklärt! 5-W-Methode, Ablaufdiagramm, Mind-Map
+[https://www.youtube.com/watch?v=Spgf-g9Zojs]
 
 ## Literatur
 - Denken - Urteilen, Entscheiden, Problemlösen. Berlin: Springer 2011.
