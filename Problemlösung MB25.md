@@ -98,6 +98,7 @@ Eine Mindmap verdeutlicht die Zusammenhänge zwischen verschiedenen Faktoren und
 
 ![](https://karrierebibel.de/wp-content/uploads/2023/11/Mindmap-erstellen-Beispiele-Vorlage-Grafik-Online-Tool-Freeware-Tipps-Mindmapping-Bedeutung.jpg)
 
+[https://mind-map-online.de/](https://mind-map-online.de/)
 
 [Link zu anderen Problemlösungsmethoden](https://www.tercero.de/infocenter/qm-methoden-problemloesung/#:~:text=Es%20gibt%20eine%20sehr%20gro%C3%9Fe,um%20nur%20einige%20zu%20nennen.)
 
