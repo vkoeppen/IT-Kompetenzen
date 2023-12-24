@@ -26,6 +26,10 @@ import:   https://github.com/liascript/CodeRunner
 
 ### •	Mindmap
 
+
+![image](https://karrierebibel.de/wp-content/uploads/2019/06/Problemloesung-Probleme-Loesen-Flowchart.jpg)
+
+
 ## 1 Definition des Problems
 
 Der erste Schritt muss immer darin bestehen, das eigentliche _Problem zu definieren_.
