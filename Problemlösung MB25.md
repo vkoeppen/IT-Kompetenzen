@@ -10,13 +10,17 @@ import:   https://github.com/liascript/CodeRunner
 
 -->
 
-Inhaltsverzeichnis 
-1. Definition des Problems
-2. Analyse der Ursachen
-3. Vorschläge zur Lösung
-4. Bewertung der Vorschläge
-5. Problemlösungsmethoden 
-•	5Why-Methode
-•	Ishikawa-Diagramm
-•	Prozessanalyse
-•	Mindmap
+# Inhaltsverzeichnis 
+## 1 Definition des Problems
+## 2 Analyse der Ursachen
+## 3 Vorschläge zur Lösung
+## 4 Bewertung der Vorschläge
+## 5 Problemlösungsmethoden 
+
+### •	5Why-Methode
+
+### •	Ishikawa-Diagramm
+
+### •	Prozessanalyse
+
+### •	Mindmap
