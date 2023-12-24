@@ -26,7 +26,7 @@ import:   https://github.com/liascript/CodeRunner
 
 ### •	Mindmap
 
-
+____      _____
 
 ![image](https://karrierebibel.de/wp-content/uploads/2019/06/Problemloesung-Probleme-Loesen-Flowchart.jpg)<!--
 style="width: 50%; max-width: 200px"
@@ -34,11 +34,11 @@ title="ein beliebiges Bild"
 onclick="alert('It started with a click!');"
 -->
 
-
+____     ____
 
 ## 1 Definition des Problems
 
-Der erste Schritt muss immer darin bestehen, das eigentliche _Problem zu definieren_.
+Der __erste Schritt__ muss immer darin bestehen, das eigentliche _Problem zu definieren_.
 
 Antworten auf die Frage: Was ist schiefgelaufen, was entspricht nicht dem erhofften Ergebnis? 
 
