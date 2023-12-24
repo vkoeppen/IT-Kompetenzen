@@ -100,6 +100,8 @@ Eine Mindmap verdeutlicht die Zusammenhänge zwischen verschiedenen Faktoren und
 
 [https://mind-map-online.de/](https://mind-map-online.de/)
 
+## Ergänzendes Material 
+
 [Link zu anderen Problemlösungsmethoden](https://www.tercero.de/infocenter/qm-methoden-problemloesung/#:~:text=Es%20gibt%20eine%20sehr%20gro%C3%9Fe,um%20nur%20einige%20zu%20nennen.)
 
 
