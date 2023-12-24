@@ -28,6 +28,11 @@ import:   https://github.com/liascript/CodeRunner
 
 ____      _____
 
+> _Probleme kann man niemals mit derselben Denkweise lösen, durch die sie entstanden sind._ (Albert Einstein)
+
+
+
+
 ![image](https://karrierebibel.de/wp-content/uploads/2019/06/Problemloesung-Probleme-Loesen-Flowchart.jpg)<!--
 style="width: 50%; max-width: 200px"
 title="ein beliebiges Bild"
