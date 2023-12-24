@@ -32,10 +32,8 @@ ____      _____
 
 
 
-![image](https://karrierebibel.de/wp-content/uploads/2019/06/Problemloesung-Probleme-Loesen-Flowchart.jpg)<!--
-style="width: 50%; max-width: 200px"
-title="ein beliebiges Bild"
-onclick="alert('It started with a click!');"
+
+![image](https://karrierebibel.de/wp-content/uploads/2019/06/Problemloesung-Probleme-Loesen-Flowchart.jpg)<!-- style="width: 50%; max-width: 200px" title="ein beliebiges Bild" onclick="alert('It started with a click!');"
 -->
 
 ____     ____
@@ -74,7 +72,7 @@ Jedes Problem erfordert einen anderen Ansatz. Im Folgenden finden Sie vier gäng
 
 ###	5Why-Methode und Ishikawa-Diagramm
 
-![](https://karrierebibel.de/wp-content/uploads/2020/01/Kaizen-Methode-Ishikawa-Diagramm-Methode-Vorlage-Beispiel-Tipps.jpeg)
+![](https://karrierebibel.de/wp-content/uploads/2020/01/Kaizen-Methode-Ishikawa-Diagramm-Methode-Vorlage-Beispiel-Tipps.jpeg)<!-- style="width: 50%; max-width: 200px" title="ein beliebiges Bild" onclick="alert('It started with a click!');"-->
 
 Die 5Why-Methode hilft, die Ursache des Problems zu ermitteln, eine Lösung einzuleiten und ähnliche Schwierigkeiten in Zukunft zu vermeiden. Die Ursache wird fünfmal (oder öfter) in zunehmender Ausführlichkeit erfragt.
 Das Ishikawa-Diagramm visualisiert die Ursache von Problemen. Das Diagramm zeigt die Hauptursachen als einzelne Stränge. 
@@ -116,3 +114,5 @@ Eine Mindmap verdeutlicht die Zusammenhänge zwischen verschiedenen Faktoren und
 - Denken - Urteilen, Entscheiden, Problemlösen. Berlin: Springer 2011.
 - Weidenmann, Bernd: mini-handbuch Kreativ Probleme lösen (2020). Weinheim: Beltz 1945-.
 - Sellnow, Reinhard: Die mit den Problemen spielen ... : Ratgeber zur kreativen Problemlösung. Bonn: Stiftung Mitarbeit  2008.
+
+- 🤪😬🎁
