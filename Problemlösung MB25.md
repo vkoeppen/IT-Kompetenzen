@@ -18,17 +18,17 @@ import:   https://github.com/liascript/CodeRunner
 ## 4 Bewertung der Vorschläge
 ## 5 Problemlösungsmethoden 
 
-### •	5Why-Methode
+*	5Why-Methode
 
-### •	Ishikawa-Diagramm
+*	Ishikawa-Diagramm
 
-### •	Prozessanalyse
+*	Prozessanalyse
 
-### •	Mindmap
+*	Mindmap
 
 ____      _____
 
-> _Probleme kann man niemals mit derselben Denkweise lösen, durch die sie entstanden sind._ (Albert Einstein)
+> ***Probleme kann man niemals mit derselben Denkweise lösen, durch die sie entstanden sind.*** (Albert Einstein)
 
 
 
@@ -61,19 +61,21 @@ Werden mögliche Ursachen aufgedeckt, kann an diesen Stellen gearbeitet werden.
 
 ## 3 Vorschläge zur Lösung
 
+Da Sie nun wissen, wo __das Problem liegt__, ist es an der Zeit, über Lösungen nachzudenken. Vielleicht haben Sie bereits Erfahrung mit der Lösung solcher Probleme. Wenn nicht, können Sie **Kreativitätstechniken** anwenden. 
+
 
 ## 4 Bewertung der Vorschläge
 
 
 ## 5 Problemlösungsmethoden 
 
-### •	5Why-Methode
+*	5Why-Methode
 
-### •	Ishikawa-Diagramm
+* Ishikawa-Diagramm
 
-### •	Prozessanalyse
+*	Prozessanalyse
 
-### •	Mindmap
+*	Mindmap
 
 ## Literatur
 - Denken - Urteilen, Entscheiden, Problemlösen. Berlin: Springer 2011.
