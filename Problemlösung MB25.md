@@ -24,6 +24,7 @@ import:   https://github.com/liascript/CodeRunner
 
 *	Mindmap
 
+
 ____      _____
 
 > ***Probleme kann man niemals mit derselben Denkweise lösen, durch die sie entstanden sind.*** (Albert Einstein)
@@ -92,6 +93,10 @@ zwischen dem aktuellen Zustand und dem angestrebten Ziel deutlich.
 Dabei werden die Prozesse möglichst systematisch analysiert und zerlegt, bis man dem Problem auf den Grund gehen kann.
 
 ###	Mindmap
+
+Eine Mindmap verdeutlicht die Zusammenhänge zwischen verschiedenen Faktoren und hilft bei der Entwicklung geeigneter Lösungsstrategien.
+
+![](https://karrierebibel.de/wp-content/uploads/2023/11/Mindmap-erstellen-Beispiele-Vorlage-Grafik-Online-Tool-Freeware-Tipps-Mindmapping-Bedeutung.jpg)
 
 
 [Link zu anderen Problemlösungsmethoden](https://www.tercero.de/infocenter/qm-methoden-problemloesung/#:~:text=Es%20gibt%20eine%20sehr%20gro%C3%9Fe,um%20nur%20einige%20zu%20nennen.)
