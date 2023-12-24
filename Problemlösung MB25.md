@@ -50,3 +50,20 @@ Welche Faktoren haben dazu geführt, dass das Problem aufgetreten ist?
 
 Werden mögliche Ursachen aufgedeckt, kann an diesen Stellen gearbeitet werden.
 
+
+## 3 Vorschläge zur Lösung
+
+
+## 4 Bewertung der Vorschläge
+
+
+## 5 Problemlösungsmethoden 
+
+### •	5Why-Methode
+
+### •	Ishikawa-Diagramm
+
+### •	Prozessanalyse
+
+### •	Mindmap
+
