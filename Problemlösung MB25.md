@@ -18,9 +18,7 @@ import:   https://github.com/liascript/CodeRunner
 ## 4 Bewertung der Vorschläge
 ## 5 Problemlösungsmethoden 
 
-*	5Why-Methode
-
-*	Ishikawa-Diagramm
+*	5Why-Methode und Ishikawa-Diagramm
 
 *	Prozessanalyse
 
@@ -73,13 +71,31 @@ Der letzte Schritt besteht darin, die vorgeschlagenen Lösungen zu bewerten. Hie
 
 Jedes Problem erfordert einen anderen Ansatz. Im Folgenden finden Sie vier gängige Problemlösungsmethoden. Es ist wahrscheinlich, dass eine davon Ihnen helfen wird. 
 
-###	5Why-Methode
+###	5Why-Methode und Ishikawa-Diagramm
 
-### Ishikawa-Diagramm
+![](https://karrierebibel.de/wp-content/uploads/2020/01/Kaizen-Methode-Ishikawa-Diagramm-Methode-Vorlage-Beispiel-Tipps.jpeg)
+
+Die 5Why-Methode hilft, die Ursache des Problems zu ermitteln, eine Lösung einzuleiten und ähnliche Schwierigkeiten in Zukunft zu vermeiden. Die Ursache wird fünfmal (oder öfter) in zunehmender Ausführlichkeit erfragt.
+Das Ishikawa-Diagramm visualisiert die Ursache von Problemen. Das Diagramm zeigt die Hauptursachen als einzelne Stränge. 
+
+[Ursache-Wirkungs-Analyse Ishikawa-Diagramm](https://www.tercero.de/infocenter/ursache-wirkungs-analyse-ishikawa-5w/)
+
 
 ###	Prozessanalyse
 
+Durch die Prozessanalyse werden 
+* Schwachstellen, 
+* Potenziale und 
+* Abweichungen
+  
+zwischen dem aktuellen Zustand und dem angestrebten Ziel deutlich. 
+Dabei werden die Prozesse möglichst systematisch analysiert und zerlegt, bis man dem Problem auf den Grund gehen kann.
+
 ###	Mindmap
+
+
+[Link zu anderen Problemlösungsmethoden](https://www.tercero.de/infocenter/qm-methoden-problemloesung/#:~:text=Es%20gibt%20eine%20sehr%20gro%C3%9Fe,um%20nur%20einige%20zu%20nennen.)
+
 
 ## Literatur
 - Denken - Urteilen, Entscheiden, Problemlösen. Berlin: Springer 2011.
