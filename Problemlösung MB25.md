@@ -63,19 +63,23 @@ Werden mögliche Ursachen aufgedeckt, kann an diesen Stellen gearbeitet werden.
 
 Da Sie nun wissen, wo __das Problem liegt__, ist es an der Zeit, über Lösungen nachzudenken. Vielleicht haben Sie bereits Erfahrung mit der Lösung solcher Probleme. Wenn nicht, können Sie **Kreativitätstechniken** anwenden. 
 
+[Kreativitätstechniken: Übersicht 20 genialer Tipps & Methoden](https://karrierebibel.de/kreativitaetstechniken/)
 
 ## 4 Bewertung der Vorschläge
 
+Der letzte Schritt besteht darin, die vorgeschlagenen Lösungen zu bewerten. Hier bestimmen Sie, welche Vorschläge der idealen Lösung am nächsten kommen. Zu diesem Zweck empfiehlt es sich, die **Kriterien zu definieren**, die die Lösung erfüllen muss. Die Lösung, die diese Kriterien am besten erfüllt, wird dann ausgewählt und umgesetzt.
 
 ## 5 Problemlösungsmethoden 
 
-*	5Why-Methode
+Jedes Problem erfordert einen anderen Ansatz. Im Folgenden finden Sie vier gängige Problemlösungsmethoden. Es ist wahrscheinlich, dass eine davon Ihnen helfen wird. 
 
-* Ishikawa-Diagramm
+###	5Why-Methode
 
-*	Prozessanalyse
+### Ishikawa-Diagramm
 
-*	Mindmap
+###	Prozessanalyse
+
+###	Mindmap
 
 ## Literatur
 - Denken - Urteilen, Entscheiden, Problemlösen. Berlin: Springer 2011.
