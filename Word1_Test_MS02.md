@@ -41,7 +41,7 @@ Auf den nachfolgenden Seiten findest Du Informationen wie man einzelne Elemente 
 
 ![alt](bilder/word-einfuegen.png)
 
-Bilder werden eingefügt, indem Du in der oberen Leiste auf **Bilder** klickst. Daraufhin öffnet sich ein Tab, bei dem Du auswählst: *dieses Gerät* oder *Onlinebilder*. 
+Bilder werden eingefügt, indem Du im Reiter auf **Bilder** klickst. Daraufhin öffnet sich ein Tab, bei dem Du auswählst: *dieses Gerät* oder *Onlinebilder*. 
 
 **Dieses Gerät**
 
@@ -55,19 +55,19 @@ Hierbei öffnet sich ein weiteres Fenster. In diesem kannst Du in der Suchleiste
 
 ### Tabelle
 
-Tabellen werden eingefügt, indem auf die obere Leiste bei **Einfügen** auf die **Tabelle** geklickt wird. Daraufhin öffnet sich ein Tab, bei welchem Du die Anzahl Deiner Spalten und Zeilen auswählen musst.
+Tabellen werden eingefügt, indem im Reiter bei **Einfügen** auf die **Tabelle** geklickt wird. Daraufhin öffnet sich ein Tab, bei welchem Du die Anzahl Deiner Spalten und Zeilen auswählen musst.
 
 ![alt](bilder/Tabelle-erstellen.png)
 
-Danach besteht die Möglichkeit durch Rechts-Klick auf die Tabelle weitere Spalten und Zeilen unter *Einfügen* hinzuzufügen. Außerdem öffnet sich eine neue Leiste *Tabellenentwurf*, dort können Farbe, Rahmen oder Schattierung einer oder aller Spalten der Tabelle angepasst werden.
+Danach besteht die Möglichkeit durch Rechts-Klick auf die Tabelle weitere Spalten und Zeilen unter *Einfügen* hinzuzufügen. Außerdem öffnet sich ein neuer Reiter *Tabellenentwurf*, dort können Farbe, Rahmen oder Schattierung einer oder aller Spalten der Tabelle angepasst werden.
 
 ![alt](bilder/Tabellen-entwurf.png)
 
 ### Diagramme
 
-Die grafische Darstellung von Daten oder Informationen kann unter Umständen in Deiner wissenschaftlichen Arbeit den Sachverhalt besser veranschaulichen. 
+Die grafische Darstellung von Daten oder Informationen kann unter Umständen in Deiner Arbeit den Sachverhalt besser veranschaulichen. 
 **Achte jedoch auf eine simple Gestaltung**
-Den dazugehörigen Punkt findest Du in der oberen Leiste bei **Einfügen** > **Diagramme**. Damit sollte sich ein neues Fenster mit den unterschiedlichsten Diagrammen öffnen. 
+Den dazugehörigen Punkt findest Du im Reiter bei **Einfügen** > **Diagramme**. Damit sollte sich ein neues Fenster mit den unterschiedlichsten Diagrammen öffnen. 
 
 ![alt](bilder/Diagramme_Word.png)
 
@@ -77,7 +77,7 @@ Hat man sich für ein Diagramm entschieden, öffnet sich eine zusätzliche Excel
 
 ### SmartArt
 
-SmartArt ermöglicht eine visuelle Darstellung von Informationen und Bildern. Um sich eine SmartArt-Grafik zu erstellen und anschließend zu verwenden, muss man in der oberen Leiste bei **Einfügen** > **SmartArt** klicken. Tut man dies, so öffnet sich ein Fenster mit vielen verschiedenen Auswahlmöglichkeiten, um seine Informationen perfekt für sich darstellen zu lassen.
+SmartArt ermöglicht eine visuelle Darstellung von Informationen und Bildern. Um sich eine SmartArt-Grafik zu erstellen und anschließend zu verwenden, muss man im Reiter bei **Einfügen** > **SmartArt** klicken. Danach öffnet sich ein Fenster mit vielen verschiedenen Auswahlmöglichkeiten, um seine Informationen perfekt für sich darstellen zu lassen.
 
 ![alt](bilder/SmartArt.PNG)
 
@@ -88,14 +88,14 @@ Als weiteren Schritt kann man gegebenenfalls seine Grafik nach seinen Vorstellun
 
 #### Inhaltsverzeichnis
 
-Um sich das erstellen oder das anpassen eines Inhaltsverzeichnis zu erleichtern, hat Word eine nützliche Funktion für Dich.
-Wechsel in der oberen Leiste zu **Referenzen**, dort findest Du ganz links die Funktion ein Inhaltsverzeichnis zu erstellen oder bei Bedarf zu aktualisieren. Damit spart man sich Zeit und vermeidet eventuelle Fehler beim Schreiben eines Inhaltsverzeichnisses. Um seinen Text dem Inhaltssverzeichnis hinzuzufügen, muss man auf *Text einfügen* klicken. 
+Um sich das Erstellen oder das Anpassen eines Inhaltsverzeichnisses zu erleichtern, hat Word eine nützliche Funktion für Dich.
+Wechsel im Reiter zu **Referenzen**, dort findest Du ganz links die Funktion ein Inhaltsverzeichnis erstellen oder bei Bedarf aktualisieren. Man spart sich somit Zeit und vermeidet eventuelle Fehler. Um seinen Text dem Inhaltssverzeichnis hinzuzufügen, muss man auf *Text einfügen* klicken. 
 
 ![alt](bilder/Inhaltsverzeichnis1.PNG)
 
 #### Zitierung
 
-Das Zitieren von Zitaten oder Textabschnitten ist für viele Studenten eine der Königsdisziplinen beim Erstellen ihrer wissenschaftlichen Arbeiten. Wenn man bei Word jedoch in der oberen Zeile auf **Referenzen** geht, findet man die Funktion *Zitat einfügen*. Unter *neue Quelle* kannst Du alle wichtigen Informationen bezüglich Deines Zitates hinzufügen. 
+Das Zitieren von Zitaten oder Textabschnitten ist für viele eine Königsdisziplin beim Erstellen der Arbeiten. Wenn man bei Word jedoch im Reiter auf **Referenzen** geht, findet man die Funktion *Zitat einfügen*. Unter *neue Quelle* kannst Du alle wichtigen Informationen bezüglich Deines Zitates hinzufügen. 
 Mit der zusätzlichen Funktion *Formatvorlage*, kann man sich einfach und übersichtlich ein Zitat mit einer direkten Verlinkung zum Inhaltsverzeichnis erstellen.
 
 ![alt](bilder/Zitieren1.PNG)
@@ -110,12 +110,12 @@ Mit der zusätzlichen Funktion *Formatvorlage*, kann man sich einfach und übers
 Im Literaturverzeichnis kannst Du natürlich nicht nur Deine Zitate hinterlegen, sondern alle Literaturquellen die Du verwendest. Dafür kannst Du Dir auch erst einmal ein leeres Literaturverzeichnis erstellen. Dafür klickt man auf den Punkt **Literaturverzeichnis** und sucht sich erst einmal eine Vorlage aus.
 Deine Quellen kannst Du nämlich bei Bedarf jederzeit aktualisieren. Um eine neue Quelle hinzuzufügen oder eine bereits vorhandene Quelle zu bearbeiten, klickt man auf **Zitate und Literaturverzeichnis** > **Quellen verwalten**. Im neuen Tab kannst Du dann beliebig Deine Quellen verwalten.
 
-Auch das Erstellen eines Abbildungsverzeichnis wird über die obere Zeile **Referenzen** > **Beschriftung** durchgeführt. Dabei kann man entscheiden, wie das Abbildungsverzeichnis aussehen und ob es Verlinkungen zum jeweiligen Bild geben soll.
+Auch das Erstellen eines Abbildungsverzeichnis wird über den Reiter **Referenzen** > **Beschriftung** durchgeführt. Dabei kann man entscheiden, wie das Abbildungsverzeichnis aussehen und ob es Verlinkungen zum jeweiligen Bild geben soll.
 
 #### Layout
 
-Solltest Du mal für eine Deiner wissenschaftlichen Arbeiten einen benutzerdefinierten Seitenrand, ein horizontales Blatt oder vielleicht eine zwei Spaltenansicht brauchen, dann bist Du hier beim Layout genau richtig. 
-Ganz links findest Du alles was mit Seitenrändern oder Absätzen zu tun hat. Dir wird eine vielfältige Auswahl an vorgefertigten Einstellungen geboten. Solltest Du aber andere Vorstellungen oder Angaben haben, dann kannst sie ganz einfach unter *Weitere* oder *Mehr* selbst konfigurieren. 
+Solltest Du mal für eine Deiner Arbeiten einen benutzerdefinierten Seitenrand, ein horizontales Blatt oder vielleicht eine zwei Spaltenansicht benötigen, bist Du hier beim Layout genau richtig. 
+Ganz links findest Du alles was mit Seitenrändern oder Absätzen zu tun hat. Dir wird eine vielfältige Auswahl an vorgefertigten Einstellungen geboten. Solltest Du aber andere Vorstellungen oder Angaben haben, dann kann man sie ganz einfach unter *Weitere* oder *Mehr* selbst konfigurieren. 
 Gleich daneben findest Du den Absatzblock. Dabei kannst Du bestimmen, wie weit Dein Absatz nach links, rechts, oben oder unten rücken soll. 
 
 ![alt](bilder/Layout.png)
@@ -125,13 +125,13 @@ Gleich daneben findest Du den Absatzblock. Dabei kannst Du bestimmen, wie weit D
 Unter dem Punkt *Überprüfungen* befinden sich eine Vielzahl von Funktionen, die Dir eine optimale Unterstützung beim Schreiben Deines Dokumentes bieten können.
 Neben den Standardfunktionen wie Rechtschreibung und Grammatik oder dem Wörterzählen, kann Word Dir Deine geschriebenen Sätze laut vorlesen. Es hilft ungemein dies laut zu hören, da Dir so Fehler leichter auffallen können, die Du vielleicht noch nicht entdeckt hast. Diese Funktion findest Du, wenn man bei **Überprüfungen** > **Sprache** > **laut vorlesen** anklickt.
 
-Des Weiteren wollen wir Dir die mögliche Angst vor Fremdsprachen nehmen. In der Leiste unter dem Punkt **Sprache** hast Du die Funktionen **Übersetzen** und **Sprache** zur Verfügung. Gerade der zweite Punkt **Sprache** ist interessant, denn mit diesem kannst Du ganz einfach Deine Rechtschreib- und Grammatikprüfung in eine andere Sprache umstellen.
+Des Weiteren wollen wir Dir die mögliche Angst vor Fremdsprachen nehmen. Im Reiter unter dem Punkt **Sprache** hast Du die Funktionen **Übersetzen** und **Sprache** zur Verfügung. Gerade der zweite Punkt **Sprache** ist interessant, denn mit diesem kannst Du ganz einfach Deine Rechtschreib- und Grammatikprüfung in eine andere Sprache umstellen.
 
 ![alt](bilder/Ueberpruefen.png)
 
-Anschließend gibt es noch die Kommentar- und Änderungssektion, die wir Dir zeigen wollen. Unter diesen kannst Du allein oder mit anderen Personen an einem Dokument arbeiten, ohne Euch gegenseitig im Weg zu stehen. 
+Anschließend gibt es noch die Kommentar- und Änderungssektion. Unter diesen kannst Du allein oder mit anderen Personen an einem Dokument arbeiten, ohne Euch gegenseitig im Weg zu stehen. 
 
-1. Die Kommentare bieten sich besonders dann an, wenn man sich kleine Anmerkungen für später oder Notizen für andere Personen hinterlegen möchte. Zum Hinzufügen, gehe in der Leiste zum Punkt *Kommentare* und füge ein Kommentar am Zeilenrand hinzu. Achte darauf mit der Maus in der richtigen Zeile zu sein. Anschließend wird der von Dir markierte Teil eingefärbt. So verliert niemand den Überblick. Natürlich kannst Du Deine Anmerkungen verändern, löschen oder bei Bedarf auf andere Kommentare reagieren.
+1. Die Kommentare bieten sich besonders dann an, wenn man sich kleine Anmerkungen für später oder Notizen für andere Personen hinterlegen möchte. Zum Hinzufügen, gehe im Reiter zum Punkt *Kommentare* und füge einen Kommentar am Zeilenrand hinzu. Achte darauf mit der Maus in der richtigen Zeile zu sein. Anschließend wird der von Dir markierte Teil eingefärbt. So verliert niemand den Überblick. Natürlich kannst Du Deine Anmerkungen verändern, löschen oder bei Bedarf auf andere Kommentare reagieren.
 
 ![alt](bilder/Ueberpruefen1.png)  
 
@@ -140,11 +140,11 @@ Anschließend gibt es noch die Kommentar- und Änderungssektion, die wir Dir zei
 ![alt](bilder/Uberfruefen2.png)
 
 > [!TIP]
-> Um ein Dokument einer anderen Person freizugeben, klicke hierbei über dem Menüband auf **Freigeben** > **Freigabe**. Stelle dabei sicher, das Dein Dokument auf OneDrive gespeichert ist. Die betreffende Person, der Du Dein Dokument freigibst, sollte nachdem teilen eine Email erhalten.
+> Um ein Dokument einer anderen Person freizugeben, klicke hierbei über dem Reiter auf **Freigeben** > **Freigabe**. Stelle dabei sicher, das Dein Dokument auf OneDrive gespeichert ist. Die betreffende Person, der Du Dein Dokument freigibst, sollte nachdem teilen eine Email erhalten.
 
 #### Ansicht
 
-Unter Ansicht kannst Du das Dokument Dir so anzeigen lassen, wie Deine Präferenzen sind. Unter dem Punkt **Seitenbewegung** kannst Du festlegen, ob Deine Seiten im Dokument Vertikal oder Horizontal, wie bei einem Buch angezeigt werden soll. 
+Unter Ansicht kannst Du das Dokument Dir so anzeigen lassen, wie Deine Präferenzen sind. Im Reiter **Seitenbewegung** kannst Du festlegen, ob Deine Seiten im Dokument vertikal oder horizontal, wie bei einem Buch angezeigt werden soll. 
 Im **Lesemodus** kannst Du Dich wie es der Name schon verrät, ganz auf's lesen Deiner Arbeit konzentrieren. 
 
 ![alt](bilder/Ansicht.png)
