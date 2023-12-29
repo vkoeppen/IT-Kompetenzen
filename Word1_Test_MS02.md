@@ -1,4 +1,10 @@
-## Word
+<!--
+
+link: css/callouts.css
+
+-->
+
+## <center>Word</center>
 
 **Was musst Du fürs Studium in Word können?**
 
@@ -8,22 +14,30 @@ Auf den nächsten Seiten wollen wir Dir daher einen kurzen Einblick über einige
 
 *Zu jedem unserer Themen wird nur ein Beispiel gezeigt. Es gibt auch andere Möglichkeiten, die verschiedenen Funktionen zu benutzen. Werde kreativ und probiere sie einfach alle einmal aus.*
 
-### Gliederung
+### <center>Gliederung</center>
 
-- [**Formatierung**](#formatierung)
-- [**Einfügen**](#einfügen)
-    -   *Bilder*
-    -   *Tabelle*
-    -   *Diagramme*
-    -   *SmartArt*
-- [**Inhaltsverzeichnis**](#inhaltsverzeichnis)
-- [**Zitierung**](#zitierung)
-- [**Literaturverzeichnis & Abbildungsverzeichnis**](#literaturverzeichnis)
-- [**Layout**](#layout)
-- [**Überprüfung**](#überprüfung)
-- [**Ansicht**](#ansicht)
+{{1}}[**Formatierung**](#formatierung)
 
-#### Formatierung
+{{2}}[**Einfügen**](#einfügen)
+
+- **Bilder**
+- **Tabelle**
+- **Diagramme**
+- **SmartArt**
+
+{{3}}[**Inhaltsverzeichnis**](#inhaltsverzeichnis)
+
+{{4}}[**Zitierung**](#zitierung)
+
+{{5}}[**Literaturverzeichnis & Abbildungsverzeichnis**](#literaturverzeichnis)
+
+{{6}}[**Layout**](#layout)
+
+{{7}}[**Überprüfung**](#überprüfung)
+
+{{8}}[**Ansicht**](#ansicht)
+
+#### <center>Formatierung</center>
 
 Einer der ersten Schritte zum Erstellen Deines Dokumentes wird die Formatierung sein. Beim Reiter **Start** findest Du alle nötigen Funktionen, um die Grundlagen für Deine Arbeit festlegen zu können. Dazu gehören unter anderem Absätze, Formatvorlagen und die Schrift selbst.
 
@@ -33,7 +47,7 @@ Einer der ersten Schritte zum Erstellen Deines Dokumentes wird die Formatierung 
 
 ![alt](bilder/Formatierung_Formatvorlage.png)
 
-#### Einfügen
+#### <center>Einfügen</center>
 
 Auf den nachfolgenden Seiten findest Du Informationen, wie man einzelne Elemente in Dein Word-Dokument einfügen kann. 
 
@@ -53,7 +67,7 @@ Hierbei öffnet sich ein weiteres Fenster. In welchem Du entweder über die Such
 
 ![alt](bilder/Word-Online-Bild.png)
 
-### Tabelle
+### <center>Tabelle</center>
 
 Tabellen werden eingefügt, indem im Reiter bei **Einfügen** auf die **Tabelle** geklickt wird. Daraufhin öffnet sich ein Tab, bei welchem Du die Anzahl Deiner Spalten und Zeilen auswählen musst.
 
@@ -63,11 +77,13 @@ Danach besteht die Möglichkeit, durch Rechtsklick auf die Tabelle weitere Spalt
 
 ![alt](bilder/Tabellen-entwurf.png)
 
-### Diagramme
+### <center>Diagramme</center>
 
 Die grafische Darstellung von Daten oder Informationen kann unter Umständen in Deiner Arbeit den Sachverhalt besser veranschaulichen. 
-**Achte jedoch auf eine simple Gestaltung.**
 Den dazugehörigen Punkt findest Du im Reiter bei **Einfügen** > **Diagramme**. Damit sollte sich ein neues Fenster mit den unterschiedlichsten Diagrammen öffnen. 
+
+<!-- class = "callout warning" -->
+> Achte jedoch auf eine simple Gestaltung.
 
 ![alt](bilder/Diagramme_Word.png)
 
@@ -75,7 +91,7 @@ Hat man sich für ein Diagramm entschieden, öffnet sich eine zusätzliche Excel
 
 ![alt](bilder/DiagrammmitExel.png)
 
-### SmartArt
+### <center>SmartArt</center>
 
 SmartArt ermöglicht eine visuelle Darstellung von Informationen und Bildern. Um sich eine SmartArt-Grafik zu erstellen und anschließend zu verwenden, muss man im Reiter auf **Einfügen** > **SmartArt** klicken. Danach öffnet sich ein Fenster mit vielen verschiedenen Auswahlmöglichkeiten, um seine Informationen perfekt für sich darstellen zu lassen.
 
@@ -86,24 +102,24 @@ Als weiteren Schritt kann man gegebenenfalls seine Grafik nach seinen Vorstellun
 ![alt](bilder/SmartArt-Design.PNG)
 
 
-#### Inhaltsverzeichnis
+#### <center>Inhaltsverzeichnis</center>
 
 Um sich das Erstellen oder das Anpassen eines Inhaltsverzeichnisses zu erleichtern, hat Word eine nützliche Funktion für Dich.
 Wechsel im Reiter zu **Referenzen**, dort findest Du ganz links die Funktion ein Inhaltsverzeichnis zu erstellen. Bei Bedarf kann dieses auch aktualisiert werden. Man spart sich somit Zeit und vermeidet eventuelle Fehler. Um seinen Text dem Inhaltsverzeichnis hinzuzufügen, muss man auf **Text einfügen** klicken. 
 
 ![alt](bilder/Inhaltsverzeichnis1.PNG)
 
-#### Zitierung
+#### <center>Zitierung</center>
 
 Das Zitieren von Zitaten oder Textabschnitten ist für viele eine Königsdisziplin beim Erstellen der Arbeiten. Wenn man bei Word jedoch im Reiter auf **Referenzen** geht, findet man die Funktion **Zitat einfügen**. Unter **neue Quelle** kannst Du alle wichtigen Informationen bezüglich Deines Zitates hinzufügen. 
 Mit der zusätzlichen Funktion **Formatvorlage** kann man sich einfach und übersichtlich ein Zitat mit einer direkten Verlinkung zum Inhaltsverzeichnis erstellen.
 
 ![alt](bilder/Zitieren1.PNG)
 
-> [!TIP]
-> Eine Empfehlung für eine Formatvorlage beim zitieren, wäre Chicago.
+<!-- class = "callout tip" -->
+> Unsere Format Empfehlung beim zitieren, wäre Chicago.
 
-#### Literaturverzeichnis & Abbildungsverzeichnis
+#### <center>Literaturverzeichnis & Abbildungsverzeichnis</center>
 
 ![alt](bilder/Literaturverzeichnis1.PNG)
 
@@ -112,7 +128,7 @@ Deine Quellen kannst Du bei Bedarf jederzeit aktualisieren. Um eine neue Quelle 
 
 Auch das Erstellen eines Abbildungsverzeichnisses wird über den Reiter **Referenzen** > **Beschriftung** durchgeführt. Dabei kann man entscheiden, wie das Abbildungsverzeichnis aussehen und ob es gegebenenfalls Verlinkungen zum jeweiligen Bild geben soll.
 
-#### Layout
+#### <center>Layout</center>
 
 Solltest Du mal für eine Deiner Arbeiten einen benutzerdefinierten Seitenrand, ein horizontales Blatt oder vielleicht eine zwei Spaltenansicht benötigen, bist Du hier beim Layout genau richtig. 
 Ganz links findest Du alles, was mit Seitenrändern oder Absätzen zu tun hat. Dir wird eine vielfältige Auswahl an vorgefertigten Einstellungen geboten. Solltest Du aber andere Vorstellungen oder Angaben haben, dann kann man sie ganz einfach unter **Weitere** oder **Mehr** selbst konfigurieren. 
@@ -120,7 +136,7 @@ Gleich daneben findest Du den Absatzblock. Dabei kannst Du bestimmen, wie weit D
 
 ![alt](bilder/Layout.png)
 
-#### Überprüfung
+#### <center>Überprüfung</center>
 
 Unter dem Reiter **Überprüfen** befinden sich eine Vielzahl von Funktionen, die Dir eine optimale Unterstützung beim Schreiben Deines Dokumentes bieten können.
 Neben den Standardfunktionen wie Rechtschreibung und Grammatik oder dem Wörterzählen kann Word Dir Deine geschriebenen Sätze laut vorlesen. Es hilft ungemein, diese laut zu hören. Dir können so Fehler leichter auffallen, die Du vielleicht noch nicht entdeckt hast. Diese Funktion findest Du im Reiter bei **Überprüfen** > **Sprache** > **laut vorlesen**.
@@ -139,10 +155,10 @@ Anschließend gibt es noch die Kommentar- und Änderungssektion. Unter diesen ka
    
 ![alt](bilder/Uberfruefen2.png)
 
-> [!TIP]
+<!-- class = "callout tip" -->
 > Um ein Dokument einer anderen Person freizugeben, klicke hierbei über dem Reiter auf **Freigeben** > **Freigabe**. Stelle dabei sicher, dass Dein Dokument auf OneDrive gespeichert ist. Die betreffende Person, der Du Dein Dokument freigibst, sollte nachdem Teilen eine E-mail erhalten.
 
-#### Ansicht
+#### <center>Ansicht</center>
 
 Unter Ansicht kannst Du das Dokument Dir so anzeigen lassen, wie Deine Präferenzen sind. Im Reiter **Seitenbewegung** kannst Du festlegen, ob Deine Seiten im Dokument vertikal oder horizontal wie bei einem Buch angezeigt werden soll. 
 Im **Lesemodus** kannst Du Dich, wie es der Name schon verrät, ganz aufs Lesen Deiner Arbeit konzentrieren. 
