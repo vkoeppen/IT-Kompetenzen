@@ -49,7 +49,7 @@ Einer der ersten Schritte zum Erstellen Deines Dokumentes, wird die Formatierung
 
 #### <center>Einfügen</center>
 
-Auf den nachfolgenden Seiten findest Du Informationen, wie man einzelne Elemente in Dein Word-Dokument einfügen kann. 
+Auf den nachfolgenden Seiten findest Du Informationen, wie Du einzelne Elemente in Dein Word-Dokument einfügen kannst. 
 
 ### Bilder
 
