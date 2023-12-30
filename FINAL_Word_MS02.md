@@ -39,7 +39,7 @@ Auf den nächsten Seiten wollen wir Dir daher einen kurzen Einblick über einige
 
 #### <center>Formatierung</center>
 
-Einer der ersten Schritte zum Erstellen Deines Dokumentes wird die Formatierung sein. Beim Reiter **Start** findest Du alle nötigen Funktionen, um die Grundlagen für Deine Arbeit festlegen zu können. Dazu gehören unter anderem Absätze, Formatvorlagen und die Schrift selbst.
+Einer der ersten Schritte zum Erstellen Deines Dokumentes, wird die Formatierung sein. Beim Reiter **Start** findest Du alle nötigen Funktionen, um die Grundlagen für Deine Arbeit festlegen zu können. Dazu gehören unter anderem Absätze, Formatvorlagen und die Schrift selbst.
 
 ![alt](bilder/Formatierung_Schriftart.png)
 
