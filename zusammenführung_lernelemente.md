@@ -1324,7 +1324,6 @@ Was vermutest Du, ist für eine effektive Gruppenarbeit wichtig?
 -[( )] Kritik ohne Lösungsvorschläge
 -[(x)] Offene Kommunikation und Zusammenarbeit 
 
-=======
 #### Wähle nun die Fähigkeiten aus, die Du bereits besitzt!
 
 [[Durchsetzungsvermögen ]] Durchsetzungsvermögen
