@@ -199,11 +199,6 @@ Der **Plastische Reader** bietet Dir neben der internen Veränderung der Seitenf
 Unter diesem Kommentar bitte Powerpoint einfuegen
 -->
 
-<!--
-author: Von: Maria Schendel, Tom Hornemann
-link: css/callouts.css
--->
-
 ## <center>Powerpoint</center>
 
 ---
@@ -440,9 +435,6 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 Unter diesem Kommentar bitte Excel einfuegen
 -->
 
-<!--
-link: css/callouts.css
--->
 ## Excel-Formeln
 
 <!-- class = "callout danger with-title" -->
