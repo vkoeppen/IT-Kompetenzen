@@ -28,11 +28,6 @@ link: css/callouts.css
 Unter diesem Kommentar bitte Word einfuegen
 -->
 
-<!--
-
-link: css/callouts.css
-
--->
 
 ## <center>Word</center>
 
