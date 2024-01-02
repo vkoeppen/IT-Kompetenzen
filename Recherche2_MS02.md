@@ -8,7 +8,7 @@ link: css/callouts.css
 
 Das Internet ist mittlerweile eines der wichtigsten Werkzeuge zum Recherchieren geworden. Es bietet mit nur wenigen Klicks einen schnellen Zugang zu allen möglichen Informationen, z. B. Fremdwörter, Fachbegriffe oder wissenschaftliche Diskurse. Im Internet findet man zu jedem Thema etwas, aber nicht jede Quelle ist ausreichend seriös oder enthält genau die Informationen, die man benötigt. Wir wollen Dir daher einen Leitfaden zum richtigen Recherchieren im Internet geben.
 
-![alt](bilder/Recherche.png)
+![alt](bilder/Recherche.png.jpg)
 
 ### <center>Gliederung</center>
 
