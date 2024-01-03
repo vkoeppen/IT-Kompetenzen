@@ -9,7 +9,8 @@ import:   https://github.com/liascript/CodeRunner
 
 link: css/callouts.css
 -->
-# Zusammenführung der Lernelemente
+# Lernwerkstatt IT-Kompetenzen<br><small>Ein Selbstlernkurs von Studierenden für Studierende der Informationswissenschaften</small>
+
 ## Gliederung
 
 1. Word
