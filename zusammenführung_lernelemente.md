@@ -66,11 +66,11 @@ Auf den nächsten Seiten wollen wir Dir daher einen kurzen Einblick über einige
 
 Einer der ersten Schritte zum Erstellen Deines Dokumentes, wird die Formatierung sein. Beim Reiter **Start** findest Du alle nötigen Funktionen, um die Grundlagen für Deine Arbeit festlegen zu können. Dazu gehören unter anderem Absätze, Formatvorlagen und die Schrift selbst.
 
-![alt](bilder/Formatierung_Schriftart.png)
+![alt](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Formatierung_Schriftart.png)
 
-![alt](bilder/Formatierung_Absatz.png)
+![alt](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Formatierung_Absatz.png)
 
-![alt](bilder/Formatierung_Formatvorlage.png)
+![alt](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Formatierung_Formatvorlage.png)
 
 #### <center>Einfügen</center>
 
@@ -78,7 +78,7 @@ Auf den nachfolgenden Seiten findest Du Informationen, wie Du einzelne Elemente 
 
 ### Bilder
 
-![alt](bilder/word-einfuegen.png)
+![alt](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/word-einfuegen.png)
 
 Bilder werden eingefügt, indem Du im Reiter auf **Bilder** klickst. Daraufhin öffnet sich ein Tab, bei dem Du auswählst: **dieses Gerät** oder **Onlinebilder**. 
 
@@ -90,17 +90,17 @@ Zuerst öffnet sich der Dateiordner. Dort wird die Datei mit dem gewünschten Bi
 
 Hierbei öffnet sich ein weiteres Fenster. In welchem Du entweder über die Suchleiste oder aus vorgefertigten Suchbegriffen ein passendes Bild für Dein Dokument heraussuchst. Du kannst bei der Suche angeben, ob das Bild **Creative Common** sein soll oder nicht.
 
-![alt](bilder/Word-Online-Bild.png)
+![alt](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Word-Online-Bild.png)
 
 ### <center>Tabelle</center>
 
 Tabellen werden eingefügt, indem im Reiter bei **Einfügen** auf die **Tabelle** geklickt wird. Daraufhin öffnet sich ein Tab, bei welchem Du die Anzahl Deiner Spalten und Zeilen auswählen musst.
 
-![alt](bilder/Tabelle-erstellen.png)
+![alt](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Tabelle-erstellen.png)
 
 Danach besteht die Möglichkeit, durch Rechtsklick auf die Tabelle weitere Spalten und Zeilen unter **Einfügen** hinzuzufügen. Außerdem öffnet sich ein neuer Reiter **Tabellenentwurf**, dort können Farbe, Rahmen oder Schattierung einer oder aller Spalten der Tabelle angepasst werden.
 
-![alt](bilder/Tabellen-entwurf.png)
+![alt](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Tabellen-entwurf.png)
 
 ### <center>Diagramme</center>
 
@@ -110,21 +110,21 @@ Den dazugehörigen Punkt findest Du im Reiter bei **Einfügen** > **Diagramme**.
 <!-- class = "callout warning" -->
 > Achte jedoch auf eine simple Gestaltung.
 
-![alt](bilder/Diagramme_Word.png)
+![alt](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Diagramme_Word.png)
 
 Hat man sich für ein Diagramm entschieden, öffnet sich eine zusätzliche Excel-Tabelle, in der Du Deine Forschungsdaten eintragen kannst. Diese werden dann im Diagramm veranschaulicht.
 
-![alt](bilder/DiagrammmitExel.png)
+![alt](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/DiagrammmitExel.png)
 
 ### <center>SmartArt</center>
 
 SmartArt ermöglicht eine visuelle Darstellung von Informationen und Bildern. Um sich eine SmartArt-Grafik zu erstellen und anschließend zu verwenden, muss man im Reiter auf **Einfügen** > **SmartArt** klicken. Danach öffnet sich ein Fenster mit vielen verschiedenen Auswahlmöglichkeiten, um seine Informationen perfekt für sich darstellen zu lassen.
 
-![alt](bilder/SmartArt.PNG)
+![alt](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/SmartArt.PNG)
 
 Als weiteren Schritt kann man gegebenenfalls seine Grafik nach seinen Vorstellungen anpassen, sei es durch Farbe, eine andere Formatvorlage oder zusätzlichen Formen. 
 
-![alt](bilder/SmartArt-Design.PNG)
+![alt](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/SmartArt-Design.PNG)
 
 
 #### <center>Inhaltsverzeichnis</center>
@@ -132,21 +132,21 @@ Als weiteren Schritt kann man gegebenenfalls seine Grafik nach seinen Vorstellun
 Um sich das Erstellen oder das Anpassen eines Inhaltsverzeichnisses zu erleichtern, hat Word eine nützliche Funktion für Dich.
 Wechsel im Reiter zu **Referenzen**, dort findest Du ganz links die Funktion ein Inhaltsverzeichnis zu erstellen. Bei Bedarf kann dieses auch aktualisiert werden. Man spart sich somit Zeit und vermeidet eventuelle Fehler. Um seinen Text dem Inhaltsverzeichnis hinzuzufügen, muss man auf **Text einfügen** klicken. 
 
-![alt](bilder/Inhaltsverzeichnis1.PNG)
+![alt](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Inhaltsverzeichnis1.PNG)
 
 #### <center>Zitierung</center>
 
 Das Zitieren von Zitaten oder Textabschnitten ist für viele eine Königsdisziplin beim Erstellen der Arbeiten. Wenn man bei Word jedoch im Reiter auf **Referenzen** geht, findet man die Funktion **Zitat einfügen**. Unter **neue Quelle** kannst Du alle wichtigen Informationen bezüglich Deines Zitates hinzufügen. 
 Mit der zusätzlichen Funktion **Formatvorlage** kann man sich einfach und übersichtlich ein Zitat mit einer direkten Verlinkung zum Inhaltsverzeichnis erstellen.
 
-![alt](bilder/Zitieren1.PNG)
+![alt](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Zitieren1.PNG)
 
 <!-- class = "callout tip" -->
 > Unsere Format Empfehlung beim zitieren, wäre Chicago.
 
 #### <center>Literaturverzeichnis & Abbildungsverzeichnis</center>
 
-![alt](bilder/Literaturverzeichnis1.PNG)
+![alt](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Literaturverzeichnis1.PNG)
 
 Im Literaturverzeichnis kann man natürlich nicht nur seine Zitate hinterlegen, sondern auch alle Literaturquellen, die man verwendet. Dafür erstellst Du Dir erst einmal ein leeres Literaturverzeichnis. Klicke im Reiter auf **Literaturverzeichnis** und sucht Dir erst einmal eine Vorlage aus.
 Deine Quellen kannst Du bei Bedarf jederzeit aktualisieren. Um eine neue Quelle hinzuzufügen oder eine bereits vorhandene zu bearbeiten, klickt man auf **Zitate und Literaturverzeichnis** > **Quellen verwalten**. Im neuen Tab kannst Du dann beliebig Deine Quellen verwalten.
@@ -159,7 +159,7 @@ Solltest Du mal für eine Deiner Arbeiten einen benutzerdefinierten Seitenrand, 
 Ganz links findest Du alles, was mit Seitenrändern oder Absätzen zu tun hat. Dir wird eine vielfältige Auswahl an vorgefertigten Einstellungen geboten. Solltest Du aber andere Vorstellungen oder Angaben haben, dann kann man sie ganz einfach unter **Weitere** oder **Mehr** selbst konfigurieren. 
 Gleich daneben findest Du den Absatzblock. Dabei kannst Du bestimmen, wie weit Dein Absatz nach links, rechts, oben oder unten rücken soll. 
 
-![alt](bilder/Layout.png)
+![alt](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Layout.png)
 
 #### <center>Überprüfung</center>
 
@@ -168,17 +168,17 @@ Neben den Standardfunktionen wie Rechtschreibung und Grammatik oder dem Wörterz
 
 Des Weiteren wollen wir Dir die mögliche Angst vor Fremdsprachen nehmen. Im Reiter unter **Sprache** hast Du die Funktionen **Übersetzen** und **Sprache** zur Verfügung. Gerade der zweite Punkt **Sprache** ist interessant, denn mit dieser Funktion kannst Du ganz einfach Deine Rechtschreib- und Grammatikprüfung in eine andere Sprache umstellen.
 
-![alt](bilder/Ueberpruefen.png)
+![alt](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Ueberpruefen.png)
 
 Anschließend gibt es noch die Kommentar- und Änderungssektion. Unter diesen kannst Du allein oder mit anderen Personen an einem Dokument arbeiten, ohne Euch gegenseitig im Weg zu stehen. 
 
 1. Die Kommentare bieten sich besonders dann an, wenn man sich kleine Anmerkungen für später oder Notizen für andere Personen hinterlegen möchte. Zum Hinzufügen gehe im Reiter zum Punkt **Kommentare** und füge einen Kommentar am Zeilenrand hinzu. Achte darauf, mit der Maus in der richtigen Zeile zu sein. Anschließend wird der von Dir markierte Teil eingefärbt. So verliert niemand den Überblick. Natürlich kannst Du Deine Anmerkungen verändern, löschen oder bei Bedarf auf andere Kommentare reagieren.
 
-![alt](bilder/Ueberpruefen1.png)  
+![alt](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Ueberpruefen1.png)  
 
 2. Die Änderungssektion ist vor allem dann interessant, wenn Du Veränderungen nicht sofort im Text umsetzen willst. Sei es in Einzel- oder Gruppenarbeiten. Die vorläufigen Änderungen können alle auf einmal angenommen oder abgelehnt werden.
    
-![alt](bilder/Uberfruefen2.png)
+![alt](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Uberfruefen2.png)
 
 <!-- class = "callout tip" -->
 > Um ein Dokument einer anderen Person freizugeben, klicke hierbei über dem Reiter auf **Freigeben** > **Freigabe**. Stelle dabei sicher, dass Dein Dokument auf OneDrive gespeichert ist. Die betreffende Person, der Du Dein Dokument freigibst, sollte nachdem Teilen eine E-mail erhalten.
@@ -188,11 +188,11 @@ Anschließend gibt es noch die Kommentar- und Änderungssektion. Unter diesen ka
 Unter Ansicht kannst Du das Dokument Dir so anzeigen lassen, wie Deine Präferenzen sind. Im Reiter **Seitenbewegung** kannst Du festlegen, ob Deine Seiten im Dokument vertikal oder horizontal wie bei einem Buch angezeigt werden soll. 
 Im **Lesemodus** kannst Du Dich, wie es der Name schon verrät, ganz aufs Lesen Deiner Arbeit konzentrieren. 
 
-![alt](bilder/Ansicht.png)
+![alt](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Ansicht.png)
 
 Der **Plastische Reader** bietet Dir neben der internen Veränderung der Seitenfarbe, dem Text- oder Spaltenabstand ebenso auch eine Silbentrennung an. Auch kannst Du den **Zeilenfokus** aktivieren. Dieser erlaubt Dir, Dich Zeile für Zeile in Deiner Arbeit vorzuarbeiten.
 
-![alt](bilder/Plastische-Reader.png)
+![alt](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Plastische-Reader.png)
 
 
 <!---
@@ -442,7 +442,7 @@ Unter diesem Kommentar bitte Excel einfuegen
 > 
 >Für eine Hausaufgabe musst du mehrere mathematische Aufgaben lösen. Deine Dozentin gibt dir dafür eine Formel vor, welche du anwenden musst: "a²+b²=c²". So weit, so gut. Du versuchst die Aufgaben mit Stift, Papier und solarbetriebenem Taschenrechner zu lösen, doch bald verlierst du den Überblick. Schlimmer noch: die Ergebnisse deiner Rechnungen scheinen aufeinander aufzubauen und sobald sich an einer Stelle ein Fehler einschleicht musst du einen ganzen Rattenschwanz an Rechnungen noch einmal lösen! Außerdem musst du bei jeder neuen Aufgabe komplett von vorne anfangen zu rechnen. Na toll; jetzt geht die Sonne unter und der Taschenrechner funktioniert nicht mehr richtig. Der Stift ist auch abgebrochen. Geht das nicht mit dem Computer einfacher?
 
-![Verzweiflung bei Matheaufgaben](bilder/Excel_MR_02.png "Matheaufgaben treiben viele Studierende zur Verzweiflung.")
+![Verzweiflung bei Matheaufgaben](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Excel_MR_02.png "Matheaufgaben treiben viele Studierende zur Verzweiflung.")
 
 
 ## Excel-Formeln
@@ -464,7 +464,7 @@ https://de.libreoffice.org/download/download/
 
 Sobald du Excel öffnest siehst du eine große Tabelle. Die senkrecht verlaufenden **Spalten** sind mit Großbuchstaben gekennzeichnet. Die **Zeilen** werden mit Zahlen benannt. Eine einzelne **Zelle** ist ein Bereich, in welchem Spalte und Zeile sich schneiden. Entsprechend hat jede Zelle sozusagen eine Koordinate, welche aus dem Buchstaben der Spalte gefolgt von der Zahl der Zeile besteht (nicht umgekehrt!). Diese Namen der Zellen nennt man **Bezüge**, weil man sich innerhalb von Formeln so auf Zellen beziehen kann.
 
-![Basics der Excel Tabelle](bilder/Excel_MR_03.png "Rot= Spalte; Orange=Zeile; Lila=Zelle".)
+![Basics der Excel Tabelle](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Excel_MR_03.png "Rot= Spalte; Orange=Zeile; Lila=Zelle".)
 
 Um zu prüfen, ob du diese Benennungskonvetionen verstanden hast, ergänze den folgenden Text, welcher sich auf dieses Bild bezieht!
 
@@ -483,7 +483,7 @@ Gehen wir ans Eingemachte! In unserem Beispiel sollen wir mit dem Satz des Pytha
 
 Mit dieser Formel werden die Längenverhältnisse der drei Seiten eines gleichschenkligen Dreiecks beschrieben. "a" und "b" sind die Längen der Seiten, welche den rechten Winkel bilden, die sogenannten Katheten. "c" beschreibt die Länge der gegenüberliegenden dritten Seite, der Hypotenuse. Der Zauber dieser Formel liegt darin, dass sie uns ermöglicht die unbekannte Länge einer Seite eines gleichschenkligen Dreiecks zu bestimmen, vorausgesetzt, dass die Längen der beiden anderen Seiten bekannt sind.
 
-![Veranschaulichung des Satz des Phytagoras.](bilder/Excel_MR_04.png "Veranschaulichung des Satz des Phytagoras.")
+![Veranschaulichung des Satz des Phytagoras.](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Excel_MR_04.png "Veranschaulichung des Satz des Phytagoras.")
 
 Deine Dozentin gibt dir verschiedene Werte für "a" und "b" vor, aus welchen du jeweils die Länge von "c" deduzieren sollen.
 
@@ -499,7 +499,7 @@ In einer zweiten Aufgabe sollst du errechnen, welche Werte sich ergeben, wenn de
 
 Um eine Excel-Formel einzuleiten müssen wir den Eintrag einer Zelle mit dem **Gleichheitszeichen (=)** beginnen.
 
-![Erster Schritt für das Erstellen einer Formel.](bilder/Excel_MR_05.png "Mit dem Gleichzeichen (=) wird der Beginn einer Formel in einer Zelle markiert.")
+![Erster Schritt für das Erstellen einer Formel.](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Excel_MR_05.png "Mit dem Gleichzeichen (=) wird der Beginn einer Formel in einer Zelle markiert.")
 
 Verschiedene **Operatoren** stehen uns in einer Formel zur Verfügung. Das sind im Grunde die selben Zeichen, welche wir auch im Matheunterricht kennengelernt haben:
 
@@ -516,7 +516,7 @@ Verschiedene **Operatoren** stehen uns in einer Formel zur Verfügung. Das sind 
 Nun haben wir in Zeile C2 schon etwas, was nach dem Satz des Phytagoras aussieht. In Zelle "A2" steht unser Wert für "a", in "B2" steht unser Wert für "b". "C2" Enthält unsere Formel und das Ergebnis von "a²+b²".
 
 
-![Die Formel nimmt Gestalt an.](bilder/Excel_MR_06.png "In der Formel werden verschiedene Zellen mit Operatoren verbunden.")
+![Die Formel nimmt Gestalt an.](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Excel_MR_06.png "In der Formel werden verschiedene Zellen mit Operatoren verbunden.")
 
 ## Excel-Formeln
 Doch gefragt ist nicht nach "c²"! Wir müssen noch eine Wurzel ziehen! Dafür müssen wir nicht nach einem Wurzel-Zeichen auf dem Keyboard suchen. Stattdessen klicken wir auf das **Formelzeichen (fx)** neben der Eingabezeile. Es erscheint ein Fenster, welches uns erlaubt aus allen **Funktionen** auszuwählen, welche Excel zu bieten hat.
@@ -527,11 +527,11 @@ Wir benötigen die **Funktion**
 
 **Funktionen** beginnen immer mit einem Gleichheitszeichen und werden oft von Klammern gefolgt. 
 
-![So sucht man eine Funktion.](bilder/Excel_MR_07.png "In diesem Fenster finden sich alle möglichen Excel-Funktionen.")
+![So sucht man eine Funktion.](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Excel_MR_07.png "In diesem Fenster finden sich alle möglichen Excel-Funktionen.")
 
 So haben wir endlich unsere Formel in Excel eingegeben!
 
-![Der Satz des Phytagoras!](bilder/Excel_MR_08.png "Nun können wir den Satz des Phytagoras anwenden.")
+![Der Satz des Phytagoras!](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Excel_MR_08.png "Nun können wir den Satz des Phytagoras anwenden.")
 
 ## Excel-Formeln
 <!-- class = "callout danger with-title" -->
@@ -539,21 +539,21 @@ So haben wir endlich unsere Formel in Excel eingegeben!
 > 
 > Nun hast du einiges über Excel gelernt. Taschenrechner, Stift und Papier hast du gegen den PC getauscht. Aber war es vorher nicht einfacher? Der Taschenrechner hatte ein eigenes Wurzelzeichen und wenn die Sonne draufschien ist er einfach angegangen. Für Stift und Papier brauchtest du keine Kabel und Schaltkreise. Mit ihnen hättest du im tiefsten Wald oder auf dem höchsten Berg deine Aufgaben lösen können, kilometerweit von der nächsten Steckdose entfernt. Die Geheimnisse der Mathematik hätten sich dir mit Stift und Papier genauso erschlossen, wie einst Phytagoras vor tausenden von Jahren. Nun bist du abhängig von Strom, welcher lange nicht nachhaltig gewonnen werden kann. Dein Anspruch auf einen Computer macht dich mitverantwortlich dafür, dass irgendwo auf der Welt Menschen in gefährlichen Minen Kupfer und andere seltene Mineralien der Erde entreißen. Und du hast dich der Omnipräsenz von Microsoft unterworfen. Einem monopolistischen Riesen-Unternehmen, welches mehr Einfluss auf die globale Arbeitskultur hat, als die meisten Staaten. Zudem ist es auch gar nicht so leicht Excel zu lernen. Ist es das überhaupt wert?
 
-![Verzweiflung bei Excel.](bilder/Excel_MR_09.png "Auch Excel treibt viele Studierende zur Verzweiflung.")
+![Verzweiflung bei Excel.](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Excel_MR_09.png "Auch Excel treibt viele Studierende zur Verzweiflung.")
 
 ## Excel-Formeln
 
 Existenzkrise beiseite. Im nächsten Schritt sollte klar werden, warum du beim Rechnen mit Excel so viel Zeit sparen kannst! Wir haben auf "Enter" gedrückt und in Zelle "C2" wird endlich unser Ergebnis angezeigt!
 
-![Endlich ein Ergebnis.](bilder/Excel_MR_10.png "So sollte die gelöste Aufgabe aussehen.")
+![Endlich ein Ergebnis.](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Excel_MR_10.png "So sollte die gelöste Aufgabe aussehen.")
 
 Wenn wir eine Zelle angewählt haben, erscheint diese grün umrandet. In der unteren, rechten Ecke der Zelle befindet sich dann ein kleines dunkelgrünes Quadrat. Unser Maus-Cursor wird zu einem kleinen schwarzen Kreuz, wenn wir sie über dieses Quadrat bewegen.
 
-![Die Spannung steigt...](bilder/Excel_MR_11.png "Mithilfe der Maus können wir den grünen Kasten erweitern.")
+![Die Spannung steigt...](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Excel_MR_11.png "Mithilfe der Maus können wir den grünen Kasten erweitern.")
 
  Nun klicken wir mit der linken Maustaste auf das grüne Quadrat, ziehen den grünen Kasten die Spalte hinunter...
 
-![Der Zauber von Excel!](bilder/Excel_MR_12.png "Wir haben die Formel auf weitere Zeilen ergänzt, ohne sie neu schreiben zu müssen.")
+![Der Zauber von Excel!](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Excel_MR_12.png "Wir haben die Formel auf weitere Zeilen ergänzt, ohne sie neu schreiben zu müssen.")
 
 
 ... et voila! Ohne viel Aufwand haben wir die Ergebnisse für die anderen Dreiecke ausgerechnet.
@@ -584,12 +584,12 @@ Wie gehabt ergibt sich der Bezug auf eine Zelle aus einem (oder mehren) Großbuc
 
 Für unsere Aufgabe brauchen wir einen absoluten Bezug in der Spalte und der Zeile. Dafür tragen wir in die Formel jeweils ein Dollarzeichen ($) vor den Spaltenbezug und vor den Bezug zur Zelle "A2":
 
-!["a" erscheint nun als absoluter Bezug](bilder/Excel_MR_13.png "Zwei Dollarzeichen verwandeln den relativen Bezug in einen absoluten Bezug hinsichtlich Spalte und Zeile.")
+!["a" erscheint nun als absoluter Bezug](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Excel_MR_13.png "Zwei Dollarzeichen verwandeln den relativen Bezug in einen absoluten Bezug hinsichtlich Spalte und Zeile.")
 
 Wie gehabt ziehen wir die Formel, doch dieses Mal wird etwas anders sein. 
 
 
-![Ergebnis mit absoluten Bezügen.](bilder/Excel_MR_14.png "Wenn der Wert in A2 nun verändert würde, würden sich alle Ergebnisse entsprechend verändern, da sie sich auf ihn beziehen.")
+![Ergebnis mit absoluten Bezügen.](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Excel_MR_14.png "Wenn der Wert in A2 nun verändert würde, würden sich alle Ergebnisse entsprechend verändern, da sie sich auf ihn beziehen.")
 
 In "C3" steht nun:
 
@@ -618,7 +618,7 @@ Excel-Formeln bestehen aus verschiedenen [[  Elementen  ]]. [[  Funktionen  ]] b
 > 
 > Du hast die **Elemente der Excel-Formeln** gemeistert!
 
-![Meisterin der Excel-Formeln.](bilder/Excel_MR_15.png "Nun können dich komplizierte Matheaufgaben nicht mehr aufhalten!")
+![Meisterin der Excel-Formeln.](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/Excel_MR_15.png "Nun können dich komplizierte Matheaufgaben nicht mehr aufhalten!")
 
 
 ## Quellen
@@ -917,13 +917,13 @@ Unter diesem Kommentar bitte Software einfuegen
 
 ## Software
 
-![](bilder/disks_dithered.png "[Original Foto](https://www.flickr.com/photos/57519914@N00/9120429846) von [jepoirrier](https://www.flickr.com/photos/jepoirrier/), lizensiert unter [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).")
+![](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/disks_dithered.png "[Original Foto](https://www.flickr.com/photos/57519914@N00/9120429846) von [jepoirrier](https://www.flickr.com/photos/jepoirrier/), lizensiert unter [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).")
 
 In disem Kapitel geht es ganz allgemein um verscheiden Aspekte von Software, die nicht unmittelbar einen konkreten Anwendunsgfall betreffen, aber troztdem bei der Auswahl und Anwendung Software berücksichtigt werden sollten.
 
 ### Hallo Welt
 
-![](bilder/hello-bob_dithered.png "[Original Bild](https://www.deviantart.com/dagadele/art/His-name-was-Robert-Paulson-575768567) von [dagadele](https://www.deviantart.com/dagadele/gallery)")
+![](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/hello-bob_dithered.png "[Original Bild](https://www.deviantart.com/dagadele/art/His-name-was-Robert-Paulson-575768567) von [dagadele](https://www.deviantart.com/dagadele/gallery)")
 
 Software ist eine Ansammlung von Anweisungen, die in einer **Programmiersprachen** geschrieben werden.  Diese Anweisungen bilden Programme, die Computer ausführen, um bestimmte Aufgaben zu erledigen. Software reicht von Betriebssystemen bis zu Anwendungsprogrammen und ermöglicht die **Interaktion von Benutzern mit Computern**. Oftmals erfolgt die Interaktion über eine Grafische Benutzeroberfläche (GUI).
 
@@ -965,7 +965,7 @@ message;
 
 ### Bugs
 
-![](bilder/guru3-00c06560_dithered.png "Fehlermeldung eines Amiga 500 von Commodore, [Original Foto](https://www.techtravels.org/2013/11/amiga-guru-meditation-number-00000003-00c06560/) von [keith](https://www.techtravels.org/author/keith/)")
+![](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/guru3-00c06560_dithered.png "Fehlermeldung eines Amiga 500 von Commodore, [Original Foto](https://www.techtravels.org/2013/11/amiga-guru-meditation-number-00000003-00c06560/) von [keith](https://www.techtravels.org/author/keith/)")
 
 Ein **Bug** (Englisch für Käfer) in der Software ist ein **Fehler oder eine unerwünschte Fehlfunktion**, die dazu führt, dass das Programm nicht wie beabsichtigt arbeitet. Bugs können verschiedene Ursachen haben, darunter Programmierfehler, unerwartete Eingaben (wie in userem I/O Beispiel) oder Inkompatibilitäten zwischen verschiedenen Softwarekomponenten.
 
@@ -1000,7 +1000,7 @@ Es ist wichtig, dass Nutzer eine gesunde Skepsis und kritische Haltung bewahren.
 
 ### Software für offene Beziehung gesucht
 
-![](bilder/connect_dithered.png "[Original Bild](https://www.flickr.com/photos/rocksrain/4961264599) von [Gulia](https://www.flickr.com/photos/rocksrain/) lizensiert unter [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)")
+![](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/connect_dithered.png "[Original Bild](https://www.flickr.com/photos/rocksrain/4961264599) von [Gulia](https://www.flickr.com/photos/rocksrain/) lizensiert unter [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)")
 
 Der Begriff **"offen"** im Kontext von Software kann verschiedene Bedeutungen haben. Einerseits bezieht es sich auf **Open Source-Software**, bei der der Quellcode für die Öffentlichkeit zugänglich ist, was es interessierten ermöglicht, sie zu überprüfen, zu modifizieren und zu teilen. Andererseits kann "offen" bedeuten, dass eine Software **interoperabel** und mit anderen Systemen **kompatibel** ist. "Offen" kan auch bedeuten, dass eine Software **erweiterbar** ist oder schlicht und einfach, dass deine Daten jederzeit für dich **zugänglich** sind.
 
@@ -1018,7 +1018,7 @@ Eine solche Umgebung hat Vorteile genauso wie Nachteile. Wie schätzt du die Aps
 
 #### Vendor lock-in
 
-![](bilder/safe_dithered.png "[Original Bild](https://www.flickr.com/photos/15131913@N00/288491653) von [Rob Pongsajapan](https://www.flickr.com/photos/pong/) lizensiert unter [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)")
+![](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/safe_dithered.png "[Original Bild](https://www.flickr.com/photos/15131913@N00/288491653) von [Rob Pongsajapan](https://www.flickr.com/photos/pong/) lizensiert unter [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)")
 
 "Vendor lock-in" bezieht sich auf die Situation, in der ein Anwender so stark von einem bestimmten Anbieter (Vendor) abhängig ist, dass es schwierig oder kostspielig wird, zu einem anderen Anbieter zu wechseln.
 
@@ -1035,7 +1035,7 @@ Es macht also Sinn, sich ein wenig mit der Software auseinander zu setzten, bevo
 
 #### Open-Source Software
 
-![](bilder/6731974561_158e4f17b8_o_dithered.png "[Original Bild](https://www.flickr.com/photos/opensourceway/6731974561/) von [opensourceway](https://www.flickr.com/photos/opensourceway/) lizensiert unter [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)")
+![](https://raw.githubusercontent.com/vkoeppen/IT-Kompetenzen/main/bilder/6731974561_158e4f17b8_o_dithered.png "[Original Bild](https://www.flickr.com/photos/opensourceway/6731974561/) von [opensourceway](https://www.flickr.com/photos/opensourceway/) lizensiert unter [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)")
 
 Es muss nicht immer die vorinstallierte App von Microsoft oder Apple sein. Open-Source Software (OSS) bietet eine Reihe von Vorteilen:
 
