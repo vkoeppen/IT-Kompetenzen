@@ -48,7 +48,7 @@ Such-Operatoren
 | <center>"Begriff"</center> | Es kann ausschließlich nach den konkreten Begriffen oder Phrasen gesucht werden, die in den Anführungszeichen stehen. | 
 | <center>-</center> | Suchbegriffe werden ausgeschlossen. Dies kann besonders wichtig werden, wenn derselbe Suchbegriff im unterschiedlichen Kontext stehen kann. |
 
-Weitere nützliche Operatoren kannst Du in dieser Liste finden: 
+Weitere nützliche Operatoren kannst Du in dieser Liste unter dem folgenden Link finden: 
 
 https://ahrefs.com/blog/de/google-erweiterte-suchoperatoren/
 
@@ -60,12 +60,21 @@ Vorher sollte man aber noch unter der Suchleiste festgelegt haben, nach was man 
 
 ### <center>Welche wissenschaftlichen Suchmaschinen gibt es?</center>
 
-Mit der Hilfe von wissenschaftlichen Suchmaschinen ist es im Internet möglich, gezielt nach relevanter Literatur oder Dokumenten zu suchen.
+Wenn Du gezielt nach wissenschaftlichen Fachpublikationen im Internet suchst. Können Dir wissenschaftlichen Suchmaschinen gezielt dei Suche nach relevanter Literatur oder Dokumenten erleichtern.
 
 Beispiele:
 
 - Google Scholar
+
+Link: https://scholar.google.de/
+
 - Base-search
+
+Link: https://www.base-search.net/
+
+Weitere wissenschaftliche Suchmaschinen findest Du im Artikel von Christoph Hornung unter dem folgenden Link:
+
+https://irights.info/artikel/open-access-fachliteratur-finden/31892
 
 ### <center>Qualitätscheck und Organisation</center>
 
@@ -73,21 +82,35 @@ Da im Internet jeder seine Beiträge veröffentlichen kann, muss man ganz genau 
 
 Achte zum Beispiel auf:
 
--Die aktuellen Jahresangaben der Website oder des Dokumentes.
-- Informationen über den Verfasser.
+- Handelt es sich bei der Quelle um eine nachgewiesene Wissenschaftliche Arbeit? Z. B. eine Fachzeitschrift oder eine Doktorarbeit.
+- Die aktuellen Jahresangaben der Website oder des Dokumentes.
+- Informationen über den Verfasser. Ist er wissenschaftlich sachverständig?
 - Was für Quellenangaben sind vorhanden? Verweist Deine Quelle auf mögliche weitere Quellen, zum Beispiel auf wissenschaftliche Arbeiten oder Universitäten?
 - Im Impressum der Website, sollte der Betreiber stehen.
-- Gibt es Rezensionen zu der Quelle? 
+- Gibt es Rezensionen zu der Quelle?
 
+Um seine Quelle auf Rezensionen zu prüfen kannst Du entweder eine der Beiden vorgeschlagenen Websiten verwenden oder Frage bei Dir im Studiengang nach. Vielleicht kennt jemanden Deine ausgesuchte Quelle schon und kann Dir Feedback dazu geben.
+
+- https://www.socialnet.de/rezensionen/
+
+- https://www.hsozkult.de/review/page
+  
 Organisieren
 
 Solltest Du der Meinung sein, genügend Informationen gesammelt haben, dann kannst Du jetzt beginnen diese zu sortieren und zu ordnen. Vielleicht entdeckst Du auch Quellen, die Du nicht mehr benötigst.
 
 Unsere Software-Empfehlungen sind:
 
-Obsidian oder …
+**Obsidian**
+
+Beschreibung ... 
+
+Link zur offizien Seite von Obsidian: https://obsidian.md/
+
+Unter Download sind alle gegänigen Betriebssysteme vertreten.
+
+**Zotero**
+
+Beschreibung ...
 
 (Links? Beschreibung? Bilder?)
-
-
-	
