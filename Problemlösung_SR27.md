@@ -1,8 +1,8 @@
-# Problemlösung
+## Problemlösung
 
 Während des Studiums wird es gelegentlich zu Problemen kommen, die es lösen gelten wird. Ein paar Hilfestellungen dazu findet man hier. 
 
-## Inhaltangabe
+### Inhaltangabe
 
 1. Kompetenzen 
 
@@ -53,24 +53,48 @@ Wenn man vor einem Problem steht, kann man verschiedene Strategien verwenden, um
 
 ### 4.Stoperfallen 
 
-Während der Lösung eines Problems kann es natürlich auch zu Schwierigkeiten kommen (dass man ein Problem zu lösen hat ist ja auch schon eine Schwierigkeit). Teilweise sind diese extern, so wenn ein bestimmter Schritt im Lösungsprozzes von einer anderen Person abhängt, und teilweise intern, bei einem selbst. Solange es extern ist, kann es, von einem selbst, zu Problemen in der Kommunikation führen. 
+Während der Lösung eines Problems kann es natürlich auch zu Schwierigkeiten kommen (dass man ein Problem zu lösen hat ist ja auch schon eine Schwierigkeit). Bei einem plötzlich auftretenden Problem kann man in eine Notfallreaktion verfallen (zum Beispiel fight or flight), über längere Zeit kann man das Ziel aus den Augen verlieren und sich selbst in eine Sackgasse arbeiten, es ist unangenehm Nachfragen zu stellen oder um Hilfe zu bitten oder es gibt Schwierigkeiten bei der Kommunikation. 
+
+Im Generellen hilft es da ruhig zu bleiben. 
 
 Notfallreaktion, in Sackgasse gearbeitet, Angst um Hilfestellung zu fragen, kommunikation 
 
-(Hilfe zur Internetrecherche)
-### ?.Oft vorkommende Probleme am Anfang des ersten Semesters
+### 5.Oft vorkommende Probleme am Anfang des ersten Semesters
 
 (oft vorkommende Fragen in der ersten Zeit)
+Krankmeldung (im Hauptgebäde), Campuskarte verloren, 
 
-Prüfungen
-Campuskarte
-Raum geschlossen 
+Ich kann mich noch nicht zu meinen Prüfungen anmelden. 
 
-### ?.hilfreiche Kontakte/Links
+Entweder kann man sich noch nicht zu den Prüfungen anmelden (in diesem Falle kann man nur abwarten) oder es könnte ein Problem mit dem Prüfungsservice sein (auch in diesem Falle kann man nur abwarten bis es vom Prüfungsservice gelöst wird). 
+
+Ich komme mit meiner Campuskarte nicht in Gebäude rein.
+
+Die Erstsemester müssen zu Anfang ihres Studiums noch ins System eingetragen werden. Dies kann eine Weile dauern, hab also etwas Gedult. 
+
+Ich habe meine Campuskarte verloren. Wie beantrage ich eine neue?
+
+Der Raum in den ich muss/will ist abgeschlossen. 
+
+Die regulären Seminarräume lassen sich mit der Campuskarte aufschließen. Ist die Campuskarte noch nicht im System oder man will in einen Computerraum, gibt es Mitarbeiter mit Schlüsselrechten für die Räume die man ums Aufschließen bitten kann. 
+
+Ich bin krank geworden und kann nicht an den Kursen/der Prüfung teilnehmen. Brauche ich eine Krankschreibung und wenn ja, wo gebe ich sie ab?
+
+Da bei den Kursen keine 
+Bei einer Prüfung muss man beim Prüfungsservice (HG) das Original der Krankschreibung innerhalb von drei Tagen einreichen. Dabei müssen zusätzliche Informationen (Name, Matrikelnummer, Modulname, Tag der Prüfung, Name des Prüfers) angegeben werden. Eine zusätzliche Kopie der Krankschreibung muss beim Dozenten abgegeben werden. 
+
+### 6.hilfreiche Kontakte/Links
 (wichtige Kontakte der fhp)
 IT
 Bib?
 Prüfung
 Modullhandbuch
 
-(Aufgabe)
+### 7.Quiz
+
+Welche Kompetenzen könnten bei der Lösung von Problemen hilfreich sein?
+
+[(x)]die Kompetenz der Lernwilligkeit
+[( )]die Kompetenz der Kulturverständniss
+[(x)]die Kompetenz der Einsicht, dass man selbst ein Problem für sich selst oder andere gebaut hat 
+[( )]die Kompetenz der korrekten Grammatik 
