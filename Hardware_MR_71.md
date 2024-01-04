@@ -12,25 +12,33 @@ link: css/callouts.css
 
 ## Die HDD-Festplatte
 
-<!-- class = "callout success with-title" -->
+<!-- class = "callout callout with-title" -->
 > "Aha!"
 >
-> Deine Freundin hat nicht lange gebraucht um zu finden, was sie gesucht hat. "Kein Wunder, dass dein Computer so langsam ist... Du hast gesagt, dass du hier eine **1000 GB HDD Festplatte** drin hast, richtig? Du Scherzkeks hast deine Festplatte aber nicht **partitioniert**, bevor du sie vollgestopft hast! Alle deine Daten und Programme befinden sich auf derselben **Partition** wie dein **Betriebssystem**! Das kannst du mit einer **HDD-Festplatte** nicht machen!" Mit dieser Erklärung kannst du nicht viel anfangen und deine Freundin kann es dir ansehen. "Ich sag dir was", fährt sie fort, "du musst keinen neuen Computer kaufen. Nur weil ich deine *beste Freundin* bin (und Mitleid mit deinem Laptop habe), helfe ich dir dieses Mal, deinen Rechner wieder in Ordnung zu kriegen. Du musst mir aber versprechen wenigstens zu versuchen zu verstehen was ich dir erkläre, damit du den selben Fehler nicht noch mal machst und in Zukunft pfleglicher mit deinem Rechner umgehst. Das wird auch dauern, aber warten bist du ja gewöhnt. Wir werden noch viel Tee kochen müssen die kommenden Tage..."
+> Deine Freundin hat nicht lange gebraucht um zu finden, was sie gesucht hat. "Kein Wunder, dass dein Computer so langsam ist... Du hast gesagt, dass du hier eine **1000 GB HDD Festplatte** drin hast, richtig? Du Scherzkeks hast deine Festplatte aber nicht **partitioniert**, bevor du sie vollgestopft hast! Alle deine Daten und Programme befinden sich auf derselben **Partition** wie dein **Betriebssystem**! Das kannst du mit einer **HDD-Festplatte** nicht machen!" Mit dieser Erklärung kannst du nicht viel anfangen und deine Freundin kann es dir ansehen. "Ich sag dir was", fährt sie fort, "du musst keinen neuen Computer kaufen. Weil ich deine *beste Freundin* bin (und Mitleid mit deinem armen Laptop habe), helfe ich dir dieses Mal, deinen Rechner wieder in Ordnung zu kriegen. Du musst mir aber versprechen wenigstens zu versuchen zu verstehen was ich dir erkläre, damit du den selben Fehler nicht noch mal machst und in Zukunft pfleglicher mit deinem Rechner umgehst. Das wird auch dauern, aber warten bist du ja gewöhnt. Wir werden noch viel Tee kochen müssen die kommenden Tage..."
 
-![Dem Problem auf den Zahn fühlen](bilder/HARDWARE_MR_02.png "Moment mal... Hast du 'Tage' gesagt?")
+
+![Dem Problem auf den Zahn fühlen](bilder/HARDWARE_MR_02.png "Moment mal... Hat sie 'Tage' gesagt?")
 
 ## Die HDD-Festplatte
 
-<!-- class = "tip success with-title" -->
-> HDD und SSD
->
-> 
+Zunächst solltest du verstehen, dass es zwei handelsübliche Typen von Festplatten gibt: **HDD-Festplatten** und **SSD-Festplatten**.
+
+**Hard-Disk-Drives** funktionieren mechanisch. Ähnlich wie bei einem alten Schallplattenspieler, haben sie eine Scheibe, auf welcher die Daten gespeichert sind und einen Arm, welcher diese Daten abliest. Diesen Mechanismus kann man sogar im Computer arbeiten hören, wenn die Festplatte zum Einsatz kommt!
+
+**Solid-State-Drives** haben dagegen keine beweglichen Teile und sind entsprechend robuster und leiser. Man kann sie sich wie USB-Sticks vorstellen, welche relativ viel Speicher haben.
+
+Es gibt auch Hybride, welche **SSHD-Festplatten** genannt werden.
 
 ![Vergleich HDD und SSD](bilder/HARDWARE_MR_03.png "HDD und SSD.")
 
-
 ## Die HDD-Festplatte
+Quellen:
 
-Zum Unterschied von SSD und HDD:
+Zum Unterschied von HDD und SSD:
 
 https://praxistipps.chip.de/festplatten-hdd-und-ssd-wo-liegt-der-unterschied_43249
+
+Zu der Frage, ob es functional notwendig ist eine SSD-Festplatte zu partitionieren:
+
+https://www.electronicshub.org/should-i-partition-my-ssd/
