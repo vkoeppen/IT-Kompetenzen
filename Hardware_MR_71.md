@@ -30,7 +30,21 @@ Zunächst solltest du verstehen, dass es zwei handelsübliche Typen von Festplat
 
 Es gibt auch Hybride, welche **SSHD-Festplatten** genannt werden.
 
-![Vergleich HDD und SSD](bilder/HARDWARE_MR_03.png "HDD und SSD.")
+![Vergleich HDD und SSD](bilder/HARDWARE_MR_03.png "HDD mit Scheibe und Lesearm. SSD mit Schaltkreisen.")
+
+Obwohl die SSD-Festplatte die HDD-Festplatte langsam abzulösen scheint, gibt es immer noch Gründe die HDD vorzuziehen. Hier sind die Vorteile der Festplatten im Vergleich:
+
+|HDD|SSD|
+|:---|:---|
+|+ günstiger im Preis-Leistungs-Verhältnis|+ überträgt Daten schneller|
+|+ mehr Speicherplatz|+ robuster|
+|+ mögliche Rettung bei Datenverlust|+ leiser|
+||+ leichter|
+
+<!-- class = "callout tip with-title" -->
+> SSD partitionieren?
+>
+> Es ist zwar praktisch und übersichtlich eine SSD-Festplatte zu partitionieren, etwa, wenn dass Betriebssystem neu aufgesetzt werden muss, wie wir sehen werden. Partitionen sind jedoch nicht notwendig, damit die SSD schnell arbeitet.
 
 ## Die HDD-Festplatte
 Quellen:
