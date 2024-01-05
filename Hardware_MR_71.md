@@ -22,7 +22,7 @@ link: css/callouts.css
 
 ## Die HDD-Festplatte
 
-Zunächst solltest du verstehen, dass es zwei handelsübliche Typen von Festplatten gibt: **HDD-Festplatten** und **SSD-Festplatten**.
+Zunächst solltest du verstehen, dass es zwei handelsübliche Typen von Festplatten gibt: **HDD-Festplatten** und **SSD-Festplatten**. Für beide Typen gilt, wenn sie fest in deinem Computer verbaut ist, nennt man sie **interne Festplatte**. Manche Festplatten kannst du über deinen USB-Anschluss an den Computer anschließen und wieder rausziehen. Diese werden **externe Festplatten** genannt.
 
 **Hard-Disk-Drives** funktionieren mechanisch. Ähnlich wie bei einem alten Schallplattenspieler, haben sie eine Scheibe, auf welcher die Daten gespeichert sind und einen Arm, welcher diese Daten abliest. Diesen Mechanismus kann man sogar im Computer arbeiten hören, wenn die Festplatte zum Einsatz kommt!
 
@@ -45,8 +45,16 @@ Obwohl die SSD-Festplatte die HDD-Festplatte langsam abzulösen scheint, gibt es
 > SSD partitionieren?
 >
 > Es ist zwar praktisch und übersichtlich eine SSD-Festplatte zu partitionieren, etwa, wenn dass Betriebssystem neu aufgesetzt werden muss, wie wir sehen werden. Partitionen sind jedoch nicht notwendig, damit die SSD schnell arbeitet.
+## Die HDD-Festplatte
+<!-- class = "callout callout" -->
+> 
+> "Also Schritt 1: Du besorgst dir eine **externe SSD-Festplatte** auf der du deine Daten sicherst! Wichtig sind Fotos, digitale Dokumente, Musik- und Videodateien und vielleicht Spielstände; sowas. Alle Programme können wir einfach neu installieren, die brauchst du also nicht auf einer Festplatte sichern.", schlägt deine Freundin vor. 
+
+![Datensicherung](bilder/HARDWARE_MR_04.png "Die Dauer der Datensicherung hängt davon ab, wie viele Daten du sichern möchtest.")
 
 ## Die HDD-Festplatte
+
+
 Quellen:
 
 Zum Unterschied von HDD und SSD:
