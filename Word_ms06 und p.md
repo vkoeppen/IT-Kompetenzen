@@ -1,7 +1,6 @@
 <!--
 author: Von: Maria Schendel, Paula ...
 Zweites Lernelement
-
 link: css/callouts.css
 -->
 
@@ -106,37 +105,35 @@ Mögliche Funktionen, unter Reiter **Start**:
 
 - **Dieses Gerät** 
 
-- **Im Web suchen**
+- **Online Bilder**
 
-![alt](bilder/image-4.png)
-
-
-
+![alt](bilder/Wordv2_Screenshots/Bild_einfügen_aus.png)
 
 --- 
 
 **Dieses Gerät**
 
-<Vielleicht dazu ein Screenshot einfügen>
-
 **1.** Öffnung des Dateiordners 
 
 **2.** Gewünschtes Bild auswählen und hochladen 
+
 
 **Online Bilder**
 
 **1.** Weiteres Fenster öffnet sich
 
-![alt](bilder/Word-Online-Bild.png)
+![alt](bilder/Wordv2_Screenshots/OnlineBilder.png)
 
-**2.** Suchleister oder vorgefertigte Suchbegriffe
+
+**2.** Suchleiste oder vorgefertigte Bild-/Suchbegriffe
 
 - Auswählen eines Bildes, inklusive mit Aktivierung der **Creative Common Lizenz**
 
+![alt](bilder/Word-Online-Bild.png)
 
 ## 3.2 Tabellen
 
-Unter Reiter:
+Unter:
 
 **1.** **Einfügen**
 
@@ -150,22 +147,20 @@ Unter Reiter:
 
 **1.** Rechtsklick auf die Tabelle
 
-<Screenshot einfügen>
+- Einstellen von Farben, Rahmen oder Schattierung einer oder aller Spalten der Tabelle
 
-**2.** Öffnung eines neuen Reiters:
-**Tabellenentwurf**
+**2.** **Tabellenentwurf**: Tabelle markieren oder anklicken
+
+- Auswahl von Tabellenformatvorlagen
 
 ![alt](bilder/Tabellen-entwurf.png)
-
-- Einstellen von Farben, Rahmen oder Schattierung einer oder aller Spalten der Tabelle
 
 
 
 ## 3.3 Diagramme
 
-Diagramme verhelfen Daten oder Informationen Deines Sachverhalts besser visualisiert darzustellen
+Diagramme verhelfen Daten oder Informationen eines Sachverhalts besser visualisiert darzustellen
 
-Reiter
 **Einfügen** > **Diagramme**
 
 - Neues Fenster öffnet sich, mit den unterschiedlichsten Diagrammen 
@@ -174,7 +169,8 @@ Reiter
 
 
 <!-- class = "callout warning" -->
-> Beachte: Die Visualisierung sollte möglichst simple gestaltet sein!
+> Beachte:
+> <p>Die Visualisierung sollte möglichst simple gestaltet sein!</p>
 
 Nach Einfügen eines Diagrammes:
 
@@ -186,7 +182,6 @@ Nach Einfügen eines Diagrammes:
 
 SmartArt bedient bereits generierte Grafiken in unterschiedlichen Gestaltungsformen
 
-Reiter:
 **Einfügen** > **SmartArt**
 
 ![alt](bilder/SmartArt.PNG)
@@ -194,7 +189,8 @@ Reiter:
 
 - Fenster öffnet sich mit vielen verschiedenen Auswahlmöglichkeiten
 
-<Screenshot dazu vielleicht?>
+![alt](bilder/Wordv2_Screenshots/SmartArt-Grafik_auswählen.png)
+
 
 Weiterer Schritt:
 
@@ -213,16 +209,19 @@ Wechsel zum Reiter **Referenzen**
 
 ![alt](bilder/Inhaltsverzeichnis1.PNG)
 
+![alt](bilder/Wordv2_Screenshots/Inhaltsverzeichnis_Auswahl.png)
 
- Bei Bedarf kann dieses auch aktualisiert werden. Man spart sich somit Zeit und vermeidet eventuelle Fehler. 
+Fehler oder Neuerungen im Inhaltsverzeichnis können durch die Funktion "Inhaltsverzeichnis aktualisieren" angepasst und verbessert werden 
 
--> Was ist damit gemeint???
+<!-- class = "callout warning" -->
+> Inhaltsverzeichnisse in Word basieren auf die Überschriften in einem Dokument
 
-Einfügen des Textes im Inhaltsverzeichnis
+---
 
-- **Text einfügen**
+**Als Videoansicht vorgezeigt**
+!?[alt](https://wus-streaming-video-rt-microsoft-com.akamaized.net/512b7857-1303-4e1b-9118-701e4f3edc8c/b430d3ad-e3ff-481f-a25d-ce002e51_6750.mp4)
 
-<Eventuell ein Screenshot einfügen>
+[Link zum Video](https://support.microsoft.com/de-de/office/einfügen-eines-inhaltsverzeichnisses-882e8564-0edb-435e-84b5-1d8552ccf0c0#PickTab=Windows)
 
 
 ## <center>5. Zitierung</center>
@@ -239,10 +238,11 @@ Reiter:
 
 - Einfügen von wichtigen Informationen eines Zitates
 
-<Zwischen den Punkten vll ein Screenshot einfügen>
+![alt](bilder/Wordv2_Screenshots/Quelle erstellen.png)
+
 
 4. **Formatvorlage**
--  kann man sich einfach und übersichtlich ein Zitat mit einer direkten Verlinkung zum Inhaltsverzeichnis erstellen.
+-  Kann man sich einfach und übersichtlich ein Zitat mit einer direkten Verlinkung zum Inhaltsverzeichnis erstellen.
 
 -> Verstehe ich nicht so ganz; Inhaltsverzeichnis??
 
@@ -268,14 +268,15 @@ Reiter:
 - Um neue Quellen hinzuzufügen oder eine bereits vorhandene zu bearbeiten
 - Verwaltung der Quellen im neuen Tab
 
-<Vll ein Video einfügen>
 
- Erstellen eines Abbildungsverzeichnisses 
- 
- - **Referenzen** > **Beschriftung** 
- - Gestalterische Bearbeitung des Abbildungsverzeichnisses, sowie Einfügen von Verlinkungen zum jeweiligen Bild
+ Erstellen eines Abbildungsverzeichnisses
 
-<Screenshot>
+- **Referenzen** > **Beschriftung** 
+
+![alt](bilder/Wordv2_Screenshots/Beschriftung_einfügen.png)
+
+- Gestalterische Bearbeitung des Abbildungsverzeichnisses, sowie Einfügen von Verlinkungen zum jeweiligen Bild
+
 
 ## <center>6. Layout</center>
 
@@ -292,9 +293,9 @@ Auf der linken Seite
 
 - Vorgefertigte Einstellungen werden angeboten
 
-- Unter **Weitere** oder **Mehr** können eigene Einstellungen konfiguriert werden
+- Unter **Seitenränder** > **benutzerdefinierte Seitenränder** können eigene Werte eingetragen werden
 
-<Eventuell Screenshot einfügen>
+![alt](bilder/Wordv2_Screenshots/Seite einrichten.png)
 
 Auf der rechten Seite
 
@@ -313,38 +314,72 @@ Reiter **Überprüfen**:
 - Standardfunktionen:
 Überprüfung der Rechtschreibung und Grammatik, oder Wörterzählen
 
+<!-- class = "callout tip" -->
+> Funktion;
+>
+> **Überprüfen** > **Sprache** > **laut vorlesen**
+>
+> verhilft durch das laute Aufsagen der Wörter oder Zeilen, Fehler aufzudecken 
 
-Tipp:
-Es hilft ungemein, diese laut zu hören. Dir können so Fehler leichter auffallen, die Du vielleicht noch nicht entdeckt hast. Diese Funktion findest Du im Reiter bei **Überprüfen** > **Sprache** > **laut vorlesen**.
 
 Hilfestellung für Fremdsprachen
+
 1. Unter **Sprache** 
 
 - Zur Verfügung: **Übersetzen** und **Sprache**
 
-1.1 **Sprache**: Rechtschreib- und Grammatikprüfung kann in eine andere Sprache umgestellt werden
+**Sprache**: 
+
+- Rechtschreib- und Grammatikprüfung kann in eine andere Sprache umgestellt werden
 
 ![alt](bilder/Ueberpruefen.png)
 
-Anschließend gibt es noch die Kommentar- und Änderungssektion. Unter diesen kannst Du allein oder mit anderen Personen an einem Dokument arbeiten, ohne Euch gegenseitig im Weg zu stehen. 
+**Kommentar- und Änderungssektion**
 
-1. Die Kommentare bieten sich besonders dann an, wenn man sich kleine Anmerkungen für später oder Notizen für andere Personen hinterlegen möchte. Zum Hinzufügen gehe im Reiter zum Punkt **Kommentare** und füge einen Kommentar am Zeilenrand hinzu. Achte darauf, mit der Maus in der richtigen Zeile zu sein. Anschließend wird der von Dir markierte Teil eingefärbt. So verliert niemand den Überblick. Natürlich kannst Du Deine Anmerkungen verändern, löschen oder bei Bedarf auf andere Kommentare reagieren.
+- Dient als Hilfestellung für selbstständige Arbeiten, oder zur Kommunikation mit weiteren Personen
+
+1. Kommentare bieten sich an für kleine Anmerkungen oder Notizen
+
+- Falls im Dokument weitere Personen Änderungen vornehmen müssen
+
+Einfügen der Kommentare:
+
+**Überprüfung** > **Kommentare**
 
 ![alt](bilder/Ueberpruefen1.png)  
 
-2. Die Änderungssektion ist vor allem dann interessant, wenn Du Veränderungen nicht sofort im Text umsetzen willst. Sei es in Einzel- oder Gruppenarbeiten. Die vorläufigen Änderungen können alle auf einmal angenommen oder abgelehnt werden.
+- Am Zeilenrand wird ein Kommentar angezeigt und kann bearbeitet oder gelöscht werden
+
+- Jeder Kommentar wird je nach Person automatisch farblich markiert, für einen einheitlichen Überblick
+
+
+2. Änderungssektion
+
+-  ist vor allem dann interessant, wenn Du Veränderungen nicht sofort im Text umsetzen willst. Sei es in Einzel- oder Gruppenarbeiten. Die vorläufigen Änderungen können alle auf einmal angenommen oder abgelehnt werden.
+
+-> Verstehe ich nicht so ganz
    
 ![alt](bilder/Uberfruefen2.png)
 
-<!-- class = "callout tip" -->
-> Um ein Dokument einer anderen Person freizugeben, klicke hierbei über dem Reiter auf **Freigeben** > **Freigabe**. Stelle dabei sicher, dass Dein Dokument auf OneDrive gespeichert ist. Die betreffende Person, der Du Dein Dokument freigibst, sollte nachdem Teilen eine E-mail erhalten.
+<!-- class = "callout info" -->
+> Für das Freigeben des Dokumentes an anderen Personen
+>
+> **Freigeben** > **Freigabe** 
+>
+>**Beachte:**
+>
+> Das Dokument muss auf OneDrive gespeichert sein
+>
+> Die betreffende Person, der Du Dein Dokument freigibst, sollte nachdem Teilen eine E-mail erhalten
 
 
 
 
 
-<Das letzte Thema finde ich nicht besonders wichtig, vielleicht komplett entfernen?>
+
 ## <center>8. Ansicht</center>
+<Das letzte Thema finde ich nicht besonders wichtig, vielleicht komplett entfernen?>
+
 
 Unter Ansicht kannst Du das Dokument Dir so anzeigen lassen, wie Deine Präferenzen sind. Im Reiter **Seitenbewegung** kannst Du festlegen, ob Deine Seiten im Dokument vertikal oder horizontal wie bei einem Buch angezeigt werden soll. 
 Im **Lesemodus** kannst Du Dich, wie es der Name schon verrät, ganz aufs Lesen Deiner Arbeit konzentrieren. 
