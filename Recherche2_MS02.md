@@ -64,13 +64,9 @@ Wenn Du gezielt nach wissenschaftlichen Fachpublikationen im Internet suchst. K�
 
 Beispiele:
 
-- Google Scholar
+[Google Scholar](https://scholar.google.de/)
 
-Link: https://scholar.google.de/
-
-- Base-search
-
-Link: https://www.base-search.net/
+[Base-search](https://www.base-search.net/)
 
 Weitere wissenschaftliche Suchmaschinen findest Du im Artikel von Christoph Hornung unter dem folgenden Link:
 
@@ -82,7 +78,7 @@ Da im Internet jeder seine Beiträge veröffentlichen kann, muss man ganz genau 
 
 Achte zum Beispiel auf:
 
-- Handelt es sich bei der Quelle um eine nachgewiesene Wissenschaftliche Arbeit? Z. B. eine Fachzeitschrift oder eine Doktorarbeit.
+ - Handelt es sich bei der Quelle um eine nachgewiesene Wissenschaftliche Arbeit? Z. B. eine Fachzeitschrift oder eine Doktorarbeit.
 - Die aktuellen Jahresangaben der Website oder des Dokumentes.
 - Informationen über den Verfasser. Ist er wissenschaftlich sachverständig?
 - Was für Quellenangaben sind vorhanden? Verweist Deine Quelle auf mögliche weitere Quellen, zum Beispiel auf wissenschaftliche Arbeiten oder Universitäten?
@@ -97,20 +93,32 @@ Um seine Quelle auf Rezensionen zu prüfen kannst Du entweder eine der Beiden vo
   
 Organisieren
 
-Solltest Du der Meinung sein, genügend Informationen gesammelt haben, dann kannst Du jetzt beginnen diese zu sortieren und zu ordnen. Vielleicht entdeckst Du auch Quellen, die Du nicht mehr benötigst.
+Solltest Du der Meinung sein, genügend Informationen gesammelt zu haben, dann kannst Du jetzt beginnen diese zu sortieren und zu ordnen. Vielleicht entdeckst Du auch Quellen, die Du nicht mehr benötigst.
 
-Unsere Software-Empfehlungen sind:
+Wir wollen Dir zwei kostenlose Programm-Empfehlungen für Dein Studium geben. Beide Programme können durch Plug-ins erweitert werden. Diese werden von den Herstellern oder der Community zur Verfügung gestellt und bieten Dir eine Vielzahl von Möglichkeiten.
 
-**Obsidian**
+**Obsidian** ist ein Programm, welche Du zum Erstellen, Organisieren und Strukturieren Deiner Notizen nutzen kannst.
+Die internen Verlinkungen von Obsidian ermöglichen es Dir, verschiedene Notizen in Verbindung miteinander zu setzen und so flexibel z. B. Dein eigenes Zettelkasten-Prinzip anzuwenden. Deine Notizen mit den Verlinkungen zueinander kannst Du dann in einem Graph veranschaulichen. 
 
-Beschreibung ... 
+[Link für Obsidian](https://obsidian.md/)
 
-Link zur offizien Seite von Obsidian: https://obsidian.md/
+**Zotero** wiederum ist ein Literaturverwaltungsprogramm, bei der Du Deine Online- und auch Offline-Quellen verwalten, organisieren und zitieren kannst. Eine der Besonderheiten von Zotero ist, dass man zu jeder seiner Quellen exakte bibliografische Angaben machen kann.
+Zusätzlich dazu können Notizen und Dateien in Zotero gespeichert und mit den bibliografischen Angaben verknüpft werden. 
+Deine Quellen jeglicher Art können so gut organisiert und später in einem Literaturverzeichnis z. B. in Word exportiert werden.
 
-Unter Download sind alle gegänigen Betriebssysteme vertreten.
+[Link für Zotero](https://www.zotero.org/)
 
-**Zotero**
+### <center>Quellen</center>
 
-Beschreibung ...
+Informationen zum Recherchieren im Internet
 
-(Links? Beschreibung? Bilder?)
+https://www.saferinternet.at/faq/informationskompetenz/wie-suche-ich-im-internet-richtig
+https://studieren.de/recherchieren-internet.0.html
+https://www.onlinesicherheit.gv.at/Services/News/Tipps-f%C3%BCr-die-Internetrecherche-und-Quellenkritik-f%C3%BCr-Jugendliche0.html
+
+Zotero und Obsidian
+
+https://de.wikipedia.org/wiki/Zotero
+https://www.zotero.org/
+https://de.wikipedia.org/wiki/Obsidian_(Software)
+https://obsidian.md/
