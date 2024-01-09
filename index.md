@@ -66,11 +66,11 @@ Auf den nächsten Seiten wollen wir Dir daher einen kurzen Einblick über einige
 
 Einer der ersten Schritte zum Erstellen Deines Dokumentes, wird die Formatierung sein. Beim Reiter **Start** findest Du alle nötigen Funktionen, um die Grundlagen für Deine Arbeit festlegen zu können. Dazu gehören unter anderem Absätze, Formatvorlagen und die Schrift selbst.
 
-![alt](./bilder/Formatierung_Schriftart.png)
+![](./bilder/Formatierung_Schriftart.png)
 
-![alt](./bilder/Formatierung_Absatz.png)
+![](./bilder/Formatierung_Absatz.png)
 
-![alt](./bilder/Formatierung_Formatvorlage.png)
+![](./bilder/Formatierung_Formatvorlage.png)
 
 ### Einfügen
 
@@ -78,7 +78,7 @@ Auf den nachfolgenden Seiten findest Du Informationen, wie Du einzelne Elemente 
 
 #### Bilder
 
-![alt](./bilder/word-einfuegen.png)
+![](./bilder/word-einfuegen.png)
 
 Bilder werden eingefügt, indem Du im Reiter auf **Bilder** klickst. Daraufhin öffnet sich ein Tab, bei dem Du auswählst: **dieses Gerät** oder **Onlinebilder**. 
 
@@ -90,17 +90,17 @@ Zuerst öffnet sich der Dateiordner. Dort wird die Datei mit dem gewünschten Bi
 
 Hierbei öffnet sich ein weiteres Fenster. In welchem Du entweder über die Suchleiste oder aus vorgefertigten Suchbegriffen ein passendes Bild für Dein Dokument heraussuchst. Du kannst bei der Suche angeben, ob das Bild **Creative Common** sein soll oder nicht.
 
-![alt](./bilder/Word-Online-Bild.png)
+![](./bilder/Word-Online-Bild.png)
 
 #### Tabelle
 
 Tabellen werden eingefügt, indem im Reiter bei **Einfügen** auf die **Tabelle** geklickt wird. Daraufhin öffnet sich ein Tab, bei welchem Du die Anzahl Deiner Spalten und Zeilen auswählen musst.
 
-![alt](./bilder/Tabelle-erstellen.png)
+![](./bilder/Tabelle-erstellen.png)
 
 Danach besteht die Möglichkeit, durch Rechtsklick auf die Tabelle weitere Spalten und Zeilen unter **Einfügen** hinzuzufügen. Außerdem öffnet sich ein neuer Reiter **Tabellenentwurf**, dort können Farbe, Rahmen oder Schattierung einer oder aller Spalten der Tabelle angepasst werden.
 
-![alt](./bilder/Tabellen-entwurf.png)
+![](./bilder/Tabellen-entwurf.png)
 
 #### Diagramme
 
@@ -110,42 +110,42 @@ Den dazugehörigen Punkt findest Du im Reiter bei **Einfügen** > **Diagramme**.
 <!-- class = "callout warning" -->
 > Achte jedoch auf eine simple Gestaltung.
 
-![alt](./bilder/Diagramme_Word.png)
+![](./bilder/Diagramme_Word.png)
 
 Hat man sich für ein Diagramm entschieden, öffnet sich eine zusätzliche Excel-Tabelle, in der Du Deine Forschungsdaten eintragen kannst. Diese werden dann im Diagramm veranschaulicht.
 
-![alt](./bilder/DiagrammmitExel.png)
+![](./bilder/DiagrammmitExel.png)
 
 #### SmartArt
 
 SmartArt ermöglicht eine visuelle Darstellung von Informationen und Bildern. Um sich eine SmartArt-Grafik zu erstellen und anschließend zu verwenden, muss man im Reiter auf **Einfügen** > **SmartArt** klicken. Danach öffnet sich ein Fenster mit vielen verschiedenen Auswahlmöglichkeiten, um seine Informationen perfekt für sich darstellen zu lassen.
 
-![alt](./bilder/SmartArt.PNG)
+![](./bilder/SmartArt.PNG)
 
 Als weiteren Schritt kann man gegebenenfalls seine Grafik nach seinen Vorstellungen anpassen, sei es durch Farbe, eine andere Formatvorlage oder zusätzlichen Formen. 
 
-![alt](./bilder/SmartArt-Design.PNG)
+![](./bilder/SmartArt-Design.PNG)
 
 ### Inhaltsverzeichnis
 
 Um sich das Erstellen oder das Anpassen eines Inhaltsverzeichnisses zu erleichtern, hat Word eine nützliche Funktion für Dich.
 Wechsel im Reiter zu **Referenzen**, dort findest Du ganz links die Funktion ein Inhaltsverzeichnis zu erstellen. Bei Bedarf kann dieses auch aktualisiert werden. Man spart sich somit Zeit und vermeidet eventuelle Fehler. Um seinen Text dem Inhaltsverzeichnis hinzuzufügen, muss man auf **Text einfügen** klicken. 
 
-![alt](./bilder/Inhaltsverzeichnis1.PNG)
+![](./bilder/Inhaltsverzeichnis1.PNG)
 
 ### Zitierung
 
 Das Zitieren von Zitaten oder Textabschnitten ist für viele eine Königsdisziplin beim Erstellen der Arbeiten. Wenn man bei Word jedoch im Reiter auf **Referenzen** geht, findet man die Funktion **Zitat einfügen**. Unter **neue Quelle** kannst Du alle wichtigen Informationen bezüglich Deines Zitates hinzufügen. 
 Mit der zusätzlichen Funktion **Formatvorlage** kann man sich einfach und übersichtlich ein Zitat mit einer direkten Verlinkung zum Inhaltsverzeichnis erstellen.
 
-![alt](./bilder/Zitieren1.PNG)
+![](./bilder/Zitieren1.PNG)
 
 <!-- class = "callout tip" -->
 > Unsere Format Empfehlung beim zitieren, wäre Chicago.
 
 ### Literaturverzeichnis & Abbildungsverzeichnis
 
-![alt](./bilder/Literaturverzeichnis1.PNG)
+![](./bilder/Literaturverzeichnis1.PNG)
 
 Im Literaturverzeichnis kann man natürlich nicht nur seine Zitate hinterlegen, sondern auch alle Literaturquellen, die man verwendet. Dafür erstellst Du Dir erst einmal ein leeres Literaturverzeichnis. Klicke im Reiter auf **Literaturverzeichnis** und sucht Dir erst einmal eine Vorlage aus.
 Deine Quellen kannst Du bei Bedarf jederzeit aktualisieren. Um eine neue Quelle hinzuzufügen oder eine bereits vorhandene zu bearbeiten, klickt man auf **Zitate und Literaturverzeichnis** > **Quellen verwalten**. Im neuen Tab kannst Du dann beliebig Deine Quellen verwalten.
@@ -158,7 +158,7 @@ Solltest Du mal für eine Deiner Arbeiten einen benutzerdefinierten Seitenrand, 
 Ganz links findest Du alles, was mit Seitenrändern oder Absätzen zu tun hat. Dir wird eine vielfältige Auswahl an vorgefertigten Einstellungen geboten. Solltest Du aber andere Vorstellungen oder Angaben haben, dann kann man sie ganz einfach unter **Weitere** oder **Mehr** selbst konfigurieren. 
 Gleich daneben findest Du den Absatzblock. Dabei kannst Du bestimmen, wie weit Dein Absatz nach links, rechts, oben oder unten rücken soll. 
 
-![alt](./bilder/Layout.png)
+![](./bilder/Layout.png)
 
 ### Überprüfung
 
@@ -167,17 +167,17 @@ Neben den Standardfunktionen wie Rechtschreibung und Grammatik oder dem Wörterz
 
 Des Weiteren wollen wir Dir die mögliche Angst vor Fremdsprachen nehmen. Im Reiter unter **Sprache** hast Du die Funktionen **Übersetzen** und **Sprache** zur Verfügung. Gerade der zweite Punkt **Sprache** ist interessant, denn mit dieser Funktion kannst Du ganz einfach Deine Rechtschreib- und Grammatikprüfung in eine andere Sprache umstellen.
 
-![alt](./bilder/Ueberpruefen.png)
+![](./bilder/Ueberpruefen.png)
 
 Anschließend gibt es noch die Kommentar- und Änderungssektion. Unter diesen kannst Du allein oder mit anderen Personen an einem Dokument arbeiten, ohne Euch gegenseitig im Weg zu stehen. 
 
 1. Die Kommentare bieten sich besonders dann an, wenn man sich kleine Anmerkungen für später oder Notizen für andere Personen hinterlegen möchte. Zum Hinzufügen gehe im Reiter zum Punkt **Kommentare** und füge einen Kommentar am Zeilenrand hinzu. Achte darauf, mit der Maus in der richtigen Zeile zu sein. Anschließend wird der von Dir markierte Teil eingefärbt. So verliert niemand den Überblick. Natürlich kannst Du Deine Anmerkungen verändern, löschen oder bei Bedarf auf andere Kommentare reagieren.
 
-![alt](./bilder/Ueberpruefen1.png)  
+![](./bilder/Ueberpruefen1.png)  
 
 2. Die Änderungssektion ist vor allem dann interessant, wenn Du Veränderungen nicht sofort im Text umsetzen willst. Sei es in Einzel- oder Gruppenarbeiten. Die vorläufigen Änderungen können alle auf einmal angenommen oder abgelehnt werden.
    
-![alt](./bilder/Uberfruefen2.png)
+![](./bilder/Uberfruefen2.png)
 
 <!-- class = "callout tip" -->
 > Um ein Dokument einer anderen Person freizugeben, klicke hierbei über dem Reiter auf **Freigeben** > **Freigabe**. Stelle dabei sicher, dass Dein Dokument auf OneDrive gespeichert ist. Die betreffende Person, der Du Dein Dokument freigibst, sollte nachdem Teilen eine E-mail erhalten.
@@ -187,11 +187,11 @@ Anschließend gibt es noch die Kommentar- und Änderungssektion. Unter diesen ka
 Unter Ansicht kannst Du das Dokument Dir so anzeigen lassen, wie Deine Präferenzen sind. Im Reiter **Seitenbewegung** kannst Du festlegen, ob Deine Seiten im Dokument vertikal oder horizontal wie bei einem Buch angezeigt werden soll. 
 Im **Lesemodus** kannst Du Dich, wie es der Name schon verrät, ganz aufs Lesen Deiner Arbeit konzentrieren. 
 
-![alt](./bilder/Ansicht.png)
+![](./bilder/Ansicht.png)
 
 Der **Plastische Reader** bietet Dir neben der internen Veränderung der Seitenfarbe, dem Text- oder Spaltenabstand ebenso auch eine Silbentrennung an. Auch kannst Du den **Zeilenfokus** aktivieren. Dieser erlaubt Dir, Dich Zeile für Zeile in Deiner Arbeit vorzuarbeiten.
 
-![alt](./bilder/Plastische-Reader.png)
+![](./bilder/Plastische-Reader.png)
 
 <!---
 Unter diesem Kommentar bitte Powerpoint einfuegen
@@ -201,7 +201,7 @@ Unter diesem Kommentar bitte Powerpoint einfuegen
 
 ---
 
-![Abbildung1](https://play-lh.googleusercontent.com/6pTX4OILXTxazqad66oiVfG4x2KpYn4kIPgdzOe173tT0oHr2ThwpBhMyzzzxWq_r6M)
+![](https://play-lh.googleusercontent.com/6pTX4OILXTxazqad66oiVfG4x2KpYn4kIPgdzOe173tT0oHr2ThwpBhMyzzzxWq_r6M)
 
 [1. Abbildung](https://play.google.com/store/apps/details?id=com.microsoft.office.powerpoint&hl=de)
 
@@ -288,7 +288,7 @@ Das Präsentationsprogramm von Microsoft:
 ---
 
 
-![Abbildung 2](https://support.content.office.net/de-de/media/9a7ee826-15f3-4422-88df-e3c86ed28e76.png)
+![](https://support.content.office.net/de-de/media/9a7ee826-15f3-4422-88df-e3c86ed28e76.png)
 
 [2. Abbildung](https://support.microsoft.com/de-de/office/hinzuf%C3%BCgen-von-sprechernotizen-zu-folien-26985155-35f5-45ba-812b-e1bd3c48928e#:~:text=Klicken%20Sie%20im%20Men%C3%BC%20Ansicht,Sie%20den%20gew%C3%BCnschten%20Notizentext%20ein)
 
@@ -346,14 +346,14 @@ Das Präsentationsprogramm von Microsoft:
 ---
 
 **Beispiel:**
-![Abbildung 3](https://support.content.office.net/de-de/media/ad074b3d-78e1-45d2-a514-c990d04818fd.png)
+![](https://support.content.office.net/de-de/media/ad074b3d-78e1-45d2-a514-c990d04818fd.png)
 
 [3. Abbildung](https://support.microsoft.com/de-de/office/hinzuf%C3%BCgen-von-sprechernotizen-zu-folien-26985155-35f5-45ba-812b-e1bd3c48928e#:~:text=Klicken%20Sie%20im%20Men%C3%BC%20Ansicht,Sie%20den%20gew%C3%BCnschten%20Notizentext%20ein)
 
 #### 2.2 Aktivierung der Referenzansicht
 
 Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
-![Abbildung 4](https://support.content.office.net/de-de/media/6a1333b9-e386-4579-b8f0-051aed6e5ab8.png)
+![](https://support.content.office.net/de-de/media/6a1333b9-e386-4579-b8f0-051aed6e5ab8.png)
 
 [4. Abbildung](https://support.microsoft.com/de-de/office/hinzuf%C3%BCgen-von-sprechernotizen-zu-folien-26985155-35f5-45ba-812b-e1bd3c48928e#:~:text=Klicken%20Sie%20im%20Men%C3%BC%20Ansicht,Sie%20den%20gew%C3%BCnschten%20Notizentext%20ein)
 
@@ -370,7 +370,7 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 
 ---
 
-![Abbildung 5](https://embed-ssl.wistia.com/deliveries/495e6ff8a0d973e9c08066e811bbeb25.jpg)
+![](https://embed-ssl.wistia.com/deliveries/495e6ff8a0d973e9c08066e811bbeb25.jpg)
 
 [5. Abbildung](https://embed-ssl.wistia.com/deliveries/495e6ff8a0d973e9c08066e811bbeb25.jpg)
 
@@ -387,7 +387,7 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 <!-- class = "callout tip" -->
 > Benutzt die Reihenfolge von Animationen, um bestimmte Texte oder Bilder beim Präsentieren Stück für Stück einfliegen zu lassen
 
-![Abbildung 6](https://cdn1.participoll.com/wp-content/uploads/2021/01/03123303/Leanne-screenshot-5.jpg)
+![](https://cdn1.participoll.com/wp-content/uploads/2021/01/03123303/Leanne-screenshot-5.jpg)
 
 [6. Abbildung](https://cdn1.participoll.com/wp-content/uploads/2021/01/03123303/Leanne-screenshot-5.jpg)
 
@@ -404,7 +404,7 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 <!-- class = "callout tip" -->
 > Versuche nicht zu viele verschiedene Übergänge zu benutzen sondern sich auf 2/3 festzulegen.
 
- ![Abbildung 7](https://www.wirliebenoffice.de/images/content/tutorials/powerpoint/008-folienubergang-einfugen.png)
+ ![](https://www.wirliebenoffice.de/images/content/tutorials/powerpoint/008-folienubergang-einfugen.png)
 
  [7. Abbildung](https://www.wirliebenoffice.de/images/content/tutorials/powerpoint/008-folienubergang-einfugen.png)
 
@@ -429,7 +429,7 @@ Unter diesem Kommentar bitte Excel einfuegen
 > 
 >Für eine Hausaufgabe musst du mehrere mathematische Aufgaben lösen. Deine Dozentin gibt dir dafür eine Formel vor, welche du anwenden musst: "a²+b²=c²". So weit, so gut. Du versuchst die Aufgaben mit Stift, Papier und solarbetriebenem Taschenrechner zu lösen, doch bald verlierst du den Überblick. Schlimmer noch: die Ergebnisse deiner Rechnungen scheinen aufeinander aufzubauen und sobald sich an einer Stelle ein Fehler einschleicht musst du einen ganzen Rattenschwanz an Rechnungen noch einmal lösen! Außerdem musst du bei jeder neuen Aufgabe komplett von vorne anfangen zu rechnen. Na toll; jetzt geht die Sonne unter und der Taschenrechner funktioniert nicht mehr richtig. Der Stift ist auch abgebrochen. Geht das nicht mit dem Computer einfacher?
 
-![Verzweiflung bei Matheaufgaben](./bilder/Excel_MR_02.png "Matheaufgaben treiben viele Studierende zur Verzweiflung.")
+![](./bilder/Excel_MR_02.png "Matheaufgaben treiben viele Studierende zur Verzweiflung.")
 
 ### Excel-Formeln
 
@@ -450,7 +450,7 @@ https://de.libreoffice.org/download/download/
 
 Sobald du Excel öffnest siehst du eine große Tabelle. Die senkrecht verlaufenden **Spalten** sind mit Großbuchstaben gekennzeichnet. Die **Zeilen** werden mit Zahlen benannt. Eine einzelne **Zelle** ist ein Bereich, in welchem Spalte und Zeile sich schneiden. Entsprechend hat jede Zelle sozusagen eine Koordinate, welche aus dem Buchstaben der Spalte gefolgt von der Zahl der Zeile besteht (nicht umgekehrt!). Diese Namen der Zellen nennt man **Bezüge**, weil man sich innerhalb von Formeln so auf Zellen beziehen kann.
 
-![Basics der Excel Tabelle](./bilder/Excel_MR_03.png "Rot= Spalte; Orange=Zeile; Lila=Zelle".)
+![](./bilder/Excel_MR_03.png "Rot= Spalte; Orange=Zeile; Lila=Zelle")
 
 Um zu prüfen, ob du diese Benennungskonvetionen verstanden hast, ergänze den folgenden Text, welcher sich auf dieses Bild bezieht!
 
@@ -469,7 +469,7 @@ Gehen wir ans Eingemachte! In unserem Beispiel sollen wir mit dem Satz des Pytha
 
 Mit dieser Formel werden die Längenverhältnisse der drei Seiten eines gleichschenkligen Dreiecks beschrieben. "a" und "b" sind die Längen der Seiten, welche den rechten Winkel bilden, die sogenannten Katheten. "c" beschreibt die Länge der gegenüberliegenden dritten Seite, der Hypotenuse. Der Zauber dieser Formel liegt darin, dass sie uns ermöglicht die unbekannte Länge einer Seite eines gleichschenkligen Dreiecks zu bestimmen, vorausgesetzt, dass die Längen der beiden anderen Seiten bekannt sind.
 
-![Veranschaulichung des Satz des Phytagoras.](./bilder/Excel_MR_04.png "Veranschaulichung des Satz des Phytagoras.")
+![](./bilder/Excel_MR_04.png "Veranschaulichung des Satz des Phytagoras.")
 
 Deine Dozentin gibt dir verschiedene Werte für "a" und "b" vor, aus welchen du jeweils die Länge von "c" deduzieren sollen.
 
@@ -485,7 +485,7 @@ In einer zweiten Aufgabe sollst du errechnen, welche Werte sich ergeben, wenn de
 
 Um eine Excel-Formel einzuleiten müssen wir den Eintrag einer Zelle mit dem **Gleichheitszeichen (=)** beginnen.
 
-![Erster Schritt für das Erstellen einer Formel.](./bilder/Excel_MR_05.png "Mit dem Gleichzeichen (=) wird der Beginn einer Formel in einer Zelle markiert.")
+![](./bilder/Excel_MR_05.png "Mit dem Gleichzeichen (=) wird der Beginn einer Formel in einer Zelle markiert.")
 
 Verschiedene **Operatoren** stehen uns in einer Formel zur Verfügung. Das sind im Grunde die selben Zeichen, welche wir auch im Matheunterricht kennengelernt haben:
 
@@ -501,7 +501,7 @@ Verschiedene **Operatoren** stehen uns in einer Formel zur Verfügung. Das sind 
 
 Nun haben wir in Zeile C2 schon etwas, was nach dem Satz des Phytagoras aussieht. In Zelle "A2" steht unser Wert für "a", in "B2" steht unser Wert für "b". "C2" Enthält unsere Formel und das Ergebnis von "a²+b²".
 
-![Die Formel nimmt Gestalt an.](./bilder/Excel_MR_06.png "In der Formel werden verschiedene Zellen mit Operatoren verbunden.")
+![](./bilder/Excel_MR_06.png "In der Formel werden verschiedene Zellen mit Operatoren verbunden.")
 
 ### Excel-Formeln
 
@@ -513,11 +513,11 @@ Wir benötigen die **Funktion**
 
 **Funktionen** beginnen immer mit einem Gleichheitszeichen und werden oft von Klammern gefolgt. 
 
-![So sucht man eine Funktion.](./bilder/Excel_MR_07.png "In diesem Fenster finden sich alle möglichen Excel-Funktionen.")
+![](./bilder/Excel_MR_07.png "In diesem Fenster finden sich alle möglichen Excel-Funktionen.")
 
 So haben wir endlich unsere Formel in Excel eingegeben!
 
-![Der Satz des Phytagoras!](./bilder/Excel_MR_08.png "Nun können wir den Satz des Phytagoras anwenden.")
+![](./bilder/Excel_MR_08.png "Nun können wir den Satz des Phytagoras anwenden.")
 
 ### Excel-Formeln
 
@@ -526,21 +526,21 @@ So haben wir endlich unsere Formel in Excel eingegeben!
 > 
 > Nun hast du einiges über Excel gelernt. Taschenrechner, Stift und Papier hast du gegen den PC getauscht. Aber war es vorher nicht einfacher? Der Taschenrechner hatte ein eigenes Wurzelzeichen und wenn die Sonne draufschien ist er einfach angegangen. Für Stift und Papier brauchtest du keine Kabel und Schaltkreise. Mit ihnen hättest du im tiefsten Wald oder auf dem höchsten Berg deine Aufgaben lösen können, kilometerweit von der nächsten Steckdose entfernt. Die Geheimnisse der Mathematik hätten sich dir mit Stift und Papier genauso erschlossen, wie einst Phytagoras vor tausenden von Jahren. Nun bist du abhängig von Strom, welcher lange nicht nachhaltig gewonnen werden kann. Dein Anspruch auf einen Computer macht dich mitverantwortlich dafür, dass irgendwo auf der Welt Menschen in gefährlichen Minen Kupfer und andere seltene Mineralien der Erde entreißen. Und du hast dich der Omnipräsenz von Microsoft unterworfen. Einem monopolistischen Riesen-Unternehmen, welches mehr Einfluss auf die globale Arbeitskultur hat, als die meisten Staaten. Zudem ist es auch gar nicht so leicht Excel zu lernen. Ist es das überhaupt wert?
 
-![Verzweiflung bei Excel.](./bilder/Excel_MR_09.png "Auch Excel treibt viele Studierende zur Verzweiflung.")
+![](./bilder/Excel_MR_09.png "Auch Excel treibt viele Studierende zur Verzweiflung.")
 
 ### Excel-Formeln
 
 Existenzkrise beiseite. Im nächsten Schritt sollte klar werden, warum du beim Rechnen mit Excel so viel Zeit sparen kannst! Wir haben auf "Enter" gedrückt und in Zelle "C2" wird endlich unser Ergebnis angezeigt!
 
-![Endlich ein Ergebnis.](./bilder/Excel_MR_10.png "So sollte die gelöste Aufgabe aussehen.")
+![](./bilder/Excel_MR_10.png "So sollte die gelöste Aufgabe aussehen.")
 
 Wenn wir eine Zelle angewählt haben, erscheint diese grün umrandet. In der unteren, rechten Ecke der Zelle befindet sich dann ein kleines dunkelgrünes Quadrat. Unser Maus-Cursor wird zu einem kleinen schwarzen Kreuz, wenn wir sie über dieses Quadrat bewegen.
 
-![Die Spannung steigt...](./bilder/Excel_MR_11.png "Mithilfe der Maus können wir den grünen Kasten erweitern.")
+![](./bilder/Excel_MR_11.png "Mithilfe der Maus können wir den grünen Kasten erweitern.")
 
  Nun klicken wir mit der linken Maustaste auf das grüne Quadrat, ziehen den grünen Kasten die Spalte hinunter...
 
-![Der Zauber von Excel!](./bilder/Excel_MR_12.png "Wir haben die Formel auf weitere Zeilen ergänzt, ohne sie neu schreiben zu müssen.")
+![](./bilder/Excel_MR_12.png "Wir haben die Formel auf weitere Zeilen ergänzt, ohne sie neu schreiben zu müssen.")
 
 ... et voila! Ohne viel Aufwand haben wir die Ergebnisse für die anderen Dreiecke ausgerechnet.
 
@@ -569,11 +569,11 @@ Wie gehabt ergibt sich der Bezug auf eine Zelle aus einem (oder mehren) Großbuc
 
 Für unsere Aufgabe brauchen wir einen absoluten Bezug in der Spalte und der Zeile. Dafür tragen wir in die Formel jeweils ein Dollarzeichen ($) vor den Spaltenbezug und vor den Bezug zur Zelle "A2":
 
-!["a" erscheint nun als absoluter Bezug](./bilder/Excel_MR_13.png "Zwei Dollarzeichen verwandeln den relativen Bezug in einen absoluten Bezug hinsichtlich Spalte und Zeile.")
+![](./bilder/Excel_MR_13.png "Zwei Dollarzeichen verwandeln den relativen Bezug in einen absoluten Bezug hinsichtlich Spalte und Zeile.")
 
 Wie gehabt ziehen wir die Formel, doch dieses Mal wird etwas anders sein. 
 
-![Ergebnis mit absoluten Bezügen.](./bilder/Excel_MR_14.png "Wenn der Wert in A2 nun verändert würde, würden sich alle Ergebnisse entsprechend verändern, da sie sich auf ihn beziehen.")
+![](./bilder/Excel_MR_14.png "Wenn der Wert in A2 nun verändert würde, würden sich alle Ergebnisse entsprechend verändern, da sie sich auf ihn beziehen.")
 
 In "C3" steht nun:
 
@@ -603,7 +603,7 @@ Excel-Formeln bestehen aus verschiedenen [[  Elementen  ]]. [[  Funktionen  ]] b
 > 
 > Du hast die **Elemente der Excel-Formeln** gemeistert!
 
-![Meisterin der Excel-Formeln.](./bilder/Excel_MR_15.png "Nun können dich komplizierte Matheaufgaben nicht mehr aufhalten!")
+![](./bilder/Excel_MR_15.png "Nun können dich komplizierte Matheaufgaben nicht mehr aufhalten!")
 
 ### Quellen
 
@@ -665,7 +665,7 @@ ohne dass der Nutzer nach Erlaubnis fragen muss.
 
 ### Atribution
 
-![Atribution](https://wiki.llz.uni-halle.de/images/5/53/By.png)
+![](https://wiki.llz.uni-halle.de/images/5/53/By.png)
 
  {{|>}}
 Die Lizenz "Attribution" (Namensnennung) ähnelt der "Bedingungslosen Lizenz", mit einigen Zusätzen.
@@ -683,7 +683,7 @@ Zusätzlich müssen jedoch der __Urheber des ursprünglichen Werks__, sowie die 
 
 ### Attribution ShareAlike
 
-![Attribution ShareAlike](https://wiki.llz.uni-halle.de/images/3/3c/By_sa.png)
+![](https://wiki.llz.uni-halle.de/images/3/3c/By_sa.png)
 
  {{|>}}
 Die Lizenz "Attribution ShareAlike" (Namensnennung und Weitergabe unter gleichen Bedigungen) ähnelt der "Attribution". Jedoch muss das Werk, welches durch Veränderung des Ursprungswerks entstanden ist, unter __derselben Lizenz__ weitergeführt werden, wie das Ursprungswerk.
@@ -701,7 +701,7 @@ Zusätzlich müssen jedoch der __Urheber des ursprünglichen Werks__, sowie die 
 
 ### Atribution NoDerivatives
 
-![Atribution NoDerivatives](https://wiki.llz.uni-halle.de/images/e/eb/By_nd.png)
+![](https://wiki.llz.uni-halle.de/images/e/eb/By_nd.png)
 
  {{|>}}
 Die Lizenz "Atrribution NoDerivatives" (Namensnennung, keine Bearbeitung) gibt Zugang zu vielen Rechten, schließt jedoch das Recht auf Veränderung aus.
@@ -722,7 +722,7 @@ Zusätzlich muss jedoch der __Urheber des ursprünglichen Werks__ angeben werden
 
 ### Attribution NonCommercial
 
-![Attribution NonCommercial](https://wiki.llz.uni-halle.de/images/3/32/By_nc.png)
+![](https://wiki.llz.uni-halle.de/images/3/32/By_nc.png)
 
  {{|>}}
 Die Lizenz "Attribution NonCommercial" (Namensnennung, nicht kommerziell) gibt Zugang zu den meisten Rechten, schließt jedoch das Recht, das Werk für kommerzielle Zwecke zu verwenden, aus.
@@ -742,7 +742,7 @@ Zusätzlich müssen jedoch der __Urheber des ursprünglichen Werks__, sowie die 
 
 ### Attribution NonCommercial ShareAlike
 
-![Attribution NonCommercial ShareAlike](https://wiki.llz.uni-halle.de/images/2/27/By_nc_sa.png)
+![](https://wiki.llz.uni-halle.de/images/2/27/By_nc_sa.png)
 
  {{|>}}
 Die Lizenz "Attribution NonCommercial ShareAlike" (Namensnennung, nicht kommerziell, Weitergabe unter gleichen Bedingungen) ähnelt der Lizenz "Attribution NonCommercial". Jedoch muss das Werk, welches durch Veränderung des Ursprungswerks entstanden ist, unter __derselben Lizenz__ weitergeführt werden, wie das Ursprungswerk.
@@ -762,7 +762,7 @@ Zusätzlich müssen jedoch der __Urheber des ursprünglichen Werks__, sowie die 
 
 ### Attribution NonCommercial NoDerivatives
 
-![Attribution NonCommercial NoDerivatives](https://wiki.llz.uni-halle.de/images/9/99/By_nc_nd.png)
+![](https://wiki.llz.uni-halle.de/images/9/99/By_nc_nd.png)
 
  {{|>}}
 Die Lizenz "Attribution NonCommercial NoDerivatives" (Namensnennung, nicht kommerziell, keine Bearbeitung) gibt Zugang zu einigen Rechten, schließt jedoch das Recht, das Werk zu verändern, sowie es für kommerzielle Zwecke zu verwenden, aus.
@@ -1073,7 +1073,7 @@ Unter diesem Kommentar bitte Hardware einfuegen
 
 Hardware beschreibt die physischen Komponenten von datenverarbeitenden Systemen z.B.: Computern oder Smartphones.
 
-![alt](https://www.esm-computer.de/magazin/wp-content/uploads/2021/06/Elektroschrott_title_scale.jpg)
+![](https://www.esm-computer.de/magazin/wp-content/uploads/2021/06/Elektroschrott_title_scale.jpg)
 
 ### 1. USB-Sticks
 
@@ -1130,7 +1130,7 @@ Unter diesem Kommentar bitte Recherche einfuegen
 
 ## Recherche
 
-![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Schreiben_digital.png/653px-Schreiben_digital.png?20210824085240)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Schreiben_digital.png/653px-Schreiben_digital.png?20210824085240)
 Quelle:"Schreiben digital", Julian Kücklich, Lizenz: CC0 1.0, https://api.openverse.engineering/v1/images/e6e14a45-1a41-4b7e-98c8-22aa82293474/thumb/
 
 ---
@@ -1199,7 +1199,7 @@ Datenbanken, Repositorien, Zeitschriftendatenbanken
 ---
 > **Weiterer Tipp: Boolesche Operatoren**
 
-![alt](https://upload.wikimedia.org/wikipedia/commons/1/17/Boolean_logic.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/1/17/Boolean_logic.svg)
 Quelle: "Boolean logic", Jakub T. Jankiewicz, Lizenz: CC BY-SA 4.0,
 https://upload.wikimedia.org/wikipedia/commons/1/17/Boolean_logic.svg
 
@@ -1227,7 +1227,7 @@ Quelle: "Eine Recherche dokumentieren", Heike Baller, Lizenz:  CC BY-SA 3.0, htt
 
 [Citavi](https://www.citavi.com/de)   
 
-[![Wie man Citavi verwenden kann? Video](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2F6yjIl7Y5TF8%3Flist%3DTLGGBdsc6N2C2RoxMjEyMjAyMw)](https://youtu.be/6yjIl7Y5TF8?list=TLGGBdsc6N2C2RoxMjEyMjAyMw)
+[![](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2F6yjIl7Y5TF8%3Flist%3DTLGGBdsc6N2C2RoxMjEyMjAyMw)](https://youtu.be/6yjIl7Y5TF8?list=TLGGBdsc6N2C2RoxMjEyMjAyMw)
 
 [Zotero](https://www.zotero.org/download/)
 
@@ -1263,7 +1263,7 @@ Unter diesem Kommentar bitte Soziale Kommunikative Kompetenzen einfuegen
 
 ## Soziale und kommunikative Kompetenzen
 
-![Abbildung](https://i1.wp.com/blog.endurancegroup.org/wp-content/uploads/2018/08/b3.jpg?fit=655%2C430&ssl=1)
+![](https://i1.wp.com/blog.endurancegroup.org/wp-content/uploads/2018/08/b3.jpg?fit=655%2C430&ssl=1)
 
 {{|>}} 
  Im Studium werden immer wieder Skills erwartet, wie zum Beispiel die Präsentation des eigenen Projekts, das Managen von Gruppenarbeiten oder auch die konstruktive sowie effektive Kommunikation. Um Dir deinen Start zu vereinfachen, haben wir hier ein paar Tipps, Tricks und eine einfache Einführung vorbereitet. 
@@ -1333,7 +1333,7 @@ Was vermutest Du, ist für eine effektive Gruppenarbeit wichtig?
 #### Wichtige soziale und kommunikative Kompetenzen für das Studium anhand einer Gruppenarbeit 
 
 ---
-![Abbildung](https://game-icons.net/icons/000000/ffffff/1x1/delapouite/discussion.png)
+![](https://game-icons.net/icons/000000/ffffff/1x1/delapouite/discussion.png)
 ---
 
 #### Was versteht man unter einem Team?
@@ -1342,7 +1342,7 @@ Ein Team besteht aus Menschen, die gemeinsam arbeiten, kooperieren und die Veran
 
 ---
 
-![Abbildung](https://gamepedia.cursecdn.com/halo_esports_gamepedia_en/3/3f/Unknown_Infobox_Image_-_Team.png)
+![](https://gamepedia.cursecdn.com/halo_esports_gamepedia_en/3/3f/Unknown_Infobox_Image_-_Team.png)
 
 {{1}} __Aufbau und Pflege des Teamgeists__
 
