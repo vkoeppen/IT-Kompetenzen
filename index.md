@@ -9,6 +9,7 @@ import:   https://github.com/liascript/CodeRunner
 
 link: css/callouts.css
 -->
+
 # Lernwerkstatt IT-Kompetenzen<br><small>Ein Selbstlernkurs von Studierenden für Studierende der Informationswissenschaften</small>
 
 ## Gliederung
@@ -24,13 +25,11 @@ link: css/callouts.css
 9. Soziale Kommunikative Kompetenzen
 10. Problemlösung
 
-
 <!---
 Unter diesem Kommentar bitte Word einfuegen
 -->
 
-
-## <center>Word</center>
+## Word
 
 **Was musst Du fürs Studium in Word können?**
 
@@ -40,7 +39,7 @@ Auf den nächsten Seiten wollen wir Dir daher einen kurzen Einblick über einige
 
 *Zu jedem unserer Themen wird nur ein Beispiel gezeigt. Es gibt auch andere Möglichkeiten, die verschiedenen Funktionen zu benutzen. Werde kreativ und probiere sie einfach alle einmal aus.*
 
-### <center>Gliederung</center>
+### Gliederung
 
 {{1}}[**Formatierung**](#formatierung)
 
@@ -63,7 +62,7 @@ Auf den nächsten Seiten wollen wir Dir daher einen kurzen Einblick über einige
 
 {{8}}[**Ansicht**](#ansicht)
 
-#### <center>Formatierung</center>
+### Formatierung
 
 Einer der ersten Schritte zum Erstellen Deines Dokumentes, wird die Formatierung sein. Beim Reiter **Start** findest Du alle nötigen Funktionen, um die Grundlagen für Deine Arbeit festlegen zu können. Dazu gehören unter anderem Absätze, Formatvorlagen und die Schrift selbst.
 
@@ -73,11 +72,11 @@ Einer der ersten Schritte zum Erstellen Deines Dokumentes, wird die Formatierung
 
 ![alt](./bilder/Formatierung_Formatvorlage.png)
 
-#### <center>Einfügen</center>
+### Einfügen
 
 Auf den nachfolgenden Seiten findest Du Informationen, wie Du einzelne Elemente in Dein Word-Dokument einfügen kannst. 
 
-### Bilder
+#### Bilder
 
 ![alt](./bilder/word-einfuegen.png)
 
@@ -93,7 +92,7 @@ Hierbei öffnet sich ein weiteres Fenster. In welchem Du entweder über die Such
 
 ![alt](./bilder/Word-Online-Bild.png)
 
-### <center>Tabelle</center>
+#### Tabelle
 
 Tabellen werden eingefügt, indem im Reiter bei **Einfügen** auf die **Tabelle** geklickt wird. Daraufhin öffnet sich ein Tab, bei welchem Du die Anzahl Deiner Spalten und Zeilen auswählen musst.
 
@@ -103,7 +102,7 @@ Danach besteht die Möglichkeit, durch Rechtsklick auf die Tabelle weitere Spalt
 
 ![alt](./bilder/Tabellen-entwurf.png)
 
-### <center>Diagramme</center>
+#### Diagramme
 
 Die grafische Darstellung von Daten oder Informationen kann unter Umständen in Deiner Arbeit den Sachverhalt besser veranschaulichen. 
 Den dazugehörigen Punkt findest Du im Reiter bei **Einfügen** > **Diagramme**. Damit sollte sich ein neues Fenster mit den unterschiedlichsten Diagrammen öffnen. 
@@ -117,7 +116,7 @@ Hat man sich für ein Diagramm entschieden, öffnet sich eine zusätzliche Excel
 
 ![alt](./bilder/DiagrammmitExel.png)
 
-### <center>SmartArt</center>
+#### SmartArt
 
 SmartArt ermöglicht eine visuelle Darstellung von Informationen und Bildern. Um sich eine SmartArt-Grafik zu erstellen und anschließend zu verwenden, muss man im Reiter auf **Einfügen** > **SmartArt** klicken. Danach öffnet sich ein Fenster mit vielen verschiedenen Auswahlmöglichkeiten, um seine Informationen perfekt für sich darstellen zu lassen.
 
@@ -127,15 +126,14 @@ Als weiteren Schritt kann man gegebenenfalls seine Grafik nach seinen Vorstellun
 
 ![alt](./bilder/SmartArt-Design.PNG)
 
-
-#### <center>Inhaltsverzeichnis</center>
+### Inhaltsverzeichnis
 
 Um sich das Erstellen oder das Anpassen eines Inhaltsverzeichnisses zu erleichtern, hat Word eine nützliche Funktion für Dich.
 Wechsel im Reiter zu **Referenzen**, dort findest Du ganz links die Funktion ein Inhaltsverzeichnis zu erstellen. Bei Bedarf kann dieses auch aktualisiert werden. Man spart sich somit Zeit und vermeidet eventuelle Fehler. Um seinen Text dem Inhaltsverzeichnis hinzuzufügen, muss man auf **Text einfügen** klicken. 
 
 ![alt](./bilder/Inhaltsverzeichnis1.PNG)
 
-#### <center>Zitierung</center>
+### Zitierung
 
 Das Zitieren von Zitaten oder Textabschnitten ist für viele eine Königsdisziplin beim Erstellen der Arbeiten. Wenn man bei Word jedoch im Reiter auf **Referenzen** geht, findet man die Funktion **Zitat einfügen**. Unter **neue Quelle** kannst Du alle wichtigen Informationen bezüglich Deines Zitates hinzufügen. 
 Mit der zusätzlichen Funktion **Formatvorlage** kann man sich einfach und übersichtlich ein Zitat mit einer direkten Verlinkung zum Inhaltsverzeichnis erstellen.
@@ -145,7 +143,7 @@ Mit der zusätzlichen Funktion **Formatvorlage** kann man sich einfach und über
 <!-- class = "callout tip" -->
 > Unsere Format Empfehlung beim zitieren, wäre Chicago.
 
-#### <center>Literaturverzeichnis & Abbildungsverzeichnis</center>
+### Literaturverzeichnis & Abbildungsverzeichnis
 
 ![alt](./bilder/Literaturverzeichnis1.PNG)
 
@@ -154,7 +152,7 @@ Deine Quellen kannst Du bei Bedarf jederzeit aktualisieren. Um eine neue Quelle 
 
 Auch das Erstellen eines Abbildungsverzeichnisses wird über den Reiter **Referenzen** > **Beschriftung** durchgeführt. Dabei kann man entscheiden, wie das Abbildungsverzeichnis aussehen und ob es gegebenenfalls Verlinkungen zum jeweiligen Bild geben soll.
 
-#### <center>Layout</center>
+### Layout
 
 Solltest Du mal für eine Deiner Arbeiten einen benutzerdefinierten Seitenrand, ein horizontales Blatt oder vielleicht eine zwei Spaltenansicht benötigen, bist Du hier beim Layout genau richtig. 
 Ganz links findest Du alles, was mit Seitenrändern oder Absätzen zu tun hat. Dir wird eine vielfältige Auswahl an vorgefertigten Einstellungen geboten. Solltest Du aber andere Vorstellungen oder Angaben haben, dann kann man sie ganz einfach unter **Weitere** oder **Mehr** selbst konfigurieren. 
@@ -162,7 +160,7 @@ Gleich daneben findest Du den Absatzblock. Dabei kannst Du bestimmen, wie weit D
 
 ![alt](./bilder/Layout.png)
 
-#### <center>Überprüfung</center>
+### Überprüfung
 
 Unter dem Reiter **Überprüfen** befinden sich eine Vielzahl von Funktionen, die Dir eine optimale Unterstützung beim Schreiben Deines Dokumentes bieten können.
 Neben den Standardfunktionen wie Rechtschreibung und Grammatik oder dem Wörterzählen kann Word Dir Deine geschriebenen Sätze laut vorlesen. Es hilft ungemein, diese laut zu hören. Dir können so Fehler leichter auffallen, die Du vielleicht noch nicht entdeckt hast. Diese Funktion findest Du im Reiter bei **Überprüfen** > **Sprache** > **laut vorlesen**.
@@ -184,7 +182,7 @@ Anschließend gibt es noch die Kommentar- und Änderungssektion. Unter diesen ka
 <!-- class = "callout tip" -->
 > Um ein Dokument einer anderen Person freizugeben, klicke hierbei über dem Reiter auf **Freigeben** > **Freigabe**. Stelle dabei sicher, dass Dein Dokument auf OneDrive gespeichert ist. Die betreffende Person, der Du Dein Dokument freigibst, sollte nachdem Teilen eine E-mail erhalten.
 
-#### <center>Ansicht</center>
+### Ansicht
 
 Unter Ansicht kannst Du das Dokument Dir so anzeigen lassen, wie Deine Präferenzen sind. Im Reiter **Seitenbewegung** kannst Du festlegen, ob Deine Seiten im Dokument vertikal oder horizontal wie bei einem Buch angezeigt werden soll. 
 Im **Lesemodus** kannst Du Dich, wie es der Name schon verrät, ganz aufs Lesen Deiner Arbeit konzentrieren. 
@@ -195,12 +193,11 @@ Der **Plastische Reader** bietet Dir neben der internen Veränderung der Seitenf
 
 ![alt](./bilder/Plastische-Reader.png)
 
-
 <!---
 Unter diesem Kommentar bitte Powerpoint einfuegen
 -->
 
-## <center>Powerpoint</center>
+## Powerpoint
 
 ---
 
@@ -208,7 +205,8 @@ Unter diesem Kommentar bitte Powerpoint einfuegen
 
 [1. Abbildung](https://play.google.com/store/apps/details?id=com.microsoft.office.powerpoint&hl=de)
 
-## <center>Inhaltsverzeichnis</center>
+### Inhaltsverzeichnis
+
 {{1}} **Einstieg**
 
 - **1.1Festlegung der Kompetenz**
@@ -236,8 +234,8 @@ Unter diesem Kommentar bitte Powerpoint einfuegen
 
 {{4}} **Quellen**
 
+### 1. Einstieg
 
-## 1. Einstieg
 **1.1 Festlegung der Kompetenz**
 
 Für viele Studiumsbereiche sind gängige Programme, wie Microsoft-Programme notwendig, insbesondere um die Ergebnisse einer Arbeitsprobe zu erstellen und zu präsentieren. 
@@ -272,7 +270,6 @@ Das Präsentationsprogramm von Microsoft:
 - Mobile-Version: App für Android und iOS 
 **Aktuellste Version**: PowerPoint 2019
 
-
 ---
 
 **1.4 Ziel des Themas**
@@ -286,9 +283,7 @@ Das Präsentationsprogramm von Microsoft:
 >
 > Stichpunkte müssen lesbar, prägnant und kurz den Inhalt wiedergeben 
 
-
-
-## <center> 2. Einfügen von Sprechernotizen </center>
+### 2. Einfügen von Sprechernotizen
 
 ---
 
@@ -300,7 +295,7 @@ Das Präsentationsprogramm von Microsoft:
 - Notiz-Symbol neben **Kommentare** oder je nach Version neben **Anzeigeeinstellungen**
 
 
-## 2.1 Referenzansicht
+#### 2.1 Referenzansicht
 
 **Während der Bildschirmpräsentation Notizen einsehbar**
 
@@ -355,9 +350,7 @@ Das Präsentationsprogramm von Microsoft:
 
 [3. Abbildung](https://support.microsoft.com/de-de/office/hinzuf%C3%BCgen-von-sprechernotizen-zu-folien-26985155-35f5-45ba-812b-e1bd3c48928e#:~:text=Klicken%20Sie%20im%20Men%C3%BC%20Ansicht,Sie%20den%20gew%C3%BCnschten%20Notizentext%20ein)
 
-
-
-## 2.2 Aktivierung der Referenzansicht
+#### 2.2 Aktivierung der Referenzansicht
 
 Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 ![Abbildung 4](https://support.content.office.net/de-de/media/6a1333b9-e386-4579-b8f0-051aed6e5ab8.png)
@@ -373,7 +366,7 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 1.Video: [Link zum Tutorial](https://www.microsoft.com/de-de/videoplayer/embed/RWfkz0?pid=ocpVideo1-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&reporting=true&market=de-de)
 
 
-## <center> 3. Erstellen von Animationen </center>
+### 3. Erstellen von Animationen
 
 ---
 
@@ -381,7 +374,7 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 
 [5. Abbildung](https://embed-ssl.wistia.com/deliveries/495e6ff8a0d973e9c08066e811bbeb25.jpg)
 
-## 3.1 Animation von Bildern und Textfeldern
+#### 3.1 Animation von Bildern und Textfeldern
 
 - Headline Punkt "Animationen" anklicken
    
@@ -394,13 +387,11 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 <!-- class = "callout tip" -->
 > Benutzt die Reihenfolge von Animationen, um bestimmte Texte oder Bilder beim Präsentieren Stück für Stück einfliegen zu lassen
 
-
 ![Abbildung 6](https://cdn1.participoll.com/wp-content/uploads/2021/01/03123303/Leanne-screenshot-5.jpg)
 
 [6. Abbildung](https://cdn1.participoll.com/wp-content/uploads/2021/01/03123303/Leanne-screenshot-5.jpg)
 
-
-## 3.2 Animation/Übergänge zwischen Folien
+#### 3.2 Animation/Übergänge zwischen Folien
 
    - Headline Punkt; Übergänge auswählen
 
@@ -410,19 +401,14 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 
    - Übergang wird im Präsentationsmodus beim Start der Folie benutzt
 
- 
-
 <!-- class = "callout tip" -->
 > Versuche nicht zu viele verschiedene Übergänge zu benutzen sondern sich auf 2/3 festzulegen.
-
-
 
  ![Abbildung 7](https://www.wirliebenoffice.de/images/content/tutorials/powerpoint/008-folienubergang-einfugen.png)
 
  [7. Abbildung](https://www.wirliebenoffice.de/images/content/tutorials/powerpoint/008-folienubergang-einfugen.png)
 
-
-## <center>4. Quellen</center>
+### 4. Quellen
 ---
 **1.Quelle** 
 
@@ -445,8 +431,7 @@ Unter diesem Kommentar bitte Excel einfuegen
 
 ![Verzweiflung bei Matheaufgaben](./bilder/Excel_MR_02.png "Matheaufgaben treiben viele Studierende zur Verzweiflung.")
 
-
-## Excel-Formeln
+### Excel-Formeln
 
 <!-- class = "callout tip with-title" -->
 > Excel hilft bei komplizierten Formeln
@@ -461,7 +446,7 @@ https://www.fh-potsdam.de/campus-services/it-service/softwarelizenzen/microsoft-
 Im Folgenden soll erklärt werden, wie du Formeln mit **Excel** löst, da du ohnehin als Studierender eine Lizenz bekommst. Falls du kein Fan von Windows bist kannst du alternativ auch mit dem Tabellenkalkulationsprogramm **Calc** von Libre Office arbeiten. Es funktioniert ähnlich, aber nicht exakt wie **Excel** und du kannst es unter folgenden Link herunterladen:
 https://de.libreoffice.org/download/download/
 
-## Excel-Formeln
+### Excel-Formeln
 
 Sobald du Excel öffnest siehst du eine große Tabelle. Die senkrecht verlaufenden **Spalten** sind mit Großbuchstaben gekennzeichnet. Die **Zeilen** werden mit Zahlen benannt. Eine einzelne **Zelle** ist ein Bereich, in welchem Spalte und Zeile sich schneiden. Entsprechend hat jede Zelle sozusagen eine Koordinate, welche aus dem Buchstaben der Spalte gefolgt von der Zahl der Zeile besteht (nicht umgekehrt!). Diese Namen der Zellen nennt man **Bezüge**, weil man sich innerhalb von Formeln so auf Zellen beziehen kann.
 
@@ -476,7 +461,7 @@ In rot gezeigt wird die Spalte [[  A  ]]. Orange ist die Zeile [[  3  ]]. Die li
 > 
 >Auf einem Tabellenblatt in Excel kannst du mit **1.048.576 Zeilen** und **16.384 Spalten** arbeiten. Das bedeutet, die Zelle, welche am weitesten unten rechts auf dem Tabellenblatt liegt heißt: **"XFD1048576"**!
 
-## Excel-Formeln
+### Excel-Formeln
 
 Gehen wir ans Eingemachte! In unserem Beispiel sollen wir mit dem Satz des Pythagoras arbeiten. Dieser besagt:
 
@@ -496,7 +481,7 @@ Deine Dozentin gibt dir verschiedene Werte für "a" und "b" vor, aus welchen du 
 
 In einer zweiten Aufgabe sollst du errechnen, welche Werte sich ergeben, wenn der Wert von "a" bleibt wie bei dem ersten Dreieck.
 
-## Excel-Formeln
+### Excel-Formeln
 
 Um eine Excel-Formel einzuleiten müssen wir den Eintrag einer Zelle mit dem **Gleichheitszeichen (=)** beginnen.
 
@@ -516,10 +501,10 @@ Verschiedene **Operatoren** stehen uns in einer Formel zur Verfügung. Das sind 
 
 Nun haben wir in Zeile C2 schon etwas, was nach dem Satz des Phytagoras aussieht. In Zelle "A2" steht unser Wert für "a", in "B2" steht unser Wert für "b". "C2" Enthält unsere Formel und das Ergebnis von "a²+b²".
 
-
 ![Die Formel nimmt Gestalt an.](./bilder/Excel_MR_06.png "In der Formel werden verschiedene Zellen mit Operatoren verbunden.")
 
-## Excel-Formeln
+### Excel-Formeln
+
 Doch gefragt ist nicht nach "c²"! Wir müssen noch eine Wurzel ziehen! Dafür müssen wir nicht nach einem Wurzel-Zeichen auf dem Keyboard suchen. Stattdessen klicken wir auf das **Formelzeichen (fx)** neben der Eingabezeile. Es erscheint ein Fenster, welches uns erlaubt aus allen **Funktionen** auszuwählen, welche Excel zu bieten hat.
 
 Wir benötigen die **Funktion**
@@ -534,7 +519,8 @@ So haben wir endlich unsere Formel in Excel eingegeben!
 
 ![Der Satz des Phytagoras!](./bilder/Excel_MR_08.png "Nun können wir den Satz des Phytagoras anwenden.")
 
-## Excel-Formeln
+### Excel-Formeln
+
 <!-- class = "callout danger with-title" -->
 > Ist es mit Excel so viel einfacher?
 > 
@@ -542,7 +528,7 @@ So haben wir endlich unsere Formel in Excel eingegeben!
 
 ![Verzweiflung bei Excel.](./bilder/Excel_MR_09.png "Auch Excel treibt viele Studierende zur Verzweiflung.")
 
-## Excel-Formeln
+### Excel-Formeln
 
 Existenzkrise beiseite. Im nächsten Schritt sollte klar werden, warum du beim Rechnen mit Excel so viel Zeit sparen kannst! Wir haben auf "Enter" gedrückt und in Zelle "C2" wird endlich unser Ergebnis angezeigt!
 
@@ -556,7 +542,6 @@ Wenn wir eine Zelle angewählt haben, erscheint diese grün umrandet. In der unt
 
 ![Der Zauber von Excel!](./bilder/Excel_MR_12.png "Wir haben die Formel auf weitere Zeilen ergänzt, ohne sie neu schreiben zu müssen.")
 
-
 ... et voila! Ohne viel Aufwand haben wir die Ergebnisse für die anderen Dreiecke ausgerechnet.
 
 Nun steht in "C3"
@@ -569,12 +554,11 @@ und entsprechend in "C4"
 
 Die Formel hat beim Ziehen ihre **Bezüge** geändert. Die anderen **Elemente** der Formel sind gleich geblieben: Die **Funktion "=Wurzel()"** ist geblieben, genauso wie die Operatoren **"+"** und **"^"**. Die **"2"** wird, wie alle anderen **Zahlen**, **Daten** und **Schriftzeichen** in einer Formel, **Konstante** genannt und verändert sich ebenfalls nicht beim Ziehen der Funktion. Nur die **Bezüge** auf andere Zellen. Dies ist einer der Gründe, warum es so praktisch ist, Excel zu lernen. Deine Dozentin kann dir hunderte Aufgaben mit der selben Formel stellen. Solange es nicht mehr als 1.048.576 sind, bedeutet das für dich mit Excel-Formeln kaum mehr Aufwand als eine einzige Aufgabe zu rechnen!
 
-## Excel-Formeln
+### Excel-Formeln
 
 Ganz fertig sind wir allerdings noch nicht. Deine Dozentin will, dass du ausrechnest, welche Werte herauskämen, wenn der Wert "a" bliebe wie beim ersten Dreieck. Wir könnten alles noch einmal machen wie gehabt, nur dass wir statt "A2^2" in die Formel einen konstanten Wert schreiben, wie "14,8". Aber was, wenn in einem weiteren Schritt dieser Wert verändert werden soll und es eben auf den Bezug auf die Seite "a" des ersten Dreiecks ankommt?
 
 Um die **Elemente** der Excel-Formeln abschließend zu meistern, müssen wir deshalb noch den Unterschied zwischen **absoluten Bezügen** und **relativen Bezügen** verstehen.
-
 
 |                    | **relative Spalte** | **absolute Spalte** |
 | -----------------: | ------------------: | ------------------: |
@@ -589,7 +573,6 @@ Für unsere Aufgabe brauchen wir einen absoluten Bezug in der Spalte und der Zei
 
 Wie gehabt ziehen wir die Formel, doch dieses Mal wird etwas anders sein. 
 
-
 ![Ergebnis mit absoluten Bezügen.](./bilder/Excel_MR_14.png "Wenn der Wert in A2 nun verändert würde, würden sich alle Ergebnisse entsprechend verändern, da sie sich auf ihn beziehen.")
 
 In "C3" steht nun:
@@ -602,18 +585,19 @@ und in "C4" steht:
 
 Die **relativen Bezüge** auf die Werte in der Spalte "B" haben sich verändert, doch die **absoluten Bezüge** auf die Werte in Zelle "A2" sind gleich geblieben.
 
-## Excel-Formeln
+### Excel-Formeln
 
 <!-- class = "callout danger with-title" -->
 > Fast geschafft!
 > 
 > Du hast die Hausaufgaben deiner Dozentin erledigt. Doch um zu sehen, ob du die **Elemente der Excel-Formeln** erfolgreich gemeistert hast, trage die folgenden Begriffe fehlerfrei in den Lückentext ein! (Mit "Copy and Paste" geht es einfacher!)
 
-
 <kbd>Operatoren</kbd><kbd>Konstanten</kbd><kbd>Bezüge</kbd><kbd>Funktionen</kbd><kbd>Elementen</kbd><kbd>relative</kbd><kbd>absolute</kbd>
 
 Excel-Formeln bestehen aus verschiedenen [[  Elementen  ]]. [[  Funktionen  ]] beginnen immer mit einem Gleichheitszeichen (=). Einträge wie Zahlen, Texte oder Schriftzeichen verändern sich beim Ziehen einer Formel nicht und werden deshalb [[  Konstanten  ]] genannt. Im Gegensatz dazu verändern sich [[  relative  ]] [[  Bezüge  ]], sobald eine Funktion gezogen wird. Mit einem "$" gekennzeichnete [[  absolute  ]] [[  Bezüge  ]] widerum bleiben auch beim Ziehen einer Formel gleich. Mit [[  Operatoren  ]] können die verschiedenen Elemente einer Formel mathematisch oder logisch miteinander in Bezug gesetzt werden.
-## Excel-Formeln
+
+### Excel-Formeln
+
 <!-- class = "callout Info with-title" -->
 > Glückwunsch!
 > 
@@ -621,8 +605,7 @@ Excel-Formeln bestehen aus verschiedenen [[  Elementen  ]]. [[  Funktionen  ]] b
 
 ![Meisterin der Excel-Formeln.](./bilder/Excel_MR_15.png "Nun können dich komplizierte Matheaufgaben nicht mehr aufhalten!")
 
-
-## Quellen
+### Quellen
 
 Download-Link für Windows 365 von der FH Potsdam:
 
@@ -651,6 +634,7 @@ Unter diesem Kommentar bitte Rechtliches einfuegen
 ## Rechtliches
 
 ### Creative Commons
+
  {{|>}}
 Creative Commons besteht aus sechs __Lizenzmodellen__, die Lizenzverträge darstellen, aus denen der Urheber eines Werks wählen kann. Der Unterschied zwischen diesen Lizenzmodellen besteht in der __Art und Anzahl der Rechte__, die eine Lizenz einem Nutzer einräumt.
 
@@ -664,6 +648,7 @@ __Die Fragen, die eine Lizenz einem Nutzer beantwortet, sind also folgende:__
 3. Was muss angegeben werden, wenn das veränderte Werk veröffentlicht wird?
 
 ### Bedingungslose Lizenz
+
 ![CC0 Bedingungslose Lizenz](https://wiki.llz.uni-halle.de/images/1/12/Cc0.png)
 
  {{|>}}
@@ -678,8 +663,8 @@ Das Werk darf:
 - für kommerzielle Zwecke verwendet werden,
 ohne dass der Nutzer nach Erlaubnis fragen muss.
 
-
 ### Atribution
+
 ![Atribution](https://wiki.llz.uni-halle.de/images/5/53/By.png)
 
  {{|>}}
@@ -697,6 +682,7 @@ ohne dass der Nutzer nach Erlaubnis fragen muss.
 Zusätzlich müssen jedoch der __Urheber des ursprünglichen Werks__, sowie die __Anmerkungen von Veränderungen__ an dem Werk hinzugefügt werden.
 
 ### Attribution ShareAlike
+
 ![Attribution ShareAlike](https://wiki.llz.uni-halle.de/images/3/3c/By_sa.png)
 
  {{|>}}
@@ -714,6 +700,7 @@ ohne dass der Nutzer nach Erlaubnis fragen muss.
 Zusätzlich müssen jedoch der __Urheber des ursprünglichen Werks__, sowie die __Anmerkungen von Veränderungen__ an dem Werk angegeben werden. Zudem muss das neu entstandene Werk unter derselben Lizenz wie das urpsprüngliche Werk veröffentlicht werden.
 
 ### Atribution NoDerivatives
+
 ![Atribution NoDerivatives](https://wiki.llz.uni-halle.de/images/e/eb/By_nd.png)
 
  {{|>}}
@@ -734,6 +721,7 @@ Das Werk darf __nicht__:
 Zusätzlich muss jedoch der __Urheber des ursprünglichen Werks__ angeben werden.
 
 ### Attribution NonCommercial
+
 ![Attribution NonCommercial](https://wiki.llz.uni-halle.de/images/3/32/By_nc.png)
 
  {{|>}}
@@ -753,6 +741,7 @@ Das Werk darf __nicht__:
 Zusätzlich müssen jedoch der __Urheber des ursprünglichen Werks__, sowie die __Anmerkungen von Veränderungen__ an dem Werk angegeben werden.
 
 ### Attribution NonCommercial ShareAlike
+
 ![Attribution NonCommercial ShareAlike](https://wiki.llz.uni-halle.de/images/2/27/By_nc_sa.png)
 
  {{|>}}
@@ -772,6 +761,7 @@ Werk darf __nicht__:
 Zusätzlich müssen jedoch der __Urheber des ursprünglichen Werks__, sowie die __Anmerkungen von Veränderungen__ an dem Werk angegeben werden. Zudem muss das neu entstandene Werk unter derselben Lizenz wie das urpsprüngliche Werk veröffentlicht werden.
 
 ### Attribution NonCommercial NoDerivatives
+
 ![Attribution NonCommercial NoDerivatives](https://wiki.llz.uni-halle.de/images/9/99/By_nc_nd.png)
 
  {{|>}}
@@ -803,6 +793,7 @@ Welche Rechte ermöglicht die CC0 Lizenz?
 [[X]] Kommerzielle Nutzung
 
 ### Übung 2
+
 Was unterscheidet die Attribution-Lizenz von der Bedingungslosen Lizenz?
 
 [( )] Dass das Werk nicht für kommerzielle Zwecke verwenden darf.
@@ -810,6 +801,7 @@ Was unterscheidet die Attribution-Lizenz von der Bedingungslosen Lizenz?
 [( )] Dass man das Werk nicht verändern darf.
 
 ### Übung 3
+
 Was bedeutet der Ausdruck "ShareAlike" in einer Lizenz?
 
 [( )] Dass man das ursprüngliche Werk unverändert teilen darf.
@@ -818,6 +810,7 @@ Was bedeutet der Ausdruck "ShareAlike" in einer Lizenz?
 [( )] Dass das erstellte Werk dem ursprünglichen Werk nicht sehr ähnlich sein muss.
 
 ### Übung 4
+
 Eine Studentin würde gerne ein Bild verwenden, indem sie es verändert und in eine Powerpoint-Präsentation einfügt und vor einigen Zuschauern zeigt. Welche Lizenz müssten für das Bild gelten, damit sie es verwenden könnte?
 
 > **Mehrere Optionen möglich!**
@@ -834,9 +827,9 @@ Eine Studentin würde gerne ein Bild verwenden, indem sie es verändert und in e
 Unter diesem Kommentar bitte Medienbearbeitung einfuegen
 -->
 
-# <center>Medienbearbeitung</center>
+## Medienbearbeitung
 
-## <center>Erstellung einer komprimierten ZIP-Datei</center>
+### Erstellung einer komprimierten ZIP-Datei
 
 {{|>}}
 
@@ -856,7 +849,7 @@ _Programme_
 
 Die Funktion, ein Archiv zu erstellen, ist durch jedes Betriebsystems gewährleistet. Weitere Funktionen, wie z.B. die Verschlüsselung von Archiven mit Passwörtern, werden durch herunterladbare Programme unterstützt. Freie Programme sind z.B. Info-ZIP, PeaZip, Xarchiver und 7-Zip, kommerzielle Programme z.B. WinRAR und WinZIP.
 
-#### <center>Windows</center>
+#### Windows
 
 {{|>}}
 
@@ -873,7 +866,7 @@ _Hinweis_
 
 Solltest Du eine Datei vergessen haben, kannst Du sie ganz einfach über Drag & Drop in den komprimierten Ordner ziehen und so nachträglich zum Archiv hinzufügen. Um einen ZIP-Ordner wieder zu entpacken, rufe mit Rechtsklick das Kontextmenü auf und wähle die Aktion "Alle extrahieren...", um einen Zielpfad anzugeben.
 
-#### <center>Mac OS</center>
+#### Mac OS
 
 {{|>}}
 
@@ -892,7 +885,7 @@ _Hinweis_
 2. Wähle im Kontextmenü "Öffnen mit" und schließlich die Option "Archivierungsprogramm (Standard)" aus.
 3. Die Dateien aus dem ZIP-Archiv werden im selben Pfad entpackt.
 
-#### <center>Linux</center>
+#### Linux
 
 {{|>}}
 
@@ -906,7 +899,7 @@ _Hinweis_
 
 Um eine Archivdatei wieder zu entpacken, wähle mit Rechtsklick die Aktion "Hier entpacken" im Kontextmenü aus.
 
-#### <center>Übung</center>
+#### Übung
 
 {{|>}}
 
@@ -1081,6 +1074,7 @@ Unter diesem Kommentar bitte Hardware einfuegen
 Hardware beschreibt die physischen Komponenten von datenverarbeitenden Systemen z.B.: Computern oder Smartphones.
 
 ![alt](https://www.esm-computer.de/magazin/wp-content/uploads/2021/06/Elektroschrott_title_scale.jpg)
+
 ### 1. USB-Sticks
 
 Es gibt viele verschiedene Arten von USB-Sticks die sehr unterschiedliche Verwendungszwecke haben. Zum Beispiel sind USB-Sticks in der Lage eine Bluetooth-Maus mit dem Computer zu verbinden oder
@@ -1108,11 +1102,9 @@ Hinter welchem der folgenden Kürzel versteckt sich kein Computeranschluss?
 [[x]] RAM
 [[x]] Bluetooth
 
-
 Ein Computer ohne Anschlüsse wäre ziemlich nutzlos und in den Augen von vielen Menschen vielleicht gar kein Computer. Anschlüsse erlauben den Horizont des PC´s zu erweitern und ihm viele verschiedene Möglichkeiten zu verschaffen. Anschlüsse verbinden Monitore, Maus und Tastatur mit dem Computer und ermöglichen so erst die Bedienung. Dabei gibt es verschiedene Arten von Anschlüssen von denen hier ein kleiner Überblick geschaffen werden soll. Wichtig ist hierbei zu beachten: Für jeden Zweck gibt es verschiedene Anschlüsse. Es ist daher wichtig jeden PC individuell zu betrachten und zu analysieren welche Anschlüsse vorhanden sind.
 
 #### Grafik- und Monitoranschlüsse
- 
 
 Wie bereits gesagt ist der Computer erst durch Anschlüsse in der Lage essenzielle Aufgaben zu meistern, wie z.B.: die Fähigkeit visuelle Inhalte darzustellen. **VGA** und **DVI-D** sind zwei Anschlüsse die früher Standard waren. In modernen Geräten werden sie heute kaum noch verwendet sind allerdings noch nicht komplett ausgestorben. Ein etwas modernerer Anschluss ist der **HDMI** Anschluss, der gleichzeitig auch in der Lage ist Tonsignale zu übertragen. Der wohl modernste Weg Bildschirme an den Computer anzuschließen ist der **USB-C** Anschluss. 
 
@@ -1136,7 +1128,7 @@ Das Gute an den vielen verschiedenen Anschlüssen ist, dass sie alle sehr unters
 Unter diesem Kommentar bitte Recherche einfuegen
 -->
 
-## __Recherche__
+## Recherche
 
 ![alt](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Schreiben_digital.png/653px-Schreiben_digital.png?20210824085240)
 Quelle:"Schreiben digital", Julian Kücklich, Lizenz: CC0 1.0, https://api.openverse.engineering/v1/images/e6e14a45-1a41-4b7e-98c8-22aa82293474/thumb/
@@ -1146,8 +1138,10 @@ Quelle:"Schreiben digital", Julian Kücklich, Lizenz: CC0 1.0, https://api.openv
 Zu den Kompetenzen, die für das Studium besonders wichtig sind, zählt die **Recherchekompetenz**. Heutzutage können wir eine breite Masse an Informationen sehr schnell und einfach abrufen, aber beispielsweise beim Schreiben einer Hausarbeit oder bei der Literatursuche für das Erstellen einer Bachelorarbeit, benötigen wir aussagekräftige und belegbare Informationen. Daher werde ich in diesem Vortrag das Thema Recherche etwas näher beleuchten.
 
 ---
-### __Richtig recherchieren__
- Der Ablauf einer Recherche
+
+### Richtig recherchieren
+
+Der Ablauf einer Recherche
 ---
 {{1}}  Was ist das Ziel meiner Recherche? 
 
@@ -1186,9 +1180,7 @@ Im zweiten Schritt geht um das Recherchieren an sich. Das Sammeln von Informatio
 | charakteristisches, sinntragendes Wort aus dem Sachtitel oder aus dem Zusatz zum Sachtitel | möglichst kurzer, genauer und vollständiger Ausdruck für den Inhalt eines Werkes |
 | kann, aber muss nicht mit Schlagwort übereinstimmen                                        | - aus Buchtitel - häufig unabhängig vom Titel gebildet - genormter Fachbegriff   |
 | Suche im Feld „Titel“ oder auch “Freie Suche“ „Alle Wörter“ o.ä.                           | Suche im Feld „Schlagwort“                                                       |
-
  Um sich einen ersten Zugang zum Thema zu verschaffen, ist die __Online-Recherche__ hilfreich und kann einfach und schnell über diverse Suchmaschinen stattfinden...
-
 
 [Google](https://www.google.de/?hl=de)
 
@@ -1196,12 +1188,9 @@ Hat man sich einen ersten Überblick verschafft oder noch nicht die passende Lit
 
 [Bibliothek](https://www.fh-potsdam.de/campus-services/bibliothek)
 
- Datenbanken, Repositorien, Zeitschriftendatenbanken
-
-
+Datenbanken, Repositorien, Zeitschriftendatenbanken
 
 [Kataloge, Datenbanken](https://www.bib-info.de/berufspraxis/fundgrube-internet/recherche/kataloge-datenbanken)
-
 
 ![](https://upload.wikimedia.org/wikipedia/de/7/73/Digizeitschriften_logo.jpg)
 
@@ -1217,6 +1206,7 @@ https://upload.wikimedia.org/wikipedia/commons/1/17/Boolean_logic.svg
 ---
 
 ### Wie dokumentiere ich meine Ergebnisse?
+
 ---
 Die gefundene Literatur muss auch dokumentiert werden, damit sie später ausgewertet und genutzt werden kann. Neben der *schriftlichen Dokumentation* ist die Verwendung eines *Dateimanagementsystems* auf dem Computer sinnvoll.
 
@@ -1241,8 +1231,8 @@ Quelle: "Eine Recherche dokumentieren", Heike Baller, Lizenz:  CC BY-SA 3.0, htt
 
 [Zotero](https://www.zotero.org/download/)
 
-
 ### Wie kann ich die gefundenen Quellen bewerten?
+
 ---
 Zum Schluss prüft man, ob die gesammelte Literatur zum anfangs definierten Rechercheziel passt. Sind die Informationen ~~relevant~~ für meine Recherche? Außerdem sollten die enthaltenen Informationen ~~glaubwürdig~~ und auf einem ~~aktuellem~~ Stand sein.
 
@@ -1271,7 +1261,7 @@ Es gibt bestimmte Kriterien, an denen man "gute" Quellen erkennt:
 Unter diesem Kommentar bitte Soziale Kommunikative Kompetenzen einfuegen
 -->
 
-# Soziale und kommunikative Kompetenzen
+## Soziale und kommunikative Kompetenzen
 
 ![Abbildung](https://i1.wp.com/blog.endurancegroup.org/wp-content/uploads/2018/08/b3.jpg?fit=655%2C430&ssl=1)
 
@@ -1279,12 +1269,15 @@ Unter diesem Kommentar bitte Soziale Kommunikative Kompetenzen einfuegen
  Im Studium werden immer wieder Skills erwartet, wie zum Beispiel die Präsentation des eigenen Projekts, das Managen von Gruppenarbeiten oder auch die konstruktive sowie effektive Kommunikation. Um Dir deinen Start zu vereinfachen, haben wir hier ein paar Tipps, Tricks und eine einfache Einführung vorbereitet. 
 
 ---
-#### 1. Was sind eigentlich soziale und kommunikative Kompetenzen?
+
+### 1. Was sind eigentlich soziale und kommunikative Kompetenzen?
 "Sozial-kommunikative Kompetenz ist die Fähigkeit, sich aus eigenem Antrieb mit anderen zusammen- und auseinanderzusetzen sowie kreativ zu kooperieren und zu kommunizieren. Menschen mit hoher sozial-kommunikativer Kompetenz verstehen andere Menschen und können sich selbst verständlich machen."
       https://www.kodekonzept.com/wissensressourcen/kompetenzfelder/
 
 ---
- #### Was gibt es für sozial-kommunikative Kompetenzen?
+
+#### Was gibt es für sozial-kommunikative Kompetenzen?
+
  * Anpassungsfähigkeit 
  * Beratungsfähigkeit
  * Beziehungsmanagement
@@ -1303,8 +1296,11 @@ Unter diesem Kommentar bitte Soziale Kommunikative Kompetenzen einfuegen
 ---
 
 Zusammengefasst bedeutet dies, ein hohes Engagement in sozialen Situationen zu zeigen und auch kommunikative Fähigkeiten anwenden zu können. Zu kommunikativen Fähigkeiten zählen, dass man Kompromisse eingeht, Durchsetzungsvermögen besitzt und konstruktiv, effektiv sowie bewusst kommuniziert.
+
 ---
+
 #### 1.1. Quiz
+
 Was sind soziale und kommunikative Fähigkeiten?
 
 -[(x)] Konfliktlösung, Teamfähigkeit, Pflichtbewusstsein
@@ -1334,14 +1330,14 @@ Was vermutest Du, ist für eine effektive Gruppenarbeit wichtig?
 [[Anpassungsfähigkeit ]] Anpassungsfähigkeit
 [[Kommunikationsfähigkeit ]] Kommunikationsfähigkeit
 
-
-
 #### Wichtige soziale und kommunikative Kompetenzen für das Studium anhand einer Gruppenarbeit 
+
 ---
 ![Abbildung](https://game-icons.net/icons/000000/ffffff/1x1/delapouite/discussion.png)
 ---
 
 #### Was versteht man unter einem Team?
+
 Ein Team besteht aus Menschen, die gemeinsam arbeiten, kooperieren und die Verantwortung für das Projekt teilen, um ein gemeinsames Ziel zu erreichen.
 
 ---
@@ -1419,11 +1415,11 @@ Was tust Du?
 Unter diesem Kommentar bitte Problemloesung einfuegen
 -->
 
-# Problemlösung
+## Problemlösung
 
 Während des Studiums wird es gelegentlich zu Problemen kommen, die es lösen gelten wird. Ein paar Hilfestellungen dazu findet man hier. 
 
-## Inhaltangabe
+### Inhaltangabe
 
 1. Kompetenzen 
 
@@ -1446,7 +1442,6 @@ Vorgang, Kompetenzen, Problemlösungsstrategien, Stolperfallen, Hilfesuche?/nur 
 - Erfahrung
 
 - Lernwilligkeit
-
 
 ### 2.Vorgehensweise 
 
@@ -1479,6 +1474,7 @@ Während der Lösung eines Problems kann es natürlich auch zu Schwierigkeiten k
 Notfallreaktion, in Sackgasse gearbeitet, Angst um Hilfestellung zu fragen, kommunikation 
 
 (Hilfe zur Internetrecherche)
+
 ### ?.Oft vorkommende Probleme am Anfang des ersten Semesters
 
 (oft vorkommende Fragen in der ersten Zeit)
@@ -1488,6 +1484,7 @@ Campuskarte
 Raum geschlossen 
 
 ### ?.hilfreiche Kontakte/Links
+
 (wichtige Kontakte der fhp)
 IT
 Bib?
