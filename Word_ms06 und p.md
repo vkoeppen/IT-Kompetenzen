@@ -107,8 +107,8 @@ Mögliche Funktionen, unter Reiter **Start**:
 
 - **Online Bilder**
 
-![alt](bilder/Wordv2_Screenshots/Bild_einfügen_aus.png)
 
+![alt](bilder/Wordv2_Screenshots/Bild_einfügen_aus.png)
 --- 
 
 **Dieses Gerät**
@@ -371,21 +371,3 @@ Einfügen der Kommentare:
 > Das Dokument muss auf OneDrive gespeichert sein
 >
 > Die betreffende Person, der Du Dein Dokument freigibst, sollte nachdem Teilen eine E-mail erhalten
-
-
-
-
-
-
-## <center>8. Ansicht</center>
-<Das letzte Thema finde ich nicht besonders wichtig, vielleicht komplett entfernen?>
-
-
-Unter Ansicht kannst Du das Dokument Dir so anzeigen lassen, wie Deine Präferenzen sind. Im Reiter **Seitenbewegung** kannst Du festlegen, ob Deine Seiten im Dokument vertikal oder horizontal wie bei einem Buch angezeigt werden soll. 
-Im **Lesemodus** kannst Du Dich, wie es der Name schon verrät, ganz aufs Lesen Deiner Arbeit konzentrieren. 
-
-![alt](bilder/Ansicht.png)
-
-Der **Plastische Reader** bietet Dir neben der internen Veränderung der Seitenfarbe, dem Text- oder Spaltenabstand ebenso auch eine Silbentrennung an. Auch kannst Du den **Zeilenfokus** aktivieren. Dieser erlaubt Dir, Dich Zeile für Zeile in Deiner Arbeit vorzuarbeiten.
-
-![alt](bilder/Plastische-Reader.png)
