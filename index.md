@@ -66,11 +66,11 @@ Auf den nächsten Seiten wollen wir Dir daher einen kurzen Einblick über einige
 
 Einer der ersten Schritte zum Erstellen Deines Dokumentes, wird die Formatierung sein. Beim Reiter **Start** findest Du alle nötigen Funktionen, um die Grundlagen für Deine Arbeit festlegen zu können. Dazu gehören unter anderem Absätze, Formatvorlagen und die Schrift selbst.
 
-![](./bilder/Formatierung_Schriftart.png)
+![](bilder/Formatierung_Schriftart.png)
 
-![](./bilder/Formatierung_Absatz.png)
+![](bilder/Formatierung_Absatz.png)
 
-![](./bilder/Formatierung_Formatvorlage.png)
+![](bilder/Formatierung_Formatvorlage.png)
 
 ### Einfügen
 
@@ -78,7 +78,7 @@ Auf den nachfolgenden Seiten findest Du Informationen, wie Du einzelne Elemente 
 
 #### Bilder
 
-![](./bilder/word-einfuegen.png)
+![](bilder/word-einfuegen.png)
 
 Bilder werden eingefügt, indem Du im Reiter auf **Bilder** klickst. Daraufhin öffnet sich ein Tab, bei dem Du auswählst: **dieses Gerät** oder **Onlinebilder**. 
 
@@ -90,17 +90,17 @@ Zuerst öffnet sich der Dateiordner. Dort wird die Datei mit dem gewünschten Bi
 
 Hierbei öffnet sich ein weiteres Fenster. In welchem Du entweder über die Suchleiste oder aus vorgefertigten Suchbegriffen ein passendes Bild für Dein Dokument heraussuchst. Du kannst bei der Suche angeben, ob das Bild **Creative Common** sein soll oder nicht.
 
-![](./bilder/Word-Online-Bild.png)
+![](bilder/Word-Online-Bild.png)
 
 #### Tabelle
 
 Tabellen werden eingefügt, indem im Reiter bei **Einfügen** auf die **Tabelle** geklickt wird. Daraufhin öffnet sich ein Tab, bei welchem Du die Anzahl Deiner Spalten und Zeilen auswählen musst.
 
-![](./bilder/Tabelle-erstellen.png)
+![](bilder/Tabelle-erstellen.png)
 
 Danach besteht die Möglichkeit, durch Rechtsklick auf die Tabelle weitere Spalten und Zeilen unter **Einfügen** hinzuzufügen. Außerdem öffnet sich ein neuer Reiter **Tabellenentwurf**, dort können Farbe, Rahmen oder Schattierung einer oder aller Spalten der Tabelle angepasst werden.
 
-![](./bilder/Tabellen-entwurf.png)
+![](bilder/Tabellen-entwurf.png)
 
 #### Diagramme
 
@@ -110,42 +110,42 @@ Den dazugehörigen Punkt findest Du im Reiter bei **Einfügen** > **Diagramme**.
 <!-- class = "callout warning" -->
 > Achte jedoch auf eine simple Gestaltung.
 
-![](./bilder/Diagramme_Word.png)
+![](bilder/Diagramme_Word.png)
 
 Hat man sich für ein Diagramm entschieden, öffnet sich eine zusätzliche Excel-Tabelle, in der Du Deine Forschungsdaten eintragen kannst. Diese werden dann im Diagramm veranschaulicht.
 
-![](./bilder/DiagrammmitExel.png)
+![](bilder/DiagrammmitExel.png)
 
 #### SmartArt
 
 SmartArt ermöglicht eine visuelle Darstellung von Informationen und Bildern. Um sich eine SmartArt-Grafik zu erstellen und anschließend zu verwenden, muss man im Reiter auf **Einfügen** > **SmartArt** klicken. Danach öffnet sich ein Fenster mit vielen verschiedenen Auswahlmöglichkeiten, um seine Informationen perfekt für sich darstellen zu lassen.
 
-![](./bilder/SmartArt.PNG)
+![](bilder/SmartArt.PNG)
 
 Als weiteren Schritt kann man gegebenenfalls seine Grafik nach seinen Vorstellungen anpassen, sei es durch Farbe, eine andere Formatvorlage oder zusätzlichen Formen. 
 
-![](./bilder/SmartArt-Design.PNG)
+![](bilder/SmartArt-Design.PNG)
 
 ### Inhaltsverzeichnis
 
 Um sich das Erstellen oder das Anpassen eines Inhaltsverzeichnisses zu erleichtern, hat Word eine nützliche Funktion für Dich.
 Wechsel im Reiter zu **Referenzen**, dort findest Du ganz links die Funktion ein Inhaltsverzeichnis zu erstellen. Bei Bedarf kann dieses auch aktualisiert werden. Man spart sich somit Zeit und vermeidet eventuelle Fehler. Um seinen Text dem Inhaltsverzeichnis hinzuzufügen, muss man auf **Text einfügen** klicken. 
 
-![](./bilder/Inhaltsverzeichnis1.PNG)
+![](bilder/Inhaltsverzeichnis1.PNG)
 
 ### Zitierung
 
 Das Zitieren von Zitaten oder Textabschnitten ist für viele eine Königsdisziplin beim Erstellen der Arbeiten. Wenn man bei Word jedoch im Reiter auf **Referenzen** geht, findet man die Funktion **Zitat einfügen**. Unter **neue Quelle** kannst Du alle wichtigen Informationen bezüglich Deines Zitates hinzufügen. 
 Mit der zusätzlichen Funktion **Formatvorlage** kann man sich einfach und übersichtlich ein Zitat mit einer direkten Verlinkung zum Inhaltsverzeichnis erstellen.
 
-![](./bilder/Zitieren1.PNG)
+![](bilder/Zitieren1.PNG)
 
 <!-- class = "callout tip" -->
 > Unsere Format Empfehlung beim zitieren, wäre Chicago.
 
 ### Literaturverzeichnis & Abbildungsverzeichnis
 
-![](./bilder/Literaturverzeichnis1.PNG)
+![](bilder/Literaturverzeichnis1.PNG)
 
 Im Literaturverzeichnis kann man natürlich nicht nur seine Zitate hinterlegen, sondern auch alle Literaturquellen, die man verwendet. Dafür erstellst Du Dir erst einmal ein leeres Literaturverzeichnis. Klicke im Reiter auf **Literaturverzeichnis** und sucht Dir erst einmal eine Vorlage aus.
 Deine Quellen kannst Du bei Bedarf jederzeit aktualisieren. Um eine neue Quelle hinzuzufügen oder eine bereits vorhandene zu bearbeiten, klickt man auf **Zitate und Literaturverzeichnis** > **Quellen verwalten**. Im neuen Tab kannst Du dann beliebig Deine Quellen verwalten.
@@ -158,7 +158,7 @@ Solltest Du mal für eine Deiner Arbeiten einen benutzerdefinierten Seitenrand, 
 Ganz links findest Du alles, was mit Seitenrändern oder Absätzen zu tun hat. Dir wird eine vielfältige Auswahl an vorgefertigten Einstellungen geboten. Solltest Du aber andere Vorstellungen oder Angaben haben, dann kann man sie ganz einfach unter **Weitere** oder **Mehr** selbst konfigurieren. 
 Gleich daneben findest Du den Absatzblock. Dabei kannst Du bestimmen, wie weit Dein Absatz nach links, rechts, oben oder unten rücken soll. 
 
-![](./bilder/Layout.png)
+![](bilder/Layout.png)
 
 ### Überprüfung
 
@@ -167,17 +167,17 @@ Neben den Standardfunktionen wie Rechtschreibung und Grammatik oder dem Wörterz
 
 Des Weiteren wollen wir Dir die mögliche Angst vor Fremdsprachen nehmen. Im Reiter unter **Sprache** hast Du die Funktionen **Übersetzen** und **Sprache** zur Verfügung. Gerade der zweite Punkt **Sprache** ist interessant, denn mit dieser Funktion kannst Du ganz einfach Deine Rechtschreib- und Grammatikprüfung in eine andere Sprache umstellen.
 
-![](./bilder/Ueberpruefen.png)
+![](bilder/Ueberpruefen.png)
 
 Anschließend gibt es noch die Kommentar- und Änderungssektion. Unter diesen kannst Du allein oder mit anderen Personen an einem Dokument arbeiten, ohne Euch gegenseitig im Weg zu stehen. 
 
 1. Die Kommentare bieten sich besonders dann an, wenn man sich kleine Anmerkungen für später oder Notizen für andere Personen hinterlegen möchte. Zum Hinzufügen gehe im Reiter zum Punkt **Kommentare** und füge einen Kommentar am Zeilenrand hinzu. Achte darauf, mit der Maus in der richtigen Zeile zu sein. Anschließend wird der von Dir markierte Teil eingefärbt. So verliert niemand den Überblick. Natürlich kannst Du Deine Anmerkungen verändern, löschen oder bei Bedarf auf andere Kommentare reagieren.
 
-![](./bilder/Ueberpruefen1.png)  
+![](bilder/Ueberpruefen1.png)  
 
 2. Die Änderungssektion ist vor allem dann interessant, wenn Du Veränderungen nicht sofort im Text umsetzen willst. Sei es in Einzel- oder Gruppenarbeiten. Die vorläufigen Änderungen können alle auf einmal angenommen oder abgelehnt werden.
    
-![](./bilder/Uberfruefen2.png)
+![](bilder/Uberfruefen2.png)
 
 <!-- class = "callout tip" -->
 > Um ein Dokument einer anderen Person freizugeben, klicke hierbei über dem Reiter auf **Freigeben** > **Freigabe**. Stelle dabei sicher, dass Dein Dokument auf OneDrive gespeichert ist. Die betreffende Person, der Du Dein Dokument freigibst, sollte nachdem Teilen eine E-mail erhalten.
@@ -187,11 +187,11 @@ Anschließend gibt es noch die Kommentar- und Änderungssektion. Unter diesen ka
 Unter Ansicht kannst Du das Dokument Dir so anzeigen lassen, wie Deine Präferenzen sind. Im Reiter **Seitenbewegung** kannst Du festlegen, ob Deine Seiten im Dokument vertikal oder horizontal wie bei einem Buch angezeigt werden soll. 
 Im **Lesemodus** kannst Du Dich, wie es der Name schon verrät, ganz aufs Lesen Deiner Arbeit konzentrieren. 
 
-![](./bilder/Ansicht.png)
+![](bilder/Ansicht.png)
 
 Der **Plastische Reader** bietet Dir neben der internen Veränderung der Seitenfarbe, dem Text- oder Spaltenabstand ebenso auch eine Silbentrennung an. Auch kannst Du den **Zeilenfokus** aktivieren. Dieser erlaubt Dir, Dich Zeile für Zeile in Deiner Arbeit vorzuarbeiten.
 
-![](./bilder/Plastische-Reader.png)
+![](bilder/Plastische-Reader.png)
 
 <!---
 Unter diesem Kommentar bitte Powerpoint einfuegen
@@ -234,7 +234,7 @@ Unter diesem Kommentar bitte Powerpoint einfuegen
 
 {{4}} **Quellen**
 
-### 1. Einstieg
+### Einstieg
 
 **1.1 Festlegung der Kompetenz**
 
@@ -283,7 +283,7 @@ Das Präsentationsprogramm von Microsoft:
 >
 > Stichpunkte müssen lesbar, prägnant und kurz den Inhalt wiedergeben 
 
-### 2. Einfügen von Sprechernotizen
+### Einfügen von Sprechernotizen
 
 ---
 
@@ -295,7 +295,7 @@ Das Präsentationsprogramm von Microsoft:
 - Notiz-Symbol neben **Kommentare** oder je nach Version neben **Anzeigeeinstellungen**
 
 
-#### 2.1 Referenzansicht
+#### Referenzansicht
 
 **Während der Bildschirmpräsentation Notizen einsehbar**
 
@@ -350,7 +350,7 @@ Das Präsentationsprogramm von Microsoft:
 
 [3. Abbildung](https://support.microsoft.com/de-de/office/hinzuf%C3%BCgen-von-sprechernotizen-zu-folien-26985155-35f5-45ba-812b-e1bd3c48928e#:~:text=Klicken%20Sie%20im%20Men%C3%BC%20Ansicht,Sie%20den%20gew%C3%BCnschten%20Notizentext%20ein)
 
-#### 2.2 Aktivierung der Referenzansicht
+#### Aktivierung der Referenzansicht
 
 Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 ![](https://support.content.office.net/de-de/media/6a1333b9-e386-4579-b8f0-051aed6e5ab8.png)
@@ -366,7 +366,7 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 1.Video: [Link zum Tutorial](https://www.microsoft.com/de-de/videoplayer/embed/RWfkz0?pid=ocpVideo1-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&reporting=true&market=de-de)
 
 
-### 3. Erstellen von Animationen
+### Erstellen von Animationen
 
 ---
 
@@ -374,7 +374,7 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 
 [5. Abbildung](https://embed-ssl.wistia.com/deliveries/495e6ff8a0d973e9c08066e811bbeb25.jpg)
 
-#### 3.1 Animation von Bildern und Textfeldern
+#### Animation von Bildern und Textfeldern
 
 - Headline Punkt "Animationen" anklicken
    
@@ -391,7 +391,7 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 
 [6. Abbildung](https://cdn1.participoll.com/wp-content/uploads/2021/01/03123303/Leanne-screenshot-5.jpg)
 
-#### 3.2 Animation/Übergänge zwischen Folien
+#### Animation/Übergänge zwischen Folien
 
    - Headline Punkt; Übergänge auswählen
 
@@ -408,7 +408,7 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 
  [7. Abbildung](https://www.wirliebenoffice.de/images/content/tutorials/powerpoint/008-folienubergang-einfugen.png)
 
-### 4. Quellen
+### Quellen
 ---
 **1.Quelle** 
 
@@ -429,7 +429,7 @@ Unter diesem Kommentar bitte Excel einfuegen
 > 
 >Für eine Hausaufgabe musst du mehrere mathematische Aufgaben lösen. Deine Dozentin gibt dir dafür eine Formel vor, welche du anwenden musst: "a²+b²=c²". So weit, so gut. Du versuchst die Aufgaben mit Stift, Papier und solarbetriebenem Taschenrechner zu lösen, doch bald verlierst du den Überblick. Schlimmer noch: die Ergebnisse deiner Rechnungen scheinen aufeinander aufzubauen und sobald sich an einer Stelle ein Fehler einschleicht musst du einen ganzen Rattenschwanz an Rechnungen noch einmal lösen! Außerdem musst du bei jeder neuen Aufgabe komplett von vorne anfangen zu rechnen. Na toll; jetzt geht die Sonne unter und der Taschenrechner funktioniert nicht mehr richtig. Der Stift ist auch abgebrochen. Geht das nicht mit dem Computer einfacher?
 
-![](./bilder/Excel_MR_02.png "Matheaufgaben treiben viele Studierende zur Verzweiflung.")
+![](bilder/Excel_MR_02.png "Matheaufgaben treiben viele Studierende zur Verzweiflung.")
 
 ### Excel hilft bei komplizierten Formeln
 
@@ -450,7 +450,7 @@ https://de.libreoffice.org/download/download/
 
 Sobald du Excel öffnest siehst du eine große Tabelle. Die senkrecht verlaufenden **Spalten** sind mit Großbuchstaben gekennzeichnet. Die **Zeilen** werden mit Zahlen benannt. Eine einzelne **Zelle** ist ein Bereich, in welchem Spalte und Zeile sich schneiden. Entsprechend hat jede Zelle sozusagen eine Koordinate, welche aus dem Buchstaben der Spalte gefolgt von der Zahl der Zeile besteht (nicht umgekehrt!). Diese Namen der Zellen nennt man **Bezüge**, weil man sich innerhalb von Formeln so auf Zellen beziehen kann.
 
-![](./bilder/Excel_MR_03.png "Rot= Spalte; Orange=Zeile; Lila=Zelle")
+![](bilder/Excel_MR_03.png "Rot= Spalte; Orange=Zeile; Lila=Zelle")
 
 Um zu prüfen, ob du diese Benennungskonvetionen verstanden hast, ergänze den folgenden Text, welcher sich auf dieses Bild bezieht!
 
@@ -469,7 +469,7 @@ Gehen wir ans Eingemachte! In unserem Beispiel sollen wir mit dem Satz des Pytha
 
 Mit dieser Formel werden die Längenverhältnisse der drei Seiten eines gleichschenkligen Dreiecks beschrieben. "a" und "b" sind die Längen der Seiten, welche den rechten Winkel bilden, die sogenannten Katheten. "c" beschreibt die Länge der gegenüberliegenden dritten Seite, der Hypotenuse. Der Zauber dieser Formel liegt darin, dass sie uns ermöglicht die unbekannte Länge einer Seite eines gleichschenkligen Dreiecks zu bestimmen, vorausgesetzt, dass die Längen der beiden anderen Seiten bekannt sind.
 
-![](./bilder/Excel_MR_04.png "Veranschaulichung des Satz des Phytagoras.")
+![](bilder/Excel_MR_04.png "Veranschaulichung des Satz des Phytagoras.")
 
 Deine Dozentin gibt dir verschiedene Werte für "a" und "b" vor, aus welchen du jeweils die Länge von "c" deduzieren sollen.
 
@@ -485,7 +485,7 @@ In einer zweiten Aufgabe sollst du errechnen, welche Werte sich ergeben, wenn de
 
 Um eine Excel-Formel einzuleiten müssen wir den Eintrag einer Zelle mit dem **Gleichheitszeichen (=)** beginnen.
 
-![](./bilder/Excel_MR_05.png "Mit dem Gleichzeichen (=) wird der Beginn einer Formel in einer Zelle markiert.")
+![](bilder/Excel_MR_05.png "Mit dem Gleichzeichen (=) wird der Beginn einer Formel in einer Zelle markiert.")
 
 Verschiedene **Operatoren** stehen uns in einer Formel zur Verfügung. Das sind im Grunde die selben Zeichen, welche wir auch im Matheunterricht kennengelernt haben:
 
@@ -501,7 +501,7 @@ Verschiedene **Operatoren** stehen uns in einer Formel zur Verfügung. Das sind 
 
 Nun haben wir in Zeile C2 schon etwas, was nach dem Satz des Phytagoras aussieht. In Zelle "A2" steht unser Wert für "a", in "B2" steht unser Wert für "b". "C2" Enthält unsere Formel und das Ergebnis von "a²+b²".
 
-![](./bilder/Excel_MR_06.png "In der Formel werden verschiedene Zellen mit Operatoren verbunden.")
+![](bilder/Excel_MR_06.png "In der Formel werden verschiedene Zellen mit Operatoren verbunden.")
 
 ### Funktionen
 
@@ -513,11 +513,11 @@ Wir benötigen die **Funktion**
 
 **Funktionen** beginnen immer mit einem Gleichheitszeichen und werden oft von Klammern gefolgt. 
 
-![](./bilder/Excel_MR_07.png "In diesem Fenster finden sich alle möglichen Excel-Funktionen.")
+![](bilder/Excel_MR_07.png "In diesem Fenster finden sich alle möglichen Excel-Funktionen.")
 
 So haben wir endlich unsere Formel in Excel eingegeben!
 
-![](./bilder/Excel_MR_08.png "Nun können wir den Satz des Phytagoras anwenden.")
+![](bilder/Excel_MR_08.png "Nun können wir den Satz des Phytagoras anwenden.")
 
 ### Ist es mit Excel so viel einfacher?
 
@@ -526,21 +526,21 @@ So haben wir endlich unsere Formel in Excel eingegeben!
 > 
 > Nun hast du einiges über Excel gelernt. Taschenrechner, Stift und Papier hast du gegen den PC getauscht. Aber war es vorher nicht einfacher? Der Taschenrechner hatte ein eigenes Wurzelzeichen und wenn die Sonne draufschien ist er einfach angegangen. Für Stift und Papier brauchtest du keine Kabel und Schaltkreise. Mit ihnen hättest du im tiefsten Wald oder auf dem höchsten Berg deine Aufgaben lösen können, kilometerweit von der nächsten Steckdose entfernt. Die Geheimnisse der Mathematik hätten sich dir mit Stift und Papier genauso erschlossen, wie einst Phytagoras vor tausenden von Jahren. Nun bist du abhängig von Strom, welcher lange nicht nachhaltig gewonnen werden kann. Dein Anspruch auf einen Computer macht dich mitverantwortlich dafür, dass irgendwo auf der Welt Menschen in gefährlichen Minen Kupfer und andere seltene Mineralien der Erde entreißen. Und du hast dich der Omnipräsenz von Microsoft unterworfen. Einem monopolistischen Riesen-Unternehmen, welches mehr Einfluss auf die globale Arbeitskultur hat, als die meisten Staaten. Zudem ist es auch gar nicht so leicht Excel zu lernen. Ist es das überhaupt wert?
 
-![](./bilder/Excel_MR_09.png "Auch Excel treibt viele Studierende zur Verzweiflung.")
+![](bilder/Excel_MR_09.png "Auch Excel treibt viele Studierende zur Verzweiflung.")
 
 ### Formeln ziehen
 
 Existenzkrise beiseite. Im nächsten Schritt sollte klar werden, warum du beim Rechnen mit Excel so viel Zeit sparen kannst! Wir haben auf "Enter" gedrückt und in Zelle "C2" wird endlich unser Ergebnis angezeigt!
 
-![](./bilder/Excel_MR_10.png "So sollte die gelöste Aufgabe aussehen.")
+![](bilder/Excel_MR_10.png "So sollte die gelöste Aufgabe aussehen.")
 
 Wenn wir eine Zelle angewählt haben, erscheint diese grün umrandet. In der unteren, rechten Ecke der Zelle befindet sich dann ein kleines dunkelgrünes Quadrat. Unser Maus-Cursor wird zu einem kleinen schwarzen Kreuz, wenn wir sie über dieses Quadrat bewegen.
 
-![](./bilder/Excel_MR_11.png "Mithilfe der Maus können wir den grünen Kasten erweitern.")
+![](bilder/Excel_MR_11.png "Mithilfe der Maus können wir den grünen Kasten erweitern.")
 
  Nun klicken wir mit der linken Maustaste auf das grüne Quadrat, ziehen den grünen Kasten die Spalte hinunter...
 
-![](./bilder/Excel_MR_12.png "Wir haben die Formel auf weitere Zeilen ergänzt, ohne sie neu schreiben zu müssen.")
+![](bilder/Excel_MR_12.png "Wir haben die Formel auf weitere Zeilen ergänzt, ohne sie neu schreiben zu müssen.")
 
 ... et voila! Ohne viel Aufwand haben wir die Ergebnisse für die anderen Dreiecke ausgerechnet.
 
@@ -569,11 +569,11 @@ Wie gehabt ergibt sich der Bezug auf eine Zelle aus einem (oder mehren) Großbuc
 
 Für unsere Aufgabe brauchen wir einen absoluten Bezug in der Spalte und der Zeile. Dafür tragen wir in die Formel jeweils ein Dollarzeichen ($) vor den Spaltenbezug und vor den Bezug zur Zelle "A2":
 
-![](./bilder/Excel_MR_13.png "Zwei Dollarzeichen verwandeln den relativen Bezug in einen absoluten Bezug hinsichtlich Spalte und Zeile.")
+![](bilder/Excel_MR_13.png "Zwei Dollarzeichen verwandeln den relativen Bezug in einen absoluten Bezug hinsichtlich Spalte und Zeile.")
 
 Wie gehabt ziehen wir die Formel, doch dieses Mal wird etwas anders sein. 
 
-![](./bilder/Excel_MR_14.png "Wenn der Wert in A2 nun verändert würde, würden sich alle Ergebnisse entsprechend verändern, da sie sich auf ihn beziehen.")
+![](bilder/Excel_MR_14.png "Wenn der Wert in A2 nun verändert würde, würden sich alle Ergebnisse entsprechend verändern, da sie sich auf ihn beziehen.")
 
 In "C3" steht nun:
 
@@ -603,7 +603,7 @@ Excel-Formeln bestehen aus verschiedenen [[  Elementen  ]]. [[  Funktionen  ]] b
 > 
 > Du hast die **Elemente der Excel-Formeln** gemeistert!
 
-![](./bilder/Excel_MR_15.png "Nun können dich komplizierte Matheaufgaben nicht mehr aufhalten!")
+![](bilder/Excel_MR_15.png "Nun können dich komplizierte Matheaufgaben nicht mehr aufhalten!")
 
 ### Quellen
 
@@ -916,13 +916,13 @@ Unter diesem Kommentar bitte Software einfuegen
 
 ## Software
 
-![](./bilder/disks_dithered.png "[Original Foto](https://www.flickr.com/photos/57519914@N00/9120429846) von [jepoirrier](https://www.flickr.com/photos/jepoirrier/), lizensiert unter [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).")
+![](bilder/disks_dithered.png "[Original Foto](https://www.flickr.com/photos/57519914@N00/9120429846) von [jepoirrier](https://www.flickr.com/photos/jepoirrier/), lizensiert unter [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).")
 
 In disem Kapitel geht es ganz allgemein um verscheiden Aspekte von Software, die nicht unmittelbar einen konkreten Anwendunsgfall betreffen, aber troztdem bei der Auswahl und Anwendung Software berücksichtigt werden sollten.
 
 ### Hallo Welt
 
-![](./bilder/hello-bob_dithered.png "[Original Bild](https://www.deviantart.com/dagadele/art/His-name-was-Robert-Paulson-575768567) von [dagadele](https://www.deviantart.com/dagadele/gallery)")
+![](bilder/hello-bob_dithered.png "[Original Bild](https://www.deviantart.com/dagadele/art/His-name-was-Robert-Paulson-575768567) von [dagadele](https://www.deviantart.com/dagadele/gallery)")
 
 Software ist eine Ansammlung von Anweisungen, die in einer **Programmiersprachen** geschrieben werden.  Diese Anweisungen bilden Programme, die Computer ausführen, um bestimmte Aufgaben zu erledigen. Software reicht von Betriebssystemen bis zu Anwendungsprogrammen und ermöglicht die **Interaktion von Benutzern mit Computern**. Oftmals erfolgt die Interaktion über eine Grafische Benutzeroberfläche (GUI).
 
@@ -964,7 +964,7 @@ message;
 
 ### Bugs
 
-![](./bilder/guru3-00c06560_dithered.png "Fehlermeldung eines Amiga 500 von Commodore, [Original Foto](https://www.techtravels.org/2013/11/amiga-guru-meditation-number-00000003-00c06560/) von [keith](https://www.techtravels.org/author/keith/)")
+![](bilder/guru3-00c06560_dithered.png "Fehlermeldung eines Amiga 500 von Commodore, [Original Foto](https://www.techtravels.org/2013/11/amiga-guru-meditation-number-00000003-00c06560/) von [keith](https://www.techtravels.org/author/keith/)")
 
 Ein **Bug** (Englisch für Käfer) in der Software ist ein **Fehler oder eine unerwünschte Fehlfunktion**, die dazu führt, dass das Programm nicht wie beabsichtigt arbeitet. Bugs können verschiedene Ursachen haben, darunter Programmierfehler, unerwartete Eingaben (wie in userem I/O Beispiel) oder Inkompatibilitäten zwischen verschiedenen Softwarekomponenten.
 
@@ -999,7 +999,7 @@ Es ist wichtig, dass Nutzer eine gesunde Skepsis und kritische Haltung bewahren.
 
 ### Software für offene Beziehung gesucht
 
-![](./bilder/connect_dithered.png "[Original Bild](https://www.flickr.com/photos/rocksrain/4961264599) von [Gulia](https://www.flickr.com/photos/rocksrain/) lizensiert unter [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)")
+![](bilder/connect_dithered.png "[Original Bild](https://www.flickr.com/photos/rocksrain/4961264599) von [Gulia](https://www.flickr.com/photos/rocksrain/) lizensiert unter [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)")
 
 Der Begriff **"offen"** im Kontext von Software kann verschiedene Bedeutungen haben. Einerseits bezieht es sich auf **Open Source-Software**, bei der der Quellcode für die Öffentlichkeit zugänglich ist, was es interessierten ermöglicht, sie zu überprüfen, zu modifizieren und zu teilen. Andererseits kann "offen" bedeuten, dass eine Software **interoperabel** und mit anderen Systemen **kompatibel** ist. "Offen" kan auch bedeuten, dass eine Software **erweiterbar** ist oder schlicht und einfach, dass deine Daten jederzeit für dich **zugänglich** sind.
 
@@ -1017,7 +1017,7 @@ Eine solche Umgebung hat Vorteile genauso wie Nachteile. Wie schätzt du die Aps
 
 #### Vendor lock-in
 
-![](./bilder/safe_dithered.png "[Original Bild](https://www.flickr.com/photos/15131913@N00/288491653) von [Rob Pongsajapan](https://www.flickr.com/photos/pong/) lizensiert unter [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)")
+![](bilder/safe_dithered.png "[Original Bild](https://www.flickr.com/photos/15131913@N00/288491653) von [Rob Pongsajapan](https://www.flickr.com/photos/pong/) lizensiert unter [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)")
 
 "Vendor lock-in" bezieht sich auf die Situation, in der ein Anwender so stark von einem bestimmten Anbieter (Vendor) abhängig ist, dass es schwierig oder kostspielig wird, zu einem anderen Anbieter zu wechseln.
 
@@ -1034,7 +1034,7 @@ Es macht also Sinn, sich ein wenig mit der Software auseinander zu setzten, bevo
 
 #### Open-Source Software
 
-![](./bilder/6731974561_158e4f17b8_o_dithered.png "[Original Bild](https://www.flickr.com/photos/opensourceway/6731974561/) von [opensourceway](https://www.flickr.com/photos/opensourceway/) lizensiert unter [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)")
+![](bilder/6731974561_158e4f17b8_o_dithered.png "[Original Bild](https://www.flickr.com/photos/opensourceway/6731974561/) von [opensourceway](https://www.flickr.com/photos/opensourceway/) lizensiert unter [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)")
 
 Es muss nicht immer die vorinstallierte App von Microsoft oder Apple sein. Open-Source Software (OSS) bietet eine Reihe von Vorteilen:
 
@@ -1080,7 +1080,7 @@ Hardware beschreibt die physischen Komponenten von datenverarbeitenden Systemen 
 
 ![](https://www.esm-computer.de/magazin/wp-content/uploads/2021/06/Elektroschrott_title_scale.jpg)
 
-### 1. USB-Sticks
+### USB-Sticks
 
 Es gibt viele verschiedene Arten von USB-Sticks die sehr unterschiedliche Verwendungszwecke haben. Zum Beispiel sind USB-Sticks in der Lage eine Bluetooth-Maus mit dem Computer zu verbinden oder
 dem Computer Zugang zum Internet zu gewähren. Doch der wohl am häufigsten verwendete USB-Stick ist der USB-Speicherstick. Dieser fungiert als eine kleine externe Festplatte, die dazu in der Lage ist mehrere
@@ -1094,7 +1094,7 @@ Einen USB-Stick zu formatieren ist keine schwere Aufgabe. Vorher sollte sicherge
 2. Wähle *Formatieren* aus
 3. im letzten Schritt muss ein Dateisystem ausgewählt werden. Hierbei empfiehlt sich FAT32, da es von vielen verschiedenen Systemen gelesen werden kann.
 
-### 2. Anschlüsse
+### Anschlüsse
 
 Hinter welchem der folgenden Kürzel versteckt sich kein Computeranschluss?
 
@@ -1125,7 +1125,7 @@ Audiosignale werden mit Mini-Klinken-Buchsen übertragen. Diese können sowohl A
 
 Zu guter Letzt gibt es noch den **Ethernet** Anschluss, welcher es ermöglicht den Computer via Kabel mit einem Rechnernetzwerk oder dem Internet zu verbinden. 
 
-----------------
+
 
 Das Gute an den vielen verschiedenen Anschlüssen ist, dass sie alle sehr unterschiedliche Formen haben und es deswegen fast unmöglich ist Geräte falsch anzuschließen!
 
@@ -1142,12 +1142,12 @@ Quelle:"Schreiben digital", Julian Kücklich, Lizenz: CC0 1.0, https://api.openv
 {{|>}} 
 Zu den Kompetenzen, die für das Studium besonders wichtig sind, zählt die **Recherchekompetenz**. Heutzutage können wir eine breite Masse an Informationen sehr schnell und einfach abrufen, aber beispielsweise beim Schreiben einer Hausarbeit oder bei der Literatursuche für das Erstellen einer Bachelorarbeit, benötigen wir aussagekräftige und belegbare Informationen. Daher werde ich in diesem Vortrag das Thema Recherche etwas näher beleuchten.
 
----
+
 
 ### Richtig recherchieren
 
 Der Ablauf einer Recherche
----
+
 {{1}}  Was ist das Ziel meiner Recherche? 
 
 {{2}}  Wie recherchiere ich?
@@ -1201,18 +1201,16 @@ Datenbanken, Repositorien, Zeitschriftendatenbanken
 
 [Das deutsche digitale Zeitschriftenarchiv](https://www.digizeitschriften.de/)
 
----
+
 > **Weiterer Tipp: Boolesche Operatoren**
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/17/Boolean_logic.svg)
 Quelle: "Boolean logic", Jakub T. Jankiewicz, Lizenz: CC BY-SA 4.0,
 https://upload.wikimedia.org/wikipedia/commons/1/17/Boolean_logic.svg
 
----
 
 ### Wie dokumentiere ich meine Ergebnisse?
 
----
 Die gefundene Literatur muss auch dokumentiert werden, damit sie später ausgewertet und genutzt werden kann. Neben der *schriftlichen Dokumentation* ist die Verwendung eines *Dateimanagementsystems* auf dem Computer sinnvoll.
 
 !?[alt](https://www.youtube.com/watch?v=FnLswdk_Kq4)
@@ -1226,7 +1224,6 @@ Quelle: "Eine Recherche dokumentieren", Heike Baller, Lizenz:  CC BY-SA 3.0, htt
 |       |             |         |          |                                |
 |       |             |         |          |                                |
 
----
 
 > **Mit Hilfe von Literaturverwaltungsprogrammen lässt sich die Literatur noch einfacher verwalten:**
 
@@ -1238,7 +1235,6 @@ Quelle: "Eine Recherche dokumentieren", Heike Baller, Lizenz:  CC BY-SA 3.0, htt
 
 ### Wie kann ich die gefundenen Quellen bewerten?
 
----
 Zum Schluss prüft man, ob die gesammelte Literatur zum anfangs definierten Rechercheziel passt. Sind die Informationen ~~relevant~~ für meine Recherche? Außerdem sollten die enthaltenen Informationen ~~glaubwürdig~~ und auf einem ~~aktuellem~~ Stand sein.
 
 !?[alt](https://www.youtube.com/watch?v=iLzhv50msH0&list=PLuizG2TMVpRNmJbYfp0-VHQJBrejfwvN-&index=5)
@@ -1248,7 +1244,6 @@ Quelle: "Quellenbewertung in der Literaturrecherche", Universitätsbibliothek Ma
 > **Merke: Kritische Quellenbewertung**
 
 Es gibt bestimmte Kriterien, an denen man "gute" Quellen erkennt:
----
 - Ort der Auffindbarkeit, z.B. Fachliteratur aus der Bibliothek
 - Aktualität der Quelle (aktueller Forschungsstand)
 - Herkunft der Quelle (Wer ist der Autor und warum hat er das Werk verfasst?)
@@ -1273,13 +1268,11 @@ Unter diesem Kommentar bitte Soziale Kommunikative Kompetenzen einfuegen
 {{|>}} 
  Im Studium werden immer wieder Skills erwartet, wie zum Beispiel die Präsentation des eigenen Projekts, das Managen von Gruppenarbeiten oder auch die konstruktive sowie effektive Kommunikation. Um Dir deinen Start zu vereinfachen, haben wir hier ein paar Tipps, Tricks und eine einfache Einführung vorbereitet. 
 
----
 
-### 1. Was sind eigentlich soziale und kommunikative Kompetenzen?
+### Was sind eigentlich soziale und kommunikative Kompetenzen?
 "Sozial-kommunikative Kompetenz ist die Fähigkeit, sich aus eigenem Antrieb mit anderen zusammen- und auseinanderzusetzen sowie kreativ zu kooperieren und zu kommunizieren. Menschen mit hoher sozial-kommunikativer Kompetenz verstehen andere Menschen und können sich selbst verständlich machen."
       https://www.kodekonzept.com/wissensressourcen/kompetenzfelder/
 
----
 
 #### Was gibt es für sozial-kommunikative Kompetenzen?
 
@@ -1298,13 +1291,11 @@ Unter diesem Kommentar bitte Soziale Kommunikative Kompetenzen einfuegen
  * Teamfähigkeit
  * Verständnisfähigkeit
 
----
 
 Zusammengefasst bedeutet dies, ein hohes Engagement in sozialen Situationen zu zeigen und auch kommunikative Fähigkeiten anwenden zu können. Zu kommunikativen Fähigkeiten zählen, dass man Kompromisse eingeht, Durchsetzungsvermögen besitzt und konstruktiv, effektiv sowie bewusst kommuniziert.
 
----
 
-#### 1.1. Quiz
+#### Quiz
 
 Was sind soziale und kommunikative Fähigkeiten?
 
@@ -1438,7 +1429,7 @@ Während des Studiums wird es gelegentlich zu Problemen kommen, die es lösen ge
 
 Vorgang, Kompetenzen, Problemlösungsstrategien, Stolperfallen, Hilfesuche?/nur Fh?/ oft vorkommende Problemme am Anfang des Studiums 
 
-### 1.benötigte Kompetenzen 
+### benötigte Kompetenzen 
 
 - analytisches Denken
 
@@ -1451,7 +1442,7 @@ Vorgang, Kompetenzen, Problemlösungsstrategien, Stolperfallen, Hilfesuche?/nur 
 - Lernwilligkeit
 
 
-### 2.Vorgehensweise 
+### Vorgehensweise 
 
 1. Identifizierung des Problems
 
@@ -1461,7 +1452,7 @@ Vorgang, Kompetenzen, Problemlösungsstrategien, Stolperfallen, Hilfesuche?/nur 
 
 4. Umsetzung des Plans 
 
-### 3.Problemlösungsstrategien           
+### Problemlösungsstrategien           
 
 Wenn man vor einem Problem steht, kann man verschiedene Strategien verwenden, um zu einer Lösung zu kommen. Du bist natürlich nicht verpflichtet sie zu nutzen, sie können jedoch hilfreich sein, wenn man noch nicht weiß, wie man vorgehen soll. 
 
@@ -1497,7 +1488,7 @@ Welche Problemlösung sollte man anwenden, wenn man den eigenen Vortschritt im A
 [( )] Steigermethode/Treppensteigermethode 
 [( )] Teilstückbearbeitungsmethode/Rolltreppenmethode 
 
-### 4.Oft vorkommende Probleme am Anfang des ersten Semesters
+### Oft vorkommende Probleme am Anfang des ersten Semesters
 
 Ich kann mich noch nicht zu meinen Prüfungen anmelden. 
 
@@ -1519,7 +1510,7 @@ Ich bin krank geworden und kann nicht an den Kursen/der Prüfung teilnehmen. Bra
 
 Solange bei Kursen keine Anwesenheitspflicht ist, muss man keine Krankschreibung vorlegen. Ob der Dozent in solchen Fällen mitgeteilt bekommen möchte wenn man fehlt, ist je nach Dozent unterschiedlich und wird meist mit ihm abgesprochen. Ausnahmen bilden allerdings Prüfungsleistungen die während der Unterrichtszeit  stattfinden (zum Beispiel ein Test) bei dem man wieder eine Krankschreibung vorlegen muss um die Prüfungsleistung nachholen zu dürfen. Bei Prüfungsleistungen (wie einer Klausur) muss beim [Prüfungsservice](https://www.fh-potsdam.de/studium-weiterbildung/studienorganisation/pruefungs-service "Prüfungsservice") (HG Raum 017-020) das Original der Krankschreibung innerhalb von drei Werktagen einreichen. Dabei müssen zusätzliche Informationen (Name, Matrikelnummer, Modulname, Tag der Prüfung, Name des Prüfers) angegeben werden. Eine zusätzliche Kopie der Krankschreibung muss beim Dozenten abgegeben werden. 
 
-### 5.hilfreiche Kontakte/Links
+### hilfreiche Kontakte/Links
 
 Falls ihr mal Probleme habt könnt ihr euch auch hier melden: 
 
@@ -1529,7 +1520,7 @@ Falls ihr mal Probleme habt könnt ihr euch auch hier melden:
 
 [Bibliothek](https://www.fh-potsdam.de/campus-services/bibliothek): Die Hochschulbibliothek der FHP befindet sich im Hauptgebäude und stellt Studierenden, Mitarbeitern und Interessierten weitgehende, den Fachbereichen relevante Informationen zur Verfügung. Zusätzlich bitten sie noch weitere Dienstleistungen wie Schulungen oder Recherche-Sprechstunden an. Die Bibliothek beinhaltet ebenfalls zwei Coworkingspaces (von denen einer speziel für Familien gestaltet wurde), Drucker und Scanner. Literaturvorschläge können eingereicht werden, das hierfür notwendige Formular befindet sich auf der Website der FHP. 
 
-### 8.Quellen 
+### Quellen 
 
 https://www.fh-potsdam.de/studium-weiterbildung/studienorganisation (zuletzt aufgerufen am 9.01.24) 
 https://www.fh-potsdam.de/campus-services/it-service (zuletzt aufgerufen am 09.01.24) 
