@@ -45,10 +45,10 @@ Auf den nächsten Seiten wollen wir Dir daher einen kurzen Einblick über einige
 
 {{2}}[**Einfügen**](#einfügen)
 
-- **Bilder**
-- **Tabelle**
-- **Diagramme**
-- **SmartArt**
+- **2.1 Bilder**
+- **2.2 Tabelle**
+- **2.3 Diagramme**
+- **2.4 SmartArt**
 
 {{3}}[**Inhaltsverzeichnis**](#inhaltsverzeichnis)
 
@@ -209,7 +209,7 @@ Unter diesem Kommentar bitte Powerpoint einfuegen
 
 {{1}} **Einstieg**
 
-- **1.1Festlegung der Kompetenz**
+- **1.1 Festlegung der Kompetenz**
 
 - **1.2 Fragestellung**
 
