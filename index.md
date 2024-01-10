@@ -899,6 +899,11 @@ _Hinweis_
 
 Um eine Archivdatei wieder zu entpacken, wähle mit Rechtsklick die Aktion "Hier entpacken" im Kontextmenü aus.
 
+#### Quellen
+1. https://www.giga.de/extra/linux/tipps/linux-archive-zip-tar-gz-erstellen-oeffnen-und-entpacken-so-gehts/
+2. https://support.apple.com/de-de/guide/mac-help/mchlp2528/mac
+3. https://support.microsoft.com/de-de/windows/zippen-und-entzippen-von-dateien-8d28fa72-f2f9-712f-67df-f80cf89fd4e5
+
 #### Übung
 
 {{|>}}
