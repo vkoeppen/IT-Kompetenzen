@@ -175,9 +175,7 @@ Die **relativen Bezüge** auf die Werte in der Spalte "B" haben sich verändert,
 > Du hast die Hausaufgaben deiner Dozentin erledigt. Doch um zu sehen, ob du die **Elemente der Excel-Formeln** erfolgreich gemeistert hast, trage die folgenden Begriffe fehlerfrei in den Lückentext ein! (Mit "Copy and Paste" geht es einfacher!)
 
 
-<kbd>Operatoren</kbd><kbd>Konstanten</kbd><kbd>Bezüge</kbd><kbd>Funktionen</kbd><kbd>Elementen</kbd><kbd>relative</kbd><kbd>absolute</kbd>
-
-Excel-Formeln bestehen aus verschiedenen [[  Elementen  ]]. [[  Funktionen  ]] beginnen immer mit einem Gleichheitszeichen (=). Einträge wie Zahlen, Texte oder Schriftzeichen verändern sich beim Ziehen einer Formel nicht und werden deshalb [[  Konstanten  ]] genannt. Im Gegensatz dazu verändern sich [[  relative  ]] [[  Bezüge  ]], sobald eine Funktion gezogen wird. Mit einem "$" gekennzeichnete [[  absolute  ]] [[  Bezüge  ]] widerum bleiben auch beim Ziehen einer Formel gleich. Mit [[  Operatoren  ]] können die verschiedenen Elemente einer Formel mathematisch oder logisch miteinander in Bezug gesetzt werden.
+l
 ## Excel-Formeln
 <!-- class = "callout Info with-title" -->
 > Glückwunsch!

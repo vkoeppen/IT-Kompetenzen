@@ -422,19 +422,19 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 Unter diesem Kommentar bitte Excel einfuegen
 -->
 
-## Excel-Formeln
+##  Mathehausaufgaben im Studium?
 
-<!-- class = "callout danger with-title" -->
-> Mathehausaufgaben im Studium?
+<!-- class = "callout danger" -->
+>
 > 
 >Für eine Hausaufgabe musst du mehrere mathematische Aufgaben lösen. Deine Dozentin gibt dir dafür eine Formel vor, welche du anwenden musst: "a²+b²=c²". So weit, so gut. Du versuchst die Aufgaben mit Stift, Papier und solarbetriebenem Taschenrechner zu lösen, doch bald verlierst du den Überblick. Schlimmer noch: die Ergebnisse deiner Rechnungen scheinen aufeinander aufzubauen und sobald sich an einer Stelle ein Fehler einschleicht musst du einen ganzen Rattenschwanz an Rechnungen noch einmal lösen! Außerdem musst du bei jeder neuen Aufgabe komplett von vorne anfangen zu rechnen. Na toll; jetzt geht die Sonne unter und der Taschenrechner funktioniert nicht mehr richtig. Der Stift ist auch abgebrochen. Geht das nicht mit dem Computer einfacher?
 
 ![](./bilder/Excel_MR_02.png "Matheaufgaben treiben viele Studierende zur Verzweiflung.")
 
-### Excel-Formeln
+### Excel hilft bei komplizierten Formeln
 
-<!-- class = "callout tip with-title" -->
-> Excel hilft bei komplizierten Formeln
+<!-- class = "callout tip" -->
+> 
 > 
 > Vor Mathe wirst du in den meisten Studiengängen nicht verschont bleiben. Dafür bietet dir die Fachhochschule Potsdam eine Lizenz für Microsoft 365, in welcher das Programm **Excel** enthalten ist. Sobald du den Status eines Studierenden hast, kannst du dir auf der Seite der Fachhochschule Zugang verschaffen, indem du diesem Link folgst:
 https://www.fh-potsdam.de/campus-services/it-service/softwarelizenzen/microsoft-365
@@ -446,7 +446,7 @@ https://www.fh-potsdam.de/campus-services/it-service/softwarelizenzen/microsoft-
 Im Folgenden soll erklärt werden, wie du Formeln mit **Excel** löst, da du ohnehin als Studierender eine Lizenz bekommst. Falls du kein Fan von Windows bist kannst du alternativ auch mit dem Tabellenkalkulationsprogramm **Calc** von Libre Office arbeiten. Es funktioniert ähnlich, aber nicht exakt wie **Excel** und du kannst es unter folgenden Link herunterladen:
 https://de.libreoffice.org/download/download/
 
-### Excel-Formeln
+### Tabellen
 
 Sobald du Excel öffnest siehst du eine große Tabelle. Die senkrecht verlaufenden **Spalten** sind mit Großbuchstaben gekennzeichnet. Die **Zeilen** werden mit Zahlen benannt. Eine einzelne **Zelle** ist ein Bereich, in welchem Spalte und Zeile sich schneiden. Entsprechend hat jede Zelle sozusagen eine Koordinate, welche aus dem Buchstaben der Spalte gefolgt von der Zahl der Zeile besteht (nicht umgekehrt!). Diese Namen der Zellen nennt man **Bezüge**, weil man sich innerhalb von Formeln so auf Zellen beziehen kann.
 
@@ -461,7 +461,7 @@ In rot gezeigt wird die Spalte [[  A  ]]. Orange ist die Zeile [[  3  ]]. Die li
 > 
 >Auf einem Tabellenblatt in Excel kannst du mit **1.048.576 Zeilen** und **16.384 Spalten** arbeiten. Das bedeutet, die Zelle, welche am weitesten unten rechts auf dem Tabellenblatt liegt heißt: **"XFD1048576"**!
 
-### Excel-Formeln
+### Eine Beispielaufgabe
 
 Gehen wir ans Eingemachte! In unserem Beispiel sollen wir mit dem Satz des Pythagoras arbeiten. Dieser besagt:
 
@@ -481,7 +481,7 @@ Deine Dozentin gibt dir verschiedene Werte für "a" und "b" vor, aus welchen du 
 
 In einer zweiten Aufgabe sollst du errechnen, welche Werte sich ergeben, wenn der Wert von "a" bleibt wie bei dem ersten Dreieck.
 
-### Excel-Formeln
+### Operatoren
 
 Um eine Excel-Formel einzuleiten müssen wir den Eintrag einer Zelle mit dem **Gleichheitszeichen (=)** beginnen.
 
@@ -503,7 +503,7 @@ Nun haben wir in Zeile C2 schon etwas, was nach dem Satz des Phytagoras aussieht
 
 ![](./bilder/Excel_MR_06.png "In der Formel werden verschiedene Zellen mit Operatoren verbunden.")
 
-### Excel-Formeln
+### Funktionen
 
 Doch gefragt ist nicht nach "c²"! Wir müssen noch eine Wurzel ziehen! Dafür müssen wir nicht nach einem Wurzel-Zeichen auf dem Keyboard suchen. Stattdessen klicken wir auf das **Formelzeichen (fx)** neben der Eingabezeile. Es erscheint ein Fenster, welches uns erlaubt aus allen **Funktionen** auszuwählen, welche Excel zu bieten hat.
 
@@ -519,16 +519,16 @@ So haben wir endlich unsere Formel in Excel eingegeben!
 
 ![](./bilder/Excel_MR_08.png "Nun können wir den Satz des Phytagoras anwenden.")
 
-### Excel-Formeln
+### Ist es mit Excel so viel einfacher?
 
-<!-- class = "callout danger with-title" -->
-> Ist es mit Excel so viel einfacher?
+<!-- class = "callout danger" -->
+> 
 > 
 > Nun hast du einiges über Excel gelernt. Taschenrechner, Stift und Papier hast du gegen den PC getauscht. Aber war es vorher nicht einfacher? Der Taschenrechner hatte ein eigenes Wurzelzeichen und wenn die Sonne draufschien ist er einfach angegangen. Für Stift und Papier brauchtest du keine Kabel und Schaltkreise. Mit ihnen hättest du im tiefsten Wald oder auf dem höchsten Berg deine Aufgaben lösen können, kilometerweit von der nächsten Steckdose entfernt. Die Geheimnisse der Mathematik hätten sich dir mit Stift und Papier genauso erschlossen, wie einst Phytagoras vor tausenden von Jahren. Nun bist du abhängig von Strom, welcher lange nicht nachhaltig gewonnen werden kann. Dein Anspruch auf einen Computer macht dich mitverantwortlich dafür, dass irgendwo auf der Welt Menschen in gefährlichen Minen Kupfer und andere seltene Mineralien der Erde entreißen. Und du hast dich der Omnipräsenz von Microsoft unterworfen. Einem monopolistischen Riesen-Unternehmen, welches mehr Einfluss auf die globale Arbeitskultur hat, als die meisten Staaten. Zudem ist es auch gar nicht so leicht Excel zu lernen. Ist es das überhaupt wert?
 
 ![](./bilder/Excel_MR_09.png "Auch Excel treibt viele Studierende zur Verzweiflung.")
 
-### Excel-Formeln
+### Formeln ziehen
 
 Existenzkrise beiseite. Im nächsten Schritt sollte klar werden, warum du beim Rechnen mit Excel so viel Zeit sparen kannst! Wir haben auf "Enter" gedrückt und in Zelle "C2" wird endlich unser Ergebnis angezeigt!
 
@@ -554,7 +554,7 @@ und entsprechend in "C4"
 
 Die Formel hat beim Ziehen ihre **Bezüge** geändert. Die anderen **Elemente** der Formel sind gleich geblieben: Die **Funktion "=Wurzel()"** ist geblieben, genauso wie die Operatoren **"+"** und **"^"**. Die **"2"** wird, wie alle anderen **Zahlen**, **Daten** und **Schriftzeichen** in einer Formel, **Konstante** genannt und verändert sich ebenfalls nicht beim Ziehen der Funktion. Nur die **Bezüge** auf andere Zellen. Dies ist einer der Gründe, warum es so praktisch ist, Excel zu lernen. Deine Dozentin kann dir hunderte Aufgaben mit der selben Formel stellen. Solange es nicht mehr als 1.048.576 sind, bedeutet das für dich mit Excel-Formeln kaum mehr Aufwand als eine einzige Aufgabe zu rechnen!
 
-### Excel-Formeln
+### Bezüge
 
 Ganz fertig sind wir allerdings noch nicht. Deine Dozentin will, dass du ausrechnest, welche Werte herauskämen, wenn der Wert "a" bliebe wie beim ersten Dreieck. Wir könnten alles noch einmal machen wie gehabt, nur dass wir statt "A2^2" in die Formel einen konstanten Wert schreiben, wie "14,8". Aber was, wenn in einem weiteren Schritt dieser Wert verändert werden soll und es eben auf den Bezug auf die Seite "a" des ersten Dreiecks ankommt?
 
@@ -585,10 +585,10 @@ und in "C4" steht:
 
 Die **relativen Bezüge** auf die Werte in der Spalte "B" haben sich verändert, doch die **absoluten Bezüge** auf die Werte in Zelle "A2" sind gleich geblieben.
 
-### Excel-Formeln
+### Fast geschafft!
 
-<!-- class = "callout danger with-title" -->
-> Fast geschafft!
+<!-- class = "callout danger" -->
+> 
 > 
 > Du hast die Hausaufgaben deiner Dozentin erledigt. Doch um zu sehen, ob du die **Elemente der Excel-Formeln** erfolgreich gemeistert hast, trage die folgenden Begriffe fehlerfrei in den Lückentext ein! (Mit "Copy and Paste" geht es einfacher!)
 
@@ -596,10 +596,10 @@ Die **relativen Bezüge** auf die Werte in der Spalte "B" haben sich verändert,
 
 Excel-Formeln bestehen aus verschiedenen [[  Elementen  ]]. [[  Funktionen  ]] beginnen immer mit einem Gleichheitszeichen (=). Einträge wie Zahlen, Texte oder Schriftzeichen verändern sich beim Ziehen einer Formel nicht und werden deshalb [[  Konstanten  ]] genannt. Im Gegensatz dazu verändern sich [[  relative  ]] [[  Bezüge  ]], sobald eine Funktion gezogen wird. Mit einem "$" gekennzeichnete [[  absolute  ]] [[  Bezüge  ]] widerum bleiben auch beim Ziehen einer Formel gleich. Mit [[  Operatoren  ]] können die verschiedenen Elemente einer Formel mathematisch oder logisch miteinander in Bezug gesetzt werden.
 
-### Excel-Formeln
+### Glückwunsch!
 
-<!-- class = "callout Info with-title" -->
-> Glückwunsch!
+<!-- class = "callout Info" -->
+> 
 > 
 > Du hast die **Elemente der Excel-Formeln** gemeistert!
 
