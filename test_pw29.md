@@ -16,12 +16,10 @@ import:   https://github.com/liascript/CodeRunner
 {{|>}} 
  Im Studium werden immer wieder Skills erwartet, wie zum Beispiel die Präsentation des eigenen Projekts, das Managen von Gruppenarbeiten oder auch die konstruktive sowie effektive Kommunikation. Um Dir deinen Start zu vereinfachen, haben wir hier ein paar Tipps, Tricks und eine einfache Einführung vorbereitet. 
 
----
 #### 1. Was sind eigentlich soziale und kommunikative Kompetenzen?
 "Sozial-kommunikative Kompetenz ist die Fähigkeit, sich aus eigenem Antrieb mit anderen zusammen- und auseinanderzusetzen sowie kreativ zu kooperieren und zu kommunizieren. Menschen mit hoher sozial-kommunikativer Kompetenz verstehen andere Menschen und können sich selbst verständlich machen."
       https://www.kodekonzept.com/wissensressourcen/kompetenzfelder/
 
----
  #### Was gibt es für sozial-kommunikative Kompetenzen?
  * Anpassungsfähigkeit 
  * Beratungsfähigkeit
@@ -38,10 +36,9 @@ import:   https://github.com/liascript/CodeRunner
  * Teamfähigkeit
  * Verständnisfähigkeit
 
----
 
 Zusammengefasst bedeutet dies, ein hohes Engagement in sozialen Situationen zu zeigen und auch kommunikative Fähigkeiten anwenden zu können. Zu kommunikativen Fähigkeiten zählen, dass man Kompromisse eingeht, Durchsetzungsvermögen besitzt und konstruktiv, effektiv sowie bewusst kommuniziert.
----
+
 #### 1.1. Quiz
 Was sind soziale und kommunikative Fähigkeiten?
 
@@ -63,7 +60,6 @@ Was vermutest Du, ist für eine effektive Gruppenarbeit wichtig?
 -[( )] Kritik ohne Lösungsvorschläge
 -[(x)] Offene Kommunikation und Zusammenarbeit 
 
-=======
 #### Wähle nun die Fähigkeiten aus, die Du bereits besitzt!
 
 [[Durchsetzungsvermögen ]] Durchsetzungsvermögen
@@ -76,14 +72,12 @@ Was vermutest Du, ist für eine effektive Gruppenarbeit wichtig?
 
 
 #### Wichtige soziale und kommunikative Kompetenzen für das Studium anhand einer Gruppenarbeit 
----
+
 ![Abbildung](https://game-icons.net/icons/000000/ffffff/1x1/delapouite/discussion.png)
----
 
 #### Was versteht man unter einem Team?
 Ein Team besteht aus Menschen, die gemeinsam arbeiten, kooperieren und die Verantwortung für das Projekt teilen, um ein gemeinsames Ziel zu erreichen.
 
----
 
 ![Abbildung](https://gamepedia.cursecdn.com/halo_esports_gamepedia_en/3/3f/Unknown_Infobox_Image_-_Team.png)
 
@@ -123,7 +117,7 @@ Wichtige Elemente dafür sind:
 [[x]] Klare Rollen und Aufgabenverteilung
 [[x]] Kommunikation
 
----
+
 __Übung zu Verhalten und Rollen innerhalb einer Gruppe__
 
 Szenario 1
