@@ -199,11 +199,9 @@ Unter diesem Kommentar bitte Powerpoint einfuegen
 
 ## Powerpoint
 
----
+![](https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png)
 
-![](https://play-lh.googleusercontent.com/6pTX4OILXTxazqad66oiVfG4x2KpYn4kIPgdzOe173tT0oHr2ThwpBhMyzzzxWq_r6M)
-
-[1. Abbildung](https://play.google.com/store/apps/details?id=com.microsoft.office.powerpoint&hl=de)
+["Microsoft PowerPoint Logo" by UT Dallas, licensed under CC BY-SA 4.0.](https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png)
 
 ### Inhaltsverzeichnis
 
@@ -244,7 +242,6 @@ Die Festlegung der Kompetenzen im Bereich Softwareanwendungen, die im Kurs; _"We
 
 Im folgendem Beitrag haben wir uns mit der Kompetenz **"Powerpoint"** auseinander- gesetzt und uns jeweils auf ein bestimmtes Thema reduziert.  
 
----
 
 **1.2 Fragestellung**
 
@@ -259,7 +256,7 @@ Wie sehr beschäftigst Du dich in Deinem Berufs- oder Alltagsleben mit dem Progr
 
 [[______   ___   ___   ______]]
 
----
+
 
 **1.3 Allgemeines**
 
@@ -270,7 +267,7 @@ Das Präsentationsprogramm von Microsoft:
 - Mobile-Version: App für Android und iOS 
 **Aktuellste Version**: PowerPoint 2019
 
----
+
 
 **1.4 Ziel des Themas**
 
@@ -285,21 +282,18 @@ Das Präsentationsprogramm von Microsoft:
 
 ### Einfügen von Sprechernotizen
 
----
+
+![](bilder/Powerpoint_Screenshots/Schreiben_von_Notizen.png)
 
 
-![](https://support.content.office.net/de-de/media/9a7ee826-15f3-4422-88df-e3c86ed28e76.png)
-
-[2. Abbildung](https://support.microsoft.com/de-de/office/hinzuf%C3%BCgen-von-sprechernotizen-zu-folien-26985155-35f5-45ba-812b-e1bd3c48928e#:~:text=Klicken%20Sie%20im%20Men%C3%BC%20Ansicht,Sie%20den%20gew%C3%BCnschten%20Notizentext%20ein)
-
-- Notiz-Symbol neben **Kommentare** oder je nach Version neben **Anzeigeeinstellungen**
+- Notiz-Symbol anklicken; **Notizen**
 
 
 #### Referenzansicht
 
 **Während der Bildschirmpräsentation Notizen einsehbar**
 
----
+
 
 **Unter:**
 <lia-keep>
@@ -324,18 +318,24 @@ Das Präsentationsprogramm von Microsoft:
 </tr>
 <tr>
 	<td><center><b>1.</b></center></td>
-	<td><center>Von Beginn an</center></td>
+	<td><center><b>Reiter:</b> Bildschirmpräsentation</center></td>
 </tr>
 
 </tr>
 <tr>
 	<td><center><b>2.</b></center></td>
-	<td><center>Drei-Punkte-Symbol</center></td>
+	<td><center><b>Von Beginn an</b> oder <b>ab aktueller Folie</b></center></td>
 </tr>
 
 </tr>
 <tr>
 	<td><center><b>3.</b></center></td>
+	<td><center>Drei-Punkte-Symbol</center></td>
+</tr>
+
+</tr>
+<tr>
+	<td><center><b>4.</b></center></td>
 	<td><center>Referenzansicht zeigen</center></td>
 </tr>
 </table>
@@ -343,21 +343,18 @@ Das Präsentationsprogramm von Microsoft:
 </html>
 </lia-keep> 
 
----
+
 
 **Beispiel:**
-![](https://support.content.office.net/de-de/media/ad074b3d-78e1-45d2-a514-c990d04818fd.png)
+![](bilder/Powerpoint_Screenshots/Referenzansicht.png)
 
-[3. Abbildung](https://support.microsoft.com/de-de/office/hinzuf%C3%BCgen-von-sprechernotizen-zu-folien-26985155-35f5-45ba-812b-e1bd3c48928e#:~:text=Klicken%20Sie%20im%20Men%C3%BC%20Ansicht,Sie%20den%20gew%C3%BCnschten%20Notizentext%20ein)
 
 #### Aktivierung der Referenzansicht
 
 Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
-![](https://support.content.office.net/de-de/media/6a1333b9-e386-4579-b8f0-051aed6e5ab8.png)
+![](bilder/Powerpoint_Screenshots/Aktivierung_Referenzansicht.png)
 
-[4. Abbildung](https://support.microsoft.com/de-de/office/hinzuf%C3%BCgen-von-sprechernotizen-zu-folien-26985155-35f5-45ba-812b-e1bd3c48928e#:~:text=Klicken%20Sie%20im%20Men%C3%BC%20Ansicht,Sie%20den%20gew%C3%BCnschten%20Notizentext%20ein)
 
----
 
 **2.3 Lösung als Videoansicht**
 
@@ -368,11 +365,10 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 
 ### Erstellen von Animationen
 
----
+??[](bilder/Powerpoint_Screenshots/Animation.gif)
 
-![](https://embed-ssl.wistia.com/deliveries/495e6ff8a0d973e9c08066e811bbeb25.jpg)
-
-[5. Abbildung](https://embed-ssl.wistia.com/deliveries/495e6ff8a0d973e9c08066e811bbeb25.jpg)
+["Shape Metamorphosis Animation" by
+TheftO on DeviantArt, licensed under CC BY 4.0 Deed | Attribution 4.0 International](bilder/Powerpoint_Screenshots/Animation.gif)
 
 #### Animation von Bildern und Textfeldern
 
@@ -387,9 +383,8 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 <!-- class = "callout tip" -->
 > Benutzt die Reihenfolge von Animationen, um bestimmte Texte oder Bilder beim Präsentieren Stück für Stück einfliegen zu lassen
 
-![](https://cdn1.participoll.com/wp-content/uploads/2021/01/03123303/Leanne-screenshot-5.jpg)
+![](bilder/Powerpoint_Screenshots/Animation_einfügen.png)
 
-[6. Abbildung](https://cdn1.participoll.com/wp-content/uploads/2021/01/03123303/Leanne-screenshot-5.jpg)
 
 #### Animation/Übergänge zwischen Folien
 
@@ -404,12 +399,11 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 <!-- class = "callout tip" -->
 > Versuche nicht zu viele verschiedene Übergänge zu benutzen sondern sich auf 2/3 festzulegen.
 
- ![](https://www.wirliebenoffice.de/images/content/tutorials/powerpoint/008-folienubergang-einfugen.png)
+ ![](bilder/Powerpoint_Screenshots/Übergänge_Auswählen.png)
 
- [7. Abbildung](https://www.wirliebenoffice.de/images/content/tutorials/powerpoint/008-folienubergang-einfugen.png)
 
-### Quellen
----
+### Inhaltsverzeichnis
+
 **1.Quelle** 
 
 - https://support.microsoft.com/de-de/office/hinzufügen-von-sprechernotizen-zu-folien-26985155-35f5-45ba-812b-e1bd3c48928e#:~:text=Klicken%20Sie%20im%20Menü%20Ansicht,Sie%20den%20gewünschten%20Notizentext%20ein
