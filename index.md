@@ -288,6 +288,8 @@ Das Präsentationsprogramm von Microsoft:
 
 - Notiz-Symbol anklicken; **Notizen**
 
+- Im Textfeld; beliebige Notizen für die Präsentation eintragen
+
 
 #### Referenzansicht
 
@@ -365,10 +367,10 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 
 ### Erstellen von Animationen
 
-??[](bilder/Powerpoint_Screenshots/Animation.gif)
+<center>![](https://t.ly/1I2Gf)</center>
 
-["Shape Metamorphosis Animation" by
-TheftO on DeviantArt, licensed under CC BY 4.0 Deed | Attribution 4.0 International](bilder/Powerpoint_Screenshots/Animation.gif)
+["Shape Metamorphosis Animation" by TheftO on DeviantArt, licensed under CC BY 4.0 Deed | Attribution 4.0 International](https://www.deviantart.com/thefto/art/Shape-Metamorphosis-Animation-779409482)
+
 
 #### Animation von Bildern und Textfeldern
 
@@ -383,7 +385,7 @@ TheftO on DeviantArt, licensed under CC BY 4.0 Deed | Attribution 4.0 Internatio
 <!-- class = "callout tip" -->
 > Benutzt die Reihenfolge von Animationen, um bestimmte Texte oder Bilder beim Präsentieren Stück für Stück einfliegen zu lassen
 
-![](bilder/Powerpoint_Screenshots/Animation_einfügen.png)
+![](bilder/Powerpoint_Screenshots/Animation.png)
 
 
 #### Animation/Übergänge zwischen Folien
@@ -399,7 +401,7 @@ TheftO on DeviantArt, licensed under CC BY 4.0 Deed | Attribution 4.0 Internatio
 <!-- class = "callout tip" -->
 > Versuche nicht zu viele verschiedene Übergänge zu benutzen sondern sich auf 2/3 festzulegen.
 
- ![](bilder/Powerpoint_Screenshots/Übergänge_Auswählen.png)
+ ![](bilder/Powerpoint_Screenshots/Übergänge.png)
 
 
 ### Inhaltsverzeichnis
