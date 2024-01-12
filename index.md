@@ -401,7 +401,7 @@ Unter Bildschirmpräsentation kann die **Referenzansicht aktiviert** werden
 <!-- class = "callout tip" -->
 > Versuche nicht zu viele verschiedene Übergänge zu benutzen sondern sich auf 2/3 festzulegen.
 
- ![](bilder/Powerpoint_Screenshots/Übergänge.png)
+ ![](bilder/Powerpoint_Screenshots/Uebergaenge.png)
 
 
 ### Inhaltsverzeichnis
