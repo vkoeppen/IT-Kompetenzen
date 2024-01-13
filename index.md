@@ -10,7 +10,12 @@ import:   https://github.com/liascript/CodeRunner
 link: css/callouts.css
 -->
 
-# Lernwerkstatt IT-Kompetenzen<br><small>Ein Selbstlernkurs von Studierenden für Studierende der Informationswissenschaften</small>
+# Lernwerkstatt IT-Kompetenzen
+
+<!-- style="font-size:1.5em; margin-block-end: 1em;" -->
+Ein Selbstlernkurs von Studierenden für Studierende der Informationswissenschaften
+
+![](bilder/fhp.jpg "[Original Foto](https://commons.wikimedia.org/wiki/File:FH_Potsdam_Hauptgeb%C3%A4ude.JPG) von FHPBibliothek, lizensiert unter [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Via Wikimedia Commons.")
 
 ## Gliederung
 
