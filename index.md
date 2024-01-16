@@ -1,13 +1,14 @@
 <!--
 
-author:   
-email:
+author: FH-Potsdam, FB5, P01a/Ws23
+version: 1.0.0
 language: de
 narrator: Deutsch Female
 
 import:   https://github.com/liascript/CodeRunner
 
 link: css/callouts.css
+
 -->
 
 # Lernwerkstatt IT-Kompetenzen
