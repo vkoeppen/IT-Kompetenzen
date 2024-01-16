@@ -18,6 +18,8 @@ Ein Selbstlernkurs von Studierenden für Studierende der Informationswissenschaf
 
 ![](bilder/fhp.jpg "[Original Foto](https://commons.wikimedia.org/wiki/File:FH_Potsdam_Hauptgeb%C3%A4ude.JPG) von FHPBibliothek, lizensiert unter [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0). Via Wikimedia Commons.")
 
+> Hier findest du [dieses Projekt auf GitHub](https://github.com/vkoeppen/IT-Kompetenzen).
+
 ## Gliederung
 
 1. Word
